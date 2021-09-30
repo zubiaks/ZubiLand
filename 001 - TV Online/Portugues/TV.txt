@@ -8,7 +8,7 @@
 </item>
 
 <item>
-<title>[B]SIC[/B]</title>
+<title>[B]a[/B]</title>
 <link>FILME$nome= Link 1</link>
 <link>LINK$nome= Link 2</link>
 <thumbnail>https</thumbnail>
