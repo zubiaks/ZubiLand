@@ -3,7 +3,7 @@
 <channel>
 <name>[B][COLOR white]TV[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/VtsbvpR/TVOnline.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Menu%20TV%20Online.txt?token=AFMTT25DURCBL6ZCEC7ZN5DBKTPXO</externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Menu%20TV%20Online.txt</externallink>
 <fanart>https://i.ibb.co/PwqcMCM/TVOnline-fan.jpg</fanart>
 <info>TV Online</info>
 </channel>
@@ -11,7 +11,7 @@
 <channel>
 <name>[B][COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/68VNQZd/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/002%20-%20Filmes/Menu%20filmes.txt?token=AFMTT257M5RMQ7M5HUCFIRTBKTRJG</externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/002%20-%20Filmes/Menu%20filmes.txt</externallink>
 <fanart>https://i.ibb.co/tZrvdN7/filmes-fan.jpg</fanart>
 <info>Filmes legendados e Dublados</info>
 </channel>
@@ -19,7 +19,7 @@
 <channel>
 <name>[B][COLOR white]SERIES[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/WpdDG83/TV-Series.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/003%20-%20Series/Menu%20Series.txt?token=AFMTT26NUYGHW35M34BNUK3BKTSZ2</externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/003%20-%20Series/Menu%20Series.txt</externallink>
 <fanart>https://i.ibb.co/b21zsvC/series.jpg</fanart>
 <info>Series legendadas e Dublados</info>
 </channel>
@@ -27,7 +27,7 @@
 <channel>
 <name>[B][COLOR white]WebCams[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/TMXSHZ7/018-Web-Cams.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/004%20-%20WebCams/Menu%20webcams.txt?token=AFMTT27HFE4DDU7RW2VZOPTBKTT4Y</externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/004%20-%20WebCams/Menu%20webcams.txt</externallink>
 <fanart>https://i.ibb.co/7XshJsx/webcams-back.jpg</fanart>
 <info>WebCams e Radios</info>
 </channel>
@@ -35,7 +35,7 @@
 <channel>
 <name>[B][COLOR white]Radio[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Fgx0M4V/025-RADIOS-PORTUGUESAS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/005%20-%20Radio/Menu%20radio.txt?token=AFMTT25BQ4YSIEV7WSHUUITBKTT6W</externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/005%20-%20Radio/Menu%20radio.txt</externallink>
 <fanart>https://i.ibb.co/7SgqJx5/radio.jpg</fanart>
 <info>Nacionais e Internacionais</info>
 </channel>
@@ -43,7 +43,7 @@
 <channel>
 <name>[B][COLOR white]Adulto[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/tLXyXK7/Adultos.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/006%20-%20Adulto/Menu%20Adulto.txt?token=AFMTT27R4K4A5DREDNY7SW3BKTUA6</externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/006%20-%20Adulto/Menu%20Adulto.txt</externallink>
 <fanart>https://i.ibb.co/2SWstFf/xxx.jpg</fanart>
 <info>TV e VOD</info>
 </channel>
