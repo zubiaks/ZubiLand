@@ -1,8 +1,17 @@
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<title>[B]SIC[/B]</title>
+<link>http://live.impresa.pt/live/sic/sic540p.m3u8$nome= Link 1</link>
+<link>http://live.impresa.pt/live/sic/sic.m3u8$nome= Link 2</link>
+<thumbnail>https://i.ibb.co/q5wSqZp/SIC.png</thumbnail>
+<fanart>https://i.ibb.co/PrKBKP3/sic-b.jpg</fanart>
+<info>A Sociedade Independente de Comunicação é um canal de televisão privado em Portugal. A SIC, cujas transmissões tiveram início a 6 outubro de 1992, foi o primeiro canal de televisão privado a operar em Portugal, tornando-se um contributo para a pluralidade e independência da informação.</info>
+
+<title>[B]SIC[/B]</title>
+<link>FILME$nome= Link 1</link>
+<link>LINK$nome= Link 2</link>
+<thumbnail>https</thumbnail>
+<fanart>https</fanart>
+<info></info>
+
 </item>
 

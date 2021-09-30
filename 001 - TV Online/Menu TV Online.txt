@@ -1,10 +1,10 @@
 <channels>
 
 <channel>
-<name>[B][COLOR white]TV[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/VtsbvpR/TVOnline.png</thumbnail>
-<externallink>LINKS</externallink>
-<fanart>https://i.ibb.co/PwqcMCM/TVOnline-fan.jpg</fanart>
+<name>[B][COLOR white]Portugues[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/F8QjcRd/Portuguese-Flag.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Portugues/TV.txt?token=AFMTT2YZFMTDPPWM5CNVAM3BKTXIQ</externallink>
+<fanart>https://i.ibb.co/QrnMVWM/portugues.jpg</fanart>
 <info>TV Online</info>
 </channel>
 
