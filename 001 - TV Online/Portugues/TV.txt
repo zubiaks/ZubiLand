@@ -5,13 +5,14 @@
 <thumbnail>https://i.ibb.co/q5wSqZp/SIC.png</thumbnail>
 <fanart>https://i.ibb.co/PrKBKP3/sic-b.jpg</fanart>
 <info>A Sociedade Independente de Comunicação é um canal de televisão privado em Portugal. A SIC, cujas transmissões tiveram início a 6 outubro de 1992, foi o primeiro canal de televisão privado a operar em Portugal, tornando-se um contributo para a pluralidade e independência da informação.</info>
+</item>
 
+<item>
 <title>[B]SIC[/B]</title>
 <link>FILME$nome= Link 1</link>
 <link>LINK$nome= Link 2</link>
 <thumbnail>https</thumbnail>
 <fanart>https</fanart>
 <info></info>
-
 </item>
 
