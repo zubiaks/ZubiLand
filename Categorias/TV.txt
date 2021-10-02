@@ -193,205 +193,133 @@ O objetivo? Divulgar ARROIOS.</info>
 <info>A TV Andradas é um dos principais veículos de comunicação do município, noticiando todos os fatos de interesse público, fazendo campanhas educativas e incentivando a cultura local. Aqui nosso público pode comentar, enviar sugestões, críticas e elogios. No entanto, é necessário se ter algumas regras, tais como: não aceitaremos spam, correntes ou conteúdos inadequados. Nos reservamos também o direito de remover qualquer postagem ou outro material inapropriado. Seja bem vindo! EMISSORA filiada a TV CULTURA.</info>
 </item>
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
+<title>[B]TV Universitária - Canal 7 - Tupã, SP[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<thumbnail>https://i.ibb.co/TcdYTVr/TV-Universit-ria-Canal-7-Tupa-SP.jpg</thumbnail>
+<fanart>https://i.ibb.co/QQxY8Jr/TV-Universit-ria-Canal-7-Tupa-SP-b.png</fanart>
+<info>TV via internet geradora de conteúdos de Jornalismo, Esportes, Cultura, Entretenimento e Transmissões ao Vivo em Crato - CE</info>
 </item>
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<title>[B]REDE TV[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/C8DGvvK/REDE-TV.jpg</thumbnail>
+<fanart>https://i.ibb.co/Tw5CkvN/REDE-TV-b.jpg</fanart>
+<info>RedeTV! é uma rede de televisão comercial brasileira com sede em Osasco, município da Região Metropolitana de São Paulo, pertencente ao Grupo Amilcare Dallevo e ao Grupo Marcelo de Carvalho.</info>
 </item>
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
+<title>[B]CARIRI TV[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<thumbnail>https://i.ibb.co/t48kg5Y/CARIRI-TV.png</thumbnail>
+<fanart>https://i.ibb.co/Xss0wRf/CARIRI-TV-b.png</fanart>
+<info>Somos a TV CARIRI, sediada na cidade de Mauriti no Estado do Ceará e em Brejo Santo-CE, estamos na BRISANET no canal 178 com programação 24h por dia.</info>
 </item>
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
+<title>[B]Aperipe TV[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<thumbnail>https://i.ibb.co/fYrWJXF/Aperipe-TV.gif</thumbnail>
+<fanart>https://i.ibb.co/q0qsMyh/Aperipe-TV-b.jpg</fanart>
+<info>TV Aperipê uma emissora de televisão brasileira sediada em Aracaju, capital do estado de Sergipe. Opera no canal 6 e é afiliada à TV Cultura. Pertence a Fundação Aperipê de Sergipe, instituição de caráter público integrante do governo estadual.</info>
 </item>
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
+<title>[B]TV Paraná Turismo[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<thumbnail>https://i.ibb.co/6gFzg5N/TV-Paran-Turismo.jpg</thumbnail>
+<fanart>https://i.ibb.co/kJW6Hp5/TV-Paran-Turismo-b.jpg</fanart>
+<info>E-Paraná (Também conhecida como TVE Paraná e anteriormente Paraná Educativa), é um canal de televisão público com sede em Curitiba, no Paraná. Foi inaugurada em 1988.</info>
 </item>
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
+<title>[B]G2P TV[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<thumbnail>https://i.ibb.co/s1sZ2jS/G2P-TV.png</thumbnail>
+<fanart>https://i.ibb.co/j5vq9Pk/G2P-TV-b.jpg</fanart>
+<info>Fundada em 05 de julho de 2012, adquirimos experiência e conhecimento técnico para atender aos mais diversos segmentos de programação ao vivo para a televisão brasileira. Atualmente estamos focados na produção e exibição de programas ao vivo no formato de “Calltv (interatividade/concurso cultural).</info>
 </item>
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
+<title>[B]PUC TV Goias[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<thumbnail>https://i.ibb.co/SNfFkzB/PUC-TV-Goias.jpg</thumbnail>
+<fanart>https://i.ibb.co/cTD8Vx2/PUC-TV-Goias-b.png</fanart>
+<info>A PUC TV Goiás é uma emissora de televisão na cidade de Goiânia-Goiás. Opera nos canais 24.1 em HDTV, 24 em UHF e no 22 da Net.</info>
 </item>
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<title>[B]TV CULTURA[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/zQTsjbb/TV-CULTURA-Brasil.png</thumbnail>
+<fanart>https://i.ibb.co/jWNq9Bf/TV-CULTURA-b.jpg</fanart>
+<info>TV Cultura é uma rede de televisão pública brasileira sediada em São Paulo, capital do estado homônimo.</info>
 </item>
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
+<title>[B]TVU - TV Universitária - Recife-PE[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<thumbnail>https://i.ibb.co/f9n5N7F/TVU-TV-Universit-ria-Recife-PE-Brasil.jpg</thumbnail>
+<fanart>https://i.ibb.co/xXN6Wd5/TVU-TV-Universit-ria-Recife-PE-b.png</fanart>
+<info>TV Universitária é uma emissora de televisão brasileira sediada no Recife, capital do estado de Pernambuco. Opera no canal 11 (40 UHF digital) e é afiliada à TV Brasil. Pertence ao Núcleo de Rádio e TV Universitárias da Universidade Federal de Pernambuco, do qual também fazem parte as rádios Paulo Freire e Universitária FM. Foi inaugurada em 1968, sendo a primeira emissora de TV educativa criada no país.</info>
 </item>
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
+<title>[B]Rede Atividade[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<thumbnail>https://i.ibb.co/WWHKVsM/Rede-Atividade.jpg</thumbnail>
+<fanart>https://i.ibb.co/rb7npmk/Rede-Atividade-b.jpg</fanart>
+<info>INFO</info>
 </item>
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
+<title>[B]Rede Minas[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<thumbnail>https://i.ibb.co/CMXY5jP/Rede-Minas.png</thumbnail>
+<fanart>https://i.ibb.co/WHLNWZf/Rede-Minas-b.jpg</fanart>
+<info>Rede Minas é uma rede de televisão pública aberta brasileira sediada em Belo Horizonte, capital do estado de Minas Gerais. Pertence à Empresa Mineira de Comunicação, órgão do governo estadual, também mantenedora da Rádio Inconfidência.</info>
 </item>
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
+<title>[B]TV Cidade Verde[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<thumbnail>https://i.ibb.co/f9jXVzs/TV-Cidade-Verde.png</thumbnail>
+<fanart>https://i.ibb.co/KFxp4K6/TV-Cidade-Verde-b.jpg</fanart>
+<info>A TV Cidade Verde é uma emissora de televisão brasileira sediada em Teresina, capital do Piauí. Opera no canal 5 e é afiliada ao SBT. A emissora faz parte do Grupo Cidade Verde que integra, ainda, o portal Cidadeverde.com, as rádios Cidade Verde e CV Mais FM e o aplicativo CV Play.</info>
 </item>
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
+<title>[B]TV Diario do Sertao[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<thumbnail>https://i.ibb.co/Bt4JCHf/TV-Diario-do-Sertao.jpg</thumbnail>
+<fanart>https://i.ibb.co/njw2yvW/TV-Diario-do-Sertao-b.jpg</fanart>
+<info>TV Diário é uma emissora de televisão brasileira sediada em Fortaleza, capital do estado do Ceará. Opera no canal 22 (23 UHF digital) e pertence ao Sistema Verdes Mares, um dos maiores conglomerados de mídia do país, do qual também fazem parte a TV Verdes Mares, as rádios FM 93 e Verdes Mares, e o jornal Diário do Nordeste. É conhecida pela composição de sua programação, com produção inteiramente local, voltada ao público nordestino.</info>
 </item>
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
+<title>[B]SBT[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<thumbnail>https://i.ibb.co/DGVWNsy/SBT.png</thumbnail>
+<fanart>https://i.ibb.co/FnfL6qx/SBT-b.jpg</fanart>
+<info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.</info>
+</item>
+
+
+Vendas
+
+<item>
+<title>[B]Canal do Boi[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/yWjNFNs/Canal-do-Boi.jpg</thumbnail>
+<fanart>https://i.ibb.co/vkLpjwD/Canal-do-Boi-b.jpg</fanart>
+<info>Canal do Boi é uma emissora de televisão brasileira cuja grande parte de sua programação é destinada a leilões de animais, como bois, cabras e cavalos e também destina a programação para assuntos do agronegócio. Faz parte da rede Sistema Brasileiro do Agronegócio, junto ao Agro Canal.</info>
+</item>
+
+
+Religioso
+
+<item>
+<title>[B]Way TV[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/t4qyVvV/way-TV.png</thumbnail>
+<fanart></fanart>
+<info>A Way TV é um Canal de Televisão produzido pela Supernatural Media Netework.</info>
 </item>
 <item>
-<title>[B]NOME DO CANAL[/B]</title>
+<title>[B]novo tempo[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<thumbnail>https://i.ibb.co/dMFsSkF/novo-tempo.png</thumbnail>
 <fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<info>Bem-vindo à Novo Tempo Portugal, um canal que transmite esperança! Juntos vamos descobrir os tesouros fantásticos da Palavra de Deus, vamos refletir no Seu amor e vamos adorar o nosso Criador. Obrigado por visitar o nosso canal, subscreva-o e faça parte desta comunidade!</info>
 </item>
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
+
+
+
+
