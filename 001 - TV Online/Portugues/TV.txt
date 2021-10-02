@@ -2,17 +2,186 @@
 <title>[B]SIC[/B]</title>
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8$nome= Link 1</link>
 <link>http://live.impresa.pt/live/sic/sic.m3u8$nome= Link 2</link>
-<thumbnail>https://i.ibb.co/q5wSqZp/SIC.png</thumbnail>
+<thumbnail>https://i.ibb.co/NCWLKSd/sic.png</thumbnail>
 <fanart>https://i.ibb.co/PrKBKP3/sic-b.jpg</fanart>
 <info>A Sociedade Independente de Comunicação é um canal de televisão privado em Portugal. A SIC, cujas transmissões tiveram início a 6 outubro de 1992, foi o primeiro canal de televisão privado a operar em Portugal, tornando-se um contributo para a pluralidade e independência da informação.</info>
-</item>
 
-<item>
-<title>[B]a[/B]</title>
-<link>FILME$nome= Link 1</link>
-<link>LINK$nome= Link 2</link>
-<thumbnail>https</thumbnail>
-<fanart>https</fanart>
-<info></info>
+<title>[B]PORTO Canal[/B]</title>
+<link>https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1350687174.m3u8$nome= Link 1</link>
+<link>http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8$nome= Link 2</link>
+<thumbnail>https://i.ibb.co/BNmvZqj/PORTO-Canal.png</thumbnail>
+<fanart>https://i.ibb.co/nc34KfF/porto-canal-b.jpg</fanart>
+<info>Porto Canal é um canal de televisão português dedicado a todo o território nacional, com uma diversificada em diversas áreas: informação, deporto e entretenimento.</info>
+
+<title>[B]TV MOÇAMBIQUE[/B]</title>
+<link>http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w1330919236_b714000_slpor.m3u8</link>
+<thumbnail>https://i.ibb.co/WzvxKph/TV-MO-AMBIQUE.jpg</thumbnail>
+<fanart>https://i.ibb.co/1Xntn5v/TV-MO-AMBIQUE-b.jpg</fanart>
+<info>Televisão de Moçambique, mais conhecida como TVM é uma rede de televisão pública do país de mesmo nome. A Emissora pertence ao Governo de Moçambique com sede na cidade de Maputo e tem delegações em todas província do país, nas respectivas capitais provinciais. A emissora exibe uma programação de 24 horas por dia com exibição de notícias, programas infantis, programas de entretenimento e culturais, telenovelas e séries.</info>
+
+<title>[B]TV MOCAMBIQUE INTERNACIONAL (PT)[/B]</title>
+<link>http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w768465874_b714000_slpor.m3u8</link>
+<thumbnail>https://i.ibb.co/mRVNr7j/TV-MOCAMBIQUE-INTERNACIONAL-PT.png</thumbnail>
+<fanart>https://i.ibb.co/mvxJYDb/TV-MOCAMBIQUE-INTERNACIONAL-PT-b.png</fanart>
+<info>O TVM Internacional integra a oferta da TVM, rede de televisão pública de Moçambique, que agora chega pela primeira vez a um país da Europa, em exclusivo pela NOS. O canal aposta na transmissão dos melhores conteúdos de informação e entretenimento da TVM, privilegiando conteúdos diversificados, de qualidade e fortemente veiculados aos valores da moçambicanidade. Dentro da programação podem destacar-se alguns conteúdos como Moçambique no Coração, Jornal em Línguas Moçambicanas, Alta Tensão ou, ainda, o programa Geração Consciente.</info>
+
+<title>[B]TDM - Teledifusão de Macau[/B]</title>
+<link>https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/xD2XvMW/TDM-Teledifus-o-de-Macau.png</thumbnail>
+<fanart>https://i.ibb.co/2t1HfJR/TDM-Teledifus-o-de-Macau-b.jpg</fanart>
+<info>A Teledifusão de Macau S.A.R.L. (TDM) (em chinês tradicional: 澳門廣播電視股份有限公司) é a empresa local responsável pela prestação do serviço público de radiodifusão sonora e televisiva em sinal aberto na Região Administrativa Especial de Macau.</info>
+
+<title>[B]ARTV[/B]</title>
+<link>https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/MPfq55B/ARTV.png</thumbnail>
+<fanart>https://i.ibb.co/yNDqCPy/ARTV-b.jpg</fanart>
+<info>ARTV, ou Canal Parlamento, é um canal público de televisão, pertence ao Estado português e transmite as reuniões plenárias da Assembleia da República. Apesar de ser um serviço público de televisão, não faz parte do operador estatal RTP.</info>
+
+<title>[B]Record TV[/B]</title>
+<link>https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8$nome= RecordTV (Manaus)</link>
+<thumbnail>https://i.ibb.co/P4s1dFs/TV-Record.png</thumbnail>
+<fanart>https://i.ibb.co/R0QdKmn/Record-TV-b.png</fanart>
+<info>Record TV é uma rede de televisão comercial aberta brasileira. Atualmente é a segunda maior emissora de TV comercial do Brasil, e a 28.ª maior no ranking mundial de 2012. Em 2010, foi eleita pelo mercado publicitário como a quinta maior emissora do mundo em faturamento e a oitava maior rede em estrutura física.</info>
+
+<title>[B]TV CAMARA 1[/B]</title>
+<link>https://stream3.camara.gov.br/tv1/manifest.m3u8</link>
+<thumbnail>https://i.ibb.co/tsvz8hp/TV-CAMARA-1.png</thumbnail>
+<fanart>https://i.ibb.co/dtRTxYS/TV-CAMARA-1-b.png</fanart>
+<info>A TV Câmara transmite as discussões e votações do Plenário e das comissões da Câmara dos Deputados, realiza entrevistas e debates, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade.</info>
+
+<title>[B]TV CAMARA 2[/B]</title>
+<link>https://stream3.camara.gov.br/tv2/manifest.m3u8</link>
+<thumbnail>https://i.ibb.co/djBhYTT/CAMARA-2-Brasil.png</thumbnail>
+<fanart>https://i.ibb.co/dtRTxYS/TV-CAMARA-1-b.png</fanart>
+<info>A TV Câmara transmite as discussões e votações do Plenário e das comissões da Câmara dos Deputados, realiza entrevistas e debates, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade.</info>
+
+<title>[B]REDE BRASIL[/B]</title>
+<link>https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8$nome= Rede Brasil</link>
+<link>http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8$nome= Rede Brasil (SP)</link>
+<thumbnail>https://i.ibb.co/db14BtY/REDE-BRASIL.png</thumbnail>
+<fanart>https://i.ibb.co/yNG8X18/REDE-BRASIL-b.jpg</fanart>
+<info>Rede Brasil de Televisão é uma rede de televisão aberta brasileira. Foi inaugurada em 7 de abril de 2007, e é presidida pelo advogado tributarista Marcos Tolentino. A rede é oriunda de Campo Grande, capital do estado do Mato Grosso do Sul, e está sediada em São Paulo, capital do estado homônimo.</info>
+
+<title>[B]TV Brasil[/B]</title>
+<link>http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8$nome= TV Brasil</link>
+<link>http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8$nome= TV Brasil (2)</link>
+<link>http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8$nome= TV BRASIL HD (GO)</link>
+<thumbnail>https://i.ibb.co/mXFZhpT/TV-Brasil-Brasil.jpg</thumbnail>
+<fanart>https://i.ibb.co/pZr6PdY/TV-Brasil-b.jpg</fanart>
+<info>TV Brasil é a rede de televisão pública do Poder Executivo Brasileiro. Pertence à Empresa Brasil de Comunicação, conglomerado de mídia do governo do país.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+
 </item>
 

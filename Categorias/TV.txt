@@ -6,3 +6,337 @@
 <info>INFO DOS CANAIS.</info>
 </item>
 
+Portugues
+
+<title>[B]RTP 1[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/1XJJZjD/RTP-1.png</thumbnail>
+<fanart>https://i.ibb.co/wJsJT7w/rpt-1-b.png</fanart>
+<info>A RTP1 é o principal canal de televisão da RTP – Rádio e Televisão de Portugal e o primeiro canal português de rádio e televisão. É um canal generalista com componente comercial e que privilegia a ficção nacional, a informação, o desporto e o entretenimento.</info>
+
+<title>[B]RTP 2[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/wg1qktX/RTP-2.png</thumbnail>
+<fanart>https://i.ibb.co/k1RcgKD/rtp-2-b.jpg</fanart>
+<info>RTP2 é o segundo canal de televisão da RTP – Rádio e Televisão de Portugal, a empresa pública de rádio e televisão. As suas emissões iniciaram-se a 25 de dezembro de 1968. Em 1992, passou a chamar-se TV2.</info>
+
+<title>[B]TVI[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/DKhcmYg/TVI.png</thumbnail>
+<fanart>https://i.ibb.co/S5G1MrB/tvi-b.jpg</fanart>
+<info>A TVI é um canal de televisão português. As emissões regulares do canal iniciaram-se a 20 de fevereiro de 1993, como o segundo canal privado e o quarto generalista, que nessa altura tinha o nome de "4", por ser a quarta rede nacional de televisão.</info>
+
+<title>[B]RTP Memoria[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/9rppBhs/RTP-Memoria.png</thumbnail>
+<fanart>https://i.ibb.co/K2PhXSX/rtp-memoria-b.jpg</fanart>
+<info>RTP Memória é o segundo canal temático da RTP – Rádio e Televisão de Portugal desenvolvido para o cabo. Trata-se de um canal generalista que retransmite os programas disponíveis do vasto arquivo de seis décadas da RTP, muitos deles verdadeiros marcos históricos da televisão feita em Portugal.</info>
+
+<title>[B]RTP Madeira[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/G2dXL8r/RTP-Madeira.png</thumbnail>
+<fanart>https://i.ibb.co/c8pXnpM/rtp-madeira-b.png</fanart>
+<info>A RTP Madeira é um canal de televisão de características regionais pertencente ao Grupo RTP - Rádio e Televisão de Portugal e assumindo a responsabilidade e a missão pela prestação do serviço público da televisão na Região Autónoma da Madeira.</info>
+
+<title>[B]RTP Acores[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/YyGCsQt/RTP-Acores.png</thumbnail>
+<fanart>https://i.ibb.co/3kmMBsm/rtp-acores-b.jpg</fanart>
+<info>A RTP Açores é um canal de televisão de características regionais pertencente ao Grupo RTP - Rádio e Televisão de Portugal e assumindo a responsabilidade e a missão pela prestação do serviço público da televisão na Região Autónoma dos Açores.</info>
+
+<title>[B]RTP Africa[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/VLtKp3V/RTP-Africa.png</thumbnail>
+<fanart>https://i.ibb.co/02Lzckb/rpt-africa-b.jpg</fanart>
+<info>A RTP África é um canal televisivo generalista coproduzido pela RTP. Destina-se aos habitantes dos países africanos de língua oficial portuguesa, às pessoas originárias desses países residentes em Portugal e aos descendentes destas últimas.</info>
+
+<title>[B]RTP Internacional[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/nLRFpdq/RTP-Internacional.png</thumbnail>
+<fanart>https://i.ibb.co/2ZNd8Qv/rtp-internacional-b.jpg</fanart>
+<info>A RTP Internacional é um canal de televisão português. Foi o primeiro canal televisivo global em língua portuguesa. Em 1992, no dia 10 de junho – Dia de Portugal –, iniciaram-se as transmissões da RTP Internacional via satélite para um território linguístico de mais de 200 milhões de habitantes.</info>
+
+<title>[B]SIC Internacional[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/4sBGYK3/SIC-Internacional.png</thumbnail>
+<fanart>https://i.ibb.co/fxfkvyt/sic-internacional-b.jpg</fanart>
+<info>SIC Internacional é um canal dedicado aos portugueses espalhados pelo mundo e aos países de língua oficial portuguesa. A SIC Internacional iniciou as suas emissões no dia 17 de Setembro de 1997, com o objetivo de chegar a todos os portugueses e países de língua oficial portuguesa no mundo.</info>
+
+<title>[B]TVI Africa[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/02Lzckb/rpt-africa-b.jpg</thumbnail>
+<fanart>https://i.ibb.co/ZKTpV9t/tvi-africa-b.png</fanart>
+<info>A TVI África é o segundo canal de televisão português totalmente dedicado aos países africanos. As suas transmissões iniciaram a 3 de Outubro de 2015, no mesmo dia em que a estação de televisão anuncia também o canal TVI Reality.</info>
+
+<title>[B]TVI Internacional[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/Qr4wHZ3/TVI-Internacional.png</thumbnail>
+<fanart>https://i.ibb.co/S5G1MrB/tvi-b.jpg</fanart>
+<info>Televisão Independente Internacional é a terceira estação de televisão internacional portuguesa. Este é o terceiro canal pertencente à TVI. O canal é dirigido às comunidades portuguesas espalhadas pelo estrangeiro</info>
+
+<title>[B]TPA Internacional (Angola)[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/mNjgrkT/TPA-Internacional.png</thumbnail>
+<fanart>https://i.ibb.co/8KKnpyZ/TPA-Internacional-Angola-b.png</fanart>
+<info>TPA Internacional é um canal de televisão por assinatura pertencente à Televisão Pública de Angola, disponível em Portugal.</info>
+
+<title>[B]TV Cabo Verde (Cabo Verde)[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/ZMySGrg/TV-Cabo-Verde.jpg</thumbnail>
+<fanart>https://i.ibb.co/6yB8Hsm/TV-Cabo-Verde-Cabo-Verde-b.jpg</fanart>
+<info>O TCV Internacional oferece-lhe a melhor programação de Cabo Verde numa emissão de 24 horas por dia que lhe dá o melhor do desporto, música, notícias, telenovelas, programas juvenis e de entretenimento.</info>
+
+<title>[B]Localvisão TV[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/pR6ZhgM/Localvis-o-TV.jpg</thumbnail>
+<fanart>https://i.ibb.co/RYyHwBt/Localvis-o-TV-b.jpg</fanart>
+<info>A programação da LOCAL VISÃO TV distribui-se de forma equitativa pelas várias regiões de Portugal: Desde notícias até programas de gastronomia local alentejana ou transmontana, eventos culturais no Minho ou as melhores praias do Algarve, tudo está incluído na ricamente produzida e concertada programação da LOCAL VISÃO TV.</info>
+
+<title>[B]Agueda TV[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/7p2qJW4/Agueda-TV.png</thumbnail>
+<fanart>https://i.ibb.co/RN5NrJd/Agueda-TV-b.jpg</fanart>
+<info>Apostando nas Novas Tecnologias da Informação, a Câmara Municipal de Águeda coloca-se na vanguarda dos municípios digitais, oferecendo à população e a todos os internautas um canal de televisão, pela Internet.</info>
+
+<title>[B]ARROIOS TV[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/4fy0Kzs/ARROIOS-TV.jpg</thumbnail>
+<fanart>https://i.ibb.co/jMjP29b/ARROIOS-TV-b.png</fanart>
+<info>Sejam bem-vindos ao Canal da Junta de Freguesia de Arroios!
+Aqui poderão encontrar um conjunto de trabalhos audiovisuais elaborados durante todo o mandato da atual Presidente da Junta de Freguesia de Arroios, Margarida Martins.
+O objetivo? Divulgar ARROIOS.</info>
+
+<title>[B]ESEC TV[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/tHB5jVY/ESEC-TV.jpg</thumbnail>
+<fanart>https://i.ibb.co/n8fnYnS/ESEC-TV-b.jpg</fanart>
+<info>Criada em 2003, a esectv é uma estrutura de produção de vídeo e televisão da Escola Superior de Educação de Coimbra, com o contributo base de professores e alunos da licenciatura em Comunicação Social, contando também com a colaboração de alunos e docentes de outras licenciaturas.</info>
+
+<title>[B]TV Globo[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/txRXSvh/TV-Globo.jpg</thumbnail>
+<fanart>https://i.ibb.co/dPmKmrz/TV-Globo-b.jpg</fanart>
+<info>TV Globo é uma rede de televisão comercial aberta brasileira. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior.</info>
+
+<title>[B]AMAZON SAT[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/WVzsBTC/amazon-sat.png</thumbnail>
+<fanart>https://i.ibb.co/ww4QkPc/AMAZON-SAT-b.jpg</fanart>
+<info>Amazon Sat é uma rede de televisão brasileira concessionada em Porto Velho, capital do estado de Rondônia, porém sediada em Manaus, capital do estado do Amazonas. Pertence à Rádio e TV do Amazonas Ltda, que também mantém as rádios CBN Amazônia e Echos, além do Portal Amazônia.</info>
+
+<title>[B]MULTITV[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/sqLrrzY/MULTI-TV-Brasil.png</thumbnail>
+<fanart>FUNDO</fanart>
+<info>A MultiTV Cidades é transmitida pelo Canal 20 da NET e tem abrangência universal, oferece ao público o melhor conteúdo regional de Londrina, com uma programação variada que aborda temas como moda, gastronomia, esportes, eventos e outros. É referência quando o assunto é divulgação de marcas.</info>
+
+<title>[B]TV GUARA[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/CsHy1sH/TV-GUARA-Brasil.png</thumbnail>
+<fanart>https://i.ibb.co/HVgHCBP/TV-GUARA-b.jpg</fanart>
+<info>TV Guará é uma emissora de televisão brasileira sediada em São Luís, capital do estado do Maranhão. Opera no canal 23, e é afiliada à TV Cultura. Pertence ao Sistema Guará de Radiodifusão, de propriedade do empresário Roberto Albuquerque, do qual também fazem parte o portal de internet e a web rádio homônimos.</info>
+
+<title>[B]CANAL FUTURA[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/tHrxTjk/canal-futura.png</thumbnail>
+<fanart>https://i.ibb.co/G95tYsJ/CANAL-FUTURA-b.jpg</fanart>
+<info>Futura é um canal de televisão brasileiro. Pertence à Fundação Roberto Marinho, instituição educativa privada do conglomerado de mídia Grupo Globo. Foi inaugurado pelo jornalista Roberto Marinho em 22 de setembro de 1997 na cidade do Rio de Janeiro, capital do estado homônimo.</info>
+
+<title>[B]TV DIARIO[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/hdVmsv1/TV-DIARIO-Brasil.png</thumbnail>
+<fanart>https://i.ibb.co/NSbw8Mc/TV-DIARIO-b.jpg</fanart>
+<info>TV Diário é uma emissora de televisão brasileira sediada em Fortaleza, capital do estado do Ceará. Opera no canal 22 e pertence ao Sistema Verdes Mares, um dos maiores conglomerados de mídia do país, do qual também fazem parte a TV Verdes Mares, as rádios FM 93 e Verdes Mares, e o jornal Diário do Nordeste.</info>
+
+<title>[B]TV ESCOLA[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/Nrkzrfk/TV-ESCOLA.jpg</thumbnail>
+<fanart>https://i.ibb.co/wzBRXwD/TV-ESCOLA-b.jpg</fanart>
+<info>TV Escola é um canal de televisão brasileiro fundado no dia 4 de março de 1996. Pertence a Associação de Comunicação Educativa Roquette Pinto, uma organização social. É transmitido em algumas localidades do Brasil pelas TVs abertas e em todo o país pelas antenas parabólicas digitais e TVs por assinatura.</info>
+
+<title>[B]Pocos Tv[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>https://i.ibb.co/W6D8SW8/Pocos-Tv-Brasil.png</thumbnail>
+<fanart>FANART</fanart>
+<info>TV Poços é uma emissora de televisão brasileira sediada em Poços de Caldas, cidade do estado de Minas Gerais. Opera no canal 22 analógico e no 21 UHF digital e é afiliada à TV Cultura.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
