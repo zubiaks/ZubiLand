@@ -182,6 +182,5 @@
 <fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
 <info>INFO DOS CANAIS.</info>
 
-
 </item>
 

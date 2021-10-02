@@ -9,7 +9,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
+<name>[B][COLOR white]1[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
 <externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
@@ -17,7 +17,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]SERIES[/COLOR][/B]</name>
+<name>[B][COLOR white]2[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
 <externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
