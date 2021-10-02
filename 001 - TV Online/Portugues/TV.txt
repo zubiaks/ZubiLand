@@ -5,7 +5,8 @@
 <thumbnail>https://i.ibb.co/NCWLKSd/sic.png</thumbnail>
 <fanart>https://i.ibb.co/PrKBKP3/sic-b.jpg</fanart>
 <info>A Sociedade Independente de Comunicação é um canal de televisão privado em Portugal. A SIC, cujas transmissões tiveram início a 6 outubro de 1992, foi o primeiro canal de televisão privado a operar em Portugal, tornando-se um contributo para a pluralidade e independência da informação.</info>
-
+</item>
+<item>
 <title>[B]PORTO Canal[/B]</title>
 <link>https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1350687174.m3u8</link>
 <link>http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8</link>
