@@ -37,8 +37,8 @@
 <fanart>https://i.ibb.co/yNDqCPy/ARTV-b.jpg</fanart>
 <info>ARTV, ou Canal Parlamento, é um canal público de televisão, pertence ao Estado português e transmite as reuniões plenárias da Assembleia da República. Apesar de ser um serviço público de televisão, não faz parte do operador estatal RTP.</info>
 
-<title>[B]Record TV[/B]</title>
-<link>https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8$nome= RecordTV (Manaus)</link>
+<title>[B]Record TV (Manaus)[/B]</title>
+<link>https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8</link>
 <thumbnail>https://i.ibb.co/P4s1dFs/TV-Record.png</thumbnail>
 <fanart>https://i.ibb.co/R0QdKmn/Record-TV-b.png</fanart>
 <info>Record TV é uma rede de televisão comercial aberta brasileira. Atualmente é a segunda maior emissora de TV comercial do Brasil, e a 28.ª maior no ranking mundial de 2012. Em 2010, foi eleita pelo mercado publicitário como a quinta maior emissora do mundo em faturamento e a oitava maior rede em estrutura física.</info>
@@ -70,6 +70,113 @@
 <fanart>https://i.ibb.co/pZr6PdY/TV-Brasil-b.jpg</fanart>
 <info>TV Brasil é a rede de televisão pública do Poder Executivo Brasileiro. Pertence à Empresa Brasil de Comunicação, conglomerado de mídia do governo do país.</info>
 
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
 
 </item>
 
