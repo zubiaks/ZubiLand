@@ -82,6 +82,29 @@
 <fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
 <info>INFO DOS CANAIS.</info>
 
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+
+<title>[B]NOME DO CANAL[/B]</title>
+<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
 
 <title>[B]NOME DO CANAL[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
@@ -107,7 +130,6 @@
 <fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
 <info>INFO DOS CANAIS.</info>
 
-
 <title>[B]NOME DO CANAL[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
 <thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
@@ -131,32 +153,6 @@
 <thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
 <fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
 <info>INFO DOS CANAIS.</info>
-
-
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-
 
 <title>[B]NOME DO CANAL[/B]</title>
 <link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
