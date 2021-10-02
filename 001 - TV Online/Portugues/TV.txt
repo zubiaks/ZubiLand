@@ -56,16 +56,16 @@
 <info>A TV Câmara transmite as discussões e votações do Plenário e das comissões da Câmara dos Deputados, realiza entrevistas e debates, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade.</info>
 
 <title>[B]REDE BRASIL[/B]</title>
-<link>https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8$nome= Rede Brasil</link>
-<link>http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8$nome= Rede Brasil (SP)</link>
+<link>https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8$redebrasil= Rede Brasil</link>
+<link>http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8$redebrasil= Rede Brasil (SP)</link>
 <thumbnail>https://i.ibb.co/db14BtY/REDE-BRASIL.png</thumbnail>
 <fanart>https://i.ibb.co/yNG8X18/REDE-BRASIL-b.jpg</fanart>
 <info>Rede Brasil de Televisão é uma rede de televisão aberta brasileira. Foi inaugurada em 7 de abril de 2007, e é presidida pelo advogado tributarista Marcos Tolentino. A rede é oriunda de Campo Grande, capital do estado do Mato Grosso do Sul, e está sediada em São Paulo, capital do estado homônimo.</info>
 
 <title>[B]TV Brasil[/B]</title>
 <link>http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8$nome= TV Brasil</link>
-<link>http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8$nome= TV Brasil (2)</link>
-<link>http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8$nome= TV BRASIL HD (GO)</link>
+<link>http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8$TVBrasil= TV Brasil (2)</link>
+<link>http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8$TVBrasil= TV BRASIL HD (GO)</link>
 <thumbnail>https://i.ibb.co/mXFZhpT/TV-Brasil-Brasil.jpg</thumbnail>
 <fanart>https://i.ibb.co/pZr6PdY/TV-Brasil-b.jpg</fanart>
 <info>TV Brasil é a rede de televisão pública do Poder Executivo Brasileiro. Pertence à Empresa Brasil de Comunicação, conglomerado de mídia do governo do país.</info>
