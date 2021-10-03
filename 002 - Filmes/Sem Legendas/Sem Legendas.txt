@@ -4,11 +4,20 @@
 <thumbnail>https://i.ibb.co/jwjWhtc/Almost-Christmas.jpg</thumbnail>
 <fanart>https://i.ibb.co/X5tGj73/Almost-Christmas-b.jpg</fanart>
 <info>A new comedy from writer/director David E. Talbert (Baggage Claim) and producer Will Packer (Ride Along, Think Like a Man series, This Christmas), Almost Christmas tells the festive story of a beloved patriarch who asks his family for one gift this holiday season: to get along. If they can honor that wish and spend five days under the same roof without killing one another, it will be a Christmas miracle. (Original Title - Almost Christmas) - 2016 Universal Studios. All Rights Reserved.</info>
-<genre>Comedia</genre>
+<genre>Comedia, drama</genre>
+<year>2016</year></item>
+
+<item><title>[B]nocturnal animals[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-H1Ii1LjyFU$nome= Trailer</link>
+<link>https://archive.org/download/NocturnalAnimals20161080pRemux/Nocturnal%20Animals%20(2016)%201080p%20Remux.mp4$nome= Filme</link>
+<thumbnail>https://i.ibb.co/m0sQQY1/Nocturnal-Animals-2016.jpg</thumbnail>
+<fanart>https://i.ibb.co/YhbPzqp/Nocturnal-Animals-2016-1.jpg</fanart>
+<info>Um escritor pede a sua ex-mulher para ler o manuscrito de seu novo romance, uma história sobre um homem de família cuja vida dá uma guinada sombria.</info>
+<genre>thriller, drama</genre>
 <year>2016</year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -17,7 +26,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -26,7 +35,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -35,7 +44,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -44,7 +53,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -53,7 +62,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -62,7 +71,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -71,7 +80,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -80,7 +89,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -89,7 +98,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -98,7 +107,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -107,7 +116,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -116,7 +125,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -125,7 +134,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -134,7 +143,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -143,7 +152,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -152,7 +161,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -161,7 +170,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -170,7 +179,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -179,7 +188,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -188,7 +197,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -197,7 +206,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -206,7 +215,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -215,7 +224,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -224,7 +233,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -233,7 +242,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -242,7 +251,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -251,7 +260,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -260,7 +269,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -269,7 +278,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -278,7 +287,7 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -287,7 +296,43 @@
 <year></year></item>
 
 <item><title>[B][/B]</title>
-<link>$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
