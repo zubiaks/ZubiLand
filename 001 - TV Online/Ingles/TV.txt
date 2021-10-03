@@ -1,325 +1,101 @@
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
-
-Portugues
-
-<item>
-<title>[B]RTP 1[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/1XJJZjD/RTP-1.png</thumbnail>
-<fanart>https://i.ibb.co/wJsJT7w/rpt-1-b.png</fanart>
-<info>A RTP1 é o principal canal de televisão da RTP – Rádio e Televisão de Portugal e o primeiro canal português de rádio e televisão. É um canal generalista com componente comercial e que privilegia a ficção nacional, a informação, o desporto e o entretenimento.</info>
-</item>
-<item>
-<title>[B]RTP 2[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/wg1qktX/RTP-2.png</thumbnail>
-<fanart>https://i.ibb.co/k1RcgKD/rtp-2-b.jpg</fanart>
-<info>RTP2 é o segundo canal de televisão da RTP – Rádio e Televisão de Portugal, a empresa pública de rádio e televisão. As suas emissões iniciaram-se a 25 de dezembro de 1968. Em 1992, passou a chamar-se TV2.</info>
-</item>
-<item>
-<title>[B]TVI[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/DKhcmYg/TVI.png</thumbnail>
-<fanart>https://i.ibb.co/S5G1MrB/tvi-b.jpg</fanart>
-<info>A TVI é um canal de televisão português. As emissões regulares do canal iniciaram-se a 20 de fevereiro de 1993, como o segundo canal privado e o quarto generalista, que nessa altura tinha o nome de "4", por ser a quarta rede nacional de televisão.</info>
-</item>
-<item>
-<title>[B]RTP Memoria[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/9rppBhs/RTP-Memoria.png</thumbnail>
-<fanart>https://i.ibb.co/K2PhXSX/rtp-memoria-b.jpg</fanart>
-<info>RTP Memória é o segundo canal temático da RTP – Rádio e Televisão de Portugal desenvolvido para o cabo. Trata-se de um canal generalista que retransmite os programas disponíveis do vasto arquivo de seis décadas da RTP, muitos deles verdadeiros marcos históricos da televisão feita em Portugal.</info>
-</item>
-<item>
-<title>[B]RTP Madeira[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/G2dXL8r/RTP-Madeira.png</thumbnail>
-<fanart>https://i.ibb.co/c8pXnpM/rtp-madeira-b.png</fanart>
-<info>A RTP Madeira é um canal de televisão de características regionais pertencente ao Grupo RTP - Rádio e Televisão de Portugal e assumindo a responsabilidade e a missão pela prestação do serviço público da televisão na Região Autónoma da Madeira.</info>
-</item>
-<item>
-<title>[B]RTP Acores[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/YyGCsQt/RTP-Acores.png</thumbnail>
-<fanart>https://i.ibb.co/3kmMBsm/rtp-acores-b.jpg</fanart>
-<info>A RTP Açores é um canal de televisão de características regionais pertencente ao Grupo RTP - Rádio e Televisão de Portugal e assumindo a responsabilidade e a missão pela prestação do serviço público da televisão na Região Autónoma dos Açores.</info>
-</item>
-<item>
-<title>[B]RTP Africa[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/VLtKp3V/RTP-Africa.png</thumbnail>
-<fanart>https://i.ibb.co/02Lzckb/rpt-africa-b.jpg</fanart>
-<info>A RTP África é um canal televisivo generalista coproduzido pela RTP. Destina-se aos habitantes dos países africanos de língua oficial portuguesa, às pessoas originárias desses países residentes em Portugal e aos descendentes destas últimas.</info>
-</item>
-<item>
-<title>[B]RTP Internacional[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/nLRFpdq/RTP-Internacional.png</thumbnail>
-<fanart>https://i.ibb.co/2ZNd8Qv/rtp-internacional-b.jpg</fanart>
-<info>A RTP Internacional é um canal de televisão português. Foi o primeiro canal televisivo global em língua portuguesa. Em 1992, no dia 10 de junho – Dia de Portugal –, iniciaram-se as transmissões da RTP Internacional via satélite para um território linguístico de mais de 200 milhões de habitantes.</info>
-</item>
-<item>
-<title>[B]SIC Internacional[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/4sBGYK3/SIC-Internacional.png</thumbnail>
-<fanart>https://i.ibb.co/fxfkvyt/sic-internacional-b.jpg</fanart>
-<info>SIC Internacional é um canal dedicado aos portugueses espalhados pelo mundo e aos países de língua oficial portuguesa. A SIC Internacional iniciou as suas emissões no dia 17 de Setembro de 1997, com o objetivo de chegar a todos os portugueses e países de língua oficial portuguesa no mundo.</info>
-</item>
-<item>
-<title>[B]TVI Africa[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/02Lzckb/rpt-africa-b.jpg</thumbnail>
-<fanart>https://i.ibb.co/ZKTpV9t/tvi-africa-b.png</fanart>
-<info>A TVI África é o segundo canal de televisão português totalmente dedicado aos países africanos. As suas transmissões iniciaram a 3 de Outubro de 2015, no mesmo dia em que a estação de televisão anuncia também o canal TVI Reality.</info>
-</item>
-<item>
-<title>[B]TVI Internacional[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/Qr4wHZ3/TVI-Internacional.png</thumbnail>
-<fanart>https://i.ibb.co/S5G1MrB/tvi-b.jpg</fanart>
-<info>Televisão Independente Internacional é a terceira estação de televisão internacional portuguesa. Este é o terceiro canal pertencente à TVI. O canal é dirigido às comunidades portuguesas espalhadas pelo estrangeiro</info>
-</item>
-<item>
-<title>[B]TPA Internacional (Angola)[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/mNjgrkT/TPA-Internacional.png</thumbnail>
-<fanart>https://i.ibb.co/8KKnpyZ/TPA-Internacional-Angola-b.png</fanart>
-<info>TPA Internacional é um canal de televisão por assinatura pertencente à Televisão Pública de Angola, disponível em Portugal.</info>
-</item>
-<item>
-<title>[B]TV Cabo Verde (Cabo Verde)[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/ZMySGrg/TV-Cabo-Verde.jpg</thumbnail>
-<fanart>https://i.ibb.co/6yB8Hsm/TV-Cabo-Verde-Cabo-Verde-b.jpg</fanart>
-<info>O TCV Internacional oferece-lhe a melhor programação de Cabo Verde numa emissão de 24 horas por dia que lhe dá o melhor do desporto, música, notícias, telenovelas, programas juvenis e de entretenimento.</info>
-</item>
-<item>
-<title>[B]Localvisão TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/pR6ZhgM/Localvis-o-TV.jpg</thumbnail>
-<fanart>https://i.ibb.co/RYyHwBt/Localvis-o-TV-b.jpg</fanart>
-<info>A programação da LOCAL VISÃO TV distribui-se de forma equitativa pelas várias regiões de Portugal: Desde notícias até programas de gastronomia local alentejana ou transmontana, eventos culturais no Minho ou as melhores praias do Algarve, tudo está incluído na ricamente produzida e concertada programação da LOCAL VISÃO TV.</info>
-</item>
-<item>
-<title>[B]Agueda TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/7p2qJW4/Agueda-TV.png</thumbnail>
-<fanart>https://i.ibb.co/RN5NrJd/Agueda-TV-b.jpg</fanart>
-<info>Apostando nas Novas Tecnologias da Informação, a Câmara Municipal de Águeda coloca-se na vanguarda dos municípios digitais, oferecendo à população e a todos os internautas um canal de televisão, pela Internet.</info>
-</item>
-<item>
-<title>[B]ARROIOS TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/4fy0Kzs/ARROIOS-TV.jpg</thumbnail>
-<fanart>https://i.ibb.co/jMjP29b/ARROIOS-TV-b.png</fanart>
-<info>Sejam bem-vindos ao Canal da Junta de Freguesia de Arroios!
-Aqui poderão encontrar um conjunto de trabalhos audiovisuais elaborados durante todo o mandato da atual Presidente da Junta de Freguesia de Arroios, Margarida Martins.
-O objetivo? Divulgar ARROIOS.</info>
-</item>
-<item>
-<title>[B]ESEC TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/tHB5jVY/ESEC-TV.jpg</thumbnail>
-<fanart>https://i.ibb.co/n8fnYnS/ESEC-TV-b.jpg</fanart>
-<info>Criada em 2003, a esectv é uma estrutura de produção de vídeo e televisão da Escola Superior de Educação de Coimbra, com o contributo base de professores e alunos da licenciatura em Comunicação Social, contando também com a colaboração de alunos e docentes de outras licenciaturas.</info>
-</item>
-<item>
-<title>[B]TV Globo[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/txRXSvh/TV-Globo.jpg</thumbnail>
-<fanart>https://i.ibb.co/dPmKmrz/TV-Globo-b.jpg</fanart>
-<info>TV Globo é uma rede de televisão comercial aberta brasileira. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior.</info>
-</item>
-<item>
-<title>[B]AMAZON SAT[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/WVzsBTC/amazon-sat.png</thumbnail>
-<fanart>https://i.ibb.co/ww4QkPc/AMAZON-SAT-b.jpg</fanart>
-<info>Amazon Sat é uma rede de televisão brasileira concessionada em Porto Velho, capital do estado de Rondônia, porém sediada em Manaus, capital do estado do Amazonas. Pertence à Rádio e TV do Amazonas Ltda, que também mantém as rádios CBN Amazônia e Echos, além do Portal Amazônia.</info>
-</item>
-<item>
-<title>[B]MULTITV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/sqLrrzY/MULTI-TV-Brasil.png</thumbnail>
-<fanart>FUNDO</fanart>
-<info>A MultiTV Cidades é transmitida pelo Canal 20 da NET e tem abrangência universal, oferece ao público o melhor conteúdo regional de Londrina, com uma programação variada que aborda temas como moda, gastronomia, esportes, eventos e outros. É referência quando o assunto é divulgação de marcas.</info>
-</item>
-<item>
-<title>[B]TV GUARA[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/CsHy1sH/TV-GUARA-Brasil.png</thumbnail>
-<fanart>https://i.ibb.co/HVgHCBP/TV-GUARA-b.jpg</fanart>
-<info>TV Guará é uma emissora de televisão brasileira sediada em São Luís, capital do estado do Maranhão. Opera no canal 23, e é afiliada à TV Cultura. Pertence ao Sistema Guará de Radiodifusão, de propriedade do empresário Roberto Albuquerque, do qual também fazem parte o portal de internet e a web rádio homônimos.</info>
-</item>
-<item>
-<title>[B]CANAL FUTURA[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/tHrxTjk/canal-futura.png</thumbnail>
-<fanart>https://i.ibb.co/G95tYsJ/CANAL-FUTURA-b.jpg</fanart>
-<info>Futura é um canal de televisão brasileiro. Pertence à Fundação Roberto Marinho, instituição educativa privada do conglomerado de mídia Grupo Globo. Foi inaugurado pelo jornalista Roberto Marinho em 22 de setembro de 1997 na cidade do Rio de Janeiro, capital do estado homônimo.</info>
-</item>
-<item>
-<title>[B]TV DIARIO[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/hdVmsv1/TV-DIARIO-Brasil.png</thumbnail>
-<fanart>https://i.ibb.co/NSbw8Mc/TV-DIARIO-b.jpg</fanart>
-<info>TV Diário é uma emissora de televisão brasileira sediada em Fortaleza, capital do estado do Ceará. Opera no canal 22 e pertence ao Sistema Verdes Mares, um dos maiores conglomerados de mídia do país, do qual também fazem parte a TV Verdes Mares, as rádios FM 93 e Verdes Mares, e o jornal Diário do Nordeste.</info>
-</item>
-<item>
-<title>[B]TV ESCOLA[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/Nrkzrfk/TV-ESCOLA.jpg</thumbnail>
-<fanart>https://i.ibb.co/wzBRXwD/TV-ESCOLA-b.jpg</fanart>
-<info>TV Escola é um canal de televisão brasileiro fundado no dia 4 de março de 1996. Pertence a Associação de Comunicação Educativa Roquette Pinto, uma organização social. É transmitido em algumas localidades do Brasil pelas TVs abertas e em todo o país pelas antenas parabólicas digitais e TVs por assinatura.</info>
-</item>
-<item>
-<title>[B]Pocos Tv[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/W6D8SW8/Pocos-Tv-Brasil.png</thumbnail>
-<fanart>FANART</fanart>
-<info>TV Poços é uma emissora de televisão brasileira sediada em Poços de Caldas, cidade do estado de Minas Gerais. Opera no canal 22 analógico e no 21 UHF digital e é afiliada à TV Cultura.</info>
-</item>
-<item>
-<title>[B]ANTV – TV Andradas[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/WcwTjpz/ANTV-TV-Andradas-Brasil.jpg</thumbnail>
-<fanart>https://i.ibb.co/bvdkVj8/TV-Andradas-b.jpg</fanart>
-<info>A TV Andradas é um dos principais veículos de comunicação do município, noticiando todos os fatos de interesse público, fazendo campanhas educativas e incentivando a cultura local. Aqui nosso público pode comentar, enviar sugestões, críticas e elogios. No entanto, é necessário se ter algumas regras, tais como: não aceitaremos spam, correntes ou conteúdos inadequados. Nos reservamos também o direito de remover qualquer postagem ou outro material inapropriado. Seja bem vindo! EMISSORA filiada a TV CULTURA.</info>
-</item>
-<item>
-<title>[B]TV Universitária - Canal 7 - Tupã, SP[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/TcdYTVr/TV-Universit-ria-Canal-7-Tupa-SP.jpg</thumbnail>
-<fanart>https://i.ibb.co/QQxY8Jr/TV-Universit-ria-Canal-7-Tupa-SP-b.png</fanart>
-<info>TV via internet geradora de conteúdos de Jornalismo, Esportes, Cultura, Entretenimento e Transmissões ao Vivo em Crato - CE</info>
-</item>
-<item>
-<title>[B]REDE TV[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/C8DGvvK/REDE-TV.jpg</thumbnail>
-<fanart>https://i.ibb.co/Tw5CkvN/REDE-TV-b.jpg</fanart>
-<info>RedeTV! é uma rede de televisão comercial brasileira com sede em Osasco, município da Região Metropolitana de São Paulo, pertencente ao Grupo Amilcare Dallevo e ao Grupo Marcelo de Carvalho.</info>
-</item>
-<item>
-<title>[B]CARIRI TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/t48kg5Y/CARIRI-TV.png</thumbnail>
-<fanart>https://i.ibb.co/Xss0wRf/CARIRI-TV-b.png</fanart>
-<info>Somos a TV CARIRI, sediada na cidade de Mauriti no Estado do Ceará e em Brejo Santo-CE, estamos na BRISANET no canal 178 com programação 24h por dia.</info>
-</item>
-<item>
-<title>[B]Aperipe TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/fYrWJXF/Aperipe-TV.gif</thumbnail>
-<fanart>https://i.ibb.co/q0qsMyh/Aperipe-TV-b.jpg</fanart>
-<info>TV Aperipê uma emissora de televisão brasileira sediada em Aracaju, capital do estado de Sergipe. Opera no canal 6 e é afiliada à TV Cultura. Pertence a Fundação Aperipê de Sergipe, instituição de caráter público integrante do governo estadual.</info>
-</item>
-<item>
-<title>[B]TV Paraná Turismo[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/6gFzg5N/TV-Paran-Turismo.jpg</thumbnail>
-<fanart>https://i.ibb.co/kJW6Hp5/TV-Paran-Turismo-b.jpg</fanart>
-<info>E-Paraná (Também conhecida como TVE Paraná e anteriormente Paraná Educativa), é um canal de televisão público com sede em Curitiba, no Paraná. Foi inaugurada em 1988.</info>
-</item>
-<item>
-<title>[B]G2P TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/s1sZ2jS/G2P-TV.png</thumbnail>
-<fanart>https://i.ibb.co/j5vq9Pk/G2P-TV-b.jpg</fanart>
-<info>Fundada em 05 de julho de 2012, adquirimos experiência e conhecimento técnico para atender aos mais diversos segmentos de programação ao vivo para a televisão brasileira. Atualmente estamos focados na produção e exibição de programas ao vivo no formato de “Calltv (interatividade/concurso cultural).</info>
-</item>
-<item>
-<title>[B]PUC TV Goias[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/SNfFkzB/PUC-TV-Goias.jpg</thumbnail>
-<fanart>https://i.ibb.co/cTD8Vx2/PUC-TV-Goias-b.png</fanart>
-<info>A PUC TV Goiás é uma emissora de televisão na cidade de Goiânia-Goiás. Opera nos canais 24.1 em HDTV, 24 em UHF e no 22 da Net.</info>
-</item>
-<item>
-<title>[B]TV CULTURA[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/zQTsjbb/TV-CULTURA-Brasil.png</thumbnail>
-<fanart>https://i.ibb.co/jWNq9Bf/TV-CULTURA-b.jpg</fanart>
-<info>TV Cultura é uma rede de televisão pública brasileira sediada em São Paulo, capital do estado homônimo.</info>
-</item>
-<item>
-<title>[B]TVU - TV Universitária - Recife-PE[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/f9n5N7F/TVU-TV-Universit-ria-Recife-PE-Brasil.jpg</thumbnail>
-<fanart>https://i.ibb.co/xXN6Wd5/TVU-TV-Universit-ria-Recife-PE-b.png</fanart>
-<info>TV Universitária é uma emissora de televisão brasileira sediada no Recife, capital do estado de Pernambuco. Opera no canal 11 (40 UHF digital) e é afiliada à TV Brasil. Pertence ao Núcleo de Rádio e TV Universitárias da Universidade Federal de Pernambuco, do qual também fazem parte as rádios Paulo Freire e Universitária FM. Foi inaugurada em 1968, sendo a primeira emissora de TV educativa criada no país.</info>
-</item>
-<item>
-<title>[B]Rede Atividade[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/WWHKVsM/Rede-Atividade.jpg</thumbnail>
-<fanart>https://i.ibb.co/rb7npmk/Rede-Atividade-b.jpg</fanart>
-<info>INFO</info>
-</item>
-<item>
-<title>[B]Rede Minas[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/CMXY5jP/Rede-Minas.png</thumbnail>
-<fanart>https://i.ibb.co/WHLNWZf/Rede-Minas-b.jpg</fanart>
-<info>Rede Minas é uma rede de televisão pública aberta brasileira sediada em Belo Horizonte, capital do estado de Minas Gerais. Pertence à Empresa Mineira de Comunicação, órgão do governo estadual, também mantenedora da Rádio Inconfidência.</info>
-</item>
-<item>
-<title>[B]TV Cidade Verde[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/f9jXVzs/TV-Cidade-Verde.png</thumbnail>
-<fanart>https://i.ibb.co/KFxp4K6/TV-Cidade-Verde-b.jpg</fanart>
-<info>A TV Cidade Verde é uma emissora de televisão brasileira sediada em Teresina, capital do Piauí. Opera no canal 5 e é afiliada ao SBT. A emissora faz parte do Grupo Cidade Verde que integra, ainda, o portal Cidadeverde.com, as rádios Cidade Verde e CV Mais FM e o aplicativo CV Play.</info>
-</item>
-<item>
-<title>[B]TV Diario do Sertao[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/Bt4JCHf/TV-Diario-do-Sertao.jpg</thumbnail>
-<fanart>https://i.ibb.co/njw2yvW/TV-Diario-do-Sertao-b.jpg</fanart>
-<info>TV Diário é uma emissora de televisão brasileira sediada em Fortaleza, capital do estado do Ceará. Opera no canal 22 (23 UHF digital) e pertence ao Sistema Verdes Mares, um dos maiores conglomerados de mídia do país, do qual também fazem parte a TV Verdes Mares, as rádios FM 93 e Verdes Mares, e o jornal Diário do Nordeste. É conhecida pela composição de sua programação, com produção inteiramente local, voltada ao público nordestino.</info>
-</item>
-<item>
-<title>[B]SBT[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/DGVWNsy/SBT.png</thumbnail>
-<fanart>https://i.ibb.co/FnfL6qx/SBT-b.jpg</fanart>
-<info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.</info>
-</item>
-
-
-Vendas
-
-<item>
-<title>[B]Canal do Boi[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/yWjNFNs/Canal-do-Boi.jpg</thumbnail>
-<fanart>https://i.ibb.co/vkLpjwD/Canal-do-Boi-b.jpg</fanart>
-<info>Canal do Boi é uma emissora de televisão brasileira cuja grande parte de sua programação é destinada a leilões de animais, como bois, cabras e cavalos e também destina a programação para assuntos do agronegócio. Faz parte da rede Sistema Brasileiro do Agronegócio, junto ao Agro Canal.</info>
-</item>
-
-
-Religioso
-
-<item>
-<title>[B]Way TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/t4qyVvV/way-TV.png</thumbnail>
+<item><title>[B]CHANNEL 53 - AKAKŪ GREEN / GOVERNMENT & PUBLIC AFFAIRS (USA)[/B]</title>
+<link>https://akaku.vod.castus.tv/live/ch1.m3u8</link>
+<thumbnail>https://i.ibb.co/GvM38fY/Channel53-147x150.png</thumbnail>
 <fanart></fanart>
-<info>A Way TV é um Canal de Televisão produzido pela Supernatural Media Netework.</info>
-</item>
-<item>
-<title>[B]novo tempo[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/dMFsSkF/novo-tempo.png</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>Bem-vindo à Novo Tempo Portugal, um canal que transmite esperança! Juntos vamos descobrir os tesouros fantásticos da Palavra de Deus, vamos refletir no Seu amor e vamos adorar o nosso Criador. Obrigado por visitar o nosso canal, subscreva-o e faça parte desta comunidade!</info>
-</item>
+<info>Maui County Council</info></item>
 
+<item>CHANNEL 54 - AKAKŪ RED / ALL ACCESS ALL THE TIME (USA)<title>[B][/B]</title>
+<link>https://akaku.vod.castus.tv/live/ch2.m3u8</link>
+<thumbnail>https://i.ibb.co/Bjg48wH/Channel54-147x150.png</thumbnail>
+<fanart></fanart>
+<info>Maui County Council</info></item>
 
+<item><title>[B]CHANNEL 55 – AKAKŪ BLUE / LIVE & LOCAL[/B]</title>
+<link>https://akaku.vod.castus.tv/live/ch3.m3u8</link>
+<thumbnail>https://i.ibb.co/q9Cf8qS/Channel55-147x150.png</thumbnail>
+<fanart></fanart>
+<info>Maui County Council</info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>

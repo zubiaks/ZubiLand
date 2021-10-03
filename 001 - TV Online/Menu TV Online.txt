@@ -1,28 +1,46 @@
 <channels>
 
-<channel>
-<name>[B][COLOR white]Portugues[/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Portugues[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/F8QjcRd/Portuguese-Flag.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Portugues/TV.txt</externallink>
 <fanart>https://i.ibb.co/QrnMVWM/portugues.jpg</fanart>
-<info>TV Online</info>
-</channel>
+<info>TV Online</info></channel>
 
-<channel>
-<name>[B][COLOR white]1[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-<info>DESCRIÇÃO DA CATEGORIA</info>
-</channel>
+<channel><name>[B][COLOR white]Ingles[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/WkDtjc2/Umited-Kingdom.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Ingles/TV.txt</externallink>
+<fanart>https://i.ibb.co/hL19HwB/ingles-b.jpg</fanart>
+<info></info></channel>
 
-<channel>
-<name>[B][COLOR white]2[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-<info>DESCRIÇÃO DA CATEGORIA</info>
-</channel>
+<channel><name>[B][COLOR white]Outras Linguas[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/FWykVs5/outras-linguas.gif</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Outras%20Linguas/TV.txt</externallink>
+<fanart>https://i.ibb.co/vsr1YYJ/outras-linguas-b.png</fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white]Vendas[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/XpSDk1F/vendas-b.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Vendas/TV.txt</externallink>
+<fanart>https://i.ibb.co/h7NBPbd/014-Shopping-TV.jpg</fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white]Religião[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/HCkwvy6/015-Religioso.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Religiao/TV.txt</externallink>
+<fanart>https://i.ibb.co/MPsC7x3/Religi-o-b.jpg</fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
 
 </channels>
 
