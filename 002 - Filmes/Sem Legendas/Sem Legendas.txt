@@ -1,18 +1,296 @@
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Almost Christmas[/B]</title>
+<link>https://youtu.be/-mw-Rhm8OIw$nome= Trailer</link>
+<link>https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4$nome= Filme</link>
+<thumbnail>https://i.ibb.co/jwjWhtc/Almost-Christmas.jpg</thumbnail>
+<fanart>https://i.ibb.co/X5tGj73/Almost-Christmas-b.jpg</fanart>
+<info>Almost Christmas é um filme estadunidcano de comédia-drama estadunidista de 2016, escrito e dirigido por David E. Talbert e estrelado por Kimberly Elise, Mo'Nique, Nicole Ari Parker, Gabrielle Union, Keri Hilson, Jessie Usher, Danny Glover, Omar Epps, John Michael Higgins, D.C. Young Fly, e Romany Malco. O filme segue uma família disfuncional que se reúne para as férias pela primeira vez desde a morte de sua mãe.</info>
+<genre>Comedia, Drama</genre>
+<year>2016</year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Trailer</link>
+<link>$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>

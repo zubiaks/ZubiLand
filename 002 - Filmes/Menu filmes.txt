@@ -1,22 +1,22 @@
 <channels>
 
-<channel><name>[B][COLOR white]TV[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/VtsbvpR/TVOnline.png</thumbnail>
-<externallink>LINKS</externallink>
-<fanart>https://i.ibb.co/PwqcMCM/TVOnline-fan.jpg</fanart>
-<info>TV Online</info></channel>
+<channel><name>[B][COLOR white]Portugues[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/GcXBM5w/filmes-1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/002%20-%20Filmes/Portugues/Portugues.txt</externallink>
+<fanart>https://i.ibb.co/9hj8MGk/filmes-pt-b.jpg</fanart>
+<info>Filmes com audio pt-pt e pt-br</info></channel>
 
-<channel><name>[B][COLOR white]FILMES[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-<info>DESCRIÇÃO DA CATEGORIA</info></channel>
+<channel><name>[B][COLOR white]Legendados[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/GcXBM5w/filmes-1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/002%20-%20Filmes/Legendados/legendados.txt</externallink>
+<fanart>https://i.ibb.co/zGGyTZY/legendados.jpg</fanart>
+<info>filmes com legendas</info></channel>
 
-<channel><name>[B][COLOR white]SERIES[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-<info>DESCRIÇÃO DA CATEGORIA</info></channel>
+<channel><name>[B][COLOR white]Sem Legendas[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/GcXBM5w/filmes-1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/002%20-%20Filmes/Sem%20Legendas/Sem%20Legendas.txt</externallink>
+<fanart>https://i.ibb.co/fMWx0Fj/sem-legendas.jpg</fanart>
+<info>filmes sem legendas</info></channel>
 
 </channels>
 
