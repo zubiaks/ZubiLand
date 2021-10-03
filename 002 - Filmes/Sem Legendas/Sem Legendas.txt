@@ -4,7 +4,7 @@
 <thumbnail>https://i.ibb.co/jwjWhtc/Almost-Christmas.jpg</thumbnail>
 <fanart>https://i.ibb.co/X5tGj73/Almost-Christmas-b.jpg</fanart>
 <info>A new comedy from writer/director David E. Talbert (Baggage Claim) and producer Will Packer (Ride Along, Think Like a Man series, This Christmas), Almost Christmas tells the festive story of a beloved patriarch who asks his family for one gift this holiday season: to get along. If they can honor that wish and spend five days under the same roof without killing one another, it will be a Christmas miracle. (Original Title - Almost Christmas) - 2016 Universal Studios. All Rights Reserved.</info>
-<genre>Comedia, drama</genre>
+<genre>Comedia, Drama</genre>
 <year>2016</year></item>
 
 <item><title>[B]nocturnal animals[/B]</title>
@@ -13,44 +13,44 @@
 <thumbnail>https://i.ibb.co/m0sQQY1/Nocturnal-Animals-2016.jpg</thumbnail>
 <fanart>https://i.ibb.co/YhbPzqp/Nocturnal-Animals-2016-1.jpg</fanart>
 <info>Um escritor pede a sua ex-mulher para ler o manuscrito de seu novo romance, uma história sobre um homem de família cuja vida dá uma guinada sombria.</info>
-<genre>thriller, drama</genre>
+<genre>Thriller, Drama</genre>
 <year>2016</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year></item>
+<item><title>[B]Rules Don't Apply[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=AqU0FdJQC_0$nome= Trailer</link>
+<link>https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4$nome= Filme</link>
+<thumbnail>https://i.ibb.co/tXZ946x/Rules-Don-t-Apply-2016.jpg</thumbnail>
+<fanart>https://i.ibb.co/SJBxZHX/Rules-Don-t-Apply-2016-1.jpg</fanart>
+<info>The unconventional love story of an aspiring actress, her ambitious driver, and their eccentric boss, the legendary billionaire Howard Hughes.</info>
+<genre>Comedia, Drama, Romance</genre>
+<year>2016</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year></item>
+<item><title>[B]The Transporter Refueled[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=sU5lEfAkOGM$nome= Trailer</link>
+<link>https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4$nome= Filme</link>
+<thumbnail>https://i.ibb.co/1GFM93F/The-Transporter-Refueled.jpg</thumbnail>
+<fanart>https://i.ibb.co/KwcwmDg/The-Transporter-Refueled-1.jpg</fanart>
+<info>In the year 1995 somewhere in a French Rivera city on a typical evening, a group of teenage girls, prostitutes, are on the street, strolling for customers under the watchful eyes of their local black pimps. A van rolls up and a man gets out. One of the black pimps tells him to keep moving, as he's working. "So am I", the man says and opens fire with an assault rifle. The man, a Russian named Arkady Karasov (Radivoje Bukvic) and his partners, Yuri (Yuri Kolokolnikov) and Leo Imasova (Lenn Kudrjawizki) continue to fire on the men, killing them and causing their working girls to flee. Karasov sees one man survived and lets him live with a warning to his bosses that this territory is theirs now. Karasov whistles and a van of his "girls" complete with necklaces with the shape of a knife through the heart (to signify they're his "property") are made to stand on the same street where the murders took place. One of the girls Anna (Loan Chabanol) is visibly shaken by what has happened.</info>
+<genre>Action, Thriller</genre>
+<year>2015</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year></item>
+<item><title>[B]Buck Wild[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9QBuMeH9zlA$nome= Trailer</link>
+<link>https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YIFY.mp4$nome= Filme</link>
+<thumbnail>https://i.ibb.co/6D81VnX/Buck-Wild-2014.jpg</thumbnail>
+<fanart>https://i.ibb.co/NL8RVpt/Buck-Wild-2014-1.jpg</fanart>
+<info>A hunting vacation goes horribly awry for 4 friends after they accidentally shoot the lease's land owner.</info>
+<genre>Comedia, Horror</genre>
+<year>2013</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year></item>
+<item><title>[B]Free Fall[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=EzWXyV_kygM$nome= Trailer</link>
+<link>https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4$nome= Filme</link>
+<thumbnail>https://i.ibb.co/KG17wX7/Free-Fall-2014.jpg</thumbnail>
+<fanart>https://i.ibb.co/86Y2Rhw/Free-Fall-2014-1.jpg</fanart>
+<info>An employee, working for Gault Capital in L.A, gets targeted by a ruthless assassin and locked in the elevator after she uncovers a chilling secret.</info>
+<genre>Action, Crime, Thriller</genre>
+<year>2014</year></item>
 
 <item><title>[B][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>

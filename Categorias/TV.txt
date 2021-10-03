@@ -276,144 +276,101 @@ Religioso
 
 
 Igles
-usa
-		#EXTINF:-1,VTV Channel 6 (Vernal) (UT Utah)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gsfwG6/VTV_Channel_6.jpg" group-title="USA",VTV Channel 6 (Vernal) (UT Utah)
-				
 
-		#EXTINF:-1,Miami TV (English)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/b5OAdk/Miami_TV.png" group-title="USA",Miami TV (English)
-				
-
-		#EXTINF:-1,The Florida Channel 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/keJhOw/The_Florida_Channel.jpg" group-title="USA",The Florida Channel *Lento
-				
-				
-		#EXTINF:-1,EYE95 America (South Asian) (Middle Eastern)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kQH43m/EYE95_America.jpg" group-title="USA",EYE95 America (South Asian) (Middle Eastern)
-				
-				
-		#EXTINF:-1,C-Span
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cmOoUR/C_Span.jpg" group-title="USA",C-Span
-				
-
-		#EXTINF:-1,C-Span 2
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ic9Z3m/C_Span_2.png" group-title="USA",C-Span 2
-				
-
-		#EXTINF:-1,C-Span 3
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eydGG6/C_Span_3.png" group-title="USA",C-Span 3
-
-
-		#EXTINF:-1,Bowie TV
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/ZTFYrTJ/nSMaujc.png" group-title="USA",Bowie TV
-				
-
-		#EXTINF:-1,Buffalo TV
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/VpzygQW/f5ZtDhj.png" group-title="USA",Buffalo TV
-				
-				
-		#EXTINF:-1,District of Columbia Network
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/wC7MfpC/xGjchpW.png" group-title="USA",District of Columbia Network
-				
-
-		#EXTINF:-1,Free Speech TV
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/9sr9Ynf/PH1Gg4p.png" group-title="USA",Free Speech TV
-				
-
-		#EXTINF:-1,Greenbelt TV
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/fkKM6R4/uxUqIVT.png" group-title="USA",Greenbelt TV
-				
-
-		#EXTINF:-1,KBVR TV
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/nfc6zW5/0oRXnzz.png" group-title="USA",KBVR TV
-				
-
-		#EXTINF:-1,TVW
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/XJbGCx1/152nsYA.png" group-title="USA",TVW
-				
-
-		#EXTINF:-1,TVW-2
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/XJbGCx1/152nsYA.png" group-title="USA",TVW-2
-				
-
-		#EXTINF:-1,Voice of America
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/Bqshbwc/7zieaS3.png" group-title="USA",Voice of America
-				
-
-
-
-<item><title>[B][/B]</title>
+<item><title>[B]Voice of America[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Bqshbwc/7zieaS3.png</thumbnail>
+<fanart>https://i.ibb.co/YZ3fyGY/Voice-of-America-b.jpg</fanart>
+<info>English news from the Voice of America. VOA provides complete coverage of the U.S, Asia, Africa and the Mideast.</info></item>
+
+<item><title>[B]TVW[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/XJbGCx1/152nsYA.png</thumbnail>
+<fanart></fanart>
+<info>TVW is Washington state's public affairs network, modeled after C-SPAN. TVW airs gavel-to-gavel coverage of the state Legislature as well as independently produced shows, including Inside Olympia, The Impact and Legislative Review.</info></item>
+
+<item><title>[B]TVW-2[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/XJbGCx1/152nsYA.png</thumbnail>
+<fanart></fanart>
+<info>This stream is offline until the legislature is in session
+</info>This stream is offline until the legislature is in session</item>
+
+<item><title>[B]KBVR TV[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/nfc6zW5/0oRXnzz.png</thumbnail>
+<fanart></fanart>
+<info>KBVR TV is Oregon State University's student-produced campus TV station. As a part of Orange Media Network, we post to YouTube and broadcast on channel 26, and host a variety of programs both in the studio and in the field.</info></item>
+
+<item><title>[B]Greenbelt TV[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/fkKM6R4/uxUqIVT.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+				
+<item><title>[B]Free Speech TV[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/9sr9Ynf/PH1Gg4p.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]District of Columbia Network[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/wC7MfpC/xGjchpW.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Buffalo TV[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/VpzygQW/f5ZtDhj.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]VTV Channel 6 (Vernal) (UT Utah)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/hmbPnPp/Miami-TV.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]The Florida Channel[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/y0154Vd/The-Florida-Channel.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]EYE95 America (South Asian) (Middle Eastern)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/X32TYMK/EYE95-America.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]C-Span[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/TYVr8pQ/C-Span.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]C-Span 2[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/8bX04G0/C-Span-2.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]C-Span 3[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/DznZRq9/C-Span-3.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Bowie TV[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/ZTFYrTJ/nSMaujc.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+
+
 
 <item><title>[B][/B]</title>
 <link></link>
