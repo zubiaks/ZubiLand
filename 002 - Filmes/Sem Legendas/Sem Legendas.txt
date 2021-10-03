@@ -1,10 +1,10 @@
 <item><title>[B]Almost Christmas[/B]</title>
-<link>https://www.youtube.com/watch?v=-mw-Rhm8OIwnome= Trailer</link>
+<link>https://youtu.be/-mw-Rhm8OIw$nome= Trailer</link>
 <link>https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4$nome= Filme</link>
 <thumbnail>https://i.ibb.co/jwjWhtc/Almost-Christmas.jpg</thumbnail>
 <fanart>https://i.ibb.co/X5tGj73/Almost-Christmas-b.jpg</fanart>
-<info>Almost Christmas é um filme estadunidcano de comédia-drama estadunidista de 2016, escrito e dirigido por David E. Talbert e estrelado por Kimberly Elise, Mo'Nique, Nicole Ari Parker, Gabrielle Union, Keri Hilson, Jessie Usher, Danny Glover, Omar Epps, John Michael Higgins, D.C. Young Fly, e Romany Malco. O filme segue uma família disfuncional que se reúne para as férias pela primeira vez desde a morte de sua mãe.</info>
-<genre>Comedia, Drama</genre>
+<info>A new comedy from writer/director David E. Talbert (Baggage Claim) and producer Will Packer (Ride Along, Think Like a Man series, This Christmas), Almost Christmas tells the festive story of a beloved patriarch who asks his family for one gift this holiday season: to get along. If they can honor that wish and spend five days under the same roof without killing one another, it will be a Christmas miracle. (Original Title - Almost Christmas) - 2016 Universal Studios. All Rights Reserved.</info>
+<genre>Comedia</genre>
 <year>2016</year></item>
 
 <item><title>[B][/B]</title>
