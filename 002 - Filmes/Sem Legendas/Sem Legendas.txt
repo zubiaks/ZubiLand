@@ -1,5 +1,5 @@
 <item><title>[B]Almost Christmas[/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$-mw-Rhm8OIw$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$-mw-Rhm8OIw Trailer</link>
 <link>https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4$nome= Filme</link>
 <thumbnail>https://i.ibb.co/jwjWhtc/Almost-Christmas.jpg</thumbnail>
 <fanart>https://i.ibb.co/X5tGj73/Almost-Christmas-b.jpg</fanart>
