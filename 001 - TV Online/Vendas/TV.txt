@@ -1,105 +1,18 @@
-#EXTINF:-1,[B][COLOR yellow]<== Shopping TV ==>[/COLOR][/B]
-	#EXTINF:-1 tvg-logo="https://image.ibb.co/bBftum/014_Shopping_TV.jpg" group-title="Shopping TV",[B][COLOR yellow]<== Shopping TV ==>[/COLOR][/B]
-		http://0.0.0.0:1234
+<item><title>[B]QVC Beauty[/B]</title>
+<link>https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8</link>
+<thumbnail>https://i.ibb.co/BtfQgWz/QVC-Beauty-Style.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
 
-		#EXTINF:-1,0104 Ayoub Gallery (Brasil) (Vendas)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/byyfeQ/Ayoub_Gallery_Brasil.jpg" group-title="Shopping TV",0104 Ayoub Gallery (Brasil) (Vendas)
-				
-			
-		#EXTINF:-1,0507 BUY HOME TV (Russia)(Vendas)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gKwEm6/BUY_HOME_TV.png" group-title="Shopping TV",0507 BUY HOME TV (Russo)(Vendas)
-				
+<item><title>[B]QVC Extra[/B]</title>
+<link>https://d1txbbj1u9asam.cloudfront.net/hera/remote/qvcuk_primary_sdi1/2/prog_index.m3u8</link>
+<thumbnail>https://i.ibb.co/84vCYJP/QVC-DE-Plus.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
 
- 		#EXTINF:-1,0508 Telemilano Tele TV (Italian)(Vendas)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/b3kuB5/Telemilano_Tele_TV_Italian_Vendas.jpg" group-title="Shopping TV",0508 Telemilano Tele TV (Italian)(Televendas)
-				
-				
-		#EXTINF:-1,0509 QVC Beauty (Vendas)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iQtieR/QVC_Beauty_Style.png" group-title="Vendas",0509 QVC Beauty (Vendas)
-				https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
 
-		#EXTINF:-1,0510 QVC Extra (Vendas)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/h2sgYm/QVC_DE_Plus.png" group-title="Vendas",0510 QVC Extra (Vendas)
-				https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_extra_clean/bitrate1.isml/3/prog_index.m3u8
-
-		#EXTINF:-1,0511 Shop Channel (Vendas)(Japão)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/haxODm/Shop_Channel.jpg" group-title="Vendas",0511 Shop Channel (Vendas)(Japão)
-				http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-
-		#EXTINF:-1,0513 QVC Style UK
-			#EXTINF:-1 tvg-logo="" group-title="",0513 QVC Style UK
-				https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_style_clean/bitrate1.isml/3/prog_index.m3u8
-
-		#EXTINF:-1,QVC UK
-			#EXTINF:-1 tvg-logo="" group-title="",QVC UK
-				http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
-
-		#EXTINF:-1,QVC UK +1
-			#EXTINF:-1 tvg-logo="" group-title="",QVC UK +1
-				https://d1txbbj1u9asam.cloudfront.net/hera/remote/qvcuk_primary_sdi1/2/prog_index.m3u8
-
-		#EXTINF:-1,0512 TSC - Online Shopping for Canadians
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/chQUKR/Shop_Channel.png" group-title="Vendas",0512 TSC - Online Shopping for Canadians
-				
-
-		#EXTINF:-1,0514 Shop 24 (Russia)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kiw5R6/Shop_24.jpg" group-title="Vendas",0514 Shop 24 (Russia)
-				
-				
-		#EXTINF:-1,0515 TVSN (Vendas) 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hmmTeR/TVSN.jpg" group-title="Vendas",0515 TVSN (Vendas) 
-				http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
-
-		#EXTINF:-1,0516 HSE 24 EXTRA 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/i3FX66/HSE_24_EXTRA.png" group-title="Vendas",0516 HSE 24 EXTRA 
-				
-
-		#EXTINF:-1,0517 HSE 24
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/itOwYm/HSE_24.png" group-title="Vendas",0517 HSE 24
-				
-
-		#EXTINF:-1,0518 Japanet Channel DX
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/Zf5H96K/jp-japanet-channel-dx.jpg" group-title="Vendas",0518 Japanet Channel DX
-				http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-
-		#EXTINF:-1,0519 The Shopping Channel (Canada)(Vendas)
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",0519 The Shopping Channel (Canada)(Vendas)
-				http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-
-		#EXTINF:-1,0520 Shopping Channel (ISRAEL)
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",0520 Shopping Channel (ISRAEL)
-				
-
-		#EXTINF:-1,JML Direct
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",JML Direct
-				
-
-		#EXTINF:-1,Ideal World
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",Ideal World
-				
-
-		#EXTINF:-1,Create and Craft
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",Create and Craft
-				
-
-		#EXTINF:-1,Cruise 1st TV
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",Cruise 1st TV
-				https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",
-				
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",
-				
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",
-				
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",
-				
-
-				
