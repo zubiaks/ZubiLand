@@ -18,10 +18,10 @@
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white]Religiao[/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<channel><name>[B][COLOR white]Religião[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/HCkwvy6/015-Religioso.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Religiao/TV.txt</externallink>
-<fanart></fanart>
+<fanart>https://i.ibb.co/MPsC7x3/Religi-o-b.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Outras Linguas[/COLOR][/B]</name>
@@ -34,12 +34,6 @@
 <thumbnail>https://i.ibb.co/XpSDk1F/vendas-b.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Vendas/TV.txt</externallink>
 <fanart>https://i.ibb.co/h7NBPbd/014-Shopping-TV.jpg</fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white]Religião[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/HCkwvy6/015-Religioso.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Religiao/TV.txt</externallink>
-<fanart>https://i.ibb.co/MPsC7x3/Religi-o-b.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>

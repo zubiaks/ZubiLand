@@ -4,7 +4,7 @@
 <fanart></fanart>
 <info>Maui County Council</info></item>
 
-<item>CHANNEL 54 - AKAKŪ RED / ALL ACCESS ALL THE TIME (USA)<title>[B][/B]</title>
+<item><title>[B]CHANNEL 54 - AKAKŪ RED / ALL ACCESS ALL THE TIME (USA)[/B]</title>
 <link>https://akaku.vod.castus.tv/live/ch2.m3u8</link>
 <thumbnail>https://i.ibb.co/Bjg48wH/Channel54-147x150.png</thumbnail>
 <fanart></fanart>
