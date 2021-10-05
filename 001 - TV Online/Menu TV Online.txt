@@ -14,13 +14,13 @@
 
 <channel><name>[B][COLOR white]Informacao[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Informacao/informacao.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Religiao[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Religiao/TV.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
