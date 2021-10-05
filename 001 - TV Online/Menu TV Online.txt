@@ -12,6 +12,18 @@
 <fanart>https://i.ibb.co/hL19HwB/ingles-b.jpg</fanart>
 <info></info></channel>
 
+<channel><name>[B][COLOR white]Informacao[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white]Religiao[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
 <channel><name>[B][COLOR white]Outras Linguas[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/FWykVs5/outras-linguas.gif</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Outras%20Linguas/TV.txt</externallink>

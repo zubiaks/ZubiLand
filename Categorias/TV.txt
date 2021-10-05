@@ -1,10 +1,22 @@
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<link>$nome= Link 1</link>
+<link>$nome= Link 2</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=</link>
+
 
 Portugues
 
@@ -435,155 +447,134 @@ Vendas
 Religião
 
 
-<item><title>[B][/B]</title>
+
+<item><title>[B]CANÇÃO NOVA (Brasil)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
+<fanart>https://i.ibb.co/kQRHz0P/Cancao-Nova.png</fanart>
+<info></info></item>
+
+<item><title>[B]Novo Canal (Brasil)[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/ZKrbNJx/Novo-Canal-Brasil.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]logos tv (Espanha)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/k2dF1JP/logos-tv-espa-a.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]4E TV (Greek)(Orthodox)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://ibb.co/wSZKrBm</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Alfa Omega TV (Romanian)(Christian)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/kS7kLdG/Alfa-Omega-TV-Romanian-Christian.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]CBS (Koreia Sul)(Christian)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/M2m1yYX/CBS-Koreia-Sul-Christian.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]TV 7 Plus (Finland)(Christian)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/HxG0z3g/TV-7-Plus-Finland-Christian.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]ENLACE JUVENIL (Costa Rica)(Christian)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/qFMm5d4/ENLACE-JUVENIL-Costa-Rica-Christian.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Enlace Dominicano TV (Costa Rica)(Christian)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/qYNSYDV/Enlace-Dominicano-TV-Costa-Rica-Christian.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]CANAL EXECUTIVO (BRASIL) (Igreja Adventista do Sétimo Dia)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/jyB2vvr/CANAL-EXECUTIVO-BRASIL-Igreja-Adventista-do-S-timo-Dia.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]CJC (Brasil) (Christian)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/yQ5FLwx/CJC-RJ-Brasil-Christian.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]IMPD TV SP (Envagelica) (Brasil)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/68st3w2/IMPD-TV-SP-Envagelica-Brasil.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]REDE GOSPEL (Brasil)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/W0690tb/Igreja-REDE-GOSPEL.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]TV APARECIDA (Brasil)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/HGT1Mqf/TV-APARECIDA.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Hope channel (Poland)(Seventh-day Adventist)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/h76DHS9/Hope-channel.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Trinity TV (English)(Christian)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/3yNBSyy/Trinity-TV.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Mekkah HD (Muslim)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/MG7G70b/Mekkah-HD.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Sunnah Live HD (Muslim)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/QC48pwq/Sunnah-Live-HD.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]PUSH TV[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/nnq1RZf/PUSH-TV.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Al Minbar[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/mHxx5Rk/Al-Minbar.gif</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]CTV (Ortodoxa Copta)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/10vpvPq/logo-ctv.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
