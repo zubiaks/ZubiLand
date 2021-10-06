@@ -1,9 +1,21 @@
+
+<item><title>[B]RTP 1[/B]</title>
+<link>https://streaming-live.rtp.pt/liverepeater/smil:rtpClean1HD.smil/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/1XJJZjD/RTP-1.png</thumbnail>
+<fanart>https://i.ibb.co/wJsJT7w/rpt-1-b.png</fanart>
+<info>A RTP1 é o principal canal de televisão da RTP – Rádio e Televisão de Portugal e o primeiro canal português de rádio e televisão. É um canal generalista com componente comercial e que privilegia a ficção nacional, a informação, o desporto e o entretenimento.</info></item>
+
 <item><title>[B]SIC[/B]</title>
-<link>http://live.impresa.pt/live/sic/sic540p.m3u8$nome= SiC</link>
-<link>http://live.impresa.pt/live/sic/sic.m3u8$nome= Alternativo 1</link>
+<link>http://live.impresa.pt/live/sic/sic540p.m3u8</link>
 <thumbnail>https://i.ibb.co/NCWLKSd/sic.png</thumbnail>
 <fanart>https://i.ibb.co/PrKBKP3/sic-b.jpg</fanart>
 <info>A Sociedade Independente de Comunicação é um canal de televisão privado em Portugal. A SIC, cujas transmissões tiveram início a 6 outubro de 1992, foi o primeiro canal de televisão privado a operar em Portugal, tornando-se um contributo para a pluralidade e independência da informação.</info></item>
+
+<item><title>[B]TVI[/B]</title>
+<link>https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDIxIDExOjA6MSBQTSZoYXNoX3ZhbHVlPWwxVktGVDhPbmZnK0NUZFh1ZXduQVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNTJlNDFmNy02ZThjLTQwNzctOWZhYS04NThmYTU1ODBiNzQ=</link>
+<thumbnail>https://i.ibb.co/DKhcmYg/TVI.png</thumbnail>
+<fanart>https://i.ibb.co/S5G1MrB/tvi-b.jpg</fanart>
+<info>A TVI é um canal de televisão português. As emissões regulares do canal iniciaram-se a 20 de fevereiro de 1993, como o segundo canal privado e o quarto generalista, que nessa altura tinha o nome de "4", por ser a quarta rede nacional de televisão.</info></item>
 
 <item><title>[B]PORTO Canal[/B]</title>
 <link>https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1350687174.m3u8$nome= Porto Canal</link>
