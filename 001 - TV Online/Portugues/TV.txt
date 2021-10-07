@@ -1,21 +1,27 @@
 
-<item><title>[B]RTP 1[/B]</title>
-<link>https://streaming-live.rtp.pt/liverepeater/smil:rtpClean1HD.smil/playlist.m3u8</link>
-<thumbnail>https://i.ibb.co/1XJJZjD/RTP-1.png</thumbnail>
-<fanart>https://i.ibb.co/wJsJT7w/rpt-1-b.png</fanart>
-<info>A RTP1 é o principal canal de televisão da RTP – Rádio e Televisão de Portugal e o primeiro canal português de rádio e televisão. É um canal generalista com componente comercial e que privilegia a ficção nacional, a informação, o desporto e o entretenimento.</info></item>
-
 <item><title>[B]SIC[/B]</title>
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8</link>
 <thumbnail>https://i.ibb.co/NCWLKSd/sic.png</thumbnail>
 <fanart>https://i.ibb.co/PrKBKP3/sic-b.jpg</fanart>
 <info>A Sociedade Independente de Comunicação é um canal de televisão privado em Portugal. A SIC, cujas transmissões tiveram início a 6 outubro de 1992, foi o primeiro canal de televisão privado a operar em Portugal, tornando-se um contributo para a pluralidade e independência da informação.</info></item>
 
+<item><title>[B]SIC Internacional[/B]</title>
+<link>http://live.impresa.pt/live/sicint/sicint.m3u8</link>
+<thumbnail>https://i.ibb.co/4sBGYK3/SIC-Internacional.png</thumbnail>
+<fanart>https://i.ibb.co/fxfkvyt/sic-internacional-b.jpg</fanart>
+<info>SIC Internacional é um canal dedicado aos portugueses espalhados pelo mundo e aos países de língua oficial portuguesa. A SIC Internacional iniciou as suas emissões no dia 17 de Setembro de 1997, com o objetivo de chegar a todos os portugueses e países de língua oficial portuguesa no mundo.</info></item>
+
 <item><title>[B]TVI[/B]</title>
 <link>https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDIxIDExOjA6MSBQTSZoYXNoX3ZhbHVlPWwxVktGVDhPbmZnK0NUZFh1ZXduQVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNTJlNDFmNy02ZThjLTQwNzctOWZhYS04NThmYTU1ODBiNzQ=</link>
 <thumbnail>https://i.ibb.co/DKhcmYg/TVI.png</thumbnail>
 <fanart>https://i.ibb.co/S5G1MrB/tvi-b.jpg</fanart>
 <info>A TVI é um canal de televisão português. As emissões regulares do canal iniciaram-se a 20 de fevereiro de 1993, como o segundo canal privado e o quarto generalista, que nessa altura tinha o nome de "4", por ser a quarta rede nacional de televisão.</info></item>
+
+<item><title>[B]TVI Internacional[/B]</title>
+<link>https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDIxIDExOjA6MiBQTSZoYXNoX3ZhbHVlPUoweUd3d3VTQU9seG90ODJZKytsdkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xYzAzN2E2Zi03NWY3LTQ0ZGYtOWI5Ni0yMmU3NzQ0MjFmOWQ=</link>
+<thumbnail>https://i.ibb.co/Qr4wHZ3/TVI-Internacional.png</thumbnail>
+<fanart>https://i.ibb.co/S5G1MrB/tvi-b.jpg</fanart>
+<info>Televisão Independente Internacional é a terceira estação de televisão internacional portuguesa. Este é o terceiro canal pertencente à TVI. O canal é dirigido às comunidades portuguesas espalhadas pelo estrangeiro</info></item>
 
 <item><title>[B]PORTO Canal[/B]</title>
 <link>https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1350687174.m3u8$nome= Porto Canal</link>
@@ -43,7 +49,8 @@
 <info>A Teledifusão de Macau S.A.R.L. (TDM) (em chinês tradicional: 澳門廣播電視股份有限公司) é a empresa local responsável pela prestação do serviço público de radiodifusão sonora e televisiva em sinal aberto na Região Administrativa Especial de Macau.</info></item>
 
 <item><title>[B]ARTV[/B]</title>
-<link>https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8</link>
+<link>https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8$nome= Link 1</link>
+<link>https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8$nome= Link 2</link>
 <thumbnail>https://i.ibb.co/MPfq55B/ARTV.png</thumbnail>
 <fanart>https://i.ibb.co/yNDqCPy/ARTV-b.jpg</fanart>
 <info>ARTV, ou Canal Parlamento, é um canal público de televisão, pertence ao Estado português e transmite as reuniões plenárias da Assembleia da República. Apesar de ser um serviço público de televisão, não faz parte do operador estatal RTP.</info></item>
@@ -131,5 +138,11 @@
 <thumbnail>https://i.ibb.co/Ms8X7KY/TV-METROPOLE.png</thumbnail>
 <fanart>https://i.ibb.co/mhXrHKj/TV-METROPOLE-b.jpg</fanart>
 <info>TV Metrópole é uma emissora de televisão brasileira sediada em Caucaia, cidade do estado do Ceará. Opera no canal 16 UHF digital e é afiliada à TV Escola.</info></item>
+
+<item><title>[B]AgroBrasil TV[/B]</title>
+<link>http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
 
 
