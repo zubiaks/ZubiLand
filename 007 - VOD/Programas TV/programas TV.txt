@@ -7,7 +7,7 @@
 
 <channel><name>[B][COLOR white]Governo Sombra[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/NSpfHGK/governo-sombra.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Programas%20TV/Governo%20Sombra/governo%20sombra.txt</externallink>
 <fanart>https://i.ibb.co/7X6rZZB/governo-sombra.jpg</fanart>
 <info>PROGRAMA CUJO NOME ESTAMOS LEGALMENTE IMPEDIDOS DE DIZER
 
