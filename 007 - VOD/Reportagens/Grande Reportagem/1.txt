@@ -2,7 +2,7 @@
 
 <channel><name>[B][COLOR white]A Grande Ilusão[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Reportagens/Grande%20Reportagem/A%20Grande%20Ilus%C3%A3o.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
