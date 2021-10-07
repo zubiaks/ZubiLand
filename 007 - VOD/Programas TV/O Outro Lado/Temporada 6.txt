@@ -1,0 +1,168 @@
+
+<item><title>[B]O Outro Lado - T6E26 5/7/2021[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210705000000e026t0077/master.m3u8</info></item>
+
+<item><title>[B]O Outro Lado - T6E25 28/6/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210628230342e025t9771/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E24 21/6/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210621225936e024t3349/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E23 14/6/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_20210614100408e023t4542/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E22 7/6/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210607235935e022t9864/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E21 31/5/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210531000000e021t6475/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E20 24/5/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210524000000e020t7291/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E19 17/5/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210517000000e019t6429/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E18 10/5/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210510235935et3791/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E17 3/5/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210503235936e017t1773/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E16 26/4/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210426000000e016t1315/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E15 19/4/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210419000000e015t1525/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E14 12/4/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210412235934e014t2840/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E13 5/4/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210405235934e013t6515/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E12 29/3/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210329000000e012t6914/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E11 22/3/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210322000000e011t8490/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E10 15/3/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_20210315000000e010t3478/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E9 8/3/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_202103080000006780/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E8 1/3/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_202103010000000350/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E7 23/2/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_202102230000000413/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E6 16/2/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_202102160000008600/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E5 9/2/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_202102090000002441/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E4 2/2/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_202102090000002441/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E4 2/2/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_202102020000000119/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E3 26/1/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_202101262359488534/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E2 19/1/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_202101190000009588/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E1-1 5/1/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_1_202101050000008367/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]O Outro Lado - T6E1-2 5/1/2021[/B]</title>
+<link>https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8306/p8306_2_202101050000007118/master.m3u8</link>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info></info></item>

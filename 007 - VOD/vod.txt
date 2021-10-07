@@ -2,17 +2,17 @@
 
 <channel><name>[B][COLOR white]Documentarios[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Documentarios/Documentarios.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white]Novelas[/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Programas TV[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Programas%20TV/programas%20TV.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white]Programas TV[/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Novelas[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Novelas/novelas.txt</externallink>
 <fanart></fanart>
@@ -20,13 +20,13 @@
 
 <channel><name>[B][COLOR white]Reportagens[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Documentarios/Documentarios.txt</externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Reportagens/Reportagens.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Reportagens/Reportagens.txt</externallink>
+<externallink></externallink>
 <fanart></fanart>
 <info></info></channel>
 

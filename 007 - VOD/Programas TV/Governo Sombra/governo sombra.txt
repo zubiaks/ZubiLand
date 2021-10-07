@@ -1,6 +1,174 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<item><title>[B]Governo Sombra - 1/10/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-10-01/25f96bb3-3fc4-4c24-ac60-f1239d5670fb_programa-cujo-nome-ep5-pgm/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 24/9/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-09-25/939281e4-3754-4012-b310-970c28bddc1e_programa-cujo-nome-2409-pgm_21hv00575426/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 17/9/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-09-17/5456764c-8df0-4313-ad59-fa2294c61aa6_programa-cujo-o-nome-ep-3-pgm/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 10/9/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-09-10/39630801-a2c0-4e39-bb0b-09bfb449c1cd_programa-cujo-nome-1009-clf_21hv00543205/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 3/9/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-09-04/140131a0-b128-45b6-83b3-c3b8256631f1_programa-cujo-nome-pgm/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 23/7/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-07-24/1519ca2f-99a0-452d-bbb8-c2eb9f82e286_governo-sombra-2307-pgm/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 16/7/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-07-17/58e882e2-bbce-46f3-bd3b-fa2e33d5bc0e_governo-sombra-pgm-1607/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 9/7/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-07-10/38d8447d-e7e0-465e-b123-94927daeade0_governo-sombra-clfd-9-julho/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 2/7/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-07-02/4b5bcaa0-e5d1-4b5c-acc2-dfa862ec8ce6_gs0207_21hv00416896/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 26/6/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-06-25/bbede1f5-b901-40e6-bf7f-4c7f4843c30a_gs-25-06/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 19/6/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-06-18/35619b2b-3711-4d09-b14d-d6675f8977c8_gs-1806-pgm/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 12/6/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-06-12/7ba39e57-9a01-4fad-a5cb-186277a994d0_gs-1106-pgm/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 5/6/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-06-05/7ee92e2d-2acf-4734-92c1-b6d76185b4e2_govsombra-0406-pgm/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 29/5/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-05-29/428a44af-4881-4547-b325-040ce068136b_governo-sombra-28-05-pgm_21hv00345444/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 22/5/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-05-22/07c8c18a-1d5f-47f6-81d7-353e3d519988_gs-pgm-2105/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 14/5/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-05-15/aa229a5a-654f-4629-b559-2bee389e3075_gs1405-pgm/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 7/5/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-05-08/9fc0a870-03e3-42bf-9625-428a698ab292_gs-0705-pgm/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 30/4/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-05-01/e63c0b1a-7019-414f-959d-88872e23d364_gs3004-pgm/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 24/4/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-04-24/c1384a01-5f7f-42fc-9955-fa39a8130e1c_gs-23-04-pgm/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 16/4/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-04-16/929000ee-eb78-4cca-97a0-1c6a37c4acbe_governo-sombra-online_21hv00238507/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 10/4/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-04-10/e695e228-feb7-4aa3-8a9c-6a313b8e6bb6_governo-sombra-pgm/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 3/4/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-04-03/7fe9396d-941c-476d-81d9-1f9b68653f8a_govsombra-0204/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 27/3/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-03-26/65f09913-cf73-4337-8b6f-00234b038d08_gs-2603pgm/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 20/3/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-03-19/f0fa56b7-dc68-412b-a3cd-ebf9b52298f9_governo-sombra-pgm_21hv00175875/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 13/3/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-03-13/04748d3b-5306-4783-b133-b914c12e071e_governo-sombra-12-marc3a7o-pgm/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 18/9/2020[/B]</title>
+<link>https://videos.impresa.pt/sicnot/2020-09-19/c13efe7c-83fc-40ec-be71-15f7c3d92271_gs-1809-pgm_20hv00549411/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 11/9/2020[/B]</title>
+<link>https://videos.impresa.pt/sicnot/2020-09-12/54f9cdd2-455a-4193-a0d6-b120753a5b89_govsombrapgm_20hv00534893/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 4/9/2020[/B]</title>
+<link>https://videos.impresa.pt/sicnot/2020-09-04/c6626e4b-e90f-4c77-81a6-2066a8ae1dd3_govsombra-0409-pgm/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Governo Sombra - 28/8/2020[/B]</title>
+<link>https://videos.impresa.pt/sicnot/2020-08-28/6d08c6ed-e8f2-4dbf-bc1e-fa2f6f9f2e9a_gs-2808_20hv00509792/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7X6rZZB/governo-sombra.jpg1</thumbnail>
+<fanart>https://i.ibb.co/jL81rMV/Eixo-do-Mal1.jpg</fanart>
 <info></info></item>

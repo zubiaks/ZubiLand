@@ -6,18 +6,23 @@
 <info>Descontraído, mais ou menos descontraído ou muito descontraído. Outras vezes, nem por isso. Porque os assuntos que lançam a conversa assim o exigem. À quinta-feira, às 23:00. À volta da mesa estão Clara Ferreira Alves, Daniel Oliveira, Luís Pedro Nunes e Pedro Marques Lopes. Aurélio Gomes lança os temas. Ou as provocações. A produção é do Diogo Amador.</info></channel>
 
 <channel><name>[B][COLOR white]Governo Sombra[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/NSpfHGK/governo-sombra.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/NSpfGoverno Sombra - 1/10/2021HGK/governo-sombra.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Programas%20TV/Governo%20Sombra/governo%20sombra.txt</externallink>
 <fanart>https://i.ibb.co/7X6rZZB/governo-sombra.jpg</fanart>
 <info>PROGRAMA CUJO NOME ESTAMOS LEGALMENTE IMPEDIDOS DE DIZER
 
 Para mudar o Mundo eles mantêm-se na sombra. Ricardo Araújo Pereira, Pedro Mexia, João Miguel Tavares e Carlos Vaz Marques juntam-se na SIC Notícias às 24:00 de sexta-feira. A produção é do Diogo Amador.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<channel><name>[B][COLOR white]O Outro Lado[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
 <externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
+<info>Debate sobre a atualidade com Rui Tavares, Pedro Adão e Silva e José Eduardo Martins. Moderação de João Adelino Faria.
+
+O OUTRO LADO
+Um programa com uma nova geração que gosta de política, mas que não se deixou "triturar" pelas máquinas partidárias.
+Três personalidades com sentido crítico, que pensam e falam livremente.
+Três militantes da blogosfera que vão estar muito activos nas redes sociais, mesmo durante o programa.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
