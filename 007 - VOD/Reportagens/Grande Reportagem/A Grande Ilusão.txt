@@ -1,0 +1,30 @@
+
+<item><title>[B]A Grande Ilusão: o ódio saiu do armário 1/5[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-01-12/b0d1cc42-d7fb-4bb4-9552-8952aab1368e_gr---a-grande-ilusc3a3o-ep-1-corrigido_21hv00021842/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]A Grande Ilusão: cifrões e outros demónios 2/5[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-01-18/8090c2df-90ac-45a6-8252-40d7c2748364_gr---a-grande-ilusc3a3o-ep-2----cifrc3b5es-e-outros-demc3b3nios_21hv00031911/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]A Grande Ilusão: o esqueleto saiu do armário 3/5[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-04-01/b44ba8c8-f318-4800-ad61-55416c8995d5_gr---a-grande-ilusc3a3o---ep-3-1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]A Grande Ilusão: o Padrinho, a Madrinha e o Vizinho Espanhol 4/5[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-04-06/d211b706-60e5-4693-a23c-1ef898f79d79_gr-ep-4---a-grande-ilusc3a3o/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]A Grande Ilusão: cifrões e outros demónios 2ª edição 5/5[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-04-14/52d1e453-fab2-48b3-a7f2-2dfdb9b46deb_gr-grande-ilusao/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>

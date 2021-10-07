@@ -48,6 +48,12 @@
 <info>TV e VOD</info>
 </channel>
 
+<channel><name>[B][COLOR white]VOD[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/vod.txt</externallink>
+<fanart></fanart>
+<info></info></channel>
+
 </channels>
 
 

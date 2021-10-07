@@ -36,8 +36,9 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]France 24 (Ingles)[/B]</title>
-<link>http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8</link>
+<item><title>[B]France 24[/B]</title>
+<link>http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8$nome= France 24 (Ingles)</link>
+<link>https://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8$nome= France 24 (F)</link>
 <thumbnail>https://image.ibb.co/d8GJKQ/France_24.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -54,14 +55,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]CGTN 1 (ESP)[/B]</title>
-<link>https://livees.cgtn.com/1000e/prog_index.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]CGTN 1(en)[/B]</title>
-<link>http://news.cgtn.com/resource/live/english/cgtn-news.m3u8</link>
+<item><title>[B]CGTN 1[/B]</title>
+<link>http://news.cgtn.com/resource/live/english/cgtn-news.m3u8$nome= CGTN 1(en) 1</link>
+<link>https://live.cgtn.com/1000/prog_index.m3u8$nome= CGTN 1(en) 2</link>
+<link>https://livees.cgtn.com/1000e/prog_index.m3u8$nome=  CGTN 1 (ESP)</link>
+<link>https://livefr.cgtn.com/1000f/prog_index.m3u8$nome= CGTN (Fra)</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -80,12 +78,6 @@
 
 <item><title>[B]NBC 4 News (Washington DC)[/B]</title>
 <link>https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]TDM (Macau)(Portugues)[/B]</title>
-<link>http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -165,6 +157,91 @@
 
 <item><title>[B]alsace 20[/B]</title>
 <link>http://live.alsace20.fr/live/alsace20/alsace20/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]AL JAZEERA ENGLISH HD[/B]</title>
+<link>https://live-hls-web-aje.getaj.net/AJE/01.m3u8</link>
+<thumbnail>https://image.ibb.co/mxoqEQ/Al_Jazeera_English.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Sky News[/B]</title>
+<link>http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/latest.m3u8</link>
+<thumbnail>https://image.ibb.co/fiXYik/Sky_News.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Bloomberg TV[/B]</title>
+<link>https://dxszb7y0qye8h.cloudfront.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8$nome= Bloomberg TV Europe</link>
+<link>https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8$nome= Bloomberg TV US</link>
+<thumbnail>https://image.ibb.co/hUiAyw/BLOOMBERG_News_News_English.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TV5 MONDE (Franca)[/B]</title>
+<link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8</link>
+<thumbnail>https://image.ibb.co/ngsDeR/TV5_MONDE.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]LA 1[/B]</title>
+<link>https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_1500_av-p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TV Galícia[/B]</title>
+<link>https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ETB 1[/B]</title>
+<link>https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ETB 2[/B]</title>
+<link>https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ETB Sat[/B]</title>
+<link>https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Canal Extremadura[/B]</title>
+<link>https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
