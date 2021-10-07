@@ -32,12 +32,6 @@ Portugues
 <fanart>https://i.ibb.co/k1RcgKD/rtp-2-b.jpg</fanart>
 <info>RTP2 é o segundo canal de televisão da RTP – Rádio e Televisão de Portugal, a empresa pública de rádio e televisão. As suas emissões iniciaram-se a 25 de dezembro de 1968. Em 1992, passou a chamar-se TV2.</info></item>
 
-<item><title>[B]TVI[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/DKhcmYg/TVI.png</thumbnail>
-<fanart>https://i.ibb.co/S5G1MrB/tvi-b.jpg</fanart>
-<info>A TVI é um canal de televisão português. As emissões regulares do canal iniciaram-se a 20 de fevereiro de 1993, como o segundo canal privado e o quarto generalista, que nessa altura tinha o nome de "4", por ser a quarta rede nacional de televisão.</info></item>
-
 <item><title>[B]RTP Memoria[/B]</title>
 <link></link>
 <thumbnail>https://i.ibb.co/9rppBhs/RTP-Memoria.png</thumbnail>
@@ -68,23 +62,11 @@ Portugues
 <fanart>https://i.ibb.co/2ZNd8Qv/rtp-internacional-b.jpg</fanart>
 <info>A RTP Internacional é um canal de televisão português. Foi o primeiro canal televisivo global em língua portuguesa. Em 1992, no dia 10 de junho – Dia de Portugal –, iniciaram-se as transmissões da RTP Internacional via satélite para um território linguístico de mais de 200 milhões de habitantes.</info></item>
 
-<item><title>[B]SIC Internacional[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/4sBGYK3/SIC-Internacional.png</thumbnail>
-<fanart>https://i.ibb.co/fxfkvyt/sic-internacional-b.jpg</fanart>
-<info>SIC Internacional é um canal dedicado aos portugueses espalhados pelo mundo e aos países de língua oficial portuguesa. A SIC Internacional iniciou as suas emissões no dia 17 de Setembro de 1997, com o objetivo de chegar a todos os portugueses e países de língua oficial portuguesa no mundo.</info></item>
-
 <item><title>[B]TVI Africa[/B]</title>
 <link></link>
 <thumbnail>https://i.ibb.co/02Lzckb/rpt-africa-b.jpg</thumbnail>
 <fanart>https://i.ibb.co/ZKTpV9t/tvi-africa-b.png</fanart>
 <info>A TVI África é o segundo canal de televisão português totalmente dedicado aos países africanos. As suas transmissões iniciaram a 3 de Outubro de 2015, no mesmo dia em que a estação de televisão anuncia também o canal TVI Reality.</info></item>
-
-<item><title>[B]TVI Internacional[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/Qr4wHZ3/TVI-Internacional.png</thumbnail>
-<fanart>https://i.ibb.co/S5G1MrB/tvi-b.jpg</fanart>
-<info>Televisão Independente Internacional é a terceira estação de televisão internacional portuguesa. Este é o terceiro canal pertencente à TVI. O canal é dirigido às comunidades portuguesas espalhadas pelo estrangeiro</info></item>
 
 <item><title>[B]TPA Internacional (Angola)[/B]</title>
 <link></link>

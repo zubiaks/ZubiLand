@@ -1,300 +1,318 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 30/9/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-10-01/57c1e21e-2b00-4829-a3c9-e8df70af6dea_eixo-do-mal-3009-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 23/9/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-09-24/6c115612-62f9-44fb-8c44-eee0c4ffc13b_eixo-do-mal-2309-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 16/9/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-09-17/c33f753f-93cb-4d11-aeab-49d9dd6aa6c8_eixo-do-mal-1609-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 9/9/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-09-10/a57ada4f-1172-4994-8237-f92437b197b6_eixo-do-mal-9-set-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 2/9/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-09-03/8ae89fde-eb2b-4cdb-8a3a-8226d3986131_eixo-do-mal-0209-pgm_21hv00526898/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 22/7/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-07-23/6c9731b8-658a-4eae-b8ea-33c03cf87691_eixo-2207-pgm_21hv00459375/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 15/7/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-07-16/5125ef07-76d6-4ed3-bbd0-a63cdd9c3025_eixo-do-mal-1507-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 8/7/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-07-09/22351a65-bb65-41e4-a178-caad560a055a_eixo-do-mal/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 1/7/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-07-02/6dff9261-7619-45ee-873a-60eba4218ff2_eixo-do-mal-0107-pgm_21hv00414161/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 25/6/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-06-25/a90baa69-04fe-41c3-a508-f03baa04f2ba_eixo-do-mal-24-06_21hv00399525/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 18/6/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-06-18/0ef85485-d1f0-41d3-a989-9af5beda0c98_eixo-do-mal-pgm-1706_21hv00384952/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 10/6/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-06-11/8c530b88-1a52-41b1-ac16-f22e6bf514a0_eixo-do-mal/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 4/6/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-06-04/4630068f-7481-4e66-b7ae-70a199ba0ebf_pgm-eixo-do-mal-2b-3-junho/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 27/5/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-05-28/02462e95-b3b4-4fe5-8e0a-971ec56e45ce_eixo-do-mal-27-05-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 21/5/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-05-21/00835a4a-8ab9-42c5-8e88-4b1503db83cd_eixo-do-mal-20-05-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 13/5/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-05-14/4631ce23-96f7-480f-8232-31080ed25b8a_eixo-do-mal-pgm-1305/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 6/5/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-05-07/0dc19756-c7e3-40b0-9220-b0d1319694e0_eixo-do-mal-0605-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 30/4/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-04-30/ddbbf469-2d43-4716-933d-ffa134ab594c_eixo-do-mal-2904-pgm_21hv00267647/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 23/4/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-04-23/68511ab7-8071-40e9-8dbe-ed652f6b734b_eixo-pgm-2204_21hv00252622/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 16/4/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-04-16/a88974a6-6bd2-42bd-9d0b-cb89d8fef56c_eixo-do-mal-15-04-2021_21hv00233999/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 11/4/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-04-11/e477193d-4844-40db-81de-03f952bd4cff_eixo-do-mal-2b-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 9/4/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-04-09/0b09386d-5d58-4f17-9681-c94bcd7b279d_eixo-do-mal-0804-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 1/4/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-04-02/e148e9d5-22a0-4e24-9493-f5b237a8f4cd_eixo-do-mal-0104-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 25/3/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-03-26/76df1ed7-5ba3-4d68-8e38-a4f9b6f8f6ac_eixo-do-mal-2503-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 18/3/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-03-19/6404e6d8-498c-427e-bcc9-f010dba14838_eixo-do-mal-1803-pgm_21hv00174068/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 12/3/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-03-12/f06a0e89-2460-44af-9c8a-5cc271b4f0d7_eixo-do-mal-11-marc3a7o-pgm_21hv00153749/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 5/3/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-03-05/a273afc8-1005-4d18-abb2-d966d7093624_eixo-do-mal-pgm-0403/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 26/2/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-02-26/26a135f2-199b-495f-aa14-ad876800ff5c_eixo-do-mal-pgm-1-2502_21hv00121259/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 18/2/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-02-12/df6e2f01-8930-4216-abd4-8e03c91c148b_eixo-do-mal-pgm_21hv00091845/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 11/2/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-02-12/df6e2f01-8930-4216-abd4-8e03c91c148b_eixo-do-mal-pgm_21hv00091845/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 5/2/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-02-05/01dc3b71-3e55-4ca0-ac3b-28c0e8d35d66_eixo-0402-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 28/1/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-01-29/c8bdb4f4-f1ac-4483-8f50-f1e122b39aca_eixo-2801-pgm_21hv00062224/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 21/1/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-01-22/1e331bfb-e79b-4c6c-acda-fd2987f04fa0_eixo-2101-pgm_21hv00046170/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 14/1/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-01-15/2862ec5f-40af-451c-ba57-f9d8a9ce63b7_eixo-do-mal-pgm-14-jan_21hv00028230/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 7/1/2021[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-01-08/25b80cf8-c701-4600-a017-b1826a4fbfc0_eixo-do-mal-pgm-7-jan/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 31/12/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2021-01-02/6e5bd6c8-dcbf-4040-9f6b-81729b5cd1b0_eixo-do-mal-31-dez-ano-novo-pgm_20hv00754092/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 24/12/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-12-24/9f9c5ec4-0562-4f0c-9c92-146f0c80564f_eixo-do-mal-24-dez-pgm_20hv00757209/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 17/12/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-12-18/e9d056f9-31cb-4340-8cae-bd753239205c_eixo-do-mal-pgm-17-dez/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 10/12/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-12-11/35b97346-4f9c-45a2-b29a-5271b07860b2_eixo-do-mal-pgm-hd-distribuic3a7c3a3o-10-12-2020_20hv00732486/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 3/12/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-12-04/eee0aa5d-5adc-4dc7-bad3-dd212f64de6a_eixo-do-mal-pgm-3-dez_20hv00719971/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 26/11/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-11-27/1c211c94-13df-42dc-a587-7523caf2052f_eixo-2611-pgm_20hv00706226/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 20/11/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-11-20/597f53af-236c-4eac-83ed-850389b05449_eixo-do-mal-1911-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 13/11/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-11-13/b58ed5a8-8d56-4058-b8a7-5a98b7c31d4c_eixo-do-mal-1211-pgm_20hv00676689/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 6/11/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-11-06/39acfb09-5725-4e44-bf22-93d61d3e6d41_eixo-do-mal-5-nov-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 30/10/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-10-30/1bbed05d-b162-4f1e-9eac-3df61fdada7c_eixo-2910-pgm/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 23/10/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-10-23/80002579-df01-4603-8f95-e59dcb60ed9f_eixo-do-mal-pgm-22-out_20hv00624493/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 16/10/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-10-16/b7a38357-c7d5-4480-84fb-fa7ca11b7e45_eixo-do-mal/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 9/10/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-10-09/8e6df358-558c-4590-bfe9-785322fdee28_eixo-do-mal-pgm-8-out_20hv00594446/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 1/10/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-10-02/a8907582-cbeb-4f74-ba1d-7c7b435c6209_eixo-do-mal-1-outubro-pgm_20hv00580540/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Eixo do Mal - 25/9/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-09-25/abe88178-90c2-44a5-babd-0e3106495d27_eio-do--mal-clfd-24-set/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Eixo do Mal - 17/9/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-09-18/046eea7d-ec59-4823-b33d-85e95a529d9f_eixo-1709-pgm/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Eixo do Mal - 10/9/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-09-11/991fc1dc-ff84-4da2-8742-7412ef313afe_eixo-do-mal-10-setembro_20hv00532932/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Eixo do Mal - 4/9/2020[/B]</title>
+<link>https://video.sicnoticias.pt/sicnot/2020-09-04/0adfdb05-ee43-44b9-9a0f-7eef88a905d5_eixo-do-mal-pgm-0409/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

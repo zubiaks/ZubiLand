@@ -1,7 +1,6 @@
 <channels>
-
 <channel><name>[B][COLOR white]Eixo do Mal[/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Programas%20TV/Eixo%20do%20Mal/eixo%20do%20mal.txt</thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info></info></channel>
