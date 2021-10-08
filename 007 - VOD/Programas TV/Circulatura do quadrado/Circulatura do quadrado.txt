@@ -1,0 +1,348 @@
+
+<item><title>[B]Circulatura do quadrado - 7/7/2021[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/e/c/7/1/smil:60e63f150cf29ea8605cec71-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 30/6/2021[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/5/9/c/5/smil:60dd04980cf29ea8605b59c5-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 16/6/2021[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/6/5/7/4/smil:60ca8f210cf29ea860586574-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 9/6/2021[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/5/6/8/9/smil:60c151d30cf279ce41cb5689-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 2/6/2021[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/8/9/f/e/smil:60b8174f0cf29ea8605589fe-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 26/5/2021[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/e/7/3/7/smil:60aedf280cf254be6a70e737-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 19/5/2021[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/b/c/7/9/smil:60a5a2500cf277cf82c7bc79-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 12/5/2021[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/3/5/c/3/smil:609c6a270cf280db410835c3-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 5/5/2021[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/c/5/1/a/smil:6093ae3d0cf2b0de202dc51a-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 28/4/2021[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/e/0/e/e/smil:6089f3110cf277cf82c3e0ee-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 21/4/2021[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/a/8/d/e/smil:6080b8900cf277cf82c2a8de-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 14/4/2021[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/5/d/0/c/smil:607772380cf2b0de202a5d0c-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 9/4/2021[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/9/1/e/2/smil:6070e65a0cf2b0de202991e2-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 7/4/2021[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/5/3/e/7/smil:606e3b150cf26952d6bf53e7-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 31/3/2021[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/2/e/2/c/smil:606509ed0cf2b0de20282e2c-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 24/3/2021[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/a/f/c/9/smil:605bddd80cf280db40ffafc9-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 17/3/2021[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/8/1/e/5/smil:6052a3650cf26952d6bb81e5-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 10/3/2021[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/8/c/8/1/smil:604969460cf280db40fc8c81-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 3/3/2021[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/4/3/8/b/smil:604031410cf255f226ff438b-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 24/2/2021[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/a/a/2/a/smil:6036f3ed0cf255f226fdaa2a-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 17/2/2021[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/f/6/1/5/smil:602e37bc0cf245b9a97bf615-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 10/2/2021[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/5/6/9/9/smil:602501fb0cf245b9a97a5699-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 3/2/2021[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/6/2/b/9/smil:601b44bb0cf2951d9a0962b9-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 27/1/2021[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/8/9/d/c/smil:6011faad0cf2951d9a0789dc-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 20/1/2021[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/1/c/4/7/smil:60094cef0cf245b9a9751c47-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 13/1/2021[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/c/7/1/c/smil:5fff94020cf27e103fcac71c-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 6/1/2021[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/e/5/7/5/smil:5ff65abb0cf289c41a8ae575-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 30/12/2020[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/3/5/0/f/smil:5fee20c20cf2cc9de7f1350f-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 23/12/2020[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/a/f/3/3/smil:5fe3ea1f0cf2c7855558af33-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 16/12/2020[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/5/7/6/4/smil:5fdaac870cf2c78555575764-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 9/12/2020[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/e/1/9/9/smil:5fd170d00cf2c7855555e199-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 2/12/2020[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/b/1/a/0/smil:5fc8b9e70cf2ec6e4716b1a0-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 25/11/2020[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/7/2/2/6/smil:5fbefe160cf203abc5b37226-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 18/11/2020[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/4/e/5/2/smil:5fb5bb610cf2c78555514e52-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 11/11/2020[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/9/9/f/b/smil:5fac87af0cf203abc5b099fb-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 4/11/2020[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/a/b/4/3/smil:5fa34a710cf28e704d94ab43-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 28/10/2020[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/8/e/b/b/smil:5f9a91cd0cf203abc5ad8ebb-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 21/10/2020[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/6/1/e/2/smil:5f90c7b00cf28e704d9161e2-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 14/10/2020[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/0/5/e/e/smil:5f8782d60cf27c93db9d05ee-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 30/9/2020[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/4/b/c/a/smil:5f750be70cf27c93db9a4bca-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 23/9/2020[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/d/6/4/f/smil:5f6bd1670cf225c2355dd64f-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 16/9/2020[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/c/f/c/e/smil:5f6297620cf281a07a06cfce-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 9/9/2020[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/e/9/f/1/smil:5f595cc90cf2b3ce9d34e9f1-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 2/9/2020[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/b/c/8/d/smil:5f5022d50cf2c42d2609bc8d-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 29/7/2020[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/b/e/f/b/smil:5f221d4f0cf2dcf51aadbefb-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 22/7/2020[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/a/2/2/d/smil:5f18da0a0cf2dcf51aada22d-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 16/7/2020[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/1/9/3/8/smil:5f10da960cf2b3ce9d341938-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 8/7/2020[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/7/0/1/c/smil:5f066b6d0cf2b7bc90af701c-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 1/7/2020[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/b/5/4/d/smil:5efda3b70cf2c4d7ff3fb54d-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 25/6/2020[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/9/6/7/3/smil:5ef548d80cf2a58834219673-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 18/6/2020[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/5/e/e/8/smil:5eebf0c00cf29545b5725ee8-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 9/6/2020[/B]</title>
+<link>https://streaming-vod3.iol.pt/vod/_definst_/d/a/5/8/smil:5ee026b20cf2634381aeda58-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 2/6/2020[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/2/6/a/2/smil:5ed6d9a10cf2a588342126a2-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 27/5/2020[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/0/c/f/9/smil:5ecef05a0cf2c4d7ff3f0cf9-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 20/5/2020[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/6/b/2/b/smil:5ec5b5b10cf2634381ae6b2b-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 13/5/2020[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/b/f/e/9/smil:5ebc7aed0cf2c4d7ff3ebfe9-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 6/5/2020[/B]</title>
+<link>https://streaming-vod1.iol.pt/vod/_definst_/7/3/c/8/smil:5eb342880cf29545b57173c8-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]Circulatura do quadrado - 29/4/2020[/B]</title>
+<link>https://streaming-vod2.iol.pt/vod/_definst_/7/4/1/1/smil:5eaa09510cf2c4d7ff3e7411-L/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/wgn7FBS/Circulatura-do-quadrado.jpg</thumbnail>
+<fanart>https://i.ibb.co/cQSDRqX/Circulatura-do-quadrado1.jpg</fanart>
+<info></info></item>
