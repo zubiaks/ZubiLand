@@ -1,18 +1,13 @@
 
 <channel><name>[B][COLOR white]Temporada 6[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Programas%20TV/O%20Outro%20Lado/Temporada%206.txt</externallink>
 <fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Temporada 5[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Programas%20TV/O%20Outro%20Lado/Temporada%205.txt</externallink>
 <fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
-<externallink></externallink>
-<fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
-<info></info></channel>

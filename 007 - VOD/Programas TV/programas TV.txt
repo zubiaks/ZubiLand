@@ -15,7 +15,7 @@ Para mudar o Mundo eles mantêm-se na sombra. Ricardo Araújo Pereira, Pedro Mex
 
 <channel><name>[B][COLOR white]O Outro Lado[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Programas%20TV/O%20Outro%20Lado/O%20Outro%20Lado.txt</externallink>
 <fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
 <info>Debate sobre a atualidade com Rui Tavares, Pedro Adão e Silva e José Eduardo Martins. Moderação de João Adelino Faria.
 
@@ -24,7 +24,7 @@ Um programa com uma nova geração que gosta de política, mas que não se deixo
 Três personalidades com sentido crítico, que pensam e falam livremente.
 Três militantes da blogosfera que vão estar muito activos nas redes sociais, mesmo durante o programa.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Circulatura do quadrado[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
