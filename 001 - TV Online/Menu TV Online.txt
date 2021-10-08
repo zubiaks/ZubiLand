@@ -44,6 +44,12 @@
 
 <channel><name>[B][COLOR white]Musica[/COLOR][/B]</name>
 <thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Musica/musica.txt</externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white]Infantil[/COLOR][/B]</name>
+<thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info></info></channel>
