@@ -24,7 +24,12 @@ rtmp://wma10.fluidstream.net:1935/HistoryLab/livestream
 
 
 
+duvida
 
+#EXTINF:-1,0477 DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dYQh66/DISCOVERY_TURBO.png" group-title="CARS & AUTO",0477 DISCOVERY TURBO (Brasil)
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+				
 
 
 
