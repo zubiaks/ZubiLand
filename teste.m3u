@@ -1,3 +1,5 @@
+musica
+
 #EXTINF:-1,0452 ONE 0
 #EXTINF:-1 tvg-logo="" group-title="Musica",0452 ONE 0
 http://rtmp.one.by:1200
@@ -9,4 +11,20 @@ http://rtmp.one.by:1300
 #EXTINF:-1,0454 ONE 4 HD
 #EXTINF:-1 tvg-logo="" group-title="Musica",0454 ONE 4 HD
 http://rtmp.one.by:2300
+
+documentarios
+	
+#EXTINF:-1,0072 National Geographic
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cFQZdb/National_Geographic.gif" group-title="Documentarios",0072 National Geographic (Documentarios)
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+
+#EXTINF:-1,0466 HISTORY LAB (ITÁLIA)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf8hdj1/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria-galleryfull.jpg" group-title="Documentarios",0466 HISTORY LAB (ITÁLIA)
+rtmp://wma10.fluidstream.net:1935/HistoryLab/livestream
+
+
+
+
+
+
 
