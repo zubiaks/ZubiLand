@@ -32,9 +32,9 @@ Três militantes da blogosfera que vão estar muito activos nas redes sociais, m
 É o mais emblemático programa de comentário político do país. Com Pacheco Pereira, Ana Catarina Mendes, António Lobo Xavier e Carlos Andrade.</info></channel>
 
 <channel><name>[B][COLOR white]Isto É Gozar Com Quem Trabalha[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/TB4NdYP/IEGCQT.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Programas%20TV/IEGCQT/IEGCQT.txt</externallink>
+<fanart>https://i.ibb.co/P4ndpRm/IEGCQT1.jpg</fanart>
 <info>"Normalmente, as pessoas de quem a gente fala têm empregos a sério, ao contrário de nós. São ministros, empresários, banqueiros... Basicamente, o que a gente faz é gozar com quem trabalha" R.A.P. As entrevistas do programa Isto É Gozar Com Quem Trabalha, Quarta Variante</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>

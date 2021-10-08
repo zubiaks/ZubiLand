@@ -1,1 +1,60 @@
 
+<item><title>[B]IEGCQT - 21/3/2021[/B]</title>
+<link>https://videos.impresa.pt/sic/2021-03-21/67054cdb-f7dc-47f9-84e8-f500d6671087_20000070-013-03-hor-02.mp4/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/TB4NdYP/IEGCQT.jpg</thumbnail>
+<fanart>https://i.ibb.co/P4ndpRm/IEGCQT1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]IEGCQT - 28/2/2021[/B]</title>
+<link>https://videos.impresa.pt/sic/2021-02-28/dd3039f3-5149-4fef-a284-d94623db9b4c_20000070-010-03-hor-02.mp4/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/TB4NdYP/IEGCQT.jpg</thumbnail>
+<fanart>https://i.ibb.co/P4ndpRm/IEGCQT1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]IEGCQT - 14/2/2021[/B]</title>
+<link>https://videos.impresa.pt/sic/2021-02-14/5e229017-0f99-4047-9277-04e977936df2_22gostava-de-saber-o-que-c3a9-que-a-senhora-deputada-fez-a-quem-desenhou-aquele-grc3a1fico-da-vacinac3a7c3a3o.22/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/TB4NdYP/IEGCQT.jpg</thumbnail>
+<fanart>https://i.ibb.co/P4ndpRm/IEGCQT1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]IEGCQT - 22/11/2020[/B]</title>
+<link>https://videos.impresa.pt/sic/2020-11-22/607caac0-f9c8-4316-bd2e-6889a0f7bddb_isto-c3a9-gozar-com-quem-trabalha---22-de-novembro/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/TB4NdYP/IEGCQT.jpg</thumbnail>
+<fanart>https://i.ibb.co/P4ndpRm/IEGCQT1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]IEGCQT - 15/11/2020[/B]</title>
+<link>https://videos.impresa.pt/sic/2020-11-15/376b8e13-1cf5-4670-9b01-39406e3d0932_isto-c3a9-gozar-com-quem-trabalha---15-de-novembro/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/TB4NdYP/IEGCQT.jpg</thumbnail>
+<fanart>https://i.ibb.co/P4ndpRm/IEGCQT1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]IEGCQT - 8/11/2020[/B]</title>
+<link>https://videos.impresa.pt/sic/2020-11-08/7417339e-e847-4405-8204-76076340479b_sequence-01.mp4/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/TB4NdYP/IEGCQT.jpg</thumbnail>
+<fanart>https://i.ibb.co/P4ndpRm/IEGCQT1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]IEGCQT - 1/11/2020[/B]</title>
+<link>https://videos.impresa.pt/sic/2020-11-01/09eb4e26-3d4e-45d8-97e9-30ceec06c445_isto-c3a9-gozar-com-quem-trabalha---1-de-novembro/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/TB4NdYP/IEGCQT.jpg</thumbnail>
+<fanart>https://i.ibb.co/P4ndpRm/IEGCQT1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]IEGCQT - 18/10/2020[/B]</title>
+<link>https://videos.impresa.pt/sic/2020-10-18/9a16c1bf-c4de-4f39-8748-d12f49c5542c_isto-c3a9-gozar-com-quem-trabalha---18-de-outubro/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/TB4NdYP/IEGCQT.jpg</thumbnail>
+<fanart>https://i.ibb.co/P4ndpRm/IEGCQT1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]IEGCQT - 11/10/2020[/B]</title>
+<link>https://videos.impresa.pt/sic/2020-10-11/560af5ea-6e37-4a6e-88ba-88b887e6d80f_isto-c3a9-gozar-com-quem-trabalha---11-de-outubro/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/TB4NdYP/IEGCQT.jpg</thumbnail>
+<fanart>https://i.ibb.co/P4ndpRm/IEGCQT1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]IEGCQT - 4/10/2020[/B]</title>
+<link>https://videos.impresa.pt/sic/2020-10-04/d68f71f7-2e4c-442b-bf26-a24f363b59eb_isto-c3a9-gozar-com-quem-trabalha---4-de-outubro/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/TB4NdYP/IEGCQT.jpg</thumbnail>
+<fanart>https://i.ibb.co/P4ndpRm/IEGCQT1.jpg</fanart>
+<info></info></item>
