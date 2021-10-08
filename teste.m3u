@@ -30,6 +30,15 @@ duvida
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dYQh66/DISCOVERY_TURBO.png" group-title="CARS & AUTO",0477 DISCOVERY TURBO (Brasil)
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
 				
+novo despertar
+
+#EXTINF:-1,0494 Silence TV WORLD
+#EXTINF:-1 tvg-logo="" group-title="Temáticos",0494 Silence TV WORLD
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+
+#EXTINF:-1,Psychic Today
+#EXTINF:-1 tvg-logo="" group-title="Temáticos",Psychic Today
+https://www.youtube.com/user/PsychicToday/live
 
 
 

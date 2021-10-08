@@ -1,12 +1,24 @@
 
-<item><title>[B]Garage TV[/B]</title>
-<link>http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8</link>
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Fashion TV[/B]</title>
-<link>https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8</link>
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
