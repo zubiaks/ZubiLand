@@ -1,0 +1,90 @@
+
+<item><title>[B]Abu Dhabi Sports 1[/B]</title>
+<link>https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Abu Dhabi Sports 2[/B]</title>
+<link>https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Abu Dhabi Sports 3[/B]</title>
+<link>https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Pinguino TV[/B]</title>
+<link>http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Ovación TV[/B]</title>
+<link>http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Monterrico TV[/B]</title>
+<link>http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RED BULL TV[/B]</title>
+<link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?IMDSFULL</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]CEV TV[/B]</title>
+<link>https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Desporto",Dubai Racing[/B]</title>
+<link>http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Libyas Channel[/B]</title>
+<link>https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/tKM5hPR/wKJikLm.gif</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Dubai Sports[/B]</title>
+<link>https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Dubai Sports 2[/B]</title>
+<link>https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Dubai Sports 3[/B]</title>
+<link>http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>

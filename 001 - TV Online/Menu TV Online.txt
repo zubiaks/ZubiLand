@@ -36,7 +36,13 @@
 <fanart>https://i.ibb.co/h7NBPbd/014-Shopping-TV.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Desporto[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Desporto/Desporto.txt</externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white]Musica[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
