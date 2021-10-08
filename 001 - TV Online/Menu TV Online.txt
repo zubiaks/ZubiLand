@@ -56,11 +56,11 @@
 
 <channel><name>[B][COLOR white]Filmes e Series[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Filmes%20e%20Series/Filmes%20e%20Series.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Documentarios[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
