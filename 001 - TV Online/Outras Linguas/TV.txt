@@ -1,325 +1,1291 @@
-<item>
-<title>[B]NOME DO CANAL[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
 
-Portugues
-
-<item>
-<title>[B]RTP 1[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/1XJJZjD/RTP-1.png</thumbnail>
-<fanart>https://i.ibb.co/wJsJT7w/rpt-1-b.png</fanart>
-<info>A RTP1 é o principal canal de televisão da RTP – Rádio e Televisão de Portugal e o primeiro canal português de rádio e televisão. É um canal generalista com componente comercial e que privilegia a ficção nacional, a informação, o desporto e o entretenimento.</info>
-</item>
-<item>
-<title>[B]RTP 2[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/wg1qktX/RTP-2.png</thumbnail>
-<fanart>https://i.ibb.co/k1RcgKD/rtp-2-b.jpg</fanart>
-<info>RTP2 é o segundo canal de televisão da RTP – Rádio e Televisão de Portugal, a empresa pública de rádio e televisão. As suas emissões iniciaram-se a 25 de dezembro de 1968. Em 1992, passou a chamar-se TV2.</info>
-</item>
-<item>
-<title>[B]TVI[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/DKhcmYg/TVI.png</thumbnail>
-<fanart>https://i.ibb.co/S5G1MrB/tvi-b.jpg</fanart>
-<info>A TVI é um canal de televisão português. As emissões regulares do canal iniciaram-se a 20 de fevereiro de 1993, como o segundo canal privado e o quarto generalista, que nessa altura tinha o nome de "4", por ser a quarta rede nacional de televisão.</info>
-</item>
-<item>
-<title>[B]RTP Memoria[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/9rppBhs/RTP-Memoria.png</thumbnail>
-<fanart>https://i.ibb.co/K2PhXSX/rtp-memoria-b.jpg</fanart>
-<info>RTP Memória é o segundo canal temático da RTP – Rádio e Televisão de Portugal desenvolvido para o cabo. Trata-se de um canal generalista que retransmite os programas disponíveis do vasto arquivo de seis décadas da RTP, muitos deles verdadeiros marcos históricos da televisão feita em Portugal.</info>
-</item>
-<item>
-<title>[B]RTP Madeira[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/G2dXL8r/RTP-Madeira.png</thumbnail>
-<fanart>https://i.ibb.co/c8pXnpM/rtp-madeira-b.png</fanart>
-<info>A RTP Madeira é um canal de televisão de características regionais pertencente ao Grupo RTP - Rádio e Televisão de Portugal e assumindo a responsabilidade e a missão pela prestação do serviço público da televisão na Região Autónoma da Madeira.</info>
-</item>
-<item>
-<title>[B]RTP Acores[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/YyGCsQt/RTP-Acores.png</thumbnail>
-<fanart>https://i.ibb.co/3kmMBsm/rtp-acores-b.jpg</fanart>
-<info>A RTP Açores é um canal de televisão de características regionais pertencente ao Grupo RTP - Rádio e Televisão de Portugal e assumindo a responsabilidade e a missão pela prestação do serviço público da televisão na Região Autónoma dos Açores.</info>
-</item>
-<item>
-<title>[B]RTP Africa[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/VLtKp3V/RTP-Africa.png</thumbnail>
-<fanart>https://i.ibb.co/02Lzckb/rpt-africa-b.jpg</fanart>
-<info>A RTP África é um canal televisivo generalista coproduzido pela RTP. Destina-se aos habitantes dos países africanos de língua oficial portuguesa, às pessoas originárias desses países residentes em Portugal e aos descendentes destas últimas.</info>
-</item>
-<item>
-<title>[B]RTP Internacional[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/nLRFpdq/RTP-Internacional.png</thumbnail>
-<fanart>https://i.ibb.co/2ZNd8Qv/rtp-internacional-b.jpg</fanart>
-<info>A RTP Internacional é um canal de televisão português. Foi o primeiro canal televisivo global em língua portuguesa. Em 1992, no dia 10 de junho – Dia de Portugal –, iniciaram-se as transmissões da RTP Internacional via satélite para um território linguístico de mais de 200 milhões de habitantes.</info>
-</item>
-<item>
-<title>[B]SIC Internacional[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/4sBGYK3/SIC-Internacional.png</thumbnail>
-<fanart>https://i.ibb.co/fxfkvyt/sic-internacional-b.jpg</fanart>
-<info>SIC Internacional é um canal dedicado aos portugueses espalhados pelo mundo e aos países de língua oficial portuguesa. A SIC Internacional iniciou as suas emissões no dia 17 de Setembro de 1997, com o objetivo de chegar a todos os portugueses e países de língua oficial portuguesa no mundo.</info>
-</item>
-<item>
-<title>[B]TVI Africa[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/02Lzckb/rpt-africa-b.jpg</thumbnail>
-<fanart>https://i.ibb.co/ZKTpV9t/tvi-africa-b.png</fanart>
-<info>A TVI África é o segundo canal de televisão português totalmente dedicado aos países africanos. As suas transmissões iniciaram a 3 de Outubro de 2015, no mesmo dia em que a estação de televisão anuncia também o canal TVI Reality.</info>
-</item>
-<item>
-<title>[B]TVI Internacional[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/Qr4wHZ3/TVI-Internacional.png</thumbnail>
-<fanart>https://i.ibb.co/S5G1MrB/tvi-b.jpg</fanart>
-<info>Televisão Independente Internacional é a terceira estação de televisão internacional portuguesa. Este é o terceiro canal pertencente à TVI. O canal é dirigido às comunidades portuguesas espalhadas pelo estrangeiro</info>
-</item>
-<item>
-<title>[B]TPA Internacional (Angola)[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/mNjgrkT/TPA-Internacional.png</thumbnail>
-<fanart>https://i.ibb.co/8KKnpyZ/TPA-Internacional-Angola-b.png</fanart>
-<info>TPA Internacional é um canal de televisão por assinatura pertencente à Televisão Pública de Angola, disponível em Portugal.</info>
-</item>
-<item>
-<title>[B]TV Cabo Verde (Cabo Verde)[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/ZMySGrg/TV-Cabo-Verde.jpg</thumbnail>
-<fanart>https://i.ibb.co/6yB8Hsm/TV-Cabo-Verde-Cabo-Verde-b.jpg</fanart>
-<info>O TCV Internacional oferece-lhe a melhor programação de Cabo Verde numa emissão de 24 horas por dia que lhe dá o melhor do desporto, música, notícias, telenovelas, programas juvenis e de entretenimento.</info>
-</item>
-<item>
-<title>[B]Localvisão TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/pR6ZhgM/Localvis-o-TV.jpg</thumbnail>
-<fanart>https://i.ibb.co/RYyHwBt/Localvis-o-TV-b.jpg</fanart>
-<info>A programação da LOCAL VISÃO TV distribui-se de forma equitativa pelas várias regiões de Portugal: Desde notícias até programas de gastronomia local alentejana ou transmontana, eventos culturais no Minho ou as melhores praias do Algarve, tudo está incluído na ricamente produzida e concertada programação da LOCAL VISÃO TV.</info>
-</item>
-<item>
-<title>[B]Agueda TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/7p2qJW4/Agueda-TV.png</thumbnail>
-<fanart>https://i.ibb.co/RN5NrJd/Agueda-TV-b.jpg</fanart>
-<info>Apostando nas Novas Tecnologias da Informação, a Câmara Municipal de Águeda coloca-se na vanguarda dos municípios digitais, oferecendo à população e a todos os internautas um canal de televisão, pela Internet.</info>
-</item>
-<item>
-<title>[B]ARROIOS TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/4fy0Kzs/ARROIOS-TV.jpg</thumbnail>
-<fanart>https://i.ibb.co/jMjP29b/ARROIOS-TV-b.png</fanart>
-<info>Sejam bem-vindos ao Canal da Junta de Freguesia de Arroios!
-Aqui poderão encontrar um conjunto de trabalhos audiovisuais elaborados durante todo o mandato da atual Presidente da Junta de Freguesia de Arroios, Margarida Martins.
-O objetivo? Divulgar ARROIOS.</info>
-</item>
-<item>
-<title>[B]ESEC TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/tHB5jVY/ESEC-TV.jpg</thumbnail>
-<fanart>https://i.ibb.co/n8fnYnS/ESEC-TV-b.jpg</fanart>
-<info>Criada em 2003, a esectv é uma estrutura de produção de vídeo e televisão da Escola Superior de Educação de Coimbra, com o contributo base de professores e alunos da licenciatura em Comunicação Social, contando também com a colaboração de alunos e docentes de outras licenciaturas.</info>
-</item>
-<item>
-<title>[B]TV Globo[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/txRXSvh/TV-Globo.jpg</thumbnail>
-<fanart>https://i.ibb.co/dPmKmrz/TV-Globo-b.jpg</fanart>
-<info>TV Globo é uma rede de televisão comercial aberta brasileira. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior.</info>
-</item>
-<item>
-<title>[B]AMAZON SAT[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/WVzsBTC/amazon-sat.png</thumbnail>
-<fanart>https://i.ibb.co/ww4QkPc/AMAZON-SAT-b.jpg</fanart>
-<info>Amazon Sat é uma rede de televisão brasileira concessionada em Porto Velho, capital do estado de Rondônia, porém sediada em Manaus, capital do estado do Amazonas. Pertence à Rádio e TV do Amazonas Ltda, que também mantém as rádios CBN Amazônia e Echos, além do Portal Amazônia.</info>
-</item>
-<item>
-<title>[B]MULTITV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/sqLrrzY/MULTI-TV-Brasil.png</thumbnail>
-<fanart>FUNDO</fanart>
-<info>A MultiTV Cidades é transmitida pelo Canal 20 da NET e tem abrangência universal, oferece ao público o melhor conteúdo regional de Londrina, com uma programação variada que aborda temas como moda, gastronomia, esportes, eventos e outros. É referência quando o assunto é divulgação de marcas.</info>
-</item>
-<item>
-<title>[B]TV GUARA[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/CsHy1sH/TV-GUARA-Brasil.png</thumbnail>
-<fanart>https://i.ibb.co/HVgHCBP/TV-GUARA-b.jpg</fanart>
-<info>TV Guará é uma emissora de televisão brasileira sediada em São Luís, capital do estado do Maranhão. Opera no canal 23, e é afiliada à TV Cultura. Pertence ao Sistema Guará de Radiodifusão, de propriedade do empresário Roberto Albuquerque, do qual também fazem parte o portal de internet e a web rádio homônimos.</info>
-</item>
-<item>
-<title>[B]CANAL FUTURA[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/tHrxTjk/canal-futura.png</thumbnail>
-<fanart>https://i.ibb.co/G95tYsJ/CANAL-FUTURA-b.jpg</fanart>
-<info>Futura é um canal de televisão brasileiro. Pertence à Fundação Roberto Marinho, instituição educativa privada do conglomerado de mídia Grupo Globo. Foi inaugurado pelo jornalista Roberto Marinho em 22 de setembro de 1997 na cidade do Rio de Janeiro, capital do estado homônimo.</info>
-</item>
-<item>
-<title>[B]TV DIARIO[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/hdVmsv1/TV-DIARIO-Brasil.png</thumbnail>
-<fanart>https://i.ibb.co/NSbw8Mc/TV-DIARIO-b.jpg</fanart>
-<info>TV Diário é uma emissora de televisão brasileira sediada em Fortaleza, capital do estado do Ceará. Opera no canal 22 e pertence ao Sistema Verdes Mares, um dos maiores conglomerados de mídia do país, do qual também fazem parte a TV Verdes Mares, as rádios FM 93 e Verdes Mares, e o jornal Diário do Nordeste.</info>
-</item>
-<item>
-<title>[B]TV ESCOLA[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/Nrkzrfk/TV-ESCOLA.jpg</thumbnail>
-<fanart>https://i.ibb.co/wzBRXwD/TV-ESCOLA-b.jpg</fanart>
-<info>TV Escola é um canal de televisão brasileiro fundado no dia 4 de março de 1996. Pertence a Associação de Comunicação Educativa Roquette Pinto, uma organização social. É transmitido em algumas localidades do Brasil pelas TVs abertas e em todo o país pelas antenas parabólicas digitais e TVs por assinatura.</info>
-</item>
-<item>
-<title>[B]Pocos Tv[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/W6D8SW8/Pocos-Tv-Brasil.png</thumbnail>
-<fanart>FANART</fanart>
-<info>TV Poços é uma emissora de televisão brasileira sediada em Poços de Caldas, cidade do estado de Minas Gerais. Opera no canal 22 analógico e no 21 UHF digital e é afiliada à TV Cultura.</info>
-</item>
-<item>
-<title>[B]ANTV – TV Andradas[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/WcwTjpz/ANTV-TV-Andradas-Brasil.jpg</thumbnail>
-<fanart>https://i.ibb.co/bvdkVj8/TV-Andradas-b.jpg</fanart>
-<info>A TV Andradas é um dos principais veículos de comunicação do município, noticiando todos os fatos de interesse público, fazendo campanhas educativas e incentivando a cultura local. Aqui nosso público pode comentar, enviar sugestões, críticas e elogios. No entanto, é necessário se ter algumas regras, tais como: não aceitaremos spam, correntes ou conteúdos inadequados. Nos reservamos também o direito de remover qualquer postagem ou outro material inapropriado. Seja bem vindo! EMISSORA filiada a TV CULTURA.</info>
-</item>
-<item>
-<title>[B]TV Universitária - Canal 7 - Tupã, SP[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/TcdYTVr/TV-Universit-ria-Canal-7-Tupa-SP.jpg</thumbnail>
-<fanart>https://i.ibb.co/QQxY8Jr/TV-Universit-ria-Canal-7-Tupa-SP-b.png</fanart>
-<info>TV via internet geradora de conteúdos de Jornalismo, Esportes, Cultura, Entretenimento e Transmissões ao Vivo em Crato - CE</info>
-</item>
-<item>
-<title>[B]REDE TV[/B]</title>
+<item><title>[B]Africa[/B]</title>
 <link></link>
-<thumbnail>https://i.ibb.co/C8DGvvK/REDE-TV.jpg</thumbnail>
-<fanart>https://i.ibb.co/Tw5CkvN/REDE-TV-b.jpg</fanart>
-<info>RedeTV! é uma rede de televisão comercial brasileira com sede em Osasco, município da Região Metropolitana de São Paulo, pertencente ao Grupo Amilcare Dallevo e ao Grupo Marcelo de Carvalho.</info>
-</item>
-<item>
-<title>[B]CARIRI TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/t48kg5Y/CARIRI-TV.png</thumbnail>
-<fanart>https://i.ibb.co/Xss0wRf/CARIRI-TV-b.png</fanart>
-<info>Somos a TV CARIRI, sediada na cidade de Mauriti no Estado do Ceará e em Brejo Santo-CE, estamos na BRISANET no canal 178 com programação 24h por dia.</info>
-</item>
-<item>
-<title>[B]Aperipe TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/fYrWJXF/Aperipe-TV.gif</thumbnail>
-<fanart>https://i.ibb.co/q0qsMyh/Aperipe-TV-b.jpg</fanart>
-<info>TV Aperipê uma emissora de televisão brasileira sediada em Aracaju, capital do estado de Sergipe. Opera no canal 6 e é afiliada à TV Cultura. Pertence a Fundação Aperipê de Sergipe, instituição de caráter público integrante do governo estadual.</info>
-</item>
-<item>
-<title>[B]TV Paraná Turismo[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/6gFzg5N/TV-Paran-Turismo.jpg</thumbnail>
-<fanart>https://i.ibb.co/kJW6Hp5/TV-Paran-Turismo-b.jpg</fanart>
-<info>E-Paraná (Também conhecida como TVE Paraná e anteriormente Paraná Educativa), é um canal de televisão público com sede em Curitiba, no Paraná. Foi inaugurada em 1988.</info>
-</item>
-<item>
-<title>[B]G2P TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/s1sZ2jS/G2P-TV.png</thumbnail>
-<fanart>https://i.ibb.co/j5vq9Pk/G2P-TV-b.jpg</fanart>
-<info>Fundada em 05 de julho de 2012, adquirimos experiência e conhecimento técnico para atender aos mais diversos segmentos de programação ao vivo para a televisão brasileira. Atualmente estamos focados na produção e exibição de programas ao vivo no formato de “Calltv (interatividade/concurso cultural).</info>
-</item>
-<item>
-<title>[B]PUC TV Goias[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/SNfFkzB/PUC-TV-Goias.jpg</thumbnail>
-<fanart>https://i.ibb.co/cTD8Vx2/PUC-TV-Goias-b.png</fanart>
-<info>A PUC TV Goiás é uma emissora de televisão na cidade de Goiânia-Goiás. Opera nos canais 24.1 em HDTV, 24 em UHF e no 22 da Net.</info>
-</item>
-<item>
-<title>[B]TV CULTURA[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/zQTsjbb/TV-CULTURA-Brasil.png</thumbnail>
-<fanart>https://i.ibb.co/jWNq9Bf/TV-CULTURA-b.jpg</fanart>
-<info>TV Cultura é uma rede de televisão pública brasileira sediada em São Paulo, capital do estado homônimo.</info>
-</item>
-<item>
-<title>[B]TVU - TV Universitária - Recife-PE[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/f9n5N7F/TVU-TV-Universit-ria-Recife-PE-Brasil.jpg</thumbnail>
-<fanart>https://i.ibb.co/xXN6Wd5/TVU-TV-Universit-ria-Recife-PE-b.png</fanart>
-<info>TV Universitária é uma emissora de televisão brasileira sediada no Recife, capital do estado de Pernambuco. Opera no canal 11 (40 UHF digital) e é afiliada à TV Brasil. Pertence ao Núcleo de Rádio e TV Universitárias da Universidade Federal de Pernambuco, do qual também fazem parte as rádios Paulo Freire e Universitária FM. Foi inaugurada em 1968, sendo a primeira emissora de TV educativa criada no país.</info>
-</item>
-<item>
-<title>[B]Rede Atividade[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/WWHKVsM/Rede-Atividade.jpg</thumbnail>
-<fanart>https://i.ibb.co/rb7npmk/Rede-Atividade-b.jpg</fanart>
-<info>INFO</info>
-</item>
-<item>
-<title>[B]Rede Minas[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/CMXY5jP/Rede-Minas.png</thumbnail>
-<fanart>https://i.ibb.co/WHLNWZf/Rede-Minas-b.jpg</fanart>
-<info>Rede Minas é uma rede de televisão pública aberta brasileira sediada em Belo Horizonte, capital do estado de Minas Gerais. Pertence à Empresa Mineira de Comunicação, órgão do governo estadual, também mantenedora da Rádio Inconfidência.</info>
-</item>
-<item>
-<title>[B]TV Cidade Verde[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/f9jXVzs/TV-Cidade-Verde.png</thumbnail>
-<fanart>https://i.ibb.co/KFxp4K6/TV-Cidade-Verde-b.jpg</fanart>
-<info>A TV Cidade Verde é uma emissora de televisão brasileira sediada em Teresina, capital do Piauí. Opera no canal 5 e é afiliada ao SBT. A emissora faz parte do Grupo Cidade Verde que integra, ainda, o portal Cidadeverde.com, as rádios Cidade Verde e CV Mais FM e o aplicativo CV Play.</info>
-</item>
-<item>
-<title>[B]TV Diario do Sertao[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/Bt4JCHf/TV-Diario-do-Sertao.jpg</thumbnail>
-<fanart>https://i.ibb.co/njw2yvW/TV-Diario-do-Sertao-b.jpg</fanart>
-<info>TV Diário é uma emissora de televisão brasileira sediada em Fortaleza, capital do estado do Ceará. Opera no canal 22 (23 UHF digital) e pertence ao Sistema Verdes Mares, um dos maiores conglomerados de mídia do país, do qual também fazem parte a TV Verdes Mares, as rádios FM 93 e Verdes Mares, e o jornal Diário do Nordeste. É conhecida pela composição de sua programação, com produção inteiramente local, voltada ao público nordestino.</info>
-</item>
-<item>
-<title>[B]SBT[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/DGVWNsy/SBT.png</thumbnail>
-<fanart>https://i.ibb.co/FnfL6qx/SBT-b.jpg</fanart>
-<info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.</info>
-</item>
-
-
-Vendas
-
-<item>
-<title>[B]Canal do Boi[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/yWjNFNs/Canal-do-Boi.jpg</thumbnail>
-<fanart>https://i.ibb.co/vkLpjwD/Canal-do-Boi-b.jpg</fanart>
-<info>Canal do Boi é uma emissora de televisão brasileira cuja grande parte de sua programação é destinada a leilões de animais, como bois, cabras e cavalos e também destina a programação para assuntos do agronegócio. Faz parte da rede Sistema Brasileiro do Agronegócio, junto ao Agro Canal.</info>
-</item>
-
-
-Religioso
-
-<item>
-<title>[B]Way TV[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/t4qyVvV/way-TV.png</thumbnail>
+<thumbnail>https://image.ibb.co/d9jgfR/017_Africa.jpg</thumbnail>
 <fanart></fanart>
-<info>A Way TV é um Canal de Televisão produzido pela Supernatural Media Netework.</info>
-</item>
-<item>
-<title>[B]novo tempo[/B]</title>
-<link>link DO ARQUIVO .m3u8/TS/F4MTESTER</link>
-<thumbnail>https://i.ibb.co/dMFsSkF/novo-tempo.png</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>Bem-vindo à Novo Tempo Portugal, um canal que transmite esperança! Juntos vamos descobrir os tesouros fantásticos da Palavra de Deus, vamos refletir no Seu amor e vamos adorar o nosso Criador. Obrigado por visitar o nosso canal, subscreva-o e faça parte desta comunidade!</info>
-</item>
+<info></info></item>
+
+<item><title>[B]RTV - Rwanda[/B]</title>
+<link>http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Vision 4 (Africa)[/B]</title>
+<link>http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
 
 
+
+<item><title>[B]Albania[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/gJ09Zm/Albania.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Alemanha[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/c1bBfR/Alemanha.gif</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]NDR HD (Alemao)[/B]</title>
+<link>http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8</link>
+<thumbnail>https://image.ibb.co/eN2xDk/NDR_HD_Alemao.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]BLK Regional TV (Germany)[/B]</title>
+<link>rtmp://62.113.210.250/medienasa-live/BLKonline_high</link>
+<thumbnail>https://image.ibb.co/jMsLUQ/BLK_Regional_TV_Germany.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Elbekanal Schönebeck (Germany)[/B]</title>
+<link>rtmp://62.113.210.250/medienasa-live/elbe_high</link>
+<thumbnail>https://image.ibb.co/g0vyJk/Elbekanal_Sch_nebeck_Germany.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]HALLE TV (Germany)[/B]</title>
+<link>rtmp://62.113.210.250/medienasa-live/tvhalle_high</link>
+<thumbnail>https://image.ibb.co/comKr5/HALLE_TV_Germany.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]1-2-3 TV (Germany)(Vendas)[/B]</title>
+<link>http://123tv.cdn.ses-ps.com/index.m3u8</link>
+<thumbnail>https://image.ibb.co/mLKhr6/1_2_3_TV_Germany.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Baden TV [Alemanha][/B]</title>
+<link>http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8</link>
+<thumbnail>https://image.ibb.co/hBDW3m/Baden_TV_Alemanha.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]MDF.1[/B]</title>
+<link>http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Austria[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/ePj8S6/Austria.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Arábia Saudita[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/bYS1fR/Ar_bia_Saudita.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Armenia[/B]</title>
+<link>https://image.ibb.co/dJvXn6/Armenia.png</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Argentina[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/fmGSLR/Argentina.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]eitb.eus (Argentina)[/B]</title>
+<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
+<thumbnail>https://image.ibb.co/hmLbYm/eitb_eus.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Canal 26[/B]</title>
+<link>http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis$nome= Canal 26</link>
+<link>http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis$nome= Canal 26 (Alternativa)</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TLX[/B]</title>
+<link>http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Multivisión Federal (Argentina)(Espanhol)[/B]</title>
+<link>http://panel.dattalive.com:1935/8250/8250/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]5TV Corrientes[/B]</title>
+<link>http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8</link>
+<thumbnail>https://i.ibb.co/3sYWvTR/5tv-Corrientes.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Channel 10 – Río Negro[/B]</title>
+<link>http://panel.dattalive.com:1935/8204/8204/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Canal 9 Salta[/B]</title>
+<link>http://panel.dattalive.com:1935/8250/8250/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Medios Rioja[/B]</title>
+<link>http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Litus | HD[/B]</title>
+<link>http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Bahrain[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Belarus[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Stolicnoe TV (Belarus)[/B]</title>
+<link>http://86.57.147.236/HLS/ctvby/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Belgica[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/itTP0R/Belgica.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]BOLIVIA[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/fCqF76/BOLIVIA.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Bósnia[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RTRS Plus (Bósnia)[/B]</title>
+<link>https://parh.rtrs.tv/plus/plus/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Bulgaria[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/eidP0R/Bulgaria.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Caribbean[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/cv0ZZm/Caribbean.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Chéquia[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/wBRJ7Ms/vlajka-k-lodi-cr.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Elektrika TV[/B]</title>
+<link>http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/k5LZZ93/elektrika-tv.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Chile[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/jYQCLR/Chile.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Televisión Nacional de Chile[/B]</title>
+<link>http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]UESTV | Red de Televisión Universidades del Estado de Chile[/B]</title>
+<link>http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]China[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]台GoodTVHD2[/B]</title>
+<link>http://live.streamingfast.net/osmflivech3.m3u8</link>
+<thumbnail>https://i.ibb.co/cYM30yF/Good-tv.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]台GoodTV2[/B]</title>
+<link>http://live.streamingfast.net/osmflivech2.m3u8</link>
+<thumbnail>https://i.ibb.co/cYM30yF/Good-tv.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]台GoodTV1[/B]</title>
+<link>http://live.streamingfast.net/osmflivech1.m3u8</link>
+<thumbnail>https://i.ibb.co/cYM30yF/Good-tv.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Croacia[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/ZdM2YLV/1200px-Flag-of-Croatia-svg.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Colômbia[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Costa Rica[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/TwwHyqp/1200px-Flag-of-Costa-Rica-state-svg-1.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Ticavision[/B]</title>
+<link>http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/Zkfw06k.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Coreia Sul[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/eeRK0R/Coreia_Sul.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Arirang[/B]</title>
+<link>http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Curdistão[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rudaw[/B]</title>
+<link>https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Dinamarca[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/jbQm595/200px-Flag-of-Denmark-svg.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]BRONHOLM[/B]</title>
+<link>http://live.tv2bornholm.dk/stream/live/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Das Erste[/B]</title>
+<link>https://mcdn.daserste.de/daserste/int/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Dubai[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Equador[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Egypt[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/n63cn6/Egypt.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]El Salvador[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Pc9KPqf/elsalvador.gif</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]wowtv el salvador[/B]</title>
+<link>http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/Jj6bZf8/wow-tv.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Eslovénia[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Eslováquia[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/dm1DS6/Eslov_quia.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]BARDEJOV TV (Eslováquia)[/B]</title>
+<link>rtmp://s1.media-planet.sk:80/live/bardejov1</link>
+<thumbnail>https://image.ibb.co/mJt8ik/BARDEJOV_TV_Slovakia.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]JOJ TV[/B]</title>
+<link>https://nn.geo.joj.sk/live/hls/joj-720.m3u8</link>
+<thumbnail>https://i.ibb.co/DbZLmvN/193px-Joj-logo-2015.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Espanha[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/jjHbfR/Espanha.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]CANAL 10 EMPORDA (Espanha)(Catalunha)[/B]</title>
+<link>http://ventdelnord.tv:8080/escala/directe.m3u8</link>
+<thumbnail>https://image.ibb.co/dBqXOm/CANAL_10_EMPORDA.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TV GALICIA[/B]</title>
+<link>http://europa-crtvg.flumotion.com/playlist.m3u8</link>
+<thumbnail>https://image.ibb.co/mHd0tm/TV_GALICIA.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Marti (Espanha)[/B]</title>
+<link>http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ETB 1 (Espanha)[/B]</title>
+<link>http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ETB 2 (Espanha)[/B]</title>
+<link>http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]EITB.EUS (Espanha)[/B]</title>
+<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Murcia (Espanha)[/B]</title>
+<link>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8</link>
+<thumbnail>https://i.ibb.co/d0K46cb/LOGO.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Canal Parlamento (Espanha)[/B]</title>
+<link>http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Emporda TV (Espanha)[/B]</title>
+<link>http://ventdelnord.tv:8080/escala/directe.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Vega Baja TV (Espanha)[/B]</title>
+<link>http://185.29.68.24/tvb.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TV Galicia America (Espanha)[/B]</title>
+<link>http://america-crtvg.flumotion.com/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/jl1Nnd4.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Filandia[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/hLyRhfp/fiband.gif</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Franca[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/iDi4Zm/Franca.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RTL TVI HD[/B]</title>
+<link>http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8</link>
+<thumbnail>https://image.ibb.co/dOYYw6/RTL_TVI_HD.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]La Chaine Normande [Franca][/B]</title>
+<link>http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8</link>
+<thumbnail>https://image.ibb.co/hPv0w6/La_Chaine_Normande_Franca.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]BIP TV (Franca)[/B]</title>
+<link>https://biptv.tv/live/biptvstream_orig/index.m3u8</link>
+<thumbnail>https://i.ibb.co/1r9yDdM/Bip-TV-logo.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Grand Lille TV (Franca)[/B]</title>
+<link>http://str81.creacast.com/grandlilletv/high/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Grand Littoral TV[/B]</title>
+<link>https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]BX1 (Franca)[/B]</title>
+<link>https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Alsace 20 (Franca)[/B]</title>
+<link>http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Francophonie 24 (Franca)[/B]</title>
+<link>http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Grecia[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/g97sLR/Greece.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Vouli TV[/B]</title>
+<link>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RIKSAT CY[/B]</title>
+<link>http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Holanda[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/kvjuZm/Holanda.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Omroep West[/B]</title>
+<link>http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/4W7fr1v/Omroep-West.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]HONDURAS[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/4RRDKjK/Vlag-Honduras.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TEN Honduras[/B]</title>
+<link>http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]INDIA[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/n4Q3im/INDIA.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Lok Sabha TV [India][/B]</title>
+<link>http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8</link>
+<thumbnail>https://image.ibb.co/jXfHb6/Lok_Sabha_TV_India.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ABP Ananda (INDIA)[/B]</title>
+<link>http://bengaliabp-lh.akamaihd.net/i/abpbanglanew_1@192108/master.m3u8</link>
+<thumbnail>https://i.ibb.co/30fbkSL/abp-ananada.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Desi Channel (INDIA)[/B]</title>
+<link>http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/RzJygqQ/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Israel[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/c28tS6/Israel.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Islândia[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Irão[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Lh1fJwQ/flag-400.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Radio Farda[/B]</title>
+<link>http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8</link>
+<thumbnail>https://i.ibb.co/K502xd0/logo.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]VoA (Irão)[/B]</title>
+<link>http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8</link>
+<thumbnail>https://i.ibb.co/Vt3tMNd/loz0o-Zbi-Ru-Wlx5cs-Wg-CR-VOA-FARSI-LIVESTATION-1.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Simay-Azadi Iran National TV[/B]</title>
+<link>https://sima-i.akamaihd.net/hls/live/624111/sima/03.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Italy[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/kjP076/Italian.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][Video Brescia (Italian)/B]</title>
+<link>http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8</link>
+<thumbnail>https://image.ibb.co/m65QjQ/Video_Brescia_Italian.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]CANALE 7 (Italy)[/B]</title>
+<link>http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8</link>
+<thumbnail>https://image.ibb.co/k20K4R/CANALE_7_Italy.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]DMAX (Italy)[/B]</title>
+<link>https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8</link>
+<thumbnail>https://i.ibb.co/YdknMYx/dmax.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]CAFETV24 (Italy)[/B]</title>
+<link>http://srv3.meway.tv:1957/cafe/live/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TV 2000 (Italy)[/B]</title>
+<link>http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Canale 10 (Italy)[/B]</title>
+<link>http://37.187.142.147:1935/ch10live/high.stream/live.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]SuperTV (Italy)[/B]</title>
+<link>http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]teleMonteneve (Italy)[/B]</title>
+<link>http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]telePAVIA (Italy)[/B]</title>
+<link>http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Jamaica[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/gkWf76/Jamaica.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Kazakhstan[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/bCW2LR/Kazakhstan.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Kuwait[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]letônia[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/LRNQzp0/Latvia-flag.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TV Net[/B]</title>
+<link>http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8</link>
+<thumbnail>https://i.ibb.co/jvcYY0L/tvnet.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Líbia[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/DDfzMqr/nova-bandeira-da-libia.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Luxembourg[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/rxwHw8r/lularge.gif</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Macau[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Macedonia[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/cQkq76/Macedonia.gif</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Marrocos[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/fjs3S6/Marrocos.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Malta[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Mexico[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/bzZBEm/Mexico.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RCG 2[/B]</title>
+<link>http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/hxpSI0R.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RCG 3[/B]</title>
+<link>http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/LEBQ8B5.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RTQ Queretaro[/B]</title>
+<link>http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Canal 10 Cancun[/B]</title>
+<link>http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]canal once[/B]</title>
+<link>http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8</link>
+<thumbnail>https://i.ibb.co/9gz8wqF/once-1.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]MEX: RCG 3 TV[/B]</title>
+<link>http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Canal 10 Chetumal | HD[/B]</title>
+<link>http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8</link>
+<thumbnail>https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Monaco[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/jB9YS6/Monaco.gif</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Luxury HD[/B]</title>
+<link>http://nano.teleservice.su:8080/hls/luxury.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]montreal[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ICI Canal international HD[/B]</title>
+<link>https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Moldávia[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/cNhz1v3/flagge-moldawien.gif</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Moldova[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/cUrf76/Moldova.gif</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Nepal[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/bKnRfR/Nepal.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Noruega[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Bj466rJ/norway-1-3-1.gif</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Kanal 10[/B]</title>
+<link>http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/7CNzknz/600x600bb.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Stortinget[/B]</title>
+<link>http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Nova Zelandia[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Bf5HVpN/bandeira-da-nova-zelandia.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Wairarapa TV[/B]</title>
+<link>http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/Wg9JSYH/Wairarapa-TV.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Paraguay[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Paquistão[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/7SRgTxY/900px-Flag-of-Pakistan-svg.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Eye 95 TV (US)[/B]</title>
+<link>http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8</link>
+<thumbnail>https://i.ibb.co/jyZRkPN/16lycyo.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Peru[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Canal BHtv[/B]</title>
+<link>http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Monterrico TV[/B]</title>
+<link>http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Central TV Perú[/B]</title>
+<link>http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]OVACION SD[/B]</title>
+<link>http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Polonia[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]República Checa[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]MICROVISION HD[/B]</title>
+<link>http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]República Dominicana[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/f8M2LR/Rep_blica_Dominicana.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Telenord 8[/B]</title>
+<link>http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8</link>
+<thumbnail>https://image.ibb.co/kNp3UR/Telenord_8.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]MicroVision Canal 10[/B]</title>
+<link>http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Romania[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/d6pBEm/Romania.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]B1 TV[/B]</title>
+<link>http://stream.adunity.com/b1/b1_640-.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Bucovina TV Suceava[/B]</title>
+<link>http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Realitatea Plus[/B]</title>
+<link>https://live.realitatea.net/livertmp/plus/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Speranta TV[/B]</title>
+<link>http://amsix214.streamkit.tv/edge/_definst_/sperantatv_1200/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]VP[/B]</title>
+<link>http://89.38.8.130:39437</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Russia[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/j9U6fR/Russia.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Mir (Russia)[/B]</title>
+<link>http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Mir HD (Russia)[/B]</title>
+<link>http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Mir (+4) (Russia)[/B]</title>
+<link>http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]mir 24 (Russo)[/B]</title>
+<link>http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8</link>
+<thumbnail>https://image.ibb.co/eX8cOm/mir_24.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TRO Soyuz (Russia)[/B]</title>
+<link>http://live2.mediacdn.ru/sr1/tro/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]CP Info[/B]</title>
+<link>http://109.68.40.67/life/magnolia.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Muz Sojuz (Russia)[/B]</title>
+<link>http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Nastoyashcheye Vremya (Russia)[/B]</title>
+<link>http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Novyj Mir (Russia)[/B]</title>
+<link>http://stream.studio360.tv/nw/nw_576p/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Prosveshhenie (Russia)[/B]</title>
+<link>http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Singapore[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Suica[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/j3FtDBs/image.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Suécia[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/cGSgEm/Su_cia.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Syria[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/huXL76/Syria.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]taiwan[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/cVxL76/taiwan.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Turquia[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/kErf76/Turquia.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]IBB TV[/B]</title>
+<link>rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1</link>
+<thumbnail>https://i.ibb.co/0rkCdS5/xcrRa9Y.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TV 41[/B]</title>
+<link>rtmp://stream.taksimbilisim.com/tv41/bant1</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TV 52[/B]</title>
+<link>rtmp://stream.taksimbilisim.com/tv52/bant1</link>
+<thumbnail>https://i.ibb.co/56FjFjp/L6GE7ZG.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Ucrania[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/kM6rEm/Ucrania.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]K1[/B]</title>
+<link>http://109.68.40.67/life/k1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Uruguai[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Venezuela[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/fJ6oS6/Venezuela.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Telesur[/B]</title>
+<link>http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8</link>
+<thumbnail>https://www.telesurtv.net/english/pages/Especiales/EN-Vzla-DECIDE/images/teleSUR-Logo2013-horizontal.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Vietnam[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/jxKa76/Vietnam.gif</thumbnail>
+<fanart></fanart>
+<info></info></item>
 
 

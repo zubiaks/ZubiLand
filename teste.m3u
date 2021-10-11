@@ -23,6 +23,14 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 rtmp://wma10.fluidstream.net:1935/HistoryLab/livestream
 
 
+religiao
+
+#EXTINF:-1,0549 CNA-SAT (Nord Africaine)(protestant Christian)(Arabic)(Berber)(French)
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cOpNuQ/CNA_SAT_Nord_Africaine.jpg" group-title="Africa",0549 CNA-SAT (Nord Africaine)(protestant Christian)(Arabic)(Berber)(French)
+rtmp://str81.creacast.com:80/cna/live.sdp
+
+
+
 
 duvida
 
@@ -40,5 +48,42 @@ http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Temáticos",Psychic Today
 https://www.youtube.com/user/PsychicToday/live
 
+radio tv 
+
+
+#EXTINF:-1,CANAL EP elpinguino (Chile)
+#EXTINF:-1 tvg-logo="" group-title="",elpinguino (Radio)
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
+
+UCSG Radio TV (Equador)
+#EXTINF:-1 tvg-logo="" group-title="",UCSG Radio TV
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+				
+		#EXTINF:-1,Radio 51 TV (Italy)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/QMtghnS/Radio51-20-Music-TV-20133.png" group-title="Italian",Radio 51 TV (Italy)
+				http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+								
+
+<item><title>[B]Carina TV (Italy)[/B]</title>
+<link>http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+		#EXTINF:-1,Radio Iglesias (Italy)
+			#EXTINF:-1 tvg-logo="" group-title="Italian",Radio Iglesias (Italy)
+				http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+				
+<item><title>[B]Radio Italia TV (Italy)[/B]</title>
+<link>http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Radio Pilatus TV[/B]</title>
+<link>https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
 
 

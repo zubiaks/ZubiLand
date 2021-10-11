@@ -74,7 +74,7 @@
 
 <channel><name>[B][COLOR white]24 Horas[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/24h/24h.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
