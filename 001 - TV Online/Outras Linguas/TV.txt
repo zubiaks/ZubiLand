@@ -25,12 +25,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 
 
 <item><title>[B]Alemanha[/B]</title>
