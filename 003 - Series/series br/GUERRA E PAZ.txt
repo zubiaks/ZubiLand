@@ -1,0 +1,108 @@
+
+<item><title>[B]GUERRA E PAZ EP.01[/B]</title>
+<link>https://ia601209.us.archive.org/34/items/GUERRAEPAZEPISODIO01/GUERRA%20E%20PAZ%20EPISODIO%2001.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.02[/B]</title>
+<link>https://ia801205.us.archive.org/24/items/GUERRAEPAZEPISODIO02/GUERRA%20E%20PAZ%20EPISODIO%2002.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.03[/B]</title>
+<link>https://ia601205.us.archive.org/15/items/GUERRAEPAZEPISODIO03/GUERRA%20E%20PAZ%20EPISODIO%2003.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.04[/B]</title>
+<link>https://ia801200.us.archive.org/5/items/GUERRAEPAZEPISODIO04/GUERRA%20E%20PAZ%20EPISODIO%2004.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.05[/B]</title>
+<link>https://ia601207.us.archive.org/19/items/GUERRAEPAZEPISODIO05/GUERRA%20E%20PAZ%20EPISODIO%2005.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.06[/B]</title>
+<link>https://ia601201.us.archive.org/25/items/GUERRAEPAZEPISODIO06/GUERRA%20E%20PAZ%20EPISODIO%2006.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.07[/B]</title>
+<link>https://ia801208.us.archive.org/5/items/GUERRAEPAZEPISODIO07/GUERRA%20E%20PAZ%20%20EPIS%C3%93DIO%2007.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.08[/B]</title>
+<link>https://ia801203.us.archive.org/27/items/GUERRAEPAZEPISODIO08/GUERRA%20E%20PAZ%20EPISODIO%2008.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.09[/B]</title>
+<link>https://ia601202.us.archive.org/35/items/GUERRAEPAZEPISODIO09/GUERRA%20E%20PAZ%20EPISODIO%2009.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.10[/B]</title>
+<link>https://ia601203.us.archive.org/4/items/GUERRAEPAZEPISODIO10/GUERRA%20E%20PAZ%20EPISODIO%2010.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.11[/B]</title>
+<link>https://ia801202.us.archive.org/9/items/GUERRAEPAZEPISODIO11/GUERRA%20E%20PAZ%20EPISODIO%2011.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.12[/B]</title>
+<link>https://ia801209.us.archive.org/35/items/GUERRAEPAZEPISODIO12/GUERRA%20E%20PAZ%20EPISODIO%2012.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.13[/B]</title>
+<link>https://ia601204.us.archive.org/25/items/GUERRAEPAZEPISODIO13/GUERRA%20E%20PAZ%20EPISODIO%2013.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.14[/B]</title>
+<link>https://ia801206.us.archive.org/6/items/GUERRAEPAZEPISODIO14/GUERRA%20E%20PAZ%20EPISODIO%2014.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.15[/B]</title>
+<link>https://ia801208.us.archive.org/33/items/GUERRAEPAZEPISODIO15/GUERRA%20E%20PAZ%20EPISODIO%2015.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.16[/B]</title>
+<link>https://ia801207.us.archive.org/26/items/GUERRAEPAZEPISODIO16/GUERRA%20E%20PAZ%20EPISODIO%2016.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.17[/B]</title>
+<link>https://ia801206.us.archive.org/0/items/GUERRAEPAZEPISODIO17/GUERRA%20E%20PAZ%20EPISODIO%2017.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]GUERRA E PAZ EP.FINAL 18[/B]</title>
+<link>https://ia801203.us.archive.org/9/items/GUERRAEPAZEPISODIO18FINAL/GUERRA%20E%20PAZ%20EPISODIO%2018%20FINAL.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info></info></item>

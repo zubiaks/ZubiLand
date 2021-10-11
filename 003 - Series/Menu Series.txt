@@ -3,7 +3,7 @@
 <channel>
 <name>[B][COLOR white]Series PT e BR[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/003%20-%20Series/Series%20PT%20e%20BR.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -11,7 +11,7 @@
 <channel>
 <name>[B][COLOR white]Series Legendadas[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/003%20-%20Series/Series%20Legendadas.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -19,7 +19,7 @@
 <channel>
 <name>[B][COLOR white]SERIES Sem Legendas[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/003%20-%20Series/SERIES%20Sem%20Legendas.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>

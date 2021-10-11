@@ -1,25 +1,20 @@
-<channel>
-<name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<channel><name>[B][COLOR white]Guerra e Paz (telessérie)
+[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
 <externallink></externallink>
-<fanart></fanart>
-<info></info>
-</channel>
+<fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
+<info>Guerra e Paz é uma série da Rede Globo escrita por Carlos Lombardi, com direção de Marco Rodrigo, direção geral de Alexandre Boury, do núcleo de Roberto Talma. A primeira temporada começou a ser exibida a partir do dia 4 de julho de 2008 até o dia 24 de outubro de 2008. A série foi ao ar semanalmente no horário das 23:00 horas às sextas-feiras, logo após o Globo Repórter.</info></channel>
 
-<channel>
-<name>[B][COLOR white]Series Legendadas[/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Series Legendadas[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
-<info></info>
-</channel>
+<info></info></channel>
 
-<channel>
-<name>[B][COLOR white]SERIES Sem Legendas[/COLOR][/B]</name>
+<channel><name>[B][COLOR white]SERIES Sem Legendas[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
-<info></info>
-</channel>
+<info></info></channel>
 
 </channels>
