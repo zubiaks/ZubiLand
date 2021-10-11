@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>[B][COLOR white]Series PT e BR[/COLOR][/B]</name>
+<name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
@@ -25,14 +25,3 @@
 </channel>
 
 </channels>
-
-
-
-
-
-
-
-Codigos que pode ser útil:
-[B] texto [/B] -> Para deixar o texto em negrito 
-
-[COLOR blue] texto [/COLOR] -> Para deixar o texto com cor diferente, obs: cor deve estar em ingles e minusculo como o "blue" 

@@ -1,0 +1,121 @@
+
+<item><title>[B]Bernardo e Bianca[/B]</title>
+<link>http://content.jwplatform.com/videos/z4qdoqIw-uWIQ80NM.mp4?STANIPTV</link>
+<thumbnail>http://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-1psbiwp_c02fcd68.jpeg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ABELHA MAIA: OS JOGOS DO MEL (áudio PT-PT)[/B]</title>
+<link>https://cld.pt/dl/download/10aeeee8-e41a-4fb0-a375-fd892057fb07/Abelha%20Maia.MP4</link>
+<thumbnail>https://filmspot.com.pt/images/filmes/posters/big/1000219_pt.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]PATRULHA DE GNOMOS (áudio PT-PT)[/B]</title>
+<link>https://cld.pt/dl/download/fca28c70-d514-4002-b10f-9e50b2f57731/Patrulha.De.Gnomos.2018.avi</link>
+<thumbnail>https://filmspot.com.pt/images/filmes/posters/big/466876_pt.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]FERDINANDO (áudio PT-PT)[/B]</title>
+<link>https://cld.pt/dl/download/a977be8d-cbe6-4c7f-a963-df5a84146f6d/Ferdinand.2017.1080p.PTPT.mkv.MP4</link>
+<thumbnail>https://filmspot.com.pt/images/filmes/posters/big/364689_pt.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]PADDINGTON 2 (áudio PT-PT)[/B]</title>
+<link>https://cld.pt/dl/download/5c2a5484-7f61-450d-b46c-bedcdb115575/Paddington.2.2017.1080p.BluRay.X264-AMIABLE.MP4</link>
+<thumbnail>https://filmspot.com.pt/images/filmes/posters/big/346648_pt.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]A ESTRELA DE NATAL (áudio PT-PT)[/B]</title>
+<link>https://cld.pt/dl/download/2511486e-e352-4626-8797-51f91a59ba7f/A.Estrela.de.Natal_720p.MP4</link>
+<thumbnail>https://filmspot.com.pt/images/filmes/posters/big/355547_pt.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]O GANGUE DO PARQUE 2 (áudio PT-PT)[/B]</title>
+<link>https://cld.pt/dl/download/0b17dd97-0ab4-475d-befd-dcad5cd7eef1/O%20Gangue%20do%20Parque%202.mp4</link>
+<thumbnail>https://filmspot.com.pt/images/filmes/posters/big/335777_pt.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]A IDADE DO GELO 5: O BIG BANG (áudio PT-PT)[/B]</title>
+<link>https://cld.pt/dl/download/9b2184fc-d9de-4450-aed4-49242a321a07/Ice.Age.Collision.Course.2016.PT.ENG.720p.BluRay.x264-iFT.mkv.MP4</link>
+<thumbnail>https://filmspot.com.pt/images/filmes/posters/big/278154_pt.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]A IDADE DO GELO 3: DESPERTAR DOS DINOSSAUROS (áudio PT-PT)[/B]</title>
+<link>https://cld.pt/dl/download/0ba43024-621c-4998-bdfb-24850ae40614/A.Idade.do.Gelo.3.Despertar.dos.Dinossauros.2009.PT.ENG.720p.BluRay.x264-iNViNCiBLE.mkv.MP4</link>
+<thumbnail>https://www.tugaflix.com/imagens/1faa8dc5a76b309fc1d608bbb5421c5d.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]A IDADE DO GELO 2: DESCONGELADOS (áudio PT-PT)[/B]</title>
+<link>https://cld.pt/dl/download/28faa63e-8f98-4aec-ba01-75bc7793a57a/A.Idade.do.Gelo.2.Descongelados.2006.PT.ENG.720p.BluRay.x264-iNViNCiBLE.mkv.MP4</link>
+<thumbnail>https://www.tugaflix.com/imagens/7f2fb20dc45150de010d972e1ad63d29.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]A IDADE DO GELO (áudio PT-PT)[/B]</title>
+<link>https://cld.pt/dl/download/7a0dc253-3a8f-4ac2-b659-84ffb363231b/A.Idade.do.Gelo.2002.PT.ENG.720p.BluRay.x264-iNViNCiBLE.mkv.MP4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
