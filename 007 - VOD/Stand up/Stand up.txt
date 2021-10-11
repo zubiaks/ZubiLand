@@ -1,15 +1,3 @@
-<channels>
-
-<channel><title>[B]sem legendas[/B]</title>
-<link>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Stand%20up/sem%20legendas.txt</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></channel>
-
-</channels>
-
-<items>
-
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
@@ -39,5 +27,3 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
-
-</items>

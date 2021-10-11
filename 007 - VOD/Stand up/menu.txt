@@ -1,0 +1,15 @@
+<channels>
+
+<channel><title>[B]portugues[/B]</title>
+<link>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Stand%20up/sem%20legendas.txt</link>
+<thumbnail>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Stand%20up/sem%20legendas.txt</thumbnail>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><title>[B]sem legendas[/B]</title>
+<link>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Stand%20up/sem%20legendas.txt</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></channel>
+
+</channels>
