@@ -1,62 +1,56 @@
 <channels>
 
-<channel><name>[B][COLOR white]Infantil[/COLOR][/B]</name>
+<channel><name>[B][COLOR white]TV Infantil[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/Infantil/Infantil.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]anime pt[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/008%20-%20Infantil/anime%20pt.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]anime[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/008%20-%20Infantil/anime.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]filmes anime pt[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/008%20-%20Infantil/filmes%20anime%20pt.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]filmes anime[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/008%20-%20Infantil/filmes%20anime.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white][/COLOR]filmes pt[/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/008%20-%20Infantil/filmes%20pt.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]filmes[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/008%20-%20Infantil/filmes.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]series pt[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/008%20-%20Infantil/series%20pt.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]series[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/008%20-%20Infantil/series.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
