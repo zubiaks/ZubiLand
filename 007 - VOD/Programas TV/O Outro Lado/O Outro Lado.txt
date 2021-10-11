@@ -1,3 +1,4 @@
+<channels>
 
 <channel><name>[B][COLOR white]Temporada 6[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/qYtR636/o-outro-lado.png</thumbnail>
@@ -11,3 +12,4 @@
 <fanart>https://i.ibb.co/V2hBXw4/o-outro-lado.jpg</fanart>
 <info></info></channel>
 
+</channels>
