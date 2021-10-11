@@ -1,10 +1,9 @@
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]sem legendas[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info></info></channel>
-
 
 <item><title>[B][/B]</title>
 <link></link>

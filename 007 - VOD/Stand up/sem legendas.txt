@@ -1,4 +1,10 @@
 
+<item><title>[B]Jimmy Carr - Funny Business (2016)[/B]</title>
+<link>https://archive.org/download/JimmyCarrFunnyBusiness2016WEBDL720pMP4TDR/Jimmy%20Carr%20Funny%20Business%202016%20WEB-DL%20720p%20MP4%20-TDR-.mp4</link>
+<thumbnail>http://i.imgur.com/i5fGuKL.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
