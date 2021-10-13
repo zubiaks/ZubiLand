@@ -1,17 +1,46 @@
-<channel><name>[B][COLOR white]Guerra e Paz (telessérie)
-[/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Guerra e Paz (telessérie)[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/3S4fDST/MINI-S-RIE-GUERRA-E-PAZ1.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/003%20-%20Series/series%20br/GUERRA%20E%20PAZ.txt</externallink>
 <fanart>https://i.ibb.co/3Wj4c6Q/MINI-S-RIE-GUERRA-E-PAZ.jpg</fanart>
 <info>Guerra e Paz é uma série da Rede Globo escrita por Carlos Lombardi, com direção de Marco Rodrigo, direção geral de Alexandre Boury, do núcleo de Roberto Talma. A primeira temporada começou a ser exibida a partir do dia 4 de julho de 2008 até o dia 24 de outubro de 2008. A série foi ao ar semanalmente no horário das 23:00 horas às sextas-feiras, logo após o Globo Repórter.</info></channel>
 
-<channel><name>[B][COLOR white]Series Legendadas[/COLOR][/B]</name>
+<channel><name>[B][COLOR white]A CASA DAS 7 MULHERES[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white]SERIES Sem Legendas[/COLOR][/B]</name>
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
