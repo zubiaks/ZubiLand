@@ -2,7 +2,7 @@
 
 <channel><name>[B][COLOR white]VIVER A VIDA[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Novelas/VIVER%20A%20VIDA/menu.txt</externallink>
 <fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
 <info></info></channel>
 
