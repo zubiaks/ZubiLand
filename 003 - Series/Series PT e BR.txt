@@ -6,9 +6,9 @@
 
 <channel><name>[B][COLOR white]A CASA DAS 7 MULHERES[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/003%20-%20Series/series%20br/A%20CASA%20DAS%207%20MULHERES.txt</externallink>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
-<info></info></channel>
+<info>A Casa das Sete Mulheres é uma minissérie brasileira produzida e exibida pela TV Globo entre 7 de janeiro e 8 de abril de 2003, em 51 capítulos. Baseada no livro de mesmo título da escritora Letícia Wierzchowski, foi adaptada por Maria Adelaide Amaral e Walther Negrão, com a colaboração de Lucio Manfredi e Vincent Villari; sob direção de Teresa Lampreia e Marcos Schechtman e direção geral e de núcleo de Jayme Monjardim.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

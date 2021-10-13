@@ -1,288 +1,288 @@
 
-<item><title>[B]EP [/B]</title>
+<item><title>[B]EP 01[/B]</title>
 <link>https://ia600402.us.archive.org/30/items/ACASADASSETEMULHERESCAPTULO1/A%20CASA%20DAS%20SETE%20MULHERES%20CAP%C3%8DTULO%201.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
+<item><title>[B]EP 02[/B]</title>
 <link>https://ia600402.us.archive.org/29/items/ACASADASSETEMULHERESCAPITULO2/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%202.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 03[/B]</title>
+<link>https://ia800406.us.archive.org/20/items/ACASADASSETEMULHERESCAPITULO3/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%203.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 04[/B]</title>
+<link>https://ia800406.us.archive.org/3/items/ACASADASSETEMULHERESCAPITULO4/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%204.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 05[/B]</title>
+<link>https://ia800403.us.archive.org/10/items/ACASADASSETEMULHERESCAPITULO5/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%205.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 06[/B]</title>
+<link>https://ia600409.us.archive.org/11/items/ACASADASSETEMULHERESCAPTULO6/A%20CASA%20DAS%20SETE%20MULHERES%20CAP%C3%8DTULO%206.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 07[/B]</title>
+<link>https://ia800400.us.archive.org/32/items/ACASADASSETEMULHERESCAPITULO7/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%207.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 08[/B]</title>
+<link>https://ia800402.us.archive.org/33/items/ACASADASSETEMULHERESCAPITULO8/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%208.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 09[/B]</title>
+<link>https://ia600406.us.archive.org/11/items/ACASADASSETEMULHERESCAPITULO9/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%209.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 10[/B]</title>
+<link>https://ia800406.us.archive.org/22/items/ACASADASSETEMULHERESCAPITULO10/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2010.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 11[/B]</title>
+<link>https://ia800305.us.archive.org/30/items/ACASADASSETEMULHERESCAPITULO11/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2011.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 12[/B]</title>
+<link>https://ia800408.us.archive.org/28/items/ACASADASSETEMULHERESCAPITULO12/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2012.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 13[/B]</title>
+<link>https://ia800400.us.archive.org/30/items/ACASADASSETEMULHERESCAPITULO13/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2013.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 14[/B]</title>
+<link>https://ia600401.us.archive.org/12/items/ACASADASSETEMULHERESCAPITULO14/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2014.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 15[/B]</title>
+<link>https://ia800405.us.archive.org/18/items/ACASADASSETEMULHERESCAPITULO15/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2015.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 16[/B]</title>
+<link>https://ia600400.us.archive.org/5/items/ACASADASSETEMULHERESCAPITULO16/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2016.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 17[/B]</title>
+<link>https://ia600405.us.archive.org/14/items/ACASADASSETEMULHERESCAPITULO17/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2017.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 18[/B]</title>
+<link>https://ia800400.us.archive.org/16/items/ACASADASSETEMULHERESCAPITULO18/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2018.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 19[/B]</title>
+<link>https://ia800409.us.archive.org/20/items/ACASADASSETEMULHERESCAPITULO19/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2019.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 20[/B]</title>
+<link>https://ia600406.us.archive.org/24/items/ACASADASSETEMULHERESCAPITULO20/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2020.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 21[/B]</title>
+<link>https://ia801008.us.archive.org/12/items/ACASADASSETEMULHERESCAPITULO21/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2021.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 22[/B]</title>
+<link>https://ia800400.us.archive.org/12/items/ACASADASSETEMULHERESCAPITULO22/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2022.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 23[/B]</title>
+<link>https://ia800404.us.archive.org/27/items/ACASADASSETEMULHERESCAPITULO23/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2023.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 24[/B]</title>
+<link>https://ia800402.us.archive.org/3/items/ACASADASSETEMULHERESCAPITULO24/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2024.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 25[/B]</title>
+<link>https://ia800405.us.archive.org/5/items/ACASADASSETEMULHERESCAPITULO25/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2025.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 26[/B]</title>
+<link>https://ia800408.us.archive.org/3/items/ACASADASSETEMULHERESCAPITULO26/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2026.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 27[/B]</title>
+<link>https://ia800405.us.archive.org/21/items/ACASADASSETEMULHERESCAPITULO27/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2027.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 28[/B]</title>
+<link>https://ia600400.us.archive.org/22/items/ACASADASSETEMULHERESCAPITULO28/A%20CASA%20DAS%20SETE%20MULHERES%20-%20CAPITULO%2028.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 29[/B]</title>
+<link>https://ia800408.us.archive.org/24/items/ACASADASSETEMULHERESCAPITULO29/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2029.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 30[/B]</title>
+<link>https://ia601301.us.archive.org/26/items/ACASADASSETEMULHERESCAPITULO30/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2030.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 31[/B]</title>
+<link>https://ia800404.us.archive.org/17/items/ACASADASSETEMULHERESCAPITULO31/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2031.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 32[/B]</title>
+<link>https://ia800400.us.archive.org/5/items/ACASADASSETEMULHERESCAPITULO32/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2032.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 33[/B]</title>
+<link>https://ia800406.us.archive.org/3/items/ACASADASSETEMULHERESCAPITULO33/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2033.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 34[/B]</title>
+<link>https://ia800408.us.archive.org/20/items/ACASADASSETEMULHERESCAPITULO34/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2034.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 35[/B]</title>
+<link>https://ia800405.us.archive.org/19/items/ACASADASSETEMULHERESCAPITULO35/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2035.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 36[/B]</title>
+<link>https://ia800409.us.archive.org/9/items/ACASADASSETEMULHERESCAPITULO36/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2036.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 37[/B]</title>
+<link>https://ia800402.us.archive.org/6/items/ACASADASSETEMULHERESCAPITULO37/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2037.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 38[/B]</title>
+<link>https://ia601307.us.archive.org/11/items/ACASADASSETEMULHERESCAPITULO38/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2038.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 39[/B]</title>
+<link>https://ia800401.us.archive.org/7/items/ACASADASSETEMULHERESCAPITULO39/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2039.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 40[/B]</title>
+<link>https://ia800401.us.archive.org/13/items/ACASADASSETEMULHERESCAPITULO40/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2040.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 41[/B]</title>
+<link>https://ia800404.us.archive.org/3/items/ACASADASSETEMULHERESCAPITULO41/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2041.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 42[/B]</title>
+<link>https://ia800404.us.archive.org/35/items/ACASADASSETEMULHERESCAPITULO42/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2042.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 43[/B]</title>
+<link>https://ia800403.us.archive.org/27/items/ACASADASSETEMULHERESCAPITULO43/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2043.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 44[/B]</title>
+<link>https://ia801308.us.archive.org/22/items/ACASADASSETEMULHERESCAPITULO44/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2044.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 45[/B]</title>
+<link>https://ia800401.us.archive.org/23/items/ACASADASSETEMULHERESCAPITULO45/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2045.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 46[/B]</title>
+<link>https://ia800409.us.archive.org/22/items/ACASADASSETEMULHERESCAPITULO46/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2046.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 47[/B]</title>
+<link>https://ia800407.us.archive.org/21/items/ACASADASSETEMULHERESCAPITULO47/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2047.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>
 
-<item><title>[B]EP [/B]</title>
-<link></link>
+<item><title>[B]EP 48[/B]</title>
+<link>https://ia800408.us.archive.org/4/items/ACASADASSETEMULHERESCAPITULO48FIM/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2048%20FIM.mp4?IMDSFULL</link>
 <thumbnail>https://i.ibb.co/LrCZDsL/A-CASA-DAS-7-MULHERES.jpg</thumbnail>
 <fanart>https://i.ibb.co/NxRNvy8/A-CASA-DAS-7-MULHERES-1.jpg</fanart>
 <info></info></item>

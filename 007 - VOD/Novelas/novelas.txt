@@ -1,9 +1,12 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]VIVER A VIDA[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<externallink>$nome= 1-50</externallink>
+<externallink>$nome= 51-100</externallink>
+<externallink>$nome= 101-150</externallink>
+<externallink>$nome= 151-209</externallink>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
