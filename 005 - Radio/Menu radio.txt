@@ -1,38 +1,468 @@
-<channels>
 
-<channel>
-<name>[B][COLOR white]TV[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/VtsbvpR/TVOnline.png</thumbnail>
-<externallink>LINKS</externallink>
-<fanart>https://i.ibb.co/PwqcMCM/TVOnline-fan.jpg</fanart>
-<info>TV Online</info>
-</channel>
+<item><title>[B]Radio Antena 1[/B]</title>
+<link>http://radiocast.rtp.pt/antena180a.mp3$nome= Link 1</link>
+<link>http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8?DVR$nome= Link 2</link>
+<thumbnail>https://image.ibb.co/dOJUZm/Radio_Antena_1.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
 
-<channel>
-<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-<info>DESCRIÇÃO DA CATEGORIA</info>
-</channel>
+<item><title>[B]Radio Antena 2[/B]</title>
+<link>http://radiocast.rtp.pt/antena280a.mp3$nome= Link 1</link>
+<link>http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR$nome= Link 2</link>
+<thumbnail>https://image.ibb.co/kxbium/Radio_Antena_2.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
 
-<channel>
-<name>[B][COLOR white]SERIES[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-<info>DESCRIÇÃO DA CATEGORIA</info>
-</channel>
+<item><title>[B]Radio Antena 3[/B]</title>
+<link>http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR</link>
+<thumbnail>https://image.ibb.co/euY2n6/Radio_Antena_3.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
 
-</channels>
+<item><title>[B]Antena 1 Açores (aud)[/B]</title>
+<link>http://streaming-live-app.rtp.pt/liveradio/antena1acores80a/playlist.m3u8?DVR</link>
+<thumbnail>https://ptiptv.tk/logo?i=RDP1AC</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Antena 1 Madeira (aud)[/B]</title>
+<link>http://streaming-live-app.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8?DVR</link>
+<thumbnail>https://ptiptv.tk/logo?i=RDP1MD</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Antena 3 Madeira (aud)[/B]</title>
+<link>http://streaming-live-app.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8?DVR</link>
+<thumbnail>https://ptiptv.tk/logo?i=RDP3MD</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RDP Internacional (aud)[/B]</title>
+<link>http://streaming-live-app.rtp.pt/liveradio/rdpint80a/playlist.m3u8?DVR</link>
+<thumbnail>https://ptiptv.tk/logo?i=RDPI</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RDP África (aud)[/B]</title>
+<link>http://streaming-live-app.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8?DVR</link>
+<thumbnail>https://ptiptv.tk/logo?i=RDPA</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Antena 1 Memória (aud)[/B]</title>
+<link>http://streaming-live-app.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8?DVR</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Antena 1 Lusitânia (aud)[/B]</title>
+<link>http://streaming-live-app.rtp.pt/liveradio/lusitania80a/playlist.m3u8?DVR</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Antena 1 Vida (aud)[/B]</title>
+<link>http://streaming-live-app.rtp.pt/liveradio/vida80a/playlist.m3u8?DVR</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Antena 1 Fado (aud)[/B]</title>
+<link>http://streaming-live-app.rtp.pt/liveradio/antena1fado80a/playlist.m3u8?DVR</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Antena 2 Jazzin’ (aud)[/B]</title>
+<link>http://streaming-live-app.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8?DVR</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Antena 2 Ópera (aud)[/B]</title>
+<link>http://streaming-live-app.rtp.pt/liveradio/antena2opera80a/playlist.m3u8?DVR</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio ZigZag (aud)[/B]</title>
+<link>http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8?DVR</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]SBSR FM (aud)[/B]</title>
+<link>http://centova.radios.pt/proxy/435?mp=/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio MEO Sudoeste (aud)[/B]</title>
+<link>http://centova.radios.pt/proxy/495?mp=/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
 
 
 
+<item><title>[B]RADIOS BRASIL[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Bossa Nova[/B]</title>
+<link>http://6d9a.webradio.upx.net.br:9974/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Pagode[/B]</title>
+<link>http://6d9a.webradio.upx.net.br:9061/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Anos 2000[/B]</title>
+<link>http://6d9a.webradio.upx.net.br:9940/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Lounge[/B]</title>
+<link>http://6d9a.webradio.upx.net.br:9064/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Pop Rock[/B]</title>
+<link>http://6d9a.webradio.upx.net.br:8016/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Festa[/B]</title>
+<link>http://6d9a.webradio.upx.net.br:9070/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Música Clássica[/B]</title>
+<link>http://6d9a.webradio.upx.net.br:9970/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]New Rock[/B]</title>
+<link>http://6d9a.webradio.upx.net.br:8028/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Pop Hits[/B]</title>
+<link>http://6d9a.webradio.upx.net.br:9046/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Metal[/B]</title>
+<link>http://6d9a.webradio.upx.net.br:9898/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Trilhas Sonoras[/B]</title>
+<link>http://6d9a.webradio.upx.net.br:9896/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]BIGMIX[/B]</title>
+<link>https://servidor39-1.brlogic.com:8130/live</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Estação SAT FM[/B]</title>
+<link>http://s32.maxcast.com.br:8022/live</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Vagalume Vibe[/B]</title>
+<link>https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Vagalume Funk[/B]</title>
+<link>https://stream.vagalume.fm/hls/1470154922349875/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Vagalume Sertanejo Hits[/B]</title>
+<link>https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Vagalume Pagode[/B]</title>
+<link>https://stream.vagalume.fm/hls/147015499779090/aac.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]BH FM[/B]</title>
+<link>https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RÁDIO WEB JUAZEIRO[/B]</title>
+<link>https://s41.maxcast.com.br:8470/live</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RÁDIO WEB ÁGUA VIVA DE JUAZEIRO[/B]</title>
+<link>http://suaradio1.dyndns.ws:13548/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RÁDIO TRANSRIO 99.9 FM[/B]</title>
+<link>http://cast2.hoost.com.br:8027/live</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RÁDIO CIDADE AM 870[/B]</title>
+<link>http://r13.ciclano.io:8414/live</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RÁDIO TROPICAL SAT FM 102.5[/B]</title>
+<link>http://v3.directradios.com:9047/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RÁDIO GRANDE RIO FM 100.7[/B]</title>
+<link>http://shout35.crossradio.com.br:8058/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RÁDIO PETROLINA FM 98.3[/B]</title>
+<link>http://hd4.matutos.com.br:8324/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]RÁDIO GRANDE RIO AM 680[/B]</title>
+<link>http://v3.directradios.com:8193/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Rural 830 AM[/B]</title>
+<link>http://str.radiorural.com:8011/stream</link>
+<thumbnail>https://img.radios.com.br/radio/lg/radio14387_1439401460.JPG</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Rural 95 FM[/B]</title>
+<link>http://str.radiorural.com:8010/live</link>
+<thumbnail>https://img.radios.com.br/radio/md/radio17270_1439401503.JPG</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Jovem Pan Seridó[/B]</title>
+<link>http://wz3.dnip.com.br/93seridohd/93seridohd.stream/chunklist_w173503393.m3u8</link>
+<thumbnail>https://img.radios.com.br/radio/lg/radio14474_1535454461.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Clube do Pará 690 AM[/B]</title>
+<link>http://ice01.kshost.com.br:8000/live</link>
+<thumbnail>https://img.radios.com.br/radio/md/radio11886_1439401393.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Itatiaia 610 AM 95.7 FM[/B]</title>
+<link>http://1c3e26e6-c938-41ce-a27f-a6535039b307.8903.brasilstream.com.br:8903/stream</link>
+<thumbnail>https://img.radios.com.br/radio/md/radio14_1439400387.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
 
 
 
+<item><title>[B]Radio Internacional[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
 
-Codigos que pode ser útil:
-[B] texto [/B] -> Para deixar o texto em negrito 
+<item><title>[B]Hotmixradio 80´S[/B]</title>
+<link>http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
 
-[COLOR blue] texto [/COLOR] -> Para deixar o texto com cor diferente, obs: cor deve estar em ingles e minusculo como o "blue" 
+<item><title>[B]BTV radio (Bulgária)[/B]</title>
+<link>http://live.btvradio.bg/btv-radio.mp3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Best FM (eslovaco)[/B]</title>
+<link>http://best.streamr.ru/best-128.mp3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Chante France (France)[/B]</title>
+<link>http://stream.chantefrance.com/stream_chante_france.mp3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]THIRD ROCK RADIO MP3 (NASA)[/B]</title>
+<link>http://rfcmedia2.streamguys1.com/thirdrock.mp3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Island of Chacha (RÁDIOS AMERICANAS)[/B]</title>
+<link>https://ice55.securenetsystems.net/DASH95</link>
+<thumbnail>https://dashradio-files.s3.amazonaws.com/SPECIALBANNERS_APP_WEB/chacha_NEW.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Fireworks (RÁDIOS AMERICANAS)[/B]</title>
+<link>https://ice55.securenetsystems.net/DASH67</link>
+<thumbnail>https://dashradio-files.s3.amazonaws.com/icon_logos/FIREWORKS/fireworks_324.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Young Money (RÁDIOS AMERICANAS)[/B]</title>
+<link>https://ice55.securenetsystems.net/DASH82</link>
+<thumbnail>https://dashradio-files.s3.amazonaws.com/icon_logos/YOUNGMONEY%20/YM_324.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Cadillacc Music (RÁDIOS AMERICANAS)[/B]</title>
+<link>https://ice55.securenetsystems.net/DASH16</link>
+<thumbnail>https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/CadilaccMusic.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]1 AM Radio (RÁDIOS AMERICANAS)[/B]</title>
+<link>https://ice55.securenetsystems.net/DASH75</link>
+<thumbnail>https://s3.amazonaws.com/dashradio-files/icon_logos/1AM/NEW1AM/1am_320.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Fuego (RÁDIOS AMERICANAS)[/B]</title>
+<link>https://ice55.securenetsystems.net/DASH48</link>
+<thumbnail>https://dashradio-files.s3.amazonaws.com/icon_logos/FUEGO/fuego_324.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>

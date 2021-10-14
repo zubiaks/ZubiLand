@@ -1,0 +1,300 @@
+
+<item><title>[B]EP 01[/B]</title>
+<link>https://ia800200.us.archive.org/2/items/ViverAVida01_201603/viver%20a%20vida%2001.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 02[/B]</title>
+<link>https://ia800201.us.archive.org/14/items/ViverAVida02_201603/viver%20a%20vida%2002.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 03[/B]</title>
+<link>https://ia800203.us.archive.org/13/items/ViverAVida03/viver%20a%20vida%2003.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 04[/B]</title>
+<link>https://ia800201.us.archive.org/25/items/ViverAVida04/viver%20a%20vida%2004.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 05[/B]</title>
+<link>https://ia800206.us.archive.org/29/items/ViverAVida05/viver%20a%20vida%2005.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 06[/B]</title>
+<link>https://ia800203.us.archive.org/30/items/ViverAVida06/viver%20a%20vida%2006.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 07[/B]</title>
+<link>https://ia600209.us.archive.org/34/items/ViverAVida07/viver%20a%20vida%2007.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 08[/B]</title>
+<link>https://ia800204.us.archive.org/9/items/ViverAVida08/viver%20a%20vida%2008.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 09[/B]</title>
+<link>https://ia800201.us.archive.org/3/items/ViverAVida09/viver%20a%20vida%2009.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 10[/B]</title>
+<link>https://ia800200.us.archive.org/33/items/ViverAVida10/viver%20a%20vida%2010.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 11[/B]</title>
+<link>https://ia800206.us.archive.org/17/items/ViverAVida11/viver%20a%20vida%2011.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 12[/B]</title>
+<link>https://ia800208.us.archive.org/5/items/ViverAVida12/viver%20a%20vida%2012.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 13[/B]</title>
+<link>https://ia800201.us.archive.org/0/items/ViverAVida13/viver%20a%20vida%2013.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 14[/B]</title>
+<link>https://ia800208.us.archive.org/20/items/ViverAVida14/viver%20a%20vida%2014.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 15[/B]</title>
+<link>https://ia800200.us.archive.org/22/items/ViverAVida15/viver%20a%20vida%2015.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 16[/B]</title>
+<link>https://ia800200.us.archive.org/28/items/ViverAVida16/viver%20a%20vida%2016.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 17[/B]</title>
+<link>https://ia800208.us.archive.org/1/items/ViverAVida17/viver%20a%20vida%2017.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 18[/B]</title>
+<link>https://ia800200.us.archive.org/16/items/ViverAVida18/viver%20a%20vida%2018.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 19[/B]</title>
+<link>https://ia800200.us.archive.org/18/items/ViverAVida19/viver%20a%20vida%2019.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 20[/B]</title>
+<link>https://ia800209.us.archive.org/16/items/ViverAVida20/viver%20a%20vida%2020.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 21[/B]</title>
+<link>https://ia800207.us.archive.org/15/items/ViverAVida21/viver%20a%20vida%2021.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 22[/B]</title>
+<link>https://ia800206.us.archive.org/14/items/ViverAVida22/viver%20a%20vida%2022.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 23[/B]</title>
+<link>https://ia600205.us.archive.org/29/items/ViverAVidaCap23/Viver%20a%20Vida%20cap%2023.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 24[/B]</title>
+<link>https://ia600208.us.archive.org/6/items/ViverAVida24/viver%20a%20vida%2024.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 25[/B]</title>
+<link>https://ia800206.us.archive.org/35/items/ViverAVida25/viver%20a%20vida%2025.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 26[/B]</title>
+<link>https://ia800209.us.archive.org/20/items/ViverAVida26/viver%20a%20vida%2026.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 27[/B]</title>
+<link>https://ia800205.us.archive.org/24/items/ViverAVida27/viver%20a%20vida%2027.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 28[/B]</title>
+<link>https://ia600208.us.archive.org/23/items/ViverAVida28/viver%20a%20vida%2028.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 29[/B]</title>
+<link>https://ia800201.us.archive.org/26/items/ViverAVida29/viver%20a%20vida%2029.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 30[/B]</title>
+<link>https://ia800208.us.archive.org/20/items/ViverAVida30/viver%20a%20vida%2030.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 31[/B]</title>
+<link>https://ia600201.us.archive.org/29/items/ViverAVida31/viver%20a%20vida%2031.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 32[/B]</title>
+<link>https://ia800200.us.archive.org/19/items/ViverAVidaCap32/Viver%20a%20Vida%20cap%2032.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 33[/B]</title>
+<link>https://ia800201.us.archive.org/16/items/ViverAVida33/viver%20a%20vida%2033.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 34[/B]</title>
+<link>https://ia600206.us.archive.org/16/items/ViverAVida34/viver%20a%20vida%2034.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 35[/B]</title>
+<link>https://ia800208.us.archive.org/18/items/ViverAVida35/viver%20a%20vida%2035.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 36[/B]</title>
+<link>https://ia800201.us.archive.org/26/items/ViverAVida36/viver%20a%20vida%2036.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 37[/B]</title>
+<link>https://ia800208.us.archive.org/2/items/ViverAVida37/viver%20a%20vida%2037.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 38[/B]</title>
+<link>https://ia800205.us.archive.org/14/items/ViverAVida38/viver%20a%20vida%2038.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 39[/B]</title>
+<link>https://ia800205.us.archive.org/16/items/ViverAVida39/viver%20a%20vida%2039.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 40[/B]</title>
+<link>https://ia800208.us.archive.org/27/items/ViverAVida40/viver%20a%20vida%2040.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 41[/B]</title>
+<link>https://ia800206.us.archive.org/0/items/ViverAVidaCap41/Viver%20a%20Vida%20cap%2041.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 42[/B]</title>
+<link>https://ia600206.us.archive.org/29/items/ViverAVida42/viver%20a%20vida%2042.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 43[/B]</title>
+<link>https://ia800206.us.archive.org/5/items/ViverAVida43/viver%20a%20vida%2043.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 44[/B]</title>
+<link>https://ia800202.us.archive.org/26/items/ViverAVida44/viver%20a%20vida%2044.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 45[/B]</title>
+<link>https://ia800201.us.archive.org/17/items/ViverAVida45/viver%20a%20vida%2045.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 46[/B]</title>
+<link>https://ia600204.us.archive.org/29/items/ViverAVida46/viver%20a%20vida%2046.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 47[/B]</title>
+<link>https://ia800208.us.archive.org/19/items/ViverAVida47/viver%20a%20vida%2047.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 48[/B]</title>
+<link>https://ia800208.us.archive.org/33/items/ViverAVida48/viver%20a%20vida%2048.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 49[/B]</title>
+<link>https://ia800208.us.archive.org/34/items/ViverAVida49/viver%20a%20vida%2049.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
+
+<item><title>[B]EP 50[/B]</title>
+<link>https://ia800201.us.archive.org/18/items/ViverAVida50/viver%20a%20vida%2050.mp4?IMDSFULL</link>
+<thumbnail>https://i.ibb.co/fSpBsf2/VIVER-A-VIDA.jpg</thumbnail>
+<fanart>https://i.ibb.co/Pg7cNNt/VIVER-A-VIDA-1.jpg</fanart>
+<info></info></item>
