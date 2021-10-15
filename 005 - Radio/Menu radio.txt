@@ -2,6 +2,7 @@
 <item><title>[B]Radio Antena 1[/B]</title>
 <link>http://radiocast.rtp.pt/antena180a.mp3$nome= Link 1</link>
 <link>http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8?DVR$nome= Link 2</link>
+<link>https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8$nome= Link 3</link>
 <thumbnail>https://image.ibb.co/dOJUZm/Radio_Antena_1.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -9,12 +10,14 @@
 <item><title>[B]Radio Antena 2[/B]</title>
 <link>http://radiocast.rtp.pt/antena280a.mp3$nome= Link 1</link>
 <link>http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR$nome= Link 2</link>
+<link>https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8$nome= Link 3</link>
 <thumbnail>https://image.ibb.co/kxbium/Radio_Antena_2.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Radio Antena 3[/B]</title>
-<link>http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR</link>
+<link>http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR$nome= Link 1</link>
+<link>https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8$nome= Link 2</link>
 <thumbnail>https://image.ibb.co/euY2n6/Radio_Antena_3.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -38,13 +41,15 @@
 <info></info></item>
 
 <item><title>[B]RDP Internacional (aud)[/B]</title>
-<link>http://streaming-live-app.rtp.pt/liveradio/rdpint80a/playlist.m3u8?DVR</link>
+<link>http://streaming-live-app.rtp.pt/liveradio/rdpint80a/playlist.m3u8?DVR$nome= Link 1</link>
+<link>https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8$nome= Link 2</link>
 <thumbnail>https://ptiptv.tk/logo?i=RDPI</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]RDP África (aud)[/B]</title>
-<link>http://streaming-live-app.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8?DVR</link>
+<link>http://streaming-live-app.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8?DVR$nome= Link 1</link>
+<link>https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8$nome= Link 2</link>
 <thumbnail>https://ptiptv.tk/logo?i=RDPA</thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -86,8 +91,9 @@
 <info></info></item>
 
 <item><title>[B]Rádio ZigZag (aud)[/B]</title>
-<link>http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8?DVR</link>
-<thumbnail></thumbnail>
+<link>http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8?DVR$nome= Link 1</link>
+<link>https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8$nome= Link 2</link>
+<thumbnail>http://media.rtp.pt/refresca/wp-content/themes/refresca/includes/img/logo_RadioZigZag.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -99,6 +105,175 @@
 
 <item><title>[B]Rádio MEO Sudoeste (aud)[/B]</title>
 <link>http://centova.radios.pt/proxy/495?mp=/stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio TSF[/B]</title>
+<link>http://tsfdirecto.tsf.pt/tsfdirecto.mp3</link>
+<thumbnail>https://image.ibb.co/h9p076/Radio_TSF.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Renascença[/B]</title>
+<link>https://20723.live.streamtheworld.com/RADIO_RENASCENCAAAC</link>
+<thumbnail>https://image.ibb.co/fqPQ76/Radio_Renascen_a.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Mega Hits[/B]</title>
+<link>https://21313.live.streamtheworld.com/MEGA_HITSAAC</link>
+<thumbnail>https://image.ibb.co/jhMcLR/Radio_Mega_Hits.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio RFM[/B]</title>
+<link>https://21313.live.streamtheworld.com/RFMAAC</link>
+<thumbnail>https://image.ibb.co/hKFREm/Radio_RFM.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Super FM[/B]</title>
+<link>http://95.217.75.38:9962/;&13202692901&duration=99999&id=scplayer&autostart=true</link>
+<thumbnail>https://image.ibb.co/bDXv76/SUPER_FM.gif</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Nostalgia[/B]</title>
+<link>http://centova.radios.pt:8435</link>
+<thumbnail>http://www.radiot.fi/img/channel-logos/radio-nostalgia.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Amália[/B]</title>
+<link>http://link.radios.pt/amalia?1487014253471.mp3</link>
+<thumbnail>http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Clube Penafiel[/B]</title>
+<link>http://centova.radios.pt:9476/;</link>
+<thumbnail>http://www.radioclube-penafiel.pt/i/logo_radioclubepenafiel.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Nova Era[/B]</title>
+<link>http://centova.radios.pt:9478/</link>
+<thumbnail>https://image.ibb.co/bFXHLR/NOVA_ERA.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Regional[/B]</title>
+<link>http://streaming.radioregional.pt:8002$nome= Link 1</link>
+<link>http://streaming.radioregional.pt:8000$nome= Link 2</link>
+<thumbnail>http://i.imgur.com/0vmzhdz.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Regional Rock[/B]</title>
+<link>http://streaming.radioregional.pt:8046</link>
+<thumbnail>http://i.imgur.com/tKrKYOR.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Regional Dance & DJS[/B]</title>
+<link>http://streaming.radioregional.pt:8064</link>
+<thumbnail>http://i.imgur.com/hUrEKgu.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Regional Love Songs[/B]</title>
+<link>http://streaming.radioregional.pt:8058</link>
+<thumbnail>http://i.imgur.com/aPZ5joL.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Regional Oldies[/B]</title>
+<link>http://streaming.radioregional.pt:8052</link>
+<thumbnail>http://i.imgur.com/1zntJ9S.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Regional Portuguesa[/B]</title>
+<link>http://streaming.radioregional.pt:8040</link>
+<thumbnail>http://i.imgur.com/x48qEMX.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Marcoense FM[/B]</title>
+<link>http://137.74.160.250:8000/;stream/1</link>
+<thumbnail>http://www.marcoensefm.com/wp-content/themes/marcoense-fm/images/logo.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Nove3Cinco[/B]</title>
+<link>http://centova.radios.pt:9522/;</link>
+<thumbnail>http://nove3cinco.pt/sv/wp-content/uploads/2015/05/Nove3Cinco-Menu-Logo.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Regional Arouca[/B]</title>
+<link>http://centova.radio.com.pt:8485/;</link>
+<thumbnail>http://www.radioregionaldearouca.com/site/wp-content/uploads/2015/06/logo-radio1.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Terra Nova[/B]</title>
+<link>http://centova.radios.pt:9404/stream</link>
+<thumbnail>http://www.terranova.pt/sites/default/files/logotipoterranova.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Monsanto[/B]</title>
+<link>http://centova.radio.com.pt:9424/;</link>
+<thumbnail>http://i.imgur.com/tHi5ewx.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Castelo Branco[/B]</title>
+<link>http://centova.radio.com.pt:9462/;</link>
+<thumbnail>http://www.radiocastelobranco.pt/css/site/img/logo.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Vale do Minho[/B]</title>
+<link>http://centova.radio.com.pt:9434/;</link>
+<thumbnail>http://www.radiovaledominho.com/wp-content/uploads/2017/09/logo_rvm-01.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Hertz[/B]</title>
+<link>http://213.136.92.8:8030/stream</link>
+<thumbnail>http://radiohertz.pt/wp-content/uploads/2015/03/Logo-R%C3%A1dio-Hertz-2015-03-261-300x117.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rádio Portalegre[/B]</title>
+<link>http://centova.radios.pt:9492/stream</link>
+<thumbnail>http://www.apradiodifusao.pt/xiiicongresso/images/radios/radioportalegre.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

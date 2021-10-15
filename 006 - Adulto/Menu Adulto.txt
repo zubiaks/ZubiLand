@@ -2,37 +2,18 @@
 
 <channel>
 <name>[B][COLOR white]TV[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/VtsbvpR/TVOnline.png</thumbnail>
-<externallink>LINKS</externallink>
-<fanart>https://i.ibb.co/PwqcMCM/TVOnline-fan.jpg</fanart>
-<info>TV Online</info>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/006%20-%20Adulto/TV.txt</externallink>
+<fanart></fanart>
+<info></info>
 </channel>
 
 <channel>
-<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-<info>DESCRIÇÃO DA CATEGORIA</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SERIES[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-<info>DESCRIÇÃO DA CATEGORIA</info>
+<name>[B][COLOR white]VOD[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/006%20-%20Adulto/VOD.txt</externallink>
+<fanart></fanart>
+<info></info>
 </channel>
 
 </channels>
-
-
-
-
-
-
-
-Codigos que pode ser útil:
-[B] texto [/B] -> Para deixar o texto em negrito 
-
-[COLOR blue] texto [/COLOR] -> Para deixar o texto com cor diferente, obs: cor deve estar em ingles e minusculo como o "blue" 
