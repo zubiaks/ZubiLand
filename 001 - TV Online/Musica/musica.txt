@@ -1,6 +1,9 @@
 
-<item><title>[B]MTV HD (Alemanha)[/B]</title>
-<link>http://de1se01.v2beat.live/playlist.m3u8</link>
+<item><title>[B]MTV HD[/B]</title>
+<link>http://de1se01.v2beat.live/playlist.m3u8$nome= MTV HD (Alemanha)</link>
+<link>https://t2.tvmak.com/tv/mtvkosova.m3u8$nome= MTV Casova</link>
+<link>http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8$nome= MTV Spankin</link>
+<link>https://s02.diazol.hu:10192/stream.m3u8$nome= MTV Music</link>
 <thumbnail>https://image.ibb.co/bTthpR/MTV.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -18,7 +21,8 @@
 <info></info></item>
 
 <item><title>[B]Retro TV[/B]</title>
-<link>http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8</link>
+<link>http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8$nome= Link 1</link>
+<link>http://89.185.253.55/retrotv/retrotvHQ1/eroz_brebes.m3u8$nome= Link 2</link>
 <thumbnail>https://image.ibb.co/hFKauQ/retro_music.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -133,6 +137,240 @@
 
 <item><title>[B]COLOSAL TV[/B]</title>
 <link>http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ONE 0[/B]</title>
+<link>http://rtmp.one.by:1200</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ONE 1 HD[/B]</title>
+<link>http://rtmp.one.by:1300</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ONE 4 HD[/B]</title>
+<link>http://rtmp.one.by:2300</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Showbiz[/B]</title>
+<link>http://210.210.155.35/x6bnqe/s/s113/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]SPIRIT TV[/B]</title>
+<link>https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]XALASTRA TV[/B]</title>
+<link>https://live.cast-control.eu/xalastratv/xalastratv/eroz_brebes.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Portal Fox Mix[/B]</title>
+<link>http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/eroz_brebes.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]30A Music[/B]</title>
+<link>https://30a-tv.com/music.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Arabica Music[/B]</title>
+<link>http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Desi Channel[/B]</title>
+<link>https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Hits 360 HD[/B]</title>
+<link>http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Radio 51 Tv[/B]</title>
+<link>https://59d7d6f47d7fc.streamlock.net/canale51/canale51/eroz_brebes.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]9XM[/B]</title>
+<link>http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/eroz_brebes.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Viva[/B]</title>
+<link>http://195.9.195.19:8001/hls2/vivarussia/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Boogle Bollywood[/B]</title>
+<link>http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8?id=eroz_brebes.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Music Now[/B]</title>
+<link>https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]POP Musik[/B]</title>
+<link>https://cdn4.mbahnunungonline.net/m3u8/94a637fadb57201.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]MALEO TV[/B]</title>
+<link>https://cdn4.mbahnunungonline.net/m3u8/e22dc65d77c8885.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

@@ -254,36 +254,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 
 
 <item><title>[B]RADIOS BRASIL[/B]</title>
@@ -564,20 +534,52 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+
+
+<item><title>[B]radio tv[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]CANAL EP elpinguino (Chile)[/B]</title>
+<link>http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]UCSG Radio TV (Equador)[/B]</title>
+<link>http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Radio 51 TV (Italy)[/B]</title>
+<link>http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8</link>
+<thumbnail>https://i.ibb.co/QMtghnS/Radio51-20-Music-TV-20133.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Carina TV (Italy)[/B]</title>
+<link>http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Radio Iglesias (Italy)[/B]</title>
+<link>http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Radio Italia TV (Italy)[/B]</title>
+<link>http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Radio Pilatus TV[/B]</title>
+<link>https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

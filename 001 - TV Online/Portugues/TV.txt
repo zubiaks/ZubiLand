@@ -80,7 +80,8 @@
 <info>Rede Brasil de Televisão é uma rede de televisão aberta brasileira. Foi inaugurada em 7 de abril de 2007, e é presidida pelo advogado tributarista Marcos Tolentino. A rede é oriunda de Campo Grande, capital do estado do Mato Grosso do Sul, e está sediada em São Paulo, capital do estado homônimo.</info></item>
 
 <item><title>[B]TV Brasil[/B]</title>
-<link>http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8</link>
+<link>http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8$nome= Link 1</link>
+<link>http://200.189.113.201/hls/tve.m3u8$nome= Link 2</link>
 <thumbnail>https://i.ibb.co/mXFZhpT/TV-Brasil-Brasil.jpg</thumbnail>
 <fanart>https://i.ibb.co/pZr6PdY/TV-Brasil-b.jpg</fanart>
 <info>TV Brasil é a rede de televisão pública do Poder Executivo Brasileiro. Pertence à Empresa Brasil de Comunicação, conglomerado de mídia do governo do país.</info></item>

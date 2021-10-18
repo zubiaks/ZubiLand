@@ -271,7 +271,7 @@ Religioso
 <info>Bem-vindo à Novo Tempo Portugal, um canal que transmite esperança! Juntos vamos descobrir os tesouros fantásticos da Palavra de Deus, vamos refletir no Seu amor e vamos adorar o nosso Criador. Obrigado por visitar o nosso canal, subscreva-o e faça parte desta comunidade!</info></item>
 
 
-Igles
+Ingles
 
 <item><title>[B]Voice of America[/B]</title>
 <link></link>

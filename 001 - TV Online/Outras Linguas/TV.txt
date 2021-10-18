@@ -162,6 +162,12 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B]El Garaje TV[/B]</title>
+<link>http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 
 
 <item><title>[B]Bahrain[/B]</title>
@@ -306,6 +312,12 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B]TELE ISLAS SD[/B]</title>
+<link>http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 
 
 <item><title>[B]Costa Rica[/B]</title>
@@ -443,7 +455,8 @@
 <info></info></item>
 
 <item><title>[B]CANAL 10 EMPORDA (Espanha)(Catalunha)[/B]</title>
-<link>http://ventdelnord.tv:8080/escala/directe.m3u8</link>
+<link>http://ventdelnord.tv:8080/escala/directe.m3u8$nome= Link 1</link>
+<link>http://37.187.142.147:1935/ch10live/high.stream/live.m3u8$nome= Link 2</link>
 <thumbnail>https://image.ibb.co/dBqXOm/CANAL_10_EMPORDA.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -508,6 +521,11 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B]LANCELOT TV[/B]</title>
+<link>http://62.210.141.18:1935/directo/lancelot.television/live.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
 
 
 <item><title>[B]Filandia[/B]</title>
@@ -616,6 +634,50 @@
 
 <item><title>[B]TEN Honduras[/B]</title>
 <link>http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]indonesia[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/n4Q3im/INDIA.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]BERITA SATU[/B]</title>
+<link>http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]SIMPANG 5 TV[/B]</title>
+<link>http://122.248.43.138:1935/ch4/myStream/live.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Magna Channel[/B]</title>
+<link>https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_sleng.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]DAAI TV INDONESIA[/B]</title>
+<link>http://210.210.155.35/session/f8839692-c617-11e9-b949-c81f66f89318/qwr9ew/s/s13/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ELSHINTA TV[/B]</title>
+<link>http://210.210.155.35/qwr9ew/s/s10/02.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Jtv[/B]</title>
+<link>http://122.248.43.138:1935/ch2/myStream/live.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -760,6 +822,34 @@
 
 
 
+
+<item><title>[B]Japão[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Gem TV Asia[/B]</title>
+<link>http://210.210.155.66/h/h19/01.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]PERU[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TV PERU SD[/B]</title>
+<link>http://cdnh4.iblups.com/hls/irtp.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
 <item><title>[B]Kazakhstan[/B]</title>
 <link></link>
 <thumbnail>https://image.ibb.co/bCW2LR/Kazakhstan.png</thumbnail>
@@ -825,6 +915,26 @@
 <item><title>[B]Marrocos[/B]</title>
 <link></link>
 <thumbnail>https://image.ibb.co/fjs3S6/Marrocos.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B]Malaysia[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TV Ikim[/B]</title>
+<link>http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Janam TV (240p)[/B]</title>
+<link>https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -1209,6 +1319,12 @@
 <item><title>[B]taiwan[/B]</title>
 <link></link>
 <thumbnail>https://image.ibb.co/cVxL76/taiwan.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TITV[/B]</title>
+<link>http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 

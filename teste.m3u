@@ -1,97 +1,22 @@
-musica
-
-#EXTINF:-1,0452 ONE 0
-#EXTINF:-1 tvg-logo="" group-title="Musica",0452 ONE 0
-http://rtmp.one.by:1200
-
-#EXTINF:-1,0453 ONE 1 HD
-#EXTINF:-1 tvg-logo="" group-title="Musica",0453 ONE 1 HD
-http://rtmp.one.by:1300
-
-#EXTINF:-1,0454 ONE 4 HD
-#EXTINF:-1 tvg-logo="" group-title="Musica",0454 ONE 4 HD
-http://rtmp.one.by:2300
-
-documentarios
-	
-#EXTINF:-1,0072 National Geographic
-#EXTINF:-1 tvg-logo="https://image.ibb.co/cFQZdb/National_Geographic.gif" group-title="Documentarios",0072 National Geographic (Documentarios)
-rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-
-#EXTINF:-1,0466 HISTORY LAB (ITÁLIA)
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf8hdj1/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria-galleryfull.jpg" group-title="Documentarios",0466 HISTORY LAB (ITÁLIA)
-rtmp://wma10.fluidstream.net:1935/HistoryLab/livestream
-
-
-religiao
-
-#EXTINF:-1,0549 CNA-SAT (Nord Africaine)(protestant Christian)(Arabic)(Berber)(French)
-#EXTINF:-1 tvg-logo="https://image.ibb.co/cOpNuQ/CNA_SAT_Nord_Africaine.jpg" group-title="Africa",0549 CNA-SAT (Nord Africaine)(protestant Christian)(Arabic)(Berber)(French)
-rtmp://str81.creacast.com:80/cna/live.sdp
 
 
 
 
-duvida
-
-#EXTINF:-1,0477 DISCOVERY TURBO
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dYQh66/DISCOVERY_TURBO.png" group-title="CARS & AUTO",0477 DISCOVERY TURBO (Brasil)
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
-				
-novo despertar
-
-#EXTINF:-1,0494 Silence TV WORLD
-#EXTINF:-1 tvg-logo="" group-title="Temáticos",0494 Silence TV WORLD
-http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-
-#EXTINF:-1,Psychic Today
-#EXTINF:-1 tvg-logo="" group-title="Temáticos",Psychic Today
-https://www.youtube.com/user/PsychicToday/live
-
-radio tv 
 
 
-#EXTINF:-1,CANAL EP elpinguino (Chile)
-#EXTINF:-1 tvg-logo="" group-title="",elpinguino (Radio)
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
-
-UCSG Radio TV (Equador)
-#EXTINF:-1 tvg-logo="" group-title="",UCSG Radio TV
-http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-				
-		#EXTINF:-1,Radio 51 TV (Italy)
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/QMtghnS/Radio51-20-Music-TV-20133.png" group-title="Italian",Radio 51 TV (Italy)
-				http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-								
-
-<item><title>[B]Carina TV (Italy)[/B]</title>
-<link>http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-		#EXTINF:-1,Radio Iglesias (Italy)
-			#EXTINF:-1 tvg-logo="" group-title="Italian",Radio Iglesias (Italy)
-				http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-				
-<item><title>[B]Radio Italia TV (Italy)[/B]</title>
-<link>http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Radio Pilatus TV[/B]</title>
-<link>https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
 
 
-Classicos
-
-PT
-
-#EXTINF:0,PT: Joao Ratão [1940] - Filme Português com Vasco Santana
-https://www.youtube.com/watch?v=XEKaYMaW-Ng				
 
 
+
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CBS REALITY[/B][/COLOR]</title>
+<link>http://188.93.238.153:8000/play/a07a/index.m3u8$$lsname=CBS REALITY (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.filmon.com/channel/cbs-reality1$$lsname=CBS REALITY (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=https://www.filmon.com/channel/cbs-reality$$lsname=CBS REALITY (SD source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSREALITY.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SUNDANCE TV[/B][/COLOR]</title>
+<link>http://188.93.238.153:8000/play/a04q/index.m3u8$$lsname=SUNDANCE TV (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SUNDANCCE.png</thumbnail></item>
+Copyright © 2019 - TeamBlue
+Copyright © 2019 - TeamBlue
