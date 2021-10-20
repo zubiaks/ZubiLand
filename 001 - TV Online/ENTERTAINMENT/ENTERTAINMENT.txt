@@ -5,194 +5,198 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B]High Times TV (Bumblebee) (720p)[/B]</title>
+<link>https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Hi-YAH![/B]</title>
+<link>https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8$nome= Hi-YAH! (1080p)</link>
+<link>https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8$nome= Hi-YAH!</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Global Got Talent[/B]</title>
+<link>https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8?p=roku$nome= Global Got Talent (XUMO)</link>
+<link>https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8$nome= Global Got Talent</link><thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Gameshow Network (1080p)[/B]</title>
+<link>https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Fido TV (1080p)[/B]</title>
+<link>https://fidotv-roku.amagi.tv/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/kvdqP3H.jpg</thumbnail>
+<fanart></fanart>
+<info>English</info></item>
+
+<item><title>[B]Fear This! Sci-Fi (720p)[/B]</title>
+<link>https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8$nome= Link 1</link>
+<link>https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8$nome= Link 2</link>
+<thumbnail>https://f9q4g5j6.ssl.hwcdn.net/60627a97603dcd03ae7ed472</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ET Live (1080p)[/B]</title>
+<link>https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8</link>
+<thumbnail>http://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png</thumbnail>
+<fanart>http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8</fanart>
+<info></info></item>
+
+<item><title>[B]Estrella TV (1080p)[/B]</title>
+<link>https://estrellatv-plex.amagi.tv/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/4PiLKrm.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ESR eSports Network (1080p)[/B]</title>
+<link>https://eyeonesports.com/ES2RA-628g.m3u8</link>
+<thumbnail>https://f9q4g5j6.ssl.hwcdn.net/605d2f4c46818164091e1fd4</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Electric Now (STIRR) (1080p)[/B]</title>
+<link>https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8$nome= 1080pp</link>
+<link>https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8$nome= 1080p</link>
+<thumbnail>https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Ecran TV[/B]</title>
+<link>http://51.210.199.40/hls/stream.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]DocuBay TV (1080p)[/B]</title>
+<link>https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8</link>
+<thumbnail>https://od.lk/s/MF8yMzAxMjQ1MzBf/Docubay_750x750.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Comet (STIRR) (720p)[/B]</title>
+<link>https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]CONtv (1080p)[/B]</title>
+<link>https://contv-localnow.cinedigm.com/playlist.m3u8$nome= Link 1</link>
+<link>https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8$nome= Link 2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Comet (720p)[/B]</title>
+<link>http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/53/Comet_TV_Logo.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Circle (1080p)[/B]</title>
+<link>https://circle-roku.amagi.tv/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Cinehouse (STIRR) (720p)[/B]</title>
+<link>https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Charge! (STIRR) (720p)[/B]</title>
+<link>https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Blaze TV (720p)[/B]</title>
+<link>https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8</link>
+<thumbnail><https://i.imgur.com/HcRKP5P.jpg/thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Channel 5 (Adult Swim 24/7 Stream) (1080p) [Geo-blocked][/B]</title>
+<link>https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8</link>
+<thumbnail>https://i.imgur.com/sCRPkPk.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]AMC Slightly Off (1080p)[/B]</title>
+<link>https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/yngqRL8.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]AMC Presents (1080p)[/B]</title>
+<link>https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/yngqRL8.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]All Weddings (1080p)[/B]</title>
+<link>https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/d61oA0y.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]AFN TV (720p)[/B]</title>
+<link>https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Adrenaline Rush (720p)[/B]</title>
+<link>https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8</link>
+<thumbnail>https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Aathavan TV (720p)[/B]</title>
+<link>http://45.77.66.224:1935/athavantv/live/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/IgwQ7o5.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]A&E (Best of) (1080p)[/B]</title>
+<link>https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8</link>
+<thumbnail><https://i.imgur.com/zl7Gzwm.png/thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]9Volna[/B]</title>
+<link>http://cdn-01.bonus-tv.ru:8080/9volna/playlist.m3u8</link>
+<thumbnail>http://116.202.255.113:1935/4utv/livesd/playlist.m3u8</thumbnail>
+<fanart></fanart>
+<info>Russian</info></item>
+
+<item><title>[B]30A Sidewalks (720p)[/B]</title>
+<link>https://30a-tv.com/sidewalks.m3u8</link>
+<thumbnail>https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]3 Tamil TV (720p)[/B]</title>
+<link>https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8</link>
+<thumbnail>https://i.imgur.com/WfAU7pB.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]1TvPersian[/B]</title>
+<link>https://11778-1.b.cdn13.com/onetvpersia001.m3u8?bandwidth=3196&playlistlength=5&shift=0&v=2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link>http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link>http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link>http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link>http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link>http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link>http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

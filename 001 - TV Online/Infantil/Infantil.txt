@@ -59,63 +59,305 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Bashkir[/B]</title>
+<link>https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/ySedtZl.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]SmaylikTV[/B]</title>
+<link>http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8</link>
+<thumbnailhttp://smilik.tv/wp-content/uploads/2016/02/Desktop_-1.png></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Disney (576p)(Russian)[/B]</title>
+<link>http://188.40.68.167/russia/disney/playlist.m3u8</link>
+<thumbnail>https://image.ibb.co/ccycpQ/DISNEY_CHANNEL.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Zoo Moo (Australia)[/B]</title>
+<link>https://zoomoo-samsungau.amagi.tv/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/1wYnA2i.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Yo Gabba Gabba![/B]</title>
+<link>https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/RwxgFfb.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TVS Pinball Network (1080p)[/B]</title>
+<link>https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8</link>
+<thumbnail>https://i.imgur.com/pXOyNEy.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TVS Hi Tops (490p)[/B]</title>
+<link>https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8</link>
+<thumbnail>https://i.imgur.com/pXOyNEy.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]tvo KIDS (360p)[/B]</title>
+<link>https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8</link>
+<thumbnail>https://parco-zh.github.io/demo/TVO.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TRT Çocuk (Turco)[/B]</title>
+<link>https://tv-trtcocuk.live.trt.com.tr/master.m3u8</link>
+<thumbnail>https://image.ibb.co/eHjmim/TRT_ocuk.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Toy Zone (Bumblebee)[/B]</title>
+<link>https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/uRxkOD1.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Toonix[/B]</title>
+<link>http://51.210.227.134/hls/stream.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Toon Goggles (720p)[/B]</title>
+<link>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37</link>
+<thumbnail>https://i.imgur.com/oyIMxzM.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]The Official LEGO Channel[/B]</title>
+<link>https://legochannel-vizio.amagi.tv/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/xePwW13.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Super Simple Songs[/B]</title>
+<link>https://janson-supersimplesongs-1.vizio.wurl.com/manifest/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/9zRYK8n.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ST-TV | IGN TV (720p)[/B]</title>
+<link>https://ign-sportstribal.amagi.tv/playlist.m3u8</link>
+<thumbnail>https://od.lk/s/MF8yMzA3OTUzNTVf/IGN_512x512.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Spacetoon (576p)[/B]</title>
+<link>https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8$nome= Spacetoon (1080p)</link>
+<link>https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8$nome= Spacetoon (576p)</link>
+<thumbnail>https://i.imgur.com/RzPOwqI.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]SKWAD (720p)[/B]</title>
+<link>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71</link>
+<thumbnail>https://i.imgur.com/sv7WkKe.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]SAT-7 KIDS (720p)[/B]</title>
+<link>https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Rotana Kids (1080p)[/B]</title>
+<link>https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8$nome= Link 1</link>
+<link>https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8$nome= Link 2</link>
+<thumbnail>https://rotana.net/assets/themes/TriTheme/images/channels/kids.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Pinkfong Baby Shark[/B]</title>
+<link>https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/1MGJg18.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]PBS Kids Arizona (KAET-DT4)[/B]</title>
+<link>https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8</link>
+<thumbnail>https://i.imgur.com/ambc9le.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]PBS Kids 68.2 (KETKY)[/B]</title>
+<link>https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/ambc9le.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]New Kid TV[/B]</title>
+<link>https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/Z5t6cCe.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Moonbug Kids[/B]</title>
+<link>https://moonbug-rokuus.amagi.tv/playlist.m3u8</link>
+<thumbnail>https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07212020/circle_190x190.png?raw=true</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]MBC 3 USA (1080p)[/B]</title>
+<link>https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8</link>
+<thumbnail>https://i.imgur.com/FVNVC73.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]MBC 3 EUR (1080p)[/B]</title>
+<link>https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8</link>
+<thumbnail>https://i.imgur.com/FVNVC73.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Master Builder (Bumblebee)[/B]</title>
+<link>https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8</link>
+<thumbnail>https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Flive%2Fwhite%2FMaster-Builders.png?w=80</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Majid TV (Arabic)(1080p)[/B]</title>
+<link>https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/9Bun2IX.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Lets Play Minecraft (Bumblebee)[/B]</title>
+<link>https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/EqvWDU4.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Lego Looney Tunes (Bumblebee)[/B]</title>
+<link>https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/xePwW13.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Lego Channel (1080p)[/B]</title>
+<link>https://legochannel-roku.amagi.tv/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/xePwW13.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Lale (Ukrainian)[/B]</title>
+<link>http://stream.atr.ua/lale//live/index.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Kinder TV (Ukrainian)(Russian)[/B]</title>
+<link>http://autopilot.catcast.tv/content/38144/index.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]KidsFlix[/B]</title>
+<link>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50</link>
+<thumbnail>https://i.imgur.com/ZbAVzad.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Kartoon Circus[/B]</title>
+<link>https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8</link>
+<thumbnail>https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KartoonFunTime_209x209.png?raw=true</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]kabillion[/B]</title>
+<link>https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/2Ybvtlg.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]HappyKids Junior[/B]</title>
+<link>https://happykidsjunior-vizio.amagi.tv/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]Gulli (French)(540p)[/B]</title>
+<link>https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8</link>
+<thumbnail>https://i.imgur.com/mMWq0Kn.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]Giggle Zone (Bumblebee)[/B]</title>
+<link>https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/CvbLApY.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]Fun Zone (Bumblebee[/B]</title>
+<link>https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/SfJuMjV.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]Fireman Sam[/B]</title>
+<link>https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/umyEio1.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]FGTV (Bumblebee)[/B]</title>
+<link>https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/uRess78.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Cute Zone (Bumblebee)[/B]</title>
+<link>https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/unYHTWg.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Cocoro[/B]</title>
+<link>https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/Z4hIjPn.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Kan 23-IS (Hebrew)[/B]</title>
+<link>https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Cartoon Network Arabic (1080p)[/B]</title>
+<link>https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8</link>
+<thumbnail>https://image.ibb.co/cQGDUQ/CARTOON_NETWORK.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Camp Spoopy[/B]</title>
+<link>https://stream.ads.ottera.tv/playlist.m3u8?network_id=269</link>
+<thumbnail>https://i.imgur.com/t3Jsks7.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Brat TV (1080p)[/B]</title>
+<link>https://brat-rakuten.amagi.tv/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/lhjj94a.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Battery Pop (XUMO)[/B]</title>
+<link>https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/5VUZTa1.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Atfal Wa Mawaheb (Arabic)[/B]</title>
+<link>https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8</link>
+<thumbnail>https://atfal1.com/wp-content/uploads/2018/02/logo.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 

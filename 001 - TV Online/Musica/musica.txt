@@ -249,8 +249,8 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]TV ikim[/B]</title>
+<link>http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

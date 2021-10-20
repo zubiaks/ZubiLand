@@ -66,9 +66,9 @@
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white]24 Horas[/COLOR][/B]</name>
+<channel><name>[B][COLOR white]ENTERTAINMENT[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/24h/24h.txt</externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/001%20-%20TV%20Online/ENTERTAINMENT/ENTERTAINMENT.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 

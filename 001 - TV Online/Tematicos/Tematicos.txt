@@ -6,7 +6,9 @@
 <info></info></item>
 
 <item><title>[B]Fashion TV[/B]</title>
-<link>https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8</link>
+<link>https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8$nome= Link 1</link>
+<link>https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8$nome= Link 2</link>
+<link>http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8$nome= Link 3</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -41,50 +43,51 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Fashion TV Midnite Secrets[/B]</title>
+<link>http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Fashion TV (Spain)[/B]</title>
+<link>https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8</link>
+<thumbnail>https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Fashion TV (Italy)[/B]</title>
+<link>https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8</link>
+<thumbnail>https://i.pinimg.com/originals/3b/8a/2c/3b8a2cb8e99423468cf0fb826888731b.gif</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Fashion TV (England)[/B]</title>
+<link>https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8</link>
+<thumbnail>http://masmiri.50webs.com/fashion4.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Fashion TV Paris[/B]</title>
+<link>http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Fashion Paris[/B]</title>
+<link>https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Fashion Sport[/B]</title>
+<link>https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Fashion Film[/B]</title>
+<link>https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8$nome= Link 1</link>
+<link>https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8$nome= Link 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
