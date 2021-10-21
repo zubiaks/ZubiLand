@@ -278,57 +278,57 @@
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Detention of the Dead[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=F1O4sZzJSmo$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=svz7h7PljGQ$nome= Filme</link>
+<thumbnail>https://i.ibb.co/27XTybs/Detention-of-the-Dead.jpg</thumbnail>
+<fanart>https://i.ibb.co/9g09j1Z/Detention-of-the-Dead1.jpg</fanart>
+<info>Detention of the Dead é um filme de terror de comédia americano de 2012 escrito e dirigido por Alex Craig Mann, baseado na peça teatral de Rob Rinow com o mesmo nome. As filmagens começaram na primavera de 2011.</info>
 <genre></genre>
+<year>2002</year></item>
+
+<item><title>[B]O Vento do Demônio[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HRB9M4ufj7k$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=5GvqURDgNn0$nome= Filme</link>
+<thumbnail>https://i.ibb.co/rwQZ40Y/Vento-do-Dem-nio.jpg</thumbnail>
+<fanart>https://i.ibb.co/cg6r4wV/Vento-do-Dem-nio1.jpg</fanart>
+<info>Tentando descobrir a verdade sobre o passado de sua família, Cory convence os amigos a viajarem até um lugar ermo, onde estão as ruínas do chalé onde morreram os seus avós. Lá chegando, os jovens presenciam estranhos fenômenos e, um a um, vão sendo possuídos e transformando-se em demônios, que atacam os companheiros.</info>
+<genre></genre>
+<year>1990</year></item>
+
+<item><title>[B]Perfect Education 3[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NJ27H0yrPIM$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=JwH-m_B4VjQ$nome= Filme</link>
+<thumbnail>https://i.ibb.co/Js7wGVL/Perfect-Education-3.jpg</thumbnail>
+<fanart>https://i.ibb.co/kQntFX9/Perfect-Education-31.jpg</fanart>
+<info>Um taxista chinês solitário seqüestra uma colegial japonesa. À medida que os dias passam a menina cativa que é filha única de um lar desfeito percebe que ela é tão solitária quanto seu captor.</info>
+<genre></genre>
+<year>2002</year></item>
+
+<item><title>[B]Tipping The Velvet[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4SLENAwoIgY&t=62s$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=SDghnntXhLc$nome= Filme</link>
+<thumbnail>https://i.ibb.co/ZHr90ZC/tipping-the-velvet.jpg</thumbnail>
+<fanart>https://i.ibb.co/xJHB31D/tipping-the-velvet1.jpg</fanart>
+<info>O Filme conta uma história de amor entre duas mulheres no século 19. "Toque de Veludo" ou "Amor na Ponta da Língua" (exibido na GNT), um drama de sucesso da BBC, baseado em romance de Sarah Waters. Em três episódios, a série conta uma história de amor entre duas mulheres no século 19. Trata-se de uma história sensual. Impecável nos cenários da época vitoriana, a boemia londrina em 1890, o glamour, as perversões, a luxúria, a miséria e os vícios de uma sociedade</info>
+<genre></genre>
+<year>2002</year></item>
+
+<item><title>[B]Hounddog[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=GrITFVvnciE$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=OuDKdDh0FVw$nome= Filme</link>
+<thumbnail>https://i.ibb.co/T2Pv54v/Hounddog.jpg</thumbnail>
+<fanart>https://i.ibb.co/gRBJ5D1/Hounddog1.jpg</fanart>
+<info>Nesse filme você mergulha no mundinho particular de uma menina pobre, negligenciada e cheia de sonhos. Ela busca na adoração ao ídolo Elvis Presley e suas canções a fuga do mundo de miséria e abandono em que vive. Sem mãe </info>
+<genre>2007</genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year></item>
-
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year></item>
-
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year></item>
-
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year></item>
-
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]The Victim (2011)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ZXZCQMCqzHE$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=hPLyTARe2jo$nome= Filme</link>
+<thumbnail>https://i.ibb.co/yRgsG6h/The-Victim-2011.jpg</thumbnail>
+<fanart>https://i.ibb.co/4MQ9YZq/The-Victim-2011-1.jpg</fanart>
+<info>Duas amigas saem em um encontro com dois policiais em uma floresta que acaba na morte de uma delas. Fugindo dos dois homens a sobrevivente acaba batendo na porta de um estranho solitário que vive no meio do mato.</info>
 <genre></genre>
 <year></year></item>
 
