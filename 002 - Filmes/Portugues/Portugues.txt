@@ -1,258 +1,382 @@
 <item><title>[B]Joao Ratão [1940][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=XEKaYMaW-Ng</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<link>plugin://plugin.video.youtube/play/?video_id=HMqIpAyYUsk$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=XEKaYMaW-Ng$nome= Filme</link>
+<thumbnail>https://i.ibb.co/J3LDPmd/Joao-Rat-o.jpg</thumbnail>
+<fanart>https://i.ibb.co/nDqJT54/Joao-Rat-o1.jpg</fanart>
+<info>A partir de uma opereta, a história amorosa dum soldado português, João Ratão, que regressa da frente de batalha na Flandres, sendo envolvido em intrigas motivadas pela inveja, quanto a Vitória, uma rapariga do povo que namorara através de cartas escritas por outros... Evocação do patético cenário da guerra (1914-18), e a faina dos madeireiros, no deslumbrante Vale do Vouga.</info></item>
+
+<item><title>[B]Hush - A Morte Ouve[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Q_P8WCbhC6s$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=KL1Hk5W4Xzw$nome= Filme</link>
+<thumbnail>https://i.ibb.co/dLrhnjx/Hush-a-Morte-Ouve-2016.jpg</thumbnail>
+<fanart>https://i.ibb.co/StBNSzM/Hush-a-Morte-Ouve-20161.jpg</fanart>
+<info>A escritora Maddie Toung vive uma vida isolada desde que perdeu sua audição quando era adolescente, se colando em um mundo de total silêncio. Porém, quando um rosto mascarado de um assassino psicótico aparece em sua janela, Maddie precisa ir além dos seus limites físicos e mentais para conseguir sobreviver.</info></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
+<info></info>
+<genre></genre>
+<year></year></item>

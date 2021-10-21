@@ -1,18 +1,415 @@
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
 
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]fury of the apaches (1965)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qGZbBp9xswY$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=U6KZ-2ihMvc$nome= Filme</link>
+<thumbnail>https://i.ibb.co/jVCJwf6/fury-of-the-apaches-1965.jpg</thumbnail>
+<fanart>https://i.ibb.co/Xbc4WnF/fury-of-the-apaches-1965-1.jpg</fanart>
+<info>Num antigo forte que está sendo usado como ponto de parada para diligências que cruzam o Oeste, três assassinos chegam com a missão de roubar a fortuna de um juiz corrupto que chega na próxima carruagem. Mas seus planos vão por água abaixo quando uma tribo de apaches ataca o forte, obrigando todos a lutar pela própria sobrevivência.</info>
+<genre></genre>
+<year>1965</year></item>
+
+<item><title>[B]La Vendetta di Ercole (Goliath and the Dragon)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=xM-EBvWZ3V8</link>
+<thumbnail>https://i.ibb.co/bPxrDBS/A-Vingan-a-de-H-rcules.jpg</thumbnail>
+<fanart>https://i.ibb.co/QQTt22R/A-Vingan-a-de-H-rcules-1960.jpg</fanart>
+<info>Una de las mejores películas jamás realizadas sobre Hércules, en donde el gran director Vittorio Cottafavi reproduce con gran fidelidad el encanto de la mitología griega, en donde destacan las típicas intrigas de historias palaciegas, que tanto solía desarrollar. Un infierno neblinoso, habitado por un extraño monstruo con alas de murciélago, una cascada que se desborda al ensartar Hércules a un híbrido entre Centauro y Sátiro, Sibila fulminada por provocar la ira de los dioses, son entre otros los elementos fantásticos que animan esta película, en donde el actor Broderick Crawford realiza un extraordinario papel como tirano.</info>
+<genre>Aventuras</genre>
+<year>1960</year></item>
+
+<item><title>[B]Yes or No?[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=L3gq9fWzuQ4$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=ThXlp4fACpY$nome= Filme</link>
+<thumbnail>https://i.ibb.co/KX77FV2/Yes-or-No.jpg</thumbnail>
+<fanart>https://i.ibb.co/pL9H4Lg/Yes-or-No1.jpg</fanart>
+<info>Yes or No é uma série de filmes tailandeses, com o primeiro lançado em 16 de Dezembro de 2010 dirigido por Sarasawadee Wongsompetch e estrelado por Aom Sushar e Tina Jitalleela, sendo o primeiro filme tailandês de temática lésbica.</info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]The Assault (2014)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=VBT582nshZQ$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=6Sej48Ls6Ec$nome= Filme</link>
+<thumbnail>https://i.ibb.co/x7QhVHn/The-Assault-2014.jpg</thumbnail>
+<fanart>https://i.ibb.co/8Dz01yw/The-Assault-2014-1.jpg</fanart>
+<info>A líder de torcida Sam Gleason chega a uma nova cidade onde o futebol americano é tudo. Quando ela diz que foi sexualmente abusada pelo time de futebol em uma noite em que ela nem se lembra, ninguém acredita nela. Inspirado em uma história real.</info>
+<genre></genre>
+<year>2021</year></item>
+
+<item><title>[B]My Handsome Roommate[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KNM5rin6XPs$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=prDDCx3GuMo$nome= Filme</link>
+<thumbnail>https://i.ibb.co/mDqHjJR/my-handsome-roommate.jpg</thumbnail>
+<fanart>https://i.ibb.co/2KKZXCk/my-handsome-roommate1.jpg</fanart>
+<info>Mo Yi, que está decepcionada com sua carreira e vida amorosa, acidentalmente se reúne com seu benfeitor de infância, You Yu, e eles começam a viver juntos, encorajando um ao outro a se tornar uma pessoa melhor e desenvolver um amor um pelo outro, mas ela não espera que You Yu vem de outro tempo e espaço. As engrenagens de seu destino giram novamente.</info>
+<genre></genre>
+<year>2021</year></item>
+
+<item><title>[B]El Chanfle (1979)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=nEdYkdCjcZc$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=0QNt0jm_otw$nome= Filme</link>
+<thumbnail>https://i.ibb.co/tsxq2BG/El-Chanfle.jpg</thumbnail>
+<fanart>https://i.ibb.co/8g33TcN/El-Chanfle1.jpg</fanart>
+<info>El Chanfle é um filme de comédia do México, lançado em 1979, dirigido por Enrique Segoviano e estrelado por Roberto Gómez Bolaños, também conhecido como Chespirito.</info>
+<genre></genre>
+<year>1979</year></item>
+
+<item><title>[B]The Miracle Worker (2000)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=tU50hHVl0Mk$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=z3mCkggD6qg$nome= Filme</link>
+<thumbnail>https://i.ibb.co/wSxGJS6/The-Miracle-Worker-2000.jpg</thumbnail>
+<fanart>https://i.ibb.co/n6WykKB/The-Miracle-Worker-2000-1.jpg</fanart>
+<info>The Miracle Worker é um filme de 2000 baseado na peça de 1959 do mesmo título de William Gibson, que se originou como uma transmissão de 1957 da série de antologia playhouse 90. O material original de Gibson foi A História da Minha Vida, a autobiografia de Helen Keller em 1902. A peça foi adaptada para a tela duas vezes antes, em 1962 e 1979. O filme é baseado na vida das lutas de Helen Keller e Anne Sullivan para ensiná-la</info>
+<genre></genre>
+<year>2000</year></item>
+
+<item><title>[B]I Am Dragon (2017)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=SomZ_9OnE5w&t=9s$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=fSZvV4_fUSc$nome= Filme</link>
+<thumbnail>https://i.ibb.co/0r0GbPy/I-Am-Dragon-2017.jpg</thumbnail>
+<fanart>https://i.ibb.co/tYCTvcy/I-Am-Dragon-2017-1.jpg</fanart>
+<info>No meio do casamento princesa Miroslava é raptado por um dragão e levado para longe em seu castelo na ilha remota. Mira deixou tudo para trás no passado - família, amigos e noivo. Agora as únicas coisas que ela tinha foram uma gaiola de pedra e um jovem misterioso chamado Arman.. mas quem é ele e o que ele está fazendo naquela ilha? Miroslava saberá a verdade demasiado tarde: amar um dragão revelará a verdade amarga - o amor é assustador..</info>
+<genre></genre>
+<year>2017</year></item>
+
+<item><title>[B]O Sétimo Selo (1957), de Ingmar Bergman[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=17-abDcJUlY$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=A-rBzHIvoVA$nome= Filme</link>
+<thumbnail>https://i.ibb.co/HYFn5Gh/O-S-timo-Selo-1957.jpg</thumbnail>
+<fanart>https://i.ibb.co/sWQXpJ4/O-S-timo-Selo-1957-1.jpg</fanart>
+<info>Após dez anos, um cavaleiro (Max Von Sydow) retorna das Cruzadas e encontra o país devastado pela peste negra. Sua fé em Deus é sensivelmente abalada e enquanto reflete sobre o significado da vida, a Morte (Bengt Ekerot) surge à sua frente querendo levá-lo, pois chegou sua hora. Objetivando ganhar tempo, convida-a para um jogo de xadrez que decidirá se ele parte com a Morte ou não. Tudo depende da sua vitória no jogo e a Morte concorda com o desafio, já que não perde nunca.
+
+Um filme de Ingmar Bergman, com Max von Sydow, Gunnar Björnstrand, Bengt Ekerot, Bibi Andersson.</info>
+<genre></genre>
+<year>1957</year></item>

@@ -204,12 +204,6 @@ O objetivo? Divulgar ARROIOS.</info></item>
 <fanart>https://i.ibb.co/cTD8Vx2/PUC-TV-Goias-b.png</fanart>
 <info>A PUC TV Goiás é uma emissora de televisão na cidade de Goiânia-Goiás. Opera nos canais 24.1 em HDTV, 24 em UHF e no 22 da Net.</info></item>
 
-<item><title>[B]TV CULTURA[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/zQTsjbb/TV-CULTURA-Brasil.png</thumbnail>
-<fanart>https://i.ibb.co/jWNq9Bf/TV-CULTURA-b.jpg</fanart>
-<info>TV Cultura é uma rede de televisão pública brasileira sediada em São Paulo, capital do estado homônimo.</info></item>
-
 <item><title>[B]TVU - TV Universitária - Recife-PE[/B]</title>
 <link></link>
 <thumbnail>https://i.ibb.co/f9n5N7F/TVU-TV-Universit-ria-Recife-PE-Brasil.jpg</thumbnail>
