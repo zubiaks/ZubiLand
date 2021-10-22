@@ -224,59 +224,58 @@
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Afterglow[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2iMQfah17Ec$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=OG8t9iWoRyY$nome= Filme</link>
+<thumbnail>https://i.ibb.co/nnxfvsd/Afterglow.jpg</thumbnail>
+<fanart>https://i.ibb.co/ZgCP9V9/Afterglow1.jpg</fanart>
+<info>Um homem e sua esposa fazem um trato: ele pode trair, contanto que não se apaixone. Contudo, o acordo é ameaçado quando ele conhece uma dona de casa infeliz.</info>
 <genre></genre>
-<year></year></item>
+<year>1998</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]964 Pinocchio[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=RJI_szKnDbo$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=ZluNSuI7Hbo$nome= Filme</link>
+<thumbnail>https://i.ibb.co/NyrBbLv/964-Pinocchio.jpg</thumbnail>
+<fanart>https://i.ibb.co/rc60n9F/964-Pinocchio-1.jpg</fanart>
+<info>Pinóquio 964, um escravo sexual ciborgue lobotomizado é jogado na rua por suas proprietárias por não manter uma ereção. Ele faz amizade com uma garota desabrigada criminosa insana. Enquanto isso, a empresa que o fabricou e o vendeu planeja matá-lo por causa de seu mau funcionamento.</info>
 <genre></genre>
-<year></year></item>
+<year>1991</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]The Lawless Frontier(1934)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=RQ-SPC-I6Ak$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=TrYDRBb1A-4$nome= Filme</link>
+<thumbnail>https://i.ibb.co/3krMRWq/The-Lawless-Frontier.jpg</thumbnail>
+<fanart>https://i.ibb.co/HF0nSPb/The-Lawless-Frontier1.jpg</fanart>
+<info>The Lawless Frontier é um filme norte-americano de 1934, do gênero faroeste, dirigido por Robert N. Bradbury e estrelado por John Wayne e Sheila Terry.</info>
 <genre></genre>
-<year></year></item>
+<year>1934</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]grave robbers[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=L75qE-ev1Hc$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=6Dylua-dj7c$nome= Filme</link>
+<thumbnail>https://i.ibb.co/L8TQdyG/grave-robbers.jpg</thumbnail>
+<fanart>https://i.ibb.co/fM474qz/grave-robbers1.jpg</fanart>
+<info>Um grupo de jovens ladrões de túmulos acidentalmente ressuscitam um assassino satânico que tem como alvo capturar uma virgem para o nascimento do anticristo.</info>
 <genre></genre>
-<year></year></item>
+<year>1989</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]cattle empire 1958[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NKI2_uLwtKg</link>
+<thumbnail>https://i.ibb.co/M81gQQR/cattle-empire-1958.jpg</thumbnail>
+<fanart>https://i.ibb.co/vDj4yhF/cattle-empire-19581.jpg</fanart>
+<info>Depois de servir uma sentença de prisão de cinco anos por permitir que seus homens destruíssem uma cidade em uma bebedeira, John Cord, um chefe de trilha, é contratado pelo líder da mesma cidade para conduzir gado para Fort Clemson. Para complicar as coisas, um barão do gado rival também contrata John para liderar seu rebanho.</info>
 <genre></genre>
-<year></year></item>
+<year>1958</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Hitch Hike[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=wnb15nKk9Ss$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=j35JnR0Q7Es$nome= Filme</link>
+<thumbnail>https://i.ibb.co/W56JQpq/hitch-hike-1977.jpg</thumbnail>
+<fanart>https://i.ibb.co/M7JQrSW/hitch-hike-19771.png</fanart>
+<info>Hitch-Hike, também conhecido como Death Drive, é um filme de crime italiano dirigido por Pasquale Festa Campanile. O filme é estrelado por Franco Nero e Corinne Cléry como um casal em um casamento problemático, e David Hess como um fugitivo que os leva como reféns. A partitura foi escrita por Ennio Morricone.</info>
 <genre></genre>
-<year></year></item>
+<year>1978</year></item>
 
 <item><title>[B]Detention of the Dead[/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=F1O4sZzJSmo$nome= Trailer</link>
