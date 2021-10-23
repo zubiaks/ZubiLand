@@ -1,15 +1,36 @@
 
 <item><title>[B]Home (2015)[/B]</title>
 <link>https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<thumbnail>https://i.ibb.co/TLcTjR1/Home-2015.jpg</thumbnail>
+<fanart>https://i.ibb.co/nbdPz5L/HOME-sq1900-s88-f122-4-K-PS-v2-0-Oh-voiced-by-Jim-Parsons-and-Tip-voiced-by-Rihanna-in-Dream-Works-A.jpg</fanart>
+<info>A Terra é invadida por uma raça alienígena em busca de um novo lar. Porém, uma esperta garota chamada Tip consegue fugir e acaba virando cúmplice de um alienígena exilado chamado Oh. Os dois fugitivos embarcam em uma grande aventura.</info>
+<year>2015</year></item>
+
+<item><title>[B]João e o Pé de Feijão (Leg)(1974)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=aXxxyjQ9_E8</link>
+<thumbnail>https://i.ibb.co/yd0T87c/Jo-o-e-o-P-de-Feij-o-1974.jpg</thumbnail>
+<fanart>https://i.ibb.co/ZWk6ZhJ/Jo-o-e-o-P-de-Feij-o-1974-1.jpg</fanart>
+<info>João e o Pé de Feijão, originalmente lançado no Japão como Jack to Mame no Ki é um filme de anime de 1974 produzido pelos estúdios Group TAC e Nippon Herald Films e dirigido por Gisaburō Sugii. É baseado no conto de fadas homônimo sendo adaptado com um ritmo mais musical e inspirado num clima mais ocidental.</info>
+<genre></genre>
+<year>1974</year></item>
 
 <item><title>[B][/B]</title>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
 
 <item><title>[B][/B]</title>
 <link></link>

@@ -89,140 +89,136 @@
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]The Hearse (1980)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=N2DTJLMYwIw$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=JSf2kdcIC64$nome= Filme</link>
+<thumbnail>https://i.ibb.co/VVqhj3y/The-Hearse-1980.jpg</thumbnail>
+<fanart>https://i.ibb.co/DtgSN4M/The-Hearse-1980-1.jpg</fanart>
+<info>Uma mulher é assombrada por um carro fúnebre fantasma, que ela acredita está ligado à sua tia falecida, uma bruxa com uma má reputação na cidade.</info>
 <genre></genre>
-<year></year></item>
+<year>1980</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Defiance (1980)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=M820rcgczCs$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=6yVFnOr3fvk$nome= Filme</link>
+<thumbnail>https://i.ibb.co/mzTwvg7/Defiance-1980.jpg</thumbnail>
+<fanart>https://i.ibb.co/Jykw4cc/Defiance-1980-1.jpg</fanart>
+<info>Defiance é um filme policial neo noir americano de 1980, estrelado por Jan-Michael Vincent, Art Carney e Theresa Saldana. O filme foi uma das primeiras produções de Jerry Bruckheimer.</info>
 <genre></genre>
-<year></year></item>
+<year>1980</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]killers from space (1954)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0n3535NXOpQ$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=8sB7sUFJ-ec$nome= Filme</link>
+<thumbnail>https://i.ibb.co/3fwSP8H/killers-from-space-1954.jpg</thumbnail>
+<fanart>https://i.ibb.co/9gBTHKH/killers-from-space-1954-1.jpg</fanart>
+<info>Killers from Space é um filme americano de ficção científica em preto-e-branco produzido em 1954, produzido e dirigido por W. Lee Wilder, estrelado por Peter Graves, Barbara Bestar,</info>
 <genre></genre>
-<year></year></item>
+<year>1954</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]the killing kind (1973)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=SGIJBg2q8dc$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=DQkUr-NzHtQ$nome= Filme</link>
+<thumbnail>https://i.ibb.co/59GSLCd/the-killing-kind-1973.jpg</thumbnail>
+<fanart>https://i.ibb.co/nn2XVzL/the-killing-kind-1973-1.jpg</fanart>
+<info><Um jovem volta para a casa de sua mãe dominadora depois de servir uma pena de prisão por um estupro coletivo que foi forçado a participar. E quer se vingar de sua advogada e da garota que o acusou/info>
 <genre></genre>
-<year></year></item>
+<year>1973</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]The Three Mesquiteers (1936)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Rk3p5BcUUEk</link>
+<thumbnail>https://i.ibb.co/sjy7SCT/The-Three-Mesquiteers.jpg</thumbnail>
+<fanart>https://i.ibb.co/QDHJgXf/The-Three-Mesquiteers1.jpg</fanart>
+<info>Stony (John Wayne) e seus dois amigos (Os Três Mosqueteiros) vão atrás de um rapaz que roubou um boi deles. Chegando na casa do rapaz, descobrem que ele tem que roubar para alimentar sua família, pois os trabalhadores da cidade são explorados por um político corrupto.</info>
 <genre></genre>
-<year></year></item>
+<year>1936</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Avenging Force (1986)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kHiV_RniG7U$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=_Gnnhi3y58cr$nome= Filme</link>
+<thumbnail>https://i.ibb.co/2nH8FxN/Avenging-Force-1986.jpg</thumbnail>
+<fanart>https://i.ibb.co/FWZPHFJ/Avenging-Force-1986-1.jpg</fanart>
+<info>Ex-agente da inteligência militar, afastado por conta própria após a morte dos pais, visita amigo candidato ao Senado. Ele fica sabendo que o amigo recebe constantes ameaças de morte por parte de um grupo de supremacia branca e resolve investigar.</info>
 <genre></genre>
-<year></year></item>
+<year>1986</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]In Old Oklahoma (1943)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=IYYb6yxRRgE$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=_9ogy6NJj6s$nome= Filme</link>
+<thumbnail>https://i.ibb.co/61Z0HJ8/In-Old-Oklahoma-1943.jpg</thumbnail>
+<fanart>https://i.ibb.co/4gtC6KP/In-Old-Oklahoma-19431.jpg</fanart>
+<info>Em 1906, nas terras indígenas de Oklahoma, um cowboy (John Wayne) luta pelos direitos de arrendamento de petróleo contra um empresário do petróleo ganancioso, enquanto uma professora rouba o coração dos dois.</info>
 <genre></genre>
-<year></year></item>
+<year>1943</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Madman 1980[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=aVuBy_F_oiA$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=okapwUieZM4$nome= Filme</link>
+<thumbnail>https://i.ibb.co/6FjdSQb/Madman-1980.jpg</thumbnail>
+<fanart>https://i.ibb.co/S55JMnB/Madman-19801.jpg</fanart>
+<info>Em uma fogueira de acampamento de verão para jovens, um adolescente brinca gritando o nome de um serial killer e o desafiando. De repente, na mesma noite, um por um, os jovens começam a desaparecer.</info>
 <genre></genre>
-<year></year></item>
+<year>1980</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]La strada 1954[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=CucHyXsxCU8$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=nNkBMDQkE_g$nome= Filme</link>
+<thumbnail>https://i.ibb.co/C7k3TW0/La-strada-1954.jpg</thumbnail>
+<fanart>https://i.ibb.co/9bC2CPN/La-strada-19541.jpg</fanart>
+<info>Gelsomina é vendida por sua mãe para um lutador exibicionista e passa a acompanhá-lo em suas viagens como sua ajudante. A moça é amada e maltratada pelo homem bruto em uma relação conturbada, que reflete a sua própria vida.</info>
 <genre></genre>
-<year></year></item>
+<year>1954</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Blood Delirium (1988)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=f5I37fUlwBo</link>
+<thumbnail>https://i.ibb.co/jrH3vs7/Blood-Delirium.jpg</thumbnail>
+<fanart>https://i.ibb.co/VQd0PKs/Blood-Delirium1.jpg</fanart>
+<info>Blood Delirium é um filme de terror italiano direto ao vídeo, dirigido por Sergio Bergonzelli. O filme envolve o pintor Saint Simon, que perde a sanidade após a morte de sua esposa. Junto com seu mordomo Hermann, eles conhecem um jovem pianista chamado Sybille, que se assemelha à sua esposa morta em casa, no castelo.</info>
 <genre></genre>
-<year></year></item>
+<year>1988</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Fort Yuma (1955)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=tfNGK1KmWIQ</link>
+<thumbnail>https://i.ibb.co/SJKTZrp/Fort-Yuma.jpg</thumbnail>
+<fanart>https://i.ibb.co/tKJCQJY/Fort-Yuma1.jpg</fanart>
+<info>O líder da tribo indígena Colorado acaba assassinado e os guerreiros preparam uma vingança, algo que deixa o Forte Yuma em um estado de tensão alarmante. Para resolver a situação, o comandante do forte decide pedir reforços ao Forte Apache e envia um mensageiro para realizar o pedido. No entanto, o mensageiro acaba sendo eliminado no meio da estrada e sua morte inicia uma verdadeira guerra.</info>
 <genre></genre>
-<year></year></item>
+<year>1955</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Roboman (The Vindicator)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ncmbYrWdR80$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=8ewuUY2DCWE$nome= Filme</link>
+<thumbnail>https://i.ibb.co/jVSfzJT/Roboman-The-Vindicator.jpg</thumbnail>
+<fanart>https://i.ibb.co/drR3rRW/Roboman-The-Vindicator-1.jpg</fanart>
+<info>Um funcionário de uma empresa tecnológica é sabotado e torna-se cobaia de um projeto especial. Ele é transformado em um ciborgue que por causa de sua programação deve destruir qualquer coisa que chegar perto.</info>
 <genre></genre>
-<year></year></item>
+<year>1986</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]powder river 1953[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=MHtBidz-U_M</link>
+<thumbnail>https://i.ibb.co/cTmdB6b/powder-river-1953.jpg</thumbnail>
+<fanart>https://i.ibb.co/spYL7Sc/powder-river-19531.jpg</fanart>
+<info>Powder River é um filme estadunidense de 1953, do gênero bangue-bangue, dirigido por Louis King, com roteiro de Sam Hellman,</info>
 <genre></genre>
-<year></year></item>
+<year>1953</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]from a whisper to a scream (1987)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=_YDP4MDo0gw$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=hkFV4qMYd6w$nome= Filme</link>
+<thumbnail>https://i.ibb.co/qmmZwMb/from-a-whisper-to-a-scream-1987.jpg</thumbnail>
+<fanart>https://i.ibb.co/nBrkqJ5/from-a-whisper-to-a-scream-1987-1.png</fanart>
+<info>Em uma pequena cidade do Tennessee, um historiador relata quatro histórias de horror a uma repórter.</info>
 <genre></genre>
-<year></year></item>
+<year>1987</year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]América 3000[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7eqsZu0GPKY$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=_d5TSzD6mvc$nome= Filme</link>
+<thumbnail>https://i.ibb.co/McbWL2m/america-3000.jpg</thumbnail>
+<fanart>https://i.ibb.co/mG06d19/america-30001.jpg</fanart>
+<info>America 3000 é um filme cult pós-apocalíptico de ficção científica de 1986 da Cannon Films, escrito e dirigido por David Engelbach e estrelado por Chuck Wagner, Laurene Landon e Karen Sheperd. O filme estreou nos Estados Unidos em abril de 1986 e foi lançado em uma base regional, com estreia em várias datas.</info>
 <genre></genre>
-<year></year></item>
+<year>1986</year></item>
 
 <item><title>[B]Afterglow[/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=2iMQfah17Ec$nome= Trailer</link>
