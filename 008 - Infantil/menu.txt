@@ -54,4 +54,10 @@
 <fanart></fanart>
 <info></info></channel>
 
+<channel><name>[B][COLOR white]jogos[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/008%20-%20Infantil/jogos.txt</externallink>
+<fanart></fanart>
+<info></info></channel>
+
 </channels>
