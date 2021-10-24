@@ -92,210 +92,210 @@ Sinopse: Para salvar seu pai enfermo, os dois irmão Naíee (irmão mais novo) e
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Assassin's Creed: Syndicate - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=WTBbwgsyxvg$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=ZSVwLjHI7Ao$nome= Filme</link>
+<thumbnail>https://i.ibb.co/jk8t6JB/Assassin-s-Creed-Syndicate.jpg</thumbnail>
+<fanart>https://i.ibb.co/y6rgNLr/Assassin-s-Creed-Syndicate1.jpg</fanart>
+<info>O Filme Completo do Jogo Assassin's Creed Syndicate (Game Movie) História Completa Dublado em Português do Brasil PT-BR em HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Halo 5: Guardians - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=GW07lq-cRu0$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=6917oUfY9IE$nome= Filme</link>
+<thumbnail>https://i.ibb.co/5njNNQM/halo-5-guardians.jpg</thumbnail>
+<fanart>https://i.ibb.co/HC9tBny/halo-5-guardians1.jpg</fanart>
+<info>O Filme Completo do Jogo (game movie) Halo 5: Guardiões Dublado em Português do Brasil PT-BR</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Rise of the Tomb Raider - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1_FIyNcQSgA$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=gsplhPETREg$nome= Filme</link>
+<thumbnail>https://i.ibb.co/ZLNG97B/Rise-of-the-Tomb-Raider.jpg</thumbnail>
+<fanart>https://i.ibb.co/YNwMFng/Rise-of-the-Tomb-Raider1.jpg</fanart>
+<info>O Filme Completo do Jogo Rise of the Tomb Raider Dublado em Português do Brasil PT-BR</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Call of Duty Black Ops 3 - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qAUYNIDEJ6o$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=-mMkLgEaPd0$nome= Filme</link>
+<thumbnail>https://i.ibb.co/SXhYx7V/Official-Call-of-Duty-Black-Ops-III.jpg</thumbnail>
+<fanart>https://i.ibb.co/3Tw4jHc/Official-Call-of-Duty-Black-Ops-III1.jpg</fanart>
+<info>O Filme Completo do Jogo Call of Duty Black Ops 3 Dublado em Português do Brasil PT-BR</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Just Cause 3 - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0ND5dYIFkd0$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=YWgCl9CAtdw$nome= Filme</link>
+<thumbnail>https://i.ibb.co/HzHLVJ2/Just-Cause-3.jpg</thumbnail>
+<fanart>https://i.ibb.co/DtfBLrk/Just-Cause-31.png</fanart>
+<info>O Filme Completo do Jogo Just Cause 3 Dublado em Português do Brasil PT-BR</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Fallout 4 - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=XW7Of3g2JME$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=vCMK4srMJO0$nome= Filme</link>
+<thumbnail>https://i.ibb.co/gS1j7X1/Fallout-4.jpg</thumbnail>
+<fanart>https://i.ibb.co/y5V4h3s/Fallout-41.jpg</fanart>
+<info>O Filme Completo do Jogo Fallout 4 História Completa legendado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Halo: Combat Evolved - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=v0kHiEME0Vk$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=D4rHADE25Bo$nome= Filme</link>
+<thumbnail>https://i.ibb.co/ThPGXs6/Halo-Combat-Evolved.jpg</thumbnail>
+<fanart>https://i.ibb.co/TvYxX9M/Halo-Combat-Evolved1.jpg</fanart>
+<info>O Filme Completo do Jogo Halo 1 (Anniversary)  Legendado em Português do Brasil PT-BR</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Halo 2 - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4ycOwVPqbxA$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=qqVo-ZxY4Ws$nome= Filme</link>
+<thumbnail>https://i.ibb.co/jMRRN6K/Halo-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/RT636kB/Halo-2-1.jpg</fanart>
+<info>O Filme Completo do Jogo Halo Anniversary 2 legendado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Halo 3 - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=T9Ezd2FqxAU$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=cC6NVQzqevg$nome= Filme</link>
+<thumbnail>https://i.ibb.co/gDH7Y6n/Halo-3.jpg</thumbnail>
+<fanart>https://i.ibb.co/wJnLFdb/Halo-3-1.jpg</fanart>
+<info>O Filme Completo do Jogo (game movie) Halo 3 Dublado em Português do Brasil PT-BR</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Sunset Overdrive - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=cOSnhhWcukk$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=WJOLW4EMcg$nome= Filme</link>
+<thumbnail>https://i.ibb.co/tbjT15t/Sunset-Overdrive.jpg</thumbnail>
+<fanart>https://i.ibb.co/0tX8wPn/Sunset-Overdrive-1.png</fanart>
+<info>O Filme Completo do Jogo Sunset Overdrive Dublado em Português do Brasil PT-BR</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Metal Gear Solid: Peace Walker - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Etky7KhR5sI$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=gmGgPGQn8eg$nome= Filme</link>
+<thumbnail>https://i.ibb.co/G0vgWzm/metal-gear-solid-peace-walker.jpg</thumbnail>
+<fanart>https://i.ibb.co/W0SLhj4/metal-gear-solid-peace-walker-1.jpg</fanart>
+<info>O Filme Completo do Jogo Metal Gear Solid Peace Walker Legendado em Português do Brasil PT-BR</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Far Cry: Primal - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=H3uYzQA_h18$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=UPhhVaqV5bM$nome= Filme</link>
+<thumbnail>https://i.ibb.co/GtfmjLJ/far-cry-primal.jpg</thumbnail>
+<fanart>https://i.ibb.co/DfFjy0g/far-cry-primal1.jpg</fanart>
+<info>O Filme Completo do Jogo FarCry Primal legendado em Português do Brasil PT-BR</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Halo 3: ODST - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=WroxHMo6B_k$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=bq41_gnY-H8$nome= Filme</link>
+<thumbnail>https://i.ibb.co/pnHZ2v9/halo-3-odst.png</thumbnail>
+<fanart>https://i.ibb.co/Yj47WrK/halo-3-odst1.jpg</fanart>
+<info>O Filme Completo do Jogo Halo 3 ODST Dublado em Português do Brasil PT-BR</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]The Division - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yPq_NVi-TC4$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=oVA30_15wNg$nome= Filme</link>
+<thumbnail>https://i.ibb.co/kJC1rM2/The-Division.jpg</thumbnail>
+<fanart>https://i.ibb.co/2hsgbWW/The-Division1.jpg</fanart>
+<info>O Filme Completo do Jogo The Division Dublado em Português do Brasil PT-BR</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Halo 4 - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=deGwykkr2z8$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=RhqSXFCAouA$nome= Filme</link>
+<thumbnail>https://i.ibb.co/nfnHtHn/Halo-4.jpg</thumbnail>
+<fanart>https://i.ibb.co/6mWLym8/Halo-4-1.jpg</fanart>
+<info>O Filme Completo do Jogo Halo 4 Dublado em Português do Brasil PT-BR</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Uncharted 1 - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=gWOOcdn7pqU$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=k1CiXN6076I$nome= Filme</link>
+<thumbnail>https://i.ibb.co/ZV08Xt7/Uncharted-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/YjLs3SP/Uncharted-1-1.jpg</fanart>
+<info>O Filme Completo do Jogo Uncharted 1 Drake's Fortune Dublado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Uncharted 2 - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=tlkkceDkT88$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=_4HdX5UxNOk$nome= Filme</link>
+<thumbnail>https://i.ibb.co/T0FR0xR/uncharted-2.png</thumbnail>
+<fanart>https://i.ibb.co/k4mrZf0/uncharted-2-1.jpg</fanart>
+<info>O Filme Completo do Jogo Uncharted 2: Among Thieves Dublado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Uncharted 3 - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DHHcM6aHPnE$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=6iFdvEp54Ik$nome= Filme</link>
+<thumbnail>https://i.ibb.co/WxPczRf/Uncharted-3.jpg</thumbnail>
+<fanart>https://i.ibb.co/k4mrZf0/uncharted-2-1.jpg</fanart>
+<info>O Filme Completo do Jogo Uncharted 3 Drake's Deception Dublado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[BAssassin's Creed: Jack, O Estripador - O Filme (Dublado)][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Q58YM633dBU$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Y9yc-8JHN7Q$nome= Filme</link>
+<thumbnail>https://i.ibb.co/19DVThM/Assassin-s-Creed-Jack-O-Estripador.jpg</thumbnail>
+<fanart>https://i.ibb.co/ynb3JCN/Assassin-s-Creed-Jack-O-Estripador1.jpg</fanart>
+<info>O Filme Completo do Jogo Assassins Creed: Syndicate Dublado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Assassin's Creed: Chronicles China - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=hWs6pIOT1o8$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=lM4JmXj8uo0$nome= Filme</link>
+<thumbnail>https://i.ibb.co/jzT3yRG/assassin-s-creed-chronicles-china.jpg</thumbnail>
+<fanart>https://i.ibb.co/r4mmp83/assassin-s-creed-chronicles-china1.png</fanart>
+<info>O Filme Completo do Jogo Assassin's Creed: Chronicles China Dublado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Assassin's Creed: Chronicles India - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Tqz6HxPunRw$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=peAyRDh4Xrc$nome= Filme</link>
+<thumbnail>https://i.ibb.co/YdVv5mS/assassin-s-creed-chronicles-india.jpg</thumbnail>
+<fanart>https://i.ibb.co/4Ft8KQV/assassin-s-creed-chronicles-india1.jpg</fanart>
+<info>O Filme Completo do Jogo Assassin's Creed: Chronicles India Dublado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Assassin's Creed: Chronicles Russia - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=JapuE16BPrY$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=IfPiV7VvM6k$nome= Filme</link>
+<thumbnail>https://i.ibb.co/G33nVZk/assassin-s-creed-chronicles-russia.jpg</thumbnail>
+<fanart>https://i.ibb.co/LJdDhWF/assassin-s-creed-chronicles-russia1.jpg</fanart>
+<info>O Filme Completo do Jogo Assassin's Creed: Chronicles Russia Dublado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Assassin's Creed: Liberation - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=q5RxYUw4DFY$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=thgZRBegC7E$nome= Filme</link>
+<thumbnail>https://i.ibb.co/tbMXFWJ/assassin-s-creed-liberation.png</thumbnail>
+<fanart>https://i.ibb.co/cww4bF3/assassin-s-creed-liberation1.jpg</fanart>
+<info>O Filme Completo do Jogo Assasins Creed Liberation Dublado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
