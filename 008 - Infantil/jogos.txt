@@ -299,111 +299,111 @@ Sinopse: Para salvar seu pai enfermo, os dois irmão Naíee (irmão mais novo) e
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Deus Ex: Mankind Divided - O Filme (Dublado)[/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<link>plugin://plugin.video.youtube/play/?video_id=hc0tJOi-g8k$nome= Filme</link>
+<thumbnail>https://i.ibb.co/QDRVryY/deus-ex-mankind-divided.jpg</thumbnail>
+<fanart>https://i.ibb.co/pnMcx3s/deus-ex-mankind-divided1.jpg</fanart>
+<info>O Filme Completo do Jogo  Deus Ex: Mankind Divided Dublado em Português do Brasil PT-BR</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Mafia 3 - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=j6dgC5RMXRs$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Eo7P5y4ULgo$nome= Filme</link>
+<thumbnail>https://i.ibb.co/qmK51K9/Mafia-3.jpg</thumbnail>
+<fanart>https://i.ibb.co/7g1MnMK/Mafia-31.jpg</fanart>
+<info>O Filme Completo do Jogo Mafia III Legendado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Gears of War 4 - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=XrfVfRV0zSg$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=eG9HshI0vV8$nome= Filme</link>
+<thumbnail>https://i.ibb.co/QJsp478/Gears-of-War-4.jpg</thumbnail>
+<fanart>https://i.ibb.co/q0vdqsf/Gears-of-War-41.jpg</fanart>
+<info>O Filme Completo do Jogo Gears of War 4 Dublado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Battlefield I - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9DM7NsxOS0Q$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=g2eY4uDLLSc$nome= Filme</link>
+<thumbnail>https://i.ibb.co/xhHK95c/Battlefield-I.jpg</thumbnail>
+<fanart>https://i.ibb.co/yRZ70sH/Battlefield-I-1.jpg</fanart>
+<info>O Filme Completo do Jogo Battlefield 1 Dublado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Dragon Ball: Xenoverse - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2iBqy2uUOz0$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=EIjtgVujCl4$nome= Filme</link>
+<thumbnail>https://i.ibb.co/HphNGdD/dragon-ball-xenoverse.jpg</thumbnail>
+<fanart>https://i.ibb.co/z427fkc/dragon-ball-xenoverse1.jpg</fanart>
+<info>O Filme Completo do Jogo Dragon Ball: Xenoverse Legendado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Dragon Ball: Xenoverse 2 - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=JnUbg-9v_bE$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=0gmleMltm8M$nome= Filme</link>
+<thumbnail>https://i.ibb.co/Pj782Qs/dragon-ball-xenoverse-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/ZK9m1QY/dragon-ball-xenoverse-21.jpg</fanart>
+<info>O Filme Completo do Jogo Dragon Ball Xenoverse 2 legendado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Titanfall: 2 - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ktw2k3m7Qko$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=r66rZUyChZw$nome= Filme</link>
+<thumbnail>https://i.ibb.co/zmjFBmM/titanfall-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/X35zKWP/titanfall-2-1.jpg</fanart>
+<info>O Filme Completo do Jogo Titanfall 2 Dublado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Call of Duty 4: Modern Warfare - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LhuIjNSg7Gg$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=KDGIaTZCIsQ$nome= Filme</link>
+<thumbnail>https://i.ibb.co/kSM0fcw/call-of-duty-4-modern-warfare.jpg</thumbnail>
+<fanart>https://i.ibb.co/h1pyRhL/call-of-duty-4-modern-warfare1.jpg</fanart>
+<info>Sinopse: Em 2011 o presidente de um país do Oriente Médio Yasir Al-Fulani, é acusado de fazer acordos com países Ocidentais visando seus próprios interesses e é executado em rede nacional por Khaled Al-Asad, causando assim uma guerra civil. Entretanto para os Estados Unidos o governo de Al-Asad ameaça toda a estabilidade do Oriente Médio e decide intervir enviando soldados para o país.</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Street Fighter: V - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0nFd7Iylj5A$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=HJ9J3xj84mk$nome= Filme</link>
+<thumbnail>https://i.ibb.co/xXSG9Dg/street-fighter-v.png</thumbnail>
+<fanart>https://i.ibb.co/tMVGw1G/street-fighter-v1.jpg</fanart>
+<info>O Filme Completo do Jogo Street Fighter: V Legendado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Final Fantasy XV: Episode Duscae - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=n8hEpGgnGTw$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=AjiaEQ1xN5s$nome= Filme</link>
+<thumbnail>https://i.ibb.co/yWCMXzQ/final-fantasy-xv-episode-duscae.png</thumbnail>
+<fanart>https://i.ibb.co/JtJh354/final-fantasy-xv-episode-duscae1.jpg</fanart>
+<info>O Filme Completo do JogoFinal Fantasy XV: Episode Duscae Legendado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Call of Duty: Black Ops - O Filme (Legendado[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=OPTOVQFRggI$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=oHQ07cTQYs$nome= Filme</link>
+<thumbnail>https://i.ibb.co/4SFNFkk/Call-of-Duty-Black-Ops.jpg</thumbnail>
+<fanart>https://i.ibb.co/HnzQC70/Call-of-Duty-Black-Ops1.jpg</fanart>
+<info>O Filme Completo do Jogo Call of Duty Call of Duty Black Ops Legendado em Português do Brasil PT-BR Full HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
-<item><title>[B][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<item><title>[B]Watch Dogs: 2 - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=hh9x4NqW0Dw$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=wVYBGaB2E7Y$nome= Filme</link>
+<thumbnail>https://i.ibb.co/vY3fz5R/watch-dogs-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/jf0362j/watch-dogs-2-1.jpg</fanart>
+<info>O Filme Completo do Jogo Watch Dogs: 2 (Game Movie) História Completa Dublado em Português do Brasil PT-BR em HD 1080p</info>
 <genre></genre>
 <year></year></item>
 
