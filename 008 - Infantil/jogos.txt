@@ -407,6 +407,708 @@ Sinopse: Para salvar seu pai enfermo, os dois irmão Naíee (irmão mais novo) e
 <genre></genre>
 <year></year></item>
 
+<item><title>[B]Metal Gear: Rising Revengeance - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=EMCkbDnaTDM$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=_9-2ZjVNdZ8$nome= Filme</link>
+<thumbnail>https://i.ibb.co/g4Gbw37/metal-gear-rising-revengeance.jpg</thumbnail>
+<fanart>https://i.ibb.co/gj8VFDr/metal-gear-rising-revengeance1.jpg</fanart>
+<info>O Filme Completo do Jogo Metal Gear: Rising Revenge Legendado em Português do Brasil PT-BR Full HD 1080p</info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]Final Fantasy: XV - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=CNM6o9um1dc$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=vmWDBZ6OI1A$nome= Filme</link>
+<thumbnail>https://i.ibb.co/qyb4BBd/final-fantasy-xv.png</thumbnail>
+<fanart>https://i.ibb.co/TmcM1Gf/final-fantasy-xv-1.jpg</fanart>
+<info>O Filme Completo do Jogo Final Fantasy XV Legendado em Português do Brasil PT-BR Full HD 1080p</info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]The Last of Us - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kE7li_u1nmg$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=9af6frYTor4$nome= Filme</link>
+<thumbnail>https://i.ibb.co/T1cCpww/The-Last-of-Us.png</thumbnail>
+<fanart>https://i.ibb.co/CMxkq8h/The-Last-of-Us1.jpg</fanart>
+<info>O Filme Completo do JogoThe Last of Us + a DLC Left Behind Dublado em Português do Brasil PT-BR Full HD 1080p</info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]Resident Evil 7 - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=W1OUs3HwIuo$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Q5tfTAZjEkg$nome= Filme</link>
+<thumbnail>https://i.ibb.co/jfYtqzZ/Resident-Evil-7.jpg</thumbnail>
+<fanart>https://i.ibb.co/MPWFnDg/Resident-Evil-7-1.jpg</fanart>
+<info>O Filme Completo do Jogo Resident Evil 7 Legendado em Português do Brasil PT-BR Full HD 1080p</info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]Horizon Zero Dawn - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=u4-FCsiF5x4$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Yr_syDrGN_k$nome= Filme</link>
+<thumbnail>https://i.ibb.co/xMQ0s80/Horizon-Zero-Dawn.jpg</thumbnail>
+<fanart>https://i.ibb.co/qgP8ysS/Horizon-Zero-Dawn1.jpg</fanart>
+<info>O Filme Completo do Jogo Horizon Zero Dawn Dublado em Português do Brasil PT-BR</info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]For Honor - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=y1HkuGUaNBY$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=xpgzmcMUv2U$nome= Filme</link>
+<thumbnail>https://i.ibb.co/82xjF0q/For-Honor.jpg</thumbnail>
+<fanart>https://i.ibb.co/8c54wZv/For-Honor1.jpg</fanart>
+<info>O Filme Completo do For Honor Dublado em Português do Brasil PT-BR 1080p</info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]Knack - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=q59tHyhDMkI$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Vci_B9P893I$nome= Filme</link>
+<thumbnail>https://i.ibb.co/dKjR5ZK/Knack.jpg</thumbnail>
+<fanart>https://i.ibb.co/8c54wZv/For-Honor1.jpg</fanart>
+<info>O Filme Completo do Knack Dublado em Português do Brasil PT-BR 1080p</info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]Call of Duty: Black Ops 2 - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=x3tedlWs1XY$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=VDpTa0wLlwM$nome= Filme</link>
+<thumbnail>https://i.ibb.co/QCDSV3D/call-of-duty-blak-ops-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/j3SKcc0/call-of-duty-blak-ops-2-1.jpg</fanart>
+<info>O Filme Completo do Call of Duty Black Ops 2 Dublado em Português do Brasil PT-BR 1080p</info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]World of Final Fantasy - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=N4Gz7BislTw$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=9D2i_6faagg$nome= Filme</link>
+<thumbnail>https://i.ibb.co/kgF9fqY/World-of-Final-Fantasy.jpg</thumbnail>
+<fanart>https://i.ibb.co/647sKSb/World-of-Final-Fantasy1.png</fanart>
+<info>O Filme Completo do Jogo Word of Final Fantasy Legendado em Português do Brasil PT-BR Full HD 1080p</info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]Final Fantasy: Type-0 - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qHyvQwv_f9w$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=zJckNaiUxXk$nome= Filme</link>
+<thumbnail>https://i.ibb.co/L8Xt39r/Final-Fantasy-Type-0.jpg</thumbnail>
+<fanart>https://i.ibb.co/BGmMK3M/Final-Fantasy-Type-01.jpg</fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]Crash Bandicoot: N Sane Trilogy - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=r5yAjgP2vnM$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=D2UclRvGHrc$nome= Filme</link>
+<thumbnail>https://i.ibb.co/GpvrTWN/crash-bandicoot-n-sane-trilogy.jpg</thumbnail>
+<fanart>https://i.ibb.co/s1TtvDg/crash-bandicoot-n-sane-trilogy1.jpg</fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]Hellblade: Senua's Sacrifice - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fBJ0ifVtK5c$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=IZqbS1FURS4$nome= Filme</link>
+<thumbnail>https://i.ibb.co/YQTpLxw/hellblade-senua-s-sacrifice.jpg</thumbnail>
+<fanart>https://i.ibb.co/yVLxrFC/hellblade-senua-s-sacrifice1.jpg</fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]Call of Duty: Modern Warfare 2 - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=blshENwbHgs$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Yva3xzcs7eI$nome= Filme</link>
+<thumbnail>https://i.ibb.co/grgdqLc/call-of-duty-modern-warfare-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/Bg81zwJ/call-of-duty-modern-warfare-21.jpg</fanart>
+<info>Cinco anos depois dos acontecimentos de Modern Warfare 1, os ultranacionalistas russos tomam controle da Rússia e declaram Imran Zakhaev como um herói e o transformam em um mártir. Enquanto isso o ex-tenente de Zakhaev, Vladimir Makarov começa uma guerra contra o Ocidente cometendo vários ataques terroristas na Europa. </info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]Call of Duty: Modern Warfare 3 - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1xjCdN_rWCE$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Vi08z3-1d7I$nome= Filme</link>
+<thumbnail>https://i.ibb.co/WHtwpb9/call-of-duty-modern-warfare-3.jpg</thumbnail>
+<fanart>https://i.ibb.co/VmWch2H/call-of-duty-modern-warfare-31.jpg</fanart>
+<info>O presidente da Rússia tem planos para acabar com a guerra com os Estados Unidos em uma cúpula em Hamburgo Alemanha, entretanto, Makarov sequestra o presidente russo para impedir o acordo de paz e para obter códigos de lançamento de mísseis nucleares para atacar a Europa.</info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]Gears of War: Ultimate Edition - O Filme (Dublado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=wBjS9EpKY4w$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=rsn9ApV4TrE$nome= Filme</link>
+<thumbnail>https://i.ibb.co/PxwhRLG/gears-of-war-ultimate-edition.jpg</thumbnail>
+<fanart>https://i.ibb.co/QYX52sN/gears-of-war-ultimate-edition1.jpg</fanart>
+<info>Os humanos haviam conquistado um planeta chamado Sera. Em meio a escassez de recursos do planeta, foi descoberto um líquido chamado de Emulsão que no início não havia utilidade, mas uma cientista chamada Helen Cooper criou o processo Lightmass, que transforma Emulsão em energia barata e eficiente. Com a carência de energia que o planeta passava, a Emulsão enriqueceu vários países, em contrapartida outros países ficavam cada vez mais pobres.</info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]Gears of War 2 - O Filme (Legendado)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=rXIjDzlGc5I$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=a2XznB4CPXo$nome= Filme</link>
+<thumbnail>https://i.ibb.co/dQ2pCk0/Gears-of-War-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/rQXxQyZ/Gears-of-War-2-1.jpg</fanart>
+<info>6 meses depois de Gears of War 1 os humanos estavam confiantes que haviam derrotado boa parte dos Locusts e decidem atacar com tudo, invadindo o subsolo para acabar de vez com a guerra.</info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year></item>
+
 <item><title>[B][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
 <link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>

@@ -29,12 +29,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Monterrico TV[/B]</title>
-<link>http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]RED BULL TV[/B]</title>
 <link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?IMDSFULL</link>
 <thumbnail></thumbnail>
@@ -83,14 +77,8 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]RacingCom[/B]</title>
-<link>https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]ALL Sports[/B]</title>
-<link><https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby&checkedby/link>
+<link>https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby&checkedby</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

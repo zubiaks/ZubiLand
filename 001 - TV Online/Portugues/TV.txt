@@ -1,28 +1,4 @@
 
-<item><title>[B]SIC[/B]</title>
-<link>http://live.impresa.pt/live/sic/sic540p.m3u8</link>
-<thumbnail>https://i.ibb.co/NCWLKSd/sic.png</thumbnail>
-<fanart>https://i.ibb.co/PrKBKP3/sic-b.jpg</fanart>
-<info>A Sociedade Independente de Comunicação é um canal de televisão privado em Portugal. A SIC, cujas transmissões tiveram início a 6 outubro de 1992, foi o primeiro canal de televisão privado a operar em Portugal, tornando-se um contributo para a pluralidade e independência da informação.</info></item>
-
-<item><title>[B]SIC Internacional[/B]</title>
-<link>http://live.impresa.pt/live/sicint/sicint.m3u8</link>
-<thumbnail>https://i.ibb.co/4sBGYK3/SIC-Internacional.png</thumbnail>
-<fanart>https://i.ibb.co/fxfkvyt/sic-internacional-b.jpg</fanart>
-<info>SIC Internacional é um canal dedicado aos portugueses espalhados pelo mundo e aos países de língua oficial portuguesa. A SIC Internacional iniciou as suas emissões no dia 17 de Setembro de 1997, com o objetivo de chegar a todos os portugueses e países de língua oficial portuguesa no mundo.</info></item>
-
-<item><title>[B]TVI[/B]</title>
-<link>https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDIxIDExOjA6MSBQTSZoYXNoX3ZhbHVlPWwxVktGVDhPbmZnK0NUZFh1ZXduQVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNTJlNDFmNy02ZThjLTQwNzctOWZhYS04NThmYTU1ODBiNzQ=</link>
-<thumbnail>https://i.ibb.co/DKhcmYg/TVI.png</thumbnail>
-<fanart>https://i.ibb.co/S5G1MrB/tvi-b.jpg</fanart>
-<info>A TVI é um canal de televisão português. As emissões regulares do canal iniciaram-se a 20 de fevereiro de 1993, como o segundo canal privado e o quarto generalista, que nessa altura tinha o nome de "4", por ser a quarta rede nacional de televisão.</info></item>
-
-<item><title>[B]TVI Internacional[/B]</title>
-<link>https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDIxIDExOjA6MiBQTSZoYXNoX3ZhbHVlPUoweUd3d3VTQU9seG90ODJZKytsdkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xYzAzN2E2Zi03NWY3LTQ0ZGYtOWI5Ni0yMmU3NzQ0MjFmOWQ=</link>
-<thumbnail>https://i.ibb.co/Qr4wHZ3/TVI-Internacional.png</thumbnail>
-<fanart>https://i.ibb.co/S5G1MrB/tvi-b.jpg</fanart>
-<info>Televisão Independente Internacional é a terceira estação de televisão internacional portuguesa. Este é o terceiro canal pertencente à TVI. O canal é dirigido às comunidades portuguesas espalhadas pelo estrangeiro</info></item>
-
 <item><title>[B]PORTO Canal[/B]</title>
 <link>https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1350687174.m3u8$nome= Porto Canal</link>
 <link>http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8$nome= Alternativo 1</link>
@@ -55,12 +31,6 @@
 <fanart>https://i.ibb.co/yNDqCPy/ARTV-b.jpg</fanart>
 <info>ARTV, ou Canal Parlamento, é um canal público de televisão, pertence ao Estado português e transmite as reuniões plenárias da Assembleia da República. Apesar de ser um serviço público de televisão, não faz parte do operador estatal RTP.</info></item>
 
-<item><title>[B]Record TV (Manaus)[/B]</title>
-<link>https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8</link>
-<thumbnail>https://i.ibb.co/P4s1dFs/TV-Record.png</thumbnail>
-<fanart>https://i.ibb.co/R0QdKmn/Record-TV-b.png</fanart>
-<info>Record TV é uma rede de televisão comercial aberta brasileira. Atualmente é a segunda maior emissora de TV comercial do Brasil, e a 28.ª maior no ranking mundial de 2012. Em 2010, foi eleita pelo mercado publicitário como a quinta maior emissora do mundo em faturamento e a oitava maior rede em estrutura física.</info></item>
-
 <item><title>[B]TV CAMARA 1[/B]</title>
 <link>https://stream3.camara.gov.br/tv1/manifest.m3u8</link>
 <thumbnail>https://i.ibb.co/tsvz8hp/TV-CAMARA-1.png</thumbnail>
@@ -80,8 +50,7 @@
 <info>Rede Brasil de Televisão é uma rede de televisão aberta brasileira. Foi inaugurada em 7 de abril de 2007, e é presidida pelo advogado tributarista Marcos Tolentino. A rede é oriunda de Campo Grande, capital do estado do Mato Grosso do Sul, e está sediada em São Paulo, capital do estado homônimo.</info></item>
 
 <item><title>[B]TV Brasil[/B]</title>
-<link>http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8$nome= Link 1</link>
-<link>http://200.189.113.201/hls/tve.m3u8$nome= Link 2</link>
+<link>http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8</link>
 <thumbnail>https://i.ibb.co/mXFZhpT/TV-Brasil-Brasil.jpg</thumbnail>
 <fanart>https://i.ibb.co/pZr6PdY/TV-Brasil-b.jpg</fanart>
 <info>TV Brasil é a rede de televisão pública do Poder Executivo Brasileiro. Pertence à Empresa Brasil de Comunicação, conglomerado de mídia do governo do país.</info></item>
@@ -91,12 +60,6 @@
 <thumbnail>https://i.ibb.co/KGqHXh8/BAND.png</thumbnail>
 <fanart>https://i.ibb.co/8ds7XHn/BAND-b.png</fanart>
 <info>Rede Bandeirantes é uma rede de televisão aberta comercial brasileira pertencente ao Grupo Bandeirantes. Entrou no ar no dia 13 de maio de 1967 pelo canal 13 VHF. Seu fundador foi João Jorge Saad, que contou com a ajuda do sogro, o político Ademar de Barros, antigo proprietário da Rádio Bandeirantes.</info></item>
-
-<item><title>[B]TV CAPITAL 777[/B]</title>
-<link>https://59f2354c05961.streamlock.net:1443/tvcapital/_definst_/tvcapital/playlist.m3u8</link>
-<thumbnail>https://i.ibb.co/kq1KJrX/TV-CAPITAL-777.jpg</thumbnail>
-<fanart>https://i.ibb.co/LJ3fjsF/TV-CAPITAL-777-b.jpg</fanart>
-<info>aqui a nossa cultura em primeiro lugar</info></item>
 
 <item><title>[B]BRZ TV[/B]</title>
 <link>https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</link>

@@ -1,8 +1,3 @@
-<item><title>[B]UCSG[/B]</title>
-<link>http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8</link>
-<thumbnail>https://i.ibb.co/nBykwg2/UCSG.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
 
 <item><title>[B]Esperanza TV (cristão)(espanhol)[/B]</title>
 <link>http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8</link>
@@ -22,12 +17,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]CBN Español (cristão)[/B]</title>
-<link>http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8</link>
-<thumbnail>https://i.ibb.co/G3BVcBx/CBN-Espa-ol-crist-o.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Tv Novo Tempo (Envagelica) (Brasil)[/B]</title>
 <link>http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8$nome= Link 1</link>
 <link>http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8$nome= Link 2</link>
@@ -38,12 +27,6 @@
 <item><title>[B]TV Terceiro Anjo (EVANGÉLICOS)[/B]</title>
 <link>http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS</link>
 <thumbnail>https://i.ibb.co/wsbVyQH/TV-Terceiro-Anjo-EVANG-LICOS.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]TV EVANGELIZAR (EVANGÉLICOS)[/B]</title>
-<link>http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8</link>
-<thumbnail>https://i.ibb.co/m0Lxdyq/TV-EVANGELIZAR-EVANG-LICOS.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -59,15 +42,9 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]TV CI (EVANGÉLICOS)[/B]</title>
-<link>http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8</link>
-<thumbnail>https://i.ibb.co/xhQktkz/TV-CI-EVANG-LICOS.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]BOAS NOVAS HD (PT) (EVANGÉLICOS)[/B]</title>
+<item><title>[B]MANA SAT - 1 (EVANGÉLICOS)[/B]</title>
 <link>http://csvl04.manasat.com:1935/tvmana/tvmana2/chunklist_w51468928.m3u8</link>
-<thumbnail>https://i.ibb.co/68Y9cmq/BOAS-NOVAS-HD-PT-EVANG-LICOS.png</thumbnail>
+<thumbnail>https://i.ibb.co/1RWgktZ/MANA-SAT-IGREJA-ONLINE-LISBOA-HD-PT-EVANG-LICOS.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -86,36 +63,6 @@
 <item><title>[B]Revelation TV[/B]</title>
 <link>http://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/playlist.m3u8</link>
 <thumbnail>https://i.ibb.co/L539tNF/Revelation-TV.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]MTA 1[/B]</title>
-<link>https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/index_1700_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]MTA 2[/B]</title>
-<link>https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_1100_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]MTA 3[/B]</title>
-<link>https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_2400_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]MTA Africa[/B]</title>
-<link>https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/index_3000_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]First Baptist London Live[/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=xs6lWsTPxo8</link>
-<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -138,12 +85,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Vatican Media[/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=AuumDuU6PLE</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]TV ALIANÇA[/B]</title>
 <link>https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8</link>
 <thumbnail></thumbnail>
@@ -152,24 +93,6 @@
 
 <item><title>[B]TV PAI ETERNO[/B]</title>
 <link>https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Reforma TV[/B]</title>
-<link>http://livestreamcdn.net:1935/ReformaTV/smil:ReformaTV.smil/chunklist_w1662381270_b1300000_slen.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]CTN INT.[/B]</title>
-<link>http://va1.ministeriotv.com:1936/48_rp/smil:48.smil/chunklist_w1816794543_b1556000_slesp.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]CTNi[/B]</title>
-<link>http://184.164.158.202:1936/48/smil:48.smil/chunklist_w840077962_b1564000_sleng.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -192,20 +115,8 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]iglesia ebenezer honduras[/B]</title>
-<link>http://hds4.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]ctn hd[/B]</title>
 <link>http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]genesis tv[/B]</title>
-<link>http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -236,14 +147,7 @@
 <info></info></item>
 
 <item><title>[B]Al Quran Al Kareem[/B]</title>
-<link>http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_41200=1.m3u8$nome= Link 1</link>
-<link>http://210.210.155.35/qwr9ew/s/s28/02.m3u8$nome= Link 2</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Al Sunnah An Nabawiyyah[/B]</title>
-<link>http://210.210.155.35/qwr9ew/s/s27/02.m3u8</link>
+<link>http://210.210.155.35/qwr9ew/s/s28/02.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

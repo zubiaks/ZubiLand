@@ -45,12 +45,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Elbekanal Schönebeck (Germany)[/B]</title>
-<link>rtmp://62.113.210.250/medienasa-live/elbe_high</link>
-<thumbnail>https://image.ibb.co/g0vyJk/Elbekanal_Sch_nebeck_Germany.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]HALLE TV (Germany)[/B]</title>
 <link>rtmp://62.113.210.250/medienasa-live/tvhalle_high</link>
 <thumbnail>https://image.ibb.co/comKr5/HALLE_TV_Germany.png</thumbnail>
@@ -94,8 +88,8 @@
 
 
 <item><title>[B]Armenia[/B]</title>
-<link>https://image.ibb.co/dJvXn6/Armenia.png</link>
-<thumbnail></thumbnail>
+<link></link>
+<thumbnail>https://image.ibb.co/dJvXn6/Armenia.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -146,12 +140,6 @@
 
 <item><title>[B]Canal 9 Salta[/B]</title>
 <link>http://panel.dattalive.com:1935/8250/8250/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Medios Rioja[/B]</title>
-<link>http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -264,12 +252,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]UESTV | Red de Televisión Universidades del Estado de Chile[/B]</title>
-<link>http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 
 
 <item><title>[B]China[/B]</title>
@@ -278,7 +260,7 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]台GoodTVHD2[/B]</title>
+<item><title>[B]台GoodTV3/B]</title>
 <link>http://live.streamingfast.net/osmflivech3.m3u8</link>
 <thumbnail>https://i.ibb.co/cYM30yF/Good-tv.png</thumbnail>
 <fanart></fanart>
@@ -308,12 +290,6 @@
 
 <item><title>[B]Colômbia[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]TELE ISLAS SD[/B]</title>
-<link>http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -434,12 +410,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]BARDEJOV TV (Eslováquia)[/B]</title>
-<link>rtmp://s1.media-planet.sk:80/live/bardejov1</link>
-<thumbnail>https://image.ibb.co/mJt8ik/BARDEJOV_TV_Slovakia.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]JOJ TV[/B]</title>
 <link>https://nn.geo.joj.sk/live/hls/joj-720.m3u8</link>
 <thumbnail>https://i.ibb.co/DbZLmvN/193px-Joj-logo-2015.jpg</thumbnail>
@@ -454,9 +424,9 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]CANAL 10 EMPORDA (Espanha)(Catalunha)[/B]</title>
+<item><title>[B]Emporda TV (Espanha)[/B]</title>
 <link>http://ventdelnord.tv:8080/escala/directe.m3u8$nome= Link 1</link>
-<link>http://37.187.142.147:1935/ch10live/high.stream/live.m3u8$nome= Link 2</link>
+<link>http://ventdelnord.tv:8080/escala/directe.m3u8$nome= Link 2</link>
 <thumbnail>https://image.ibb.co/dBqXOm/CANAL_10_EMPORDA.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -467,44 +437,8 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Marti (Espanha)[/B]</title>
-<link>http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]ETB 1 (Espanha)[/B]</title>
-<link>http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]ETB 2 (Espanha)[/B]</title>
-<link>http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]EITB.EUS (Espanha)[/B]</title>
-<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Murcia (Espanha)[/B]</title>
-<link>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8</link>
-<thumbnail>https://i.ibb.co/d0K46cb/LOGO.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Canal Parlamento (Espanha)[/B]</title>
-<link>http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Emporda TV (Espanha)[/B]</title>
-<link>http://ventdelnord.tv:8080/escala/directe.m3u8</link>
+<item><title>[B]CANAL 10 EMPORDA (Espanha)(Catalunha)[/B]</title>
+<link>http://37.187.142.147:1935/ch10live/high.stream/live.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -520,13 +454,6 @@
 <thumbnail>https://i.imgur.com/jl1Nnd4.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
-
-<item><title>[B]LANCELOT TV[/B]</title>
-<link>http://62.210.141.18:1935/directo/lancelot.television/live.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 
 <item><title>[B]Filandia[/B]</title>
 <link></link>
@@ -545,12 +472,6 @@
 <item><title>[B]RTL TVI HD[/B]</title>
 <link>http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8</link>
 <thumbnail>https://image.ibb.co/dOYYw6/RTL_TVI_HD.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]La Chaine Normande [Franca][/B]</title>
-<link>http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8</link>
-<thumbnail>https://image.ibb.co/hPv0w6/La_Chaine_Normande_Franca.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -670,12 +591,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]ELSHINTA TV[/B]</title>
-<link>http://210.210.155.35/qwr9ew/s/s10/02.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Jtv[/B]</title>
 <link>http://122.248.43.138:1935/ch2/myStream/live.m3u8</link>
 <thumbnail></thumbnail>
@@ -687,18 +602,6 @@
 <item><title>[B]INDIA[/B]</title>
 <link></link>
 <thumbnail>https://image.ibb.co/n4Q3im/INDIA.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Lok Sabha TV [India][/B]</title>
-<link>http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8</link>
-<thumbnail>https://image.ibb.co/jXfHb6/Lok_Sabha_TV_India.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]ABP Ananda (INDIA)[/B]</title>
-<link>http://bengaliabp-lh.akamaihd.net/i/abpbanglanew_1@192108/master.m3u8</link>
-<thumbnail>https://i.ibb.co/30fbkSL/abp-ananada.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -732,24 +635,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Radio Farda[/B]</title>
-<link>http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8</link>
-<thumbnail>https://i.ibb.co/K502xd0/logo.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]VoA (Irão)[/B]</title>
-<link>http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8</link>
-<thumbnail>https://i.ibb.co/Vt3tMNd/loz0o-Zbi-Ru-Wlx5cs-Wg-CR-VOA-FARSI-LIVESTATION-1.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Simay-Azadi Iran National TV[/B]</title>
-<link>https://sima-i.akamaihd.net/hls/live/624111/sima/03.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 
 
 <item><title>[B]Italy[/B]</title>
@@ -758,27 +643,9 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][Video Brescia (Italian)/B]</title>
-<link>http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8</link>
-<thumbnail>https://image.ibb.co/m65QjQ/Video_Brescia_Italian.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]CANALE 7 (Italy)[/B]</title>
 <link>http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8</link>
 <thumbnail>https://image.ibb.co/k20K4R/CANALE_7_Italy.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]DMAX (Italy)[/B]</title>
-<link>https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8</link>
-<thumbnail>https://i.ibb.co/YdknMYx/dmax.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]CAFETV24 (Italy)[/B]</title>
-<link>http://srv3.meway.tv:1957/cafe/live/playlist.m3u8</link>
-<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -825,12 +692,6 @@
 
 <item><title>[B]Japão[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Gem TV Asia[/B]</title>
-<link>http://210.210.155.66/h/h19/01.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -1184,32 +1045,8 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]B1 TV[/B]</title>
-<link>http://stream.adunity.com/b1/b1_640-.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Bucovina TV Suceava[/B]</title>
-<link>http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Realitatea Plus[/B]</title>
-<link>https://live.realitatea.net/livertmp/plus/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Speranta TV[/B]</title>
 <link>http://amsix214.streamkit.tv/edge/_definst_/sperantatv_1200/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]VP[/B]</title>
-<link>http://89.38.8.130:39437</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -1252,20 +1089,8 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]CP Info[/B]</title>
-<link>http://109.68.40.67/life/magnolia.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Muz Sojuz (Russia)[/B]</title>
 <link>http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Nastoyashcheye Vremya (Russia)[/B]</title>
-<link>http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -1336,21 +1161,9 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]IBB TV[/B]</title>
-<link>rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1</link>
-<thumbnail>https://i.ibb.co/0rkCdS5/xcrRa9Y.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]TV 41[/B]</title>
 <link>rtmp://stream.taksimbilisim.com/tv41/bant1</link>
 <thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]TV 52[/B]</title>
-<link>rtmp://stream.taksimbilisim.com/tv52/bant1</link>
-<thumbnail>https://i.ibb.co/56FjFjp/L6GE7ZG.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
