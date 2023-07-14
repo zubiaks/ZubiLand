@@ -1,17 +1,5 @@
 
 
-<item><title>[B]TVE 24h[/B]</title>
-<link>http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8</link>
-<thumbnail>https://image.ibb.co/eLtb65/TVE_24h.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]FOX News[/B]</title>
-<link>http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8</link>
-<thumbnail>https://image.ibb.co/jg9SDk/FOX_News.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]CGTN 1[/B]</title>
 <link>http://news.cgtn.com/resource/live/english/cgtn-news.m3u8$nome= CGTN 1(en) 1</link>
 <link>https://live.cgtn.com/1000/prog_index.m3u8$nome= CGTN 1(en) 2</link>
@@ -29,12 +17,6 @@
 
 <item><title>[B]Rudaw (Iraqi Kurdistan)(Informacao)[/B]</title>
 <link>https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]NBC 4 News (Washington DC)[/B]</title>
-<link>https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -69,33 +51,8 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Al-Khalij TV[/B]</title>
-<link>http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]CBN NOTICIAS [/B]</title>
-<link>https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8$nome= CBN NOTICIAS (SP)</link>
-<link>https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8$nome= CBN NOTICIAS (RJ)</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]26 HD[/B]</title>
 <link>http://200.115.193.177/live/26hd-720/.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]BFM TV[/B]</title>
-<link>https://str81.creacast.com/grandlilletv/high/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]alsace 20[/B]</title>
-<link>http://live.alsace20.fr/live/alsace20/alsace20/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -120,30 +77,6 @@
 
 <item><title>[B]TV Galícia[/B]</title>
 <link>https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]ETB 1[/B]</title>
-<link>https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]ETB 2[/B]</title>
-<link>https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Canal Extremadura[/B]</title>
-<link>https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Hidabroot TV [Israel][/B]</title>
-<link>https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -202,18 +135,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]abc news[/B]</title>
-<link>http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/512x288_875600/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]JAKARTA GLOBE NEWS CHANNEL [/B](Indonesia)/B]</title>
-<link>http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]BERITA SATU (Indonesia)[/B]</title>
 <link>https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8</link>
 <thumbnail>https://www.beritasatu.com/assets/img/news/news_logo.png</thumbnail>
@@ -223,18 +144,6 @@
 <item><title>[B]TRT WORLD 1(turkish news) (English)[/B]</title>
 <link>https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8</link>
 <thumbnail>https://image.ibb.co/hbmWRw/TRT_WORLD.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Cheddar Big News[/B]</title>
-<link>https://live.chdrstatic.com/cbn/index.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Arirang[/B]</title>
-<link>http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</link>
-<thumbnail>https://static.epg.best/kr/ArirangTV.kr.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
