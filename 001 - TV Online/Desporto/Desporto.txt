@@ -11,12 +11,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Abu Dhabi Sports 3[/B]</title>
-<link>https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Pinguino TV[/B]</title>
 <link>http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8</link>
 <thumbnail></thumbnail>
@@ -35,12 +29,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]CEV TV[/B]</title>
-<link>https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Dubai Racing[/B]</title>
 <link>http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8</link>
 <thumbnail></thumbnail>
@@ -50,12 +38,6 @@
 <item><title>[B]Libyas Channel[/B]</title>
 <link>https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8</link>
 <thumbnail>https://i.ibb.co/tKM5hPR/wKJikLm.gif</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Dubai Sports[/B]</title>
-<link>https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8</link>
-<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -83,50 +65,14 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]FOX SPORTS 1[/B]</title>
-<link>https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Telecaribe Deportes[/B]</title>
-<link>https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?checkedby</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]AfrikaSport[/B]</title>
-<link>https://1423954428.rsc.cdn77.org/live/ngrp:stream-1_all/chunklist_b1324800.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]ufc2[/B]</title>
 <link>https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]UFC stadium[/B]</title>
-<link>https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]TVRI Sports[/B]</title>
-<link>http://210.210.155.35/session/4e6c8c72-96ab-11e9-b6f3-b82a72d63267/qwr9ew/s/s107/01.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]ATGV 1 SPORT[/B]</title>
 <link>https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Adventure sport[/B]</title>
-<link>https://dai2.xumo.com/xumocdn/adventuresportsnetworkEdhorizki-PPIIPTV/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
