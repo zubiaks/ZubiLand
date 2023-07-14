@@ -28,3 +28,9 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B]RaiNews24 (Italiano)[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/fjGSuQ/RAI_NEWS.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+

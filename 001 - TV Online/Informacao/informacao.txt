@@ -1,11 +1,5 @@
 
 
-<item><title>[B]RaiNews24 (Italiano)[/B]</title>
-<link>http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8</link>
-<thumbnail>https://image.ibb.co/fjGSuQ/RAI_NEWS.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]TVE 24h[/B]</title>
 <link>http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8</link>
 <thumbnail>https://image.ibb.co/eLtb65/TVE_24h.png</thumbnail>
