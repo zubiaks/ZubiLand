@@ -1,0 +1,30 @@
+<item><title>[B]RTP 3[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/gsFtDk/RTP_3.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]SIC Noticias[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/nicxPQ/SIC_Noticias.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TVI 24[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/g2oVtk/TVI_24.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]CM TV[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/cLCC65/CM_TV.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]CBS NEWS HD[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/cVrDm5/CBSN.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
