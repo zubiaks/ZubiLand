@@ -33,24 +33,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]NDR HD (Alemao)[/B]</title>
-<link>http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8</link>
-<thumbnail>https://image.ibb.co/eN2xDk/NDR_HD_Alemao.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]BLK Regional TV (Germany)[/B]</title>
-<link>rtmp://62.113.210.250/medienasa-live/BLKonline_high</link>
-<thumbnail>https://image.ibb.co/jMsLUQ/BLK_Regional_TV_Germany.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]HALLE TV (Germany)[/B]</title>
-<link>rtmp://62.113.210.250/medienasa-live/tvhalle_high</link>
-<thumbnail>https://image.ibb.co/comKr5/HALLE_TV_Germany.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]1-2-3 TV (Germany)(Vendas)[/B]</title>
 <link>http://123tv.cdn.ses-ps.com/index.m3u8</link>
 <thumbnail>https://image.ibb.co/mLKhr6/1_2_3_TV_Germany.png</thumbnail>
@@ -60,12 +42,6 @@
 <item><title>[B]Baden TV [Alemanha][/B]</title>
 <link>http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8</link>
 <thumbnail>https://image.ibb.co/hBDW3m/Baden_TV_Alemanha.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]MDF.1[/B]</title>
-<link>http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8</link>
-<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -98,12 +74,6 @@
 <item><title>[B]Argentina[/B]</title>
 <link></link>
 <thumbnail>https://image.ibb.co/fmGSLR/Argentina.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]eitb.eus (Argentina)[/B]</title>
-<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
-<thumbnail>https://image.ibb.co/hmLbYm/eitb_eus.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -150,12 +120,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]El Garaje TV[/B]</title>
-<link>http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 
 
 <item><title>[B]Bahrain[/B]</title>
@@ -168,12 +132,6 @@
 
 <item><title>[B]Belarus[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Stolicnoe TV (Belarus)[/B]</title>
-<link>http://86.57.147.236/HLS/ctvby/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -198,12 +156,6 @@
 
 <item><title>[B]Bósnia[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]RTRS Plus (Bósnia)[/B]</title>
-<link>https://parh.rtrs.tv/plus/plus/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -260,7 +212,7 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]台GoodTV3/B]</title>
+<item><title>[B]台GoodTV3[/B]</title>
 <link>http://live.streamingfast.net/osmflivech3.m3u8</link>
 <thumbnail>https://i.ibb.co/cYM30yF/Good-tv.png</thumbnail>
 <fanart></fanart>
@@ -302,23 +254,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Ticavision[/B]</title>
-<link>http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/Zkfw06k.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 
 
 <item><title>[B]Coreia Sul[/B]</title>
 <link></link>
 <thumbnail>https://image.ibb.co/eeRK0R/Coreia_Sul.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Arirang[/B]</title>
-<link>http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</link>
-<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -425,8 +365,7 @@
 <info></info></item>
 
 <item><title>[B]Emporda TV (Espanha)[/B]</title>
-<link>http://ventdelnord.tv:8080/escala/directe.m3u8$nome= Link 1</link>
-<link>http://ventdelnord.tv:8080/escala/directe.m3u8$nome= Link 2</link>
+<link>http://ventdelnord.tv:8080/escala/directe.m3u8</link>
 <thumbnail>https://image.ibb.co/dBqXOm/CANAL_10_EMPORDA.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -434,12 +373,6 @@
 <item><title>[B]TV GALICIA[/B]</title>
 <link>http://europa-crtvg.flumotion.com/playlist.m3u8</link>
 <thumbnail>https://image.ibb.co/mHd0tm/TV_GALICIA.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]CANAL 10 EMPORDA (Espanha)(Catalunha)[/B]</title>
-<link>http://37.187.142.147:1935/ch10live/high.stream/live.m3u8</link>
-<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 

@@ -26,9 +26,167 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B]MDF.1[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 
 
 	Austria
 
 
 
+	Arábia Saudita
+
+
+
+	Armenia
+
+
+
+	Argentina
+
+<item><title>[B]eitb.eus (Argentina)[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/hmLbYm/eitb_eus.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]El Garaje TV[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+	Bahrain
+
+
+
+	Belarus
+
+<item><title>[B]Stolicnoe TV (Belarus)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+	Belgica
+
+
+
+	BOLIVIA
+
+
+
+	Bósnia
+
+<item><title>[B]RTRS Plus (Bósnia)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+	Bulgaria
+
+
+
+	Caribbean
+
+
+
+	Chéquia
+
+
+
+	Chile
+
+
+
+	China
+
+
+
+	Croacia
+
+
+
+	Colômbia
+
+
+
+	Costa Rica
+
+<item><title>[B]Ticavision[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/Zkfw06k.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+	Coreia Sul
+
+<item><title>[B]Arirang[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+	Curdistão
+
+
+
+	Rudaw
+
+
+
+	Dinamarca
+
+
+
+	Dubai
+
+
+
+	Equador
+
+
+
+	Egypt
+
+
+
+	El Salvador
+
+
+
+	Eslovénia
+
+
+
+	Eslováquia
+
+
+
+	Espanha
+
+<item><title>[B]CANAL 10 EMPORDA (Espanha)(Catalunha)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+	
