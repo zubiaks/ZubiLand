@@ -1,25 +1,7 @@
 
-<item><title>[B]Mello TV[/B]</title>
-<link>https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8</link>
-<thumbnail>https://i.ibb.co/DM33GMG/maxresdefault.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]GOSPEL MOVIES TV[/B]</title>
 <link>https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8</link>
 <thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]ITC TV[/B]</title>
-<link>https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/chunklist_b4628000.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]tvN Movies[/B]</title>
-<link>http://210.210.155.35/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8</link>
-<thumbnail>https://images.useetv.com/logo_tvnmovies_big.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 

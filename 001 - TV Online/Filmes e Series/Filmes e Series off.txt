@@ -1,0 +1,19 @@
+
+<item><title>[B]Mello TV[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/DM33GMG/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ITC TV[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]tvN Movies[/B]</title>
+<link></link>
+<thumbnail>https://images.useetv.com/logo_tvnmovies_big.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
