@@ -1,0 +1,91 @@
+<item><title>[B]Ind TV USA (720p)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Global Got Talent[/B]</title>
+<link>$nome= Global Got Talent (XUMO)</link>
+<link>$nome= Global Got Talent</link><thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Gameshow Network (1080p)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Fido TV (1080p)[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/kvdqP3H.jpg</thumbnail>
+<fanart></fanart>
+<info>English</info></item>
+
+<item><title>[B]Ecran TV[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]DocuBay TV (1080p)[/B]</title>
+<link></link>
+<thumbnail>https://od.lk/s/MF8yMzAxMjQ1MzBf/Docubay_750x750.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]CONtv (1080p)[/B]</title>
+<link>$nome= Link 1</link>
+<link>$nome= Link 2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Cinehouse (STIRR) (720p)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Blaze TV (720p)[/B]</title>
+<link></link>
+<thumbnail><https://i.imgur.com/HcRKP5P.jpg/thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]AMC Slightly Off (1080p)[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/yngqRL8.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]AMC Presents (1080p)[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/yngqRL8.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]All Weddings (1080p)[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/d61oA0y.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Aathavan TV (720p)[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/IgwQ7o5.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]A&E (Best of) (1080p)[/B]</title>
+<link></link>
+<thumbnail><https://i.imgur.com/zl7Gzwm.png/thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]1TvPersian[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
