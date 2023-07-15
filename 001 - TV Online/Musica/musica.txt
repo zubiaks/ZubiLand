@@ -109,12 +109,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Portal Fox Mix[/B]</title>
-<link>http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/eroz_brebes.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]30A Music[/B]</title>
 <link>https://30a-tv.com/music.m3u8</link>
 <thumbnail></thumbnail>
@@ -147,12 +141,6 @@
 
 <item><title>[B]9XM[/B]</title>
 <link>http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/eroz_brebes.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Viva[/B]</title>
-<link>http://195.9.195.19:8001/hls2/vivarussia/index.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
