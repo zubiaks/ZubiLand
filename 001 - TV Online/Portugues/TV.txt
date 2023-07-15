@@ -1,7 +1,7 @@
 
 <item><title>[B]PORTO Canal[/B]</title>
-<link>https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1350687174.m3u8$nome= Porto Canal</link>
 <link>http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8$nome= Alternativo 1</link>
+<link>$nome= Off</link>
 <thumbnail>https://i.ibb.co/BNmvZqj/PORTO-Canal.png</thumbnail>
 <fanart>https://i.ibb.co/nc34KfF/porto-canal-b.jpg</fanart>
 <info>Porto Canal é um canal de televisão português dedicado a todo o território nacional, com uma diversificada em diversas áreas: informação, deporto e entretenimento.</info></item>

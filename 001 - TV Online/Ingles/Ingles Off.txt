@@ -1,0 +1,18 @@
+<item><title>[B]CHANNEL 53 - AKAKŪ GREEN / GOVERNMENT & PUBLIC AFFAIRS (USA)[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/GvM38fY/Channel53-147x150.png</thumbnail>
+<fanart></fanart>
+<info>Maui County Council</info></item>
+
+<item><title>[B]CHANNEL 54 - AKAKŪ RED / ALL ACCESS ALL THE TIME (USA)[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Bjg48wH/Channel54-147x150.png</thumbnail>
+<fanart></fanart>
+<info>Maui County Council</info></item>
+
+<item><title>[B]CHANNEL 55 – AKAKŪ BLUE / LIVE & LOCAL[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/q9Cf8qS/Channel55-147x150.png</thumbnail>
+<fanart></fanart>
+<info>Maui County Council</info></item>
+
