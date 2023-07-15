@@ -1,0 +1,48 @@
+<item><title>[B]m2o tv[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/eSuYUR/m2o_tv.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]7TV Murcia[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Capital TV (UK)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Deejay TV[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Radio Italia TV[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Qkf9nWN/logo-radioitalia-web2016.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]la mega mundial[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Deutsches Musik Fernsehen[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Portal FoxMix HD[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
