@@ -151,30 +151,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Music Now[/B]</title>
-<link>https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]POP Musik[/B]</title>
-<link>https://cdn4.mbahnunungonline.net/m3u8/94a637fadb57201.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]MALEO TV[/B]</title>
-<link>https://cdn4.mbahnunungonline.net/m3u8/e22dc65d77c8885.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]TV ikim[/B]</title>
-<link>http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]RETRÔ PLUS TV[/B]</title>
 <link>https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8</link>
 <thumbnail></thumbnail>
