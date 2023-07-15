@@ -1,9 +1,7 @@
 
 <item><title>[B]MTV HD[/B]</title>
 <link>http://de1se01.v2beat.live/playlist.m3u8$nome= MTV HD (Alemanha)</link>
-<link>https://t2.tvmak.com/tv/mtvkosova.m3u8$nome= MTV Casova</link>
-<link>http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8$nome= MTV Spankin</link>
-<link>https://s02.diazol.hu:10192/stream.m3u8$nome= MTV Music</link>
+<link>$nome= off</link>
 <thumbnail>https://image.ibb.co/bTthpR/MTV.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -14,12 +12,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]m2o tv[/B]</title>
-<link>http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8</link>
-<thumbnail>https://image.ibb.co/eSuYUR/m2o_tv.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Retro TV[/B]</title>
 <link>http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8$nome= Link 1</link>
 <link>http://89.185.253.55/retrotv/retrotvHQ1/eroz_brebes.m3u8$nome= Link 2</link>
@@ -27,21 +19,9 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]7TV Murcia[/B]</title>
-<link>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]MAD TV (Greece)[/B]</title>
 <link>http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8</link>
 <thumbnail>https://image.ibb.co/mLwcOm/MAD_TV.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Capital TV (UK)[/B]</title>
-<link>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</link>
-<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -255,8 +235,8 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]RETRÔ PLUS TV[/B]</title>
+<link>https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
