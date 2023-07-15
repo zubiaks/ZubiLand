@@ -1,0 +1,34 @@
+	Africa
+
+
+
+	Albania
+
+
+
+	Alemanha
+
+<item><title>[B]NDR HD (Alemao)[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/eN2xDk/NDR_HD_Alemao.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]BLK Regional TV (Germany)[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/jMsLUQ/BLK_Regional_TV_Germany.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]HALLE TV (Germany)[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/comKr5/HALLE_TV_Germany.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+	Austria
+
+
+
