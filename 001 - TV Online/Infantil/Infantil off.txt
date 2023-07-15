@@ -1,0 +1,163 @@
+<item><title>[B]LOCOMOTION TV[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ABN KIDS[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Kuriakos Kids[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]KIDS TV (Brasil)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]3abnKids.TV[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TV Digital birigui e Destak TV[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ANIPLUS (Japão) (Anime)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]SmaylikTV[/B]</title>
+<link></link>
+<thumbnailhttp://smilik.tv/wp-content/uploads/2016/02/Desktop_-1.png></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Disney (576p)(Russian)[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/ccycpQ/DISNEY_CHANNEL.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Yo Gabba Gabba![/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/RwxgFfb.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]tvo KIDS (360p)[/B]</title>
+<link></link>
+<thumbnail>https://parco-zh.github.io/demo/TVO.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Toonix[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Super Simple Songs[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/9zRYK8n.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ST-TV | IGN TV (720p)[/B]</title>
+<link></link>
+<thumbnail>https://od.lk/s/MF8yMzA3OTUzNTVf/IGN_512x512.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rotana Kids (1080p)[/B]</title>
+<link>$nome= Link 1</link>
+<link>$nome= Link 2</link>
+<thumbnail>https://rotana.net/assets/themes/TriTheme/images/channels/kids.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]PBS Kids Arizona (KAET-DT4)[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/ambc9le.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]New Kid TV[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/Z5t6cCe.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]MBC 3 USA (1080p)[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/FVNVC73.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Majid TV (Arabic)(1080p)[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/9Bun2IX.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Lale (Ukrainian)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Kinder TV (Ukrainian)(Russian)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]kabillion[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/2Ybvtlg.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Gulli (French)(540p)[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/mMWq0Kn.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Fun Zone (Bumblebee[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/SfJuMjV.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Fireman Sam[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/umyEio1.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Cocoro[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/Z4hIjPn.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Kan 23-IS (Hebrew)[/B]</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
