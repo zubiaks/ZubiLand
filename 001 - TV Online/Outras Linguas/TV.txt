@@ -1,5 +1,5 @@
 
-<item><title>[B]Africa[/B]</title>
+<item><title>[B]-- Africa[ --/B]</title>
 <link></link>
 <thumbnail>https://image.ibb.co/d9jgfR/017_Africa.jpg</thumbnail>
 <fanart></fanart>
