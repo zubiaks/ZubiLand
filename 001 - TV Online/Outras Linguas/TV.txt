@@ -464,26 +464,8 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]SIMPANG 5 TV[/B]</title>
-<link>http://122.248.43.138:1935/ch4/myStream/live.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Magna Channel[/B]</title>
 <link>https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_sleng.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]DAAI TV INDONESIA[/B]</title>
-<link>http://210.210.155.35/session/f8839692-c617-11e9-b949-c81f66f89318/qwr9ew/s/s13/index.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Jtv[/B]</title>
-<link>http://122.248.43.138:1935/ch2/myStream/live.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -540,18 +522,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]TV 2000 (Italy)[/B]</title>
-<link>http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Canale 10 (Italy)[/B]</title>
-<link>http://37.187.142.147:1935/ch10live/high.stream/live.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]SuperTV (Italy)[/B]</title>
 <link>http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8</link>
 <thumbnail></thumbnail>
@@ -591,12 +561,6 @@
 
 <item><title>[B]PERU[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]TV PERU SD[/B]</title>
-<link>http://cdnh4.iblups.com/hls/irtp.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -679,17 +643,17 @@
 <info></info></item>
 
 <item><title>[B]TV Ikim[/B]</title>
-<link>http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8</link>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Janam TV (240p)[/B]</title>
-<link>https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8</link>
+<link>https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+
 
 
 <item><title>[B]Malta[/B]</title>
