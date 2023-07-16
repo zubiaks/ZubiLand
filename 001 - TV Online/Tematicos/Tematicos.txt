@@ -1,14 +1,7 @@
 
-<item><title>[B]Garage TV[/B]</title>
-<link>http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Fashion TV[/B]</title>
 <link>https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8$nome= Link 1</link>
 <link>https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8$nome= Link 2</link>
-<link>http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8$nome= Link 3</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -19,13 +12,7 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Silence TV WORLD[/B]</title>
-<link>http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Psychic Today[/B]</title>
+<item><title>[B]Psychic Today (Youtube)[/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=3ltWKt5shUc</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
