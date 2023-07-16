@@ -1,10 +1,4 @@
 
-<item><title>[B]Zeitgeist: Moving Forward[/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=4Z9WVZddH9w</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Star Trek - Segredos do Universo[/B]</title>
 <link>https://ia800401.us.archive.org/24/items/Star.Trek.Segredos.Universo/Star.Trek.Segredos.do.Universo.BRAZiLiAN.x264-FHxHD.mp4</link>
 <thumbnail>https://i.ibb.co/Zzq0wZQ/download.jpg</thumbnail>
@@ -12,10 +6,10 @@
 <info>Seria possível construir nossa própria nave Enterprise? Poderíamos viajar entre as estrelas tão facilmente como o fazem em Star Trek? Neste especial, vamos aos bastidores do novo filme de J. J. Abrams, "Além da Escuridão - Star Trek", tanto no set de filmagem, como também investigando a incrível ciência dos exoplanetas, a física do impulso Warp e as ideias sobre como poderíamos viver um dia em um universo igual ao que vemos em Star Trek.
 </info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<item><title>[B]Grandes Golpes[/B]</title>
+<link>https://ia803005.us.archive.org/33/items/GrandesGolpesHistoryChannelHD/Grandes%20Golpes%20%5BHistory%20Channel%20HD%5D.mp4</link>
+<thumbnail>https://i.ibb.co/DgqXPbN/History-2021-svg.png</thumbnail>
+<fanart>https://i.ibb.co/j3Y3wtX/carlo-ponzi-golpe-esquema-da-piramide-history-channel-brasil.jpg</fanart>
 <info></info></item>
 
 <item><title>[B][/B]</title>
