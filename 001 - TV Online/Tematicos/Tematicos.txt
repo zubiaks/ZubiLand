@@ -12,30 +12,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Psychic Today (Youtube)[/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=3ltWKt5shUc</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]100AUTOMOTO TV[/B]</title>
-<link>http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]La Voz 24h[/B]</title>
-<link>https://pull12.atresmedia.com/lavoz/master.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Fashion TV Midnite Secrets[/B]</title>
-<link>http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Fashion TV (Spain)[/B]</title>
 <link>https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8</link>
 <thumbnail>https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png</thumbnail>
@@ -62,12 +38,6 @@
 
 <item><title>[B]Fashion Paris[/B]</title>
 <link>https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Fashion Sport[/B]</title>
-<link>https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

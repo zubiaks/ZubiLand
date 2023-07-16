@@ -381,22 +381,13 @@
 <year>1979</year></item>
 
 <item><title>[B]The Miracle Worker (2000)[/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=tU50hHVl0Mk$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=ISdHPEjNgl8$nome= Trailer</link>
 <link>plugin://plugin.video.youtube/play/?video_id=z3mCkggD6qg$nome= Filme</link>
 <thumbnail>https://i.ibb.co/wSxGJS6/The-Miracle-Worker-2000.jpg</thumbnail>
 <fanart>https://i.ibb.co/n6WykKB/The-Miracle-Worker-2000-1.jpg</fanart>
 <info>The Miracle Worker é um filme de 2000 baseado na peça de 1959 do mesmo título de William Gibson, que se originou como uma transmissão de 1957 da série de antologia playhouse 90. O material original de Gibson foi A História da Minha Vida, a autobiografia de Helen Keller em 1902. A peça foi adaptada para a tela duas vezes antes, em 1962 e 1979. O filme é baseado na vida das lutas de Helen Keller e Anne Sullivan para ensiná-la</info>
 <genre></genre>
 <year>2000</year></item>
-
-<item><title>[B]I Am Dragon (2017)[/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=SomZ_9OnE5w&t=9s$nome= Trailer</link>
-<link>plugin://plugin.video.youtube/play/?video_id=fSZvV4_fUSc$nome= Filme</link>
-<thumbnail>https://i.ibb.co/0r0GbPy/I-Am-Dragon-2017.jpg</thumbnail>
-<fanart>https://i.ibb.co/tYCTvcy/I-Am-Dragon-2017-1.jpg</fanart>
-<info>No meio do casamento princesa Miroslava é raptado por um dragão e levado para longe em seu castelo na ilha remota. Mira deixou tudo para trás no passado - família, amigos e noivo. Agora as únicas coisas que ela tinha foram uma gaiola de pedra e um jovem misterioso chamado Arman.. mas quem é ele e o que ele está fazendo naquela ilha? Miroslava saberá a verdade demasiado tarde: amar um dragão revelará a verdade amarga - o amor é assustador..</info>
-<genre></genre>
-<year>2017</year></item>
 
 <item><title>[B]O Sétimo Selo (1957), de Ingmar Bergman[/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=17-abDcJUlY$nome= Trailer</link>

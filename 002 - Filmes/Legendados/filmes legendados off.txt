@@ -1,0 +1,9 @@
+<item><title>[B]I Am Dragon (2017)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail>https://i.ibb.co/0r0GbPy/I-Am-Dragon-2017.jpg</thumbnail>
+<fanart>https://i.ibb.co/tYCTvcy/I-Am-Dragon-2017-1.jpg</fanart>
+<info>No meio do casamento princesa Miroslava é raptado por um dragão e levado para longe em seu castelo na ilha remota. Mira deixou tudo para trás no passado - família, amigos e noivo. Agora as únicas coisas que ela tinha foram uma gaiola de pedra e um jovem misterioso chamado Arman.. mas quem é ele e o que ele está fazendo naquela ilha? Miroslava saberá a verdade demasiado tarde: amar um dragão revelará a verdade amarga - o amor é assustador..</info>
+<genre></genre>
+<year>2017</year></item>
+
