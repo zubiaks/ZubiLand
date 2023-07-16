@@ -1,0 +1,49 @@
+
+<item><title>[B]Esperanza TV (cristão)(espanhol)[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/yQvWp0t/Esperanza-TV.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]MANA SAT - 1 (EVANGÉLICOS)[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/1RWgktZ/MANA-SAT-IGREJA-ONLINE-LISBOA-HD-PT-EVANG-LICOS.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]MANA SAT - IGREJA ONLINE LISBOA HD (PT) (EVANGÉLICOS)[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/1RWgktZ/MANA-SAT-IGREJA-ONLINE-LISBOA-HD-PT-EVANG-LICOS.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Revelation TV[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/L539tNF/Revelation-TV.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Divine TV UK[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]TV ALIANÇA[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Comunion TV[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]ctn hd[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+

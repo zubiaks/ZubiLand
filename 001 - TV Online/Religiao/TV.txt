@@ -1,10 +1,4 @@
 
-<item><title>[B]Esperanza TV (cristão)(espanhol)[/B]</title>
-<link>http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8</link>
-<thumbnail>https://i.ibb.co/yQvWp0t/Esperanza-TV.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Extrema TV[/B]</title>
 <link>http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8</link>
 <thumbnail>https://i.ibb.co/zHw0rs8/Extrema-TV.png</thumbnail>
@@ -18,8 +12,7 @@
 <info></info></item>
 
 <item><title>[B]Tv Novo Tempo (Envagelica) (Brasil)[/B]</title>
-<link>http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8$nome= Link 1</link>
-<link>http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8$nome= Link 2</link>
+<link>http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8</link>
 <thumbnail>https://i.ibb.co/b3dFTHH/Tv-Novo-Tempo.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -42,33 +35,9 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]MANA SAT - 1 (EVANGÉLICOS)[/B]</title>
-<link>http://csvl04.manasat.com:1935/tvmana/tvmana2/chunklist_w51468928.m3u8</link>
-<thumbnail>https://i.ibb.co/1RWgktZ/MANA-SAT-IGREJA-ONLINE-LISBOA-HD-PT-EVANG-LICOS.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]MANA SAT - IGREJA ONLINE LISBOA HD (PT) (EVANGÉLICOS)[/B]</title>
-<link>http://csvl04.manasat.com:1935/igronline/igronline2/chunklist_w1945580782.m3u8</link>
-<thumbnail>https://i.ibb.co/1RWgktZ/MANA-SAT-IGREJA-ONLINE-LISBOA-HD-PT-EVANG-LICOS.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]SOBRENATURAL TV[/B]</title>
 <link>http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8</link>
 <thumbnail>https://i.ibb.co/wdghCgB/SOBRENATURAL-TV.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Revelation TV[/B]</title>
-<link>http://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/playlist.m3u8</link>
-<thumbnail>https://i.ibb.co/L539tNF/Revelation-TV.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Divine TV UK[/B]</title>
-<link>http://divineplayout-us2.tulix.tv/live/Stream1/playlist.m3u8</link>
-<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -85,12 +54,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]TV ALIANÇA[/B]</title>
-<link>https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]TV PAI ETERNO[/B]</title>
 <link>https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8</link>
 <thumbnail></thumbnail>
@@ -103,20 +66,8 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Comunion TV[/B]</title>
-<link>http://50.30.37.36:1935/live/smil:MyStream.smil/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Red Advenir[/B]</title>
 <link>http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/chunklist.m3u8?wowzasessionid=1788782041</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]ctn hd[/B]</title>
-<link>http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

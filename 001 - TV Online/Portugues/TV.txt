@@ -1,11 +1,4 @@
 
-<item><title>[B]PORTO Canal[/B]</title>
-<link>http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8$nome= Alternativo 1</link>
-<link>$nome= Off</link>
-<thumbnail>https://i.ibb.co/BNmvZqj/PORTO-Canal.png</thumbnail>
-<fanart>https://i.ibb.co/nc34KfF/porto-canal-b.jpg</fanart>
-<info>Porto Canal é um canal de televisão português dedicado a todo o território nacional, com uma diversificada em diversas áreas: informação, deporto e entretenimento.</info></item>
-
 <item><title>[B]TV MOÇAMBIQUE[/B]</title>
 <link>http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w1330919236_b714000_slpor.m3u8</link>
 <thumbnail>https://i.ibb.co/WzvxKph/TV-MO-AMBIQUE.jpg</thumbnail>
@@ -24,13 +17,6 @@
 <fanart>https://i.ibb.co/2t1HfJR/TDM-Teledifus-o-de-Macau-b.jpg</fanart>
 <info>A Teledifusão de Macau S.A.R.L. (TDM) (em chinês tradicional: 澳門廣播電視股份有限公司) é a empresa local responsável pela prestação do serviço público de radiodifusão sonora e televisiva em sinal aberto na Região Administrativa Especial de Macau.</info></item>
 
-<item><title>[B]ARTV[/B]</title>
-<link>https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8$nome= Link 1</link>
-<link>https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8$nome= Link 2</link>
-<thumbnail>https://i.ibb.co/MPfq55B/ARTV.png</thumbnail>
-<fanart>https://i.ibb.co/yNDqCPy/ARTV-b.jpg</fanart>
-<info>ARTV, ou Canal Parlamento, é um canal público de televisão, pertence ao Estado português e transmite as reuniões plenárias da Assembleia da República. Apesar de ser um serviço público de televisão, não faz parte do operador estatal RTP.</info></item>
-
 <item><title>[B]TV CAMARA 1[/B]</title>
 <link>https://stream3.camara.gov.br/tv1/manifest.m3u8</link>
 <thumbnail>https://i.ibb.co/tsvz8hp/TV-CAMARA-1.png</thumbnail>
@@ -42,12 +28,6 @@
 <thumbnail>https://i.ibb.co/djBhYTT/CAMARA-2-Brasil.png</thumbnail>
 <fanart>https://i.ibb.co/dtRTxYS/TV-CAMARA-1-b.png</fanart>
 <info>A TV Câmara transmite as discussões e votações do Plenário e das comissões da Câmara dos Deputados, realiza entrevistas e debates, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade.</info></item>
-
-<item><title>[B]REDE BRASIL[/B]</title>
-<link>https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8</link>
-<thumbnail>https://i.ibb.co/db14BtY/REDE-BRASIL.png</thumbnail>
-<fanart>https://i.ibb.co/yNG8X18/REDE-BRASIL-b.jpg</fanart>
-<info>Rede Brasil de Televisão é uma rede de televisão aberta brasileira. Foi inaugurada em 7 de abril de 2007, e é presidida pelo advogado tributarista Marcos Tolentino. A rede é oriunda de Campo Grande, capital do estado do Mato Grosso do Sul, e está sediada em São Paulo, capital do estado homônimo.</info></item>
 
 <item><title>[B]TV Brasil[/B]</title>
 <link>http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8</link>
@@ -67,35 +47,11 @@
 <fanart></fanart>
 <info>A US-based 4-year-old TV station that provides local information and content to the Brazilian public in Portuguese, including residents, tourists, investors and so on. BRZTV is the first Brazilian channel produced in America with daily content and journalism specially developed for Brazilians around the world. Our headquarters is strategically located in the Central Florida, Orlando, one of the most visited cities in the world and also more popular among Brazilians</info></item>
 
-<item><title>[B]TV MORENA CAMPO GRANDE[/B]</title>
-<link>https://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8</link>
-<thumbnail>https://i.ibb.co/jLwRv3L/TV-MORENA-CAMPO-GRANDE.png</thumbnail>
-<fanart>https://i.ibb.co/NTKB34k/TV-MORENA-CAMPO-GRANDE-b.jpg</fanart>
-<info>TV Morena é uma emissora de televisão brasileira sediada em Campo Grande, capital do estado de Mato Grosso do Sul. Opera no canal 6, e é afiliada à TV Globo.</info></item>
-
 <item><title>[B]TV MONTENEGRO[/B]</title>
 <link>https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8</link>
 <thumbnail>https://i.ibb.co/ySYThy3/TV-MONTENEGRO.png</thumbnail>
 <fanart>https://i.ibb.co/KhdgS0b/TV-MONTENEGRO-b.jpg</fanart>
 <info>Canal de Televisão voltado para a cidade de Montenegro e Vale do Caí - Canal 6</info></item>
-
-<item><title>[B]TV SENADO[/B]</title>
-<link>https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8</link>
-<thumbnail>https://i.ibb.co/5cZgcy1/TV-SENADO.png</thumbnail>
-<fanart>https://i.ibb.co/v1ch91L/TV-SENADO-b.jpg</fanart>
-<info>TV Senado é a emissora de televisão do Legislativo Brasileiro que transmite eventos, discussões e procedimentos do Senado Federal do Brasil.</info></item>
-
-<item><title>[B]TV Verdes Campos[/B]</title>
-<link>https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8</link>
-<thumbnail>https://i.ibb.co/jwH7nNZ/TV-Verdes-Campos.png</thumbnail>
-<fanart>https://i.ibb.co/vHKQZ3B/TV-Verdes-Campos-b.png</fanart>
-<info>No TV Verdes Campos Sat encontre as notícias do Piauí, Brasil, mundo, política, celebridades, cotidiano geral, esporte, blogs e opiniões.</info></item>
-
-<item><title>[B]TV COM BRASIL[/B]</title>
-<link>https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8</link>
-<thumbnail>https://i.ibb.co/tKByHsM/TV-COM-BRASIL.png</thumbnail>
-<fanart>https://i.ibb.co/5cVz3Kr/TV-COM-BRASIL-b.jpg</fanart>
-<info>COM Brasil TV (mais conhecida como COM Brasil) é uma rede de televisão pública e comunitária disponível em algumas operadoras de televisão por assinatura.</info></item>
 
 <item><title>[B]TV METROPOLE[/B]</title>
 <link>https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8</link>
