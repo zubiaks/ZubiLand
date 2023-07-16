@@ -187,6 +187,393 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B]Vega Baja TV (Espanha)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
 
 
-	
+
+	Filandia
+
+
+
+	Franca
+
+<item><title>[B]RTL TVI HD[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/dOYYw6/RTL_TVI_HD.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Grand Lille TV (Franca)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Grand Littoral TV[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Alsace 20 (Franca)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Francophonie 24 (Franca)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+	Grecia
+
+
+
+	Holanda
+
+
+
+	HONDURAS
+
+
+
+	indonesia
+
+<item><title>[B]BERITA SATU[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]SIMPANG 5 TV[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]DAAI TV INDONESIA[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Jtv[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+	INDIA
+
+
+
+	Israel
+
+
+
+	Islândia
+
+
+
+	Irão
+
+
+
+	Italy
+
+<item><title>[B]TV 2000 (Italy)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Canale 10 (Italy)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+	Jamaica
+
+
+
+	Japão
+
+
+
+	Kazakhstan
+
+
+
+	Kuwait
+
+
+
+	letônia
+
+
+
+	Líbia
+
+
+
+	Luxembourg
+
+
+
+	Macau
+
+
+
+	Macedonia
+
+
+
+	Marrocos
+
+
+
+	Malaysia
+
+<item><title>[B]TV Ikim[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+	Malta
+
+
+
+	Mexico
+
+<item><title>[B]RCG 2[/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/hxpSI0R.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+	Monaco
+
+<item><title>[B]Luxury HD[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+	montreal
+
+<item><title>[B]ICI Canal international HD[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+	Moldávia
+
+
+
+	Moldova
+
+
+
+	Nepal
+
+
+
+	Noruega
+
+<item><title>[B]Kanal 10[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/7CNzknz/600x600bb.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Stortinget[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+	Nova Zelandia
+
+
+
+	Paraguay
+
+
+
+	Paquistão
+
+<item><title>[B]Eye 95 TV (US)[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/jyZRkPN/16lycyo.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+	Peru
+
+
+
+
+	Polonia
+
+
+
+	República Checa
+
+<item><title>[B]MICROVISION HD[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Telenord 8[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/kNp3UR/Telenord_8.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]MicroVision Canal 10[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+	Romania
+
+<item><title>[B]Speranta TV[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+	Russia
+
+<item><title>[B]Mir (Russia)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Mir HD (Russia)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Mir (+4) (Russia)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Muz Sojuz (Russia)[/B]</title>
+<link>/link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+	Singapore
+
+
+
+	Suica
+
+
+
+
+	Suécia
+
+
+
+	Syria
+
+
+
+	taiwan
+
+<item><title>[B]TITV[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+	Turquia
+
+
+
+	Ucrania
+
+<item><title>[B]K1[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+	Uruguai
+
+
+
+	Venezuela
+
+<item><title>[B]Telesur[/B]</title>
+<link></link>
+<thumbnail>https://www.telesurtv.net/english/pages/Especiales/EN-Vzla-DECIDE/images/teleSUR-Logo2013-horizontal.png</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+	Vietnam
+
+
+

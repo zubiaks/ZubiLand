@@ -559,13 +559,6 @@
 
 
 
-<item><title>[B]PERU[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-
 <item><title>[B]Kazakhstan[/B]</title>
 <link></link>
 <thumbnail>https://image.ibb.co/bCW2LR/Kazakhstan.png</thumbnail>
@@ -642,12 +635,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]TV Ikim[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Janam TV (240p)[/B]</title>
 <link>https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8</link>
 <thumbnail></thumbnail>
@@ -667,12 +654,6 @@
 <item><title>[B]Mexico[/B]</title>
 <link></link>
 <thumbnail>https://image.ibb.co/bzZBEm/Mexico.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]RCG 2[/B]</title>
-<link>http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/hxpSI0R.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -706,12 +687,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Canal 10 Chetumal | HD[/B]</title>
-<link>http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8</link>
-<thumbnail>https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 
 
 <item><title>[B]Monaco[/B]</title>
@@ -720,22 +695,10 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Luxury HD[/B]</title>
-<link>http://nano.teleservice.su:8080/hls/luxury.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 
 
 <item><title>[B]montreal[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]ICI Canal international HD[/B]</title>
-<link>https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -772,18 +735,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Kanal 10[/B]</title>
-<link>http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8</link>
-<thumbnail>https://i.ibb.co/7CNzknz/600x600bb.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Stortinget[/B]</title>
-<link>http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 
 
 <item><title>[B]Nova Zelandia[/B]</title>
@@ -811,12 +762,6 @@
 <item><title>[B]Paquistão[/B]</title>
 <link></link>
 <thumbnail>https://i.ibb.co/7SRgTxY/900px-Flag-of-Pakistan-svg.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Eye 95 TV (US)[/B]</title>
-<link>http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8</link>
-<thumbnail>https://i.ibb.co/jyZRkPN/16lycyo.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -868,27 +813,9 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]MICROVISION HD[/B]</title>
-<link>http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]República Dominicana[/B]</title>
 <link></link>
 <thumbnail>https://image.ibb.co/f8M2LR/Rep_blica_Dominicana.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Telenord 8[/B]</title>
-<link>http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8</link>
-<thumbnail>https://image.ibb.co/kNp3UR/Telenord_8.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]MicroVision Canal 10[/B]</title>
-<link>http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8</link>
-<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -900,35 +827,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Speranta TV[/B]</title>
-<link>http://amsix214.streamkit.tv/edge/_definst_/sperantatv_1200/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 
 
 <item><title>[B]Russia[/B]</title>
 <link></link>
 <thumbnail>https://image.ibb.co/j9U6fR/Russia.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Mir (Russia)[/B]</title>
-<link>http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Mir HD (Russia)[/B]</title>
-<link>http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Mir (+4) (Russia)[/B]</title>
-<link>http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8</link>
-<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
@@ -940,12 +843,6 @@
 
 <item><title>[B]TRO Soyuz (Russia)[/B]</title>
 <link>http://live2.mediacdn.ru/sr1/tro/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Muz Sojuz (Russia)[/B]</title>
-<link>http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -1002,12 +899,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]TITV[/B]</title>
-<link>http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 
 
 <item><title>[B]Turquia[/B]</title>
@@ -1030,12 +921,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]K1[/B]</title>
-<link>http://109.68.40.67/life/k1.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 
 
 <item><title>[B]Uruguai[/B]</title>
@@ -1049,12 +934,6 @@
 <item><title>[B]Venezuela[/B]</title>
 <link></link>
 <thumbnail>https://image.ibb.co/fJ6oS6/Venezuela.png</thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Telesur[/B]</title>
-<link>http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8</link>
-<thumbnail>https://www.telesurtv.net/english/pages/Especiales/EN-Vzla-DECIDE/images/teleSUR-Logo2013-horizontal.png</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
