@@ -7,3 +7,126 @@
 <genre></genre>
 <year>2017</year></item>
 
+<item><title>[B]The Assault (2014)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=VBT582nshZQ$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail>https://i.ibb.co/x7QhVHn/The-Assault-2014.jpg</thumbnail>
+<fanart>https://i.ibb.co/8Dz01yw/The-Assault-2014-1.jpg</fanart>
+<info>A líder de torcida Sam Gleason chega a uma nova cidade onde o futebol americano é tudo. Quando ela diz que foi sexualmente abusada pelo time de futebol em uma noite em que ela nem se lembra, ninguém acredita nela. Inspirado em uma história real.</info>
+<genre></genre>
+<year>2021</year></item>
+
+<item><title>[B]La Vendetta di Ercole (Goliath and the Dragon)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail>https://i.ibb.co/bPxrDBS/A-Vingan-a-de-H-rcules.jpg</thumbnail>
+<fanart>https://i.ibb.co/QQTt22R/A-Vingan-a-de-H-rcules-1960.jpg</fanart>
+<info>Una de las mejores películas jamás realizadas sobre Hércules, en donde el gran director Vittorio Cottafavi reproduce con gran fidelidad el encanto de la mitología griega, en donde destacan las típicas intrigas de historias palaciegas, que tanto solía desarrollar. Un infierno neblinoso, habitado por un extraño monstruo con alas de murciélago, una cascada que se desborda al ensartar Hércules a un híbrido entre Centauro y Sátiro, Sibila fulminada por provocar la ira de los dioses, son entre otros los elementos fantásticos que animan esta película, en donde el actor Broderick Crawford realiza un extraordinario papel como tirano.</info>
+<genre>Aventuras</genre>
+<year>1960</year></item>
+
+<item><title>[B]The Victim (2011)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=hPLyTARe2jo$nome= Filme</link>
+<thumbnail>https://i.ibb.co/yRgsG6h/The-Victim-2011.jpg</thumbnail>
+<fanart>https://i.ibb.co/4MQ9YZq/The-Victim-2011-1.jpg</fanart>
+<info>Duas amigas saem em um encontro com dois policiais em uma floresta que acaba na morte de uma delas. Fugindo dos dois homens a sobrevivente acaba batendo na porta de um estranho solitário que vive no meio do mato.</info>
+<genre></genre>
+<year></year></item>
+
+<item><title>[B]Hounddog[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=GrITFVvnciE$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail>https://i.ibb.co/T2Pv54v/Hounddog.jpg</thumbnail>
+<fanart>https://i.ibb.co/gRBJ5D1/Hounddog1.jpg</fanart>
+<info>Nesse filme você mergulha no mundinho particular de uma menina pobre, negligenciada e cheia de sonhos. Ela busca na adoração ao ídolo Elvis Presley e suas canções a fuga do mundo de miséria e abandono em que vive. Sem mãe </info>
+<genre>2007</genre>
+<year></year></item>
+
+<item><title>[B]Tipping The Velvet[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail>https://i.ibb.co/ZHr90ZC/tipping-the-velvet.jpg</thumbnail>
+<fanart>https://i.ibb.co/xJHB31D/tipping-the-velvet1.jpg</fanart>
+<info>O Filme conta uma história de amor entre duas mulheres no século 19. "Toque de Veludo" ou "Amor na Ponta da Língua" (exibido na GNT), um drama de sucesso da BBC, baseado em romance de Sarah Waters. Em três episódios, a série conta uma história de amor entre duas mulheres no século 19. Trata-se de uma história sensual. Impecável nos cenários da época vitoriana, a boemia londrina em 1890, o glamour, as perversões, a luxúria, a miséria e os vícios de uma sociedade</info>
+<genre></genre>
+<year>2002</year></item>
+
+<item><title>[B]Perfect Education 3[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail>https://i.ibb.co/Js7wGVL/Perfect-Education-3.jpg</thumbnail>
+<fanart>https://i.ibb.co/kQntFX9/Perfect-Education-31.jpg</fanart>
+<info>Um taxista chinês solitário seqüestra uma colegial japonesa. À medida que os dias passam a menina cativa que é filha única de um lar desfeito percebe que ela é tão solitária quanto seu captor.</info>
+<genre></genre>
+<year>2002</year></item>
+
+<item><title>[B]Hitch Hike[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=wnb15nKk9Ss$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail>https://i.ibb.co/W56JQpq/hitch-hike-1977.jpg</thumbnail>
+<fanart>https://i.ibb.co/M7JQrSW/hitch-hike-19771.png</fanart>
+<info>Hitch-Hike, também conhecido como Death Drive, é um filme de crime italiano dirigido por Pasquale Festa Campanile. O filme é estrelado por Franco Nero e Corinne Cléry como um casal em um casamento problemático, e David Hess como um fugitivo que os leva como reféns. A partitura foi escrita por Ennio Morricone.</info>
+<genre></genre>
+<year>1978</year></item>
+
+<item><title>[B]964 Pinocchio[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail>https://i.ibb.co/NyrBbLv/964-Pinocchio.jpg</thumbnail>
+<fanart>https://i.ibb.co/rc60n9F/964-Pinocchio-1.jpg</fanart>
+<info>Pinóquio 964, um escravo sexual ciborgue lobotomizado é jogado na rua por suas proprietárias por não manter uma ereção. Ele faz amizade com uma garota desabrigada criminosa insana. Enquanto isso, a empresa que o fabricou e o vendeu planeja matá-lo por causa de seu mau funcionamento.</info>
+<genre></genre>
+<year>1991</year></item>
+
+<item><title>[B]Afterglow[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2iMQfah17Ec$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail>https://i.ibb.co/nnxfvsd/Afterglow.jpg</thumbnail>
+<fanart>https://i.ibb.co/ZgCP9V9/Afterglow1.jpg</fanart>
+<info>Um homem e sua esposa fazem um trato: ele pode trair, contanto que não se apaixone. Contudo, o acordo é ameaçado quando ele conhece uma dona de casa infeliz.</info>
+<genre></genre>
+<year>1998</year></item>
+
+<item><title>[B]Fort Yuma (1955)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail>https://i.ibb.co/SJKTZrp/Fort-Yuma.jpg</thumbnail>
+<fanart>https://i.ibb.co/tKJCQJY/Fort-Yuma1.jpg</fanart>
+<info>O líder da tribo indígena Colorado acaba assassinado e os guerreiros preparam uma vingança, algo que deixa o Forte Yuma em um estado de tensão alarmante. Para resolver a situação, o comandante do forte decide pedir reforços ao Forte Apache e envia um mensageiro para realizar o pedido. No entanto, o mensageiro acaba sendo eliminado no meio da estrada e sua morte inicia uma verdadeira guerra.</info>
+<genre></genre>
+<year>1955</year></item>
+
+<item><title>[B]Blood Delirium (1988)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail>https://i.ibb.co/jrH3vs7/Blood-Delirium.jpg</thumbnail>
+<fanart>https://i.ibb.co/VQd0PKs/Blood-Delirium1.jpg</fanart>
+<info>Blood Delirium é um filme de terror italiano direto ao vídeo, dirigido por Sergio Bergonzelli. O filme envolve o pintor Saint Simon, que perde a sanidade após a morte de sua esposa. Junto com seu mordomo Hermann, eles conhecem um jovem pianista chamado Sybille, que se assemelha à sua esposa morta em casa, no castelo.</info>
+<genre></genre>
+<year>1988</year></item>
+
+<item><title>[B]Avenging Force (1986)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kHiV_RniG7U$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail>https://i.ibb.co/2nH8FxN/Avenging-Force-1986.jpg</thumbnail>
+<fanart>https://i.ibb.co/FWZPHFJ/Avenging-Force-1986-1.jpg</fanart>
+<info>Ex-agente da inteligência militar, afastado por conta própria após a morte dos pais, visita amigo candidato ao Senado. Ele fica sabendo que o amigo recebe constantes ameaças de morte por parte de um grupo de supremacia branca e resolve investigar.</info>
+<genre></genre>
+<year>1986</year></item>
+
+<item><title>[B]the killing kind (1973)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=SGIJBg2q8dc$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail>https://i.ibb.co/59GSLCd/the-killing-kind-1973.jpg</thumbnail>
+<fanart>https://i.ibb.co/nn2XVzL/the-killing-kind-1973-1.jpg</fanart>
+<info><Um jovem volta para a casa de sua mãe dominadora depois de servir uma pena de prisão por um estupro coletivo que foi forçado a participar. E quer se vingar de sua advogada e da garota que o acusou/info>
+<genre></genre>
+<year>1973</year></item>
+
+<item><title>[B]The Hearse (1980)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=N2DTJLMYwIw$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$nome= Filme</link>
+<thumbnail>https://i.ibb.co/VVqhj3y/The-Hearse-1980.jpg</thumbnail>
+<fanart>https://i.ibb.co/DtgSN4M/The-Hearse-1980-1.jpg</fanart>
+<info>Uma mulher é assombrada por um carro fúnebre fantasma, que ela acredita está ligado à sua tia falecida, uma bruxa com uma má reputação na cidade.</info>
+<genre></genre>
+<year>1980</year></item>
+
