@@ -47,3 +47,27 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B]RADIO Y TV CRISTO SANA Y RESTAURA[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]CNA-SAT (Nord Africaine)(protestant Christian)(Arabic)(Berber)(French)[/B]</title>
+<link></link>
+<thumbnail>https://image.ibb.co/cOpNuQ/CNA_SAT_Nord_Africaine.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Al Quran Al Kareem[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]PeaceTV[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
