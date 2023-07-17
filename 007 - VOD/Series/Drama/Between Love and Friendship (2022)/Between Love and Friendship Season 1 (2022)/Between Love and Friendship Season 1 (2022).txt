@@ -1,60 +1,48 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Between Love and Friendship S01 E01[/B]</title>
+<link>https://archive.org/download/CH.Between.Friendship.and.Love/CH.Between.Friendship.and.Love.E01.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Between Love and Friendship S01 E02[/B]</title>
+<link>https://archive.org/download/CH.Between.Friendship.and.Love/CH.Between.Friendship.and.Love.E02.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Between Love and Friendship S01 E03[/B]</title>
+<link>https://archive.org/download/CH.Between.Friendship.and.Love/CH.Between.Friendship.and.Love.E03.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Between Love and Friendship S01 E04[/B]</title>
+<link>https://archive.org/download/CH.Between.Friendship.and.Love/CH.Between.Friendship.and.Love.E04.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Between Love and Friendship S01 E05[/B]</title>
+<link>https://archive.org/download/CH.Between.Friendship.and.Love/CH.Between.Friendship.and.Love.E05.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Between Love and Friendship S01 E06[/B]</title>
+<link>https://archive.org/download/CH.Between.Friendship.and.Love/CH.Between.Friendship.and.Love.E06.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Between Love and Friendship S01 E07[/B]</title>
+<link>https://archive.org/download/CH.Between.Friendship.and.Love/CH.Between.Friendship.and.Love.E07.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Between Love and Friendship S01 E08[/B]</title>
+<link>https://archive.org/download/CH.Between.Friendship.and.Love/CH.Between.Friendship.and.Love.E08.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
