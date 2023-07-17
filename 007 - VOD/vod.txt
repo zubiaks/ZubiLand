@@ -32,8 +32,8 @@
 
 <channel><name>[B][COLOR white]Series[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/j8dJ30B/7a3a7396947f3a48764efa0949b631b1.jpg</thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/vod.txt</externallink>
+<fanart>https://i.ibb.co/F8gZPsF/29368.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
