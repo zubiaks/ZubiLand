@@ -1,7 +1,7 @@
 <channels>
 
 <channel><name>[B][COLOR white]Drama[/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/YXB0z0V/ivoci-Love-Between-Fairy-and-Devil-Drama-Fan-Art-1.png</thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info></info></channel>
