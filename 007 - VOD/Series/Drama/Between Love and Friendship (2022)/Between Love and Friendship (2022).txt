@@ -1,8 +1,8 @@
 <channels>
 
-<channel><name>[B][COLOR white]Between Love and Friendship (2022)[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/jH0Fcf6/Between-Love-and-Friendship-2022.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Drama/Between%20Love%20and%20Friendship%20(2022)/Between%20Love%20and%20Friendship%20(2022).txt</externallink>
+<channel><name>[B][COLOR white]Between Love and Friendship s1[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/R72mrPr/Between-Love-and-Friendship-s1-2022.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Drama/Between%20Love%20and%20Friendship%20(2022)/Between%20Love%20and%20Friendship%20Season%201%20(2022)/Between%20Love%20and%20Friendship%20Season%201%20(2022).txt</externallink>
 <fanart>https://i.ibb.co/b70T80n/Between-Love-and-Friendship-2022-2.jpg</fanart>
 <info>Between Friendship and Love traz em episódios de 3 minutos o romance de escritório de Sarang e Woo Jung. Eles são colegas de trabalho e também amigos, conversam o dia todo pelo chat, trocam bilhetinhos e docinhos secretamente no meio do expediente. Mas afinal, qual é o relacionamento deles? Mais do que amigos, mas não amantes. Apenas entre amor e amizade.</info></channel>
 
@@ -30,7 +30,7 @@
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white]Series[/COLOR][/B]</name>
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
