@@ -36,7 +36,7 @@
 <fanart>https://i.ibb.co/F8gZPsF/29368.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Infantil[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/dmwcZC8/e695c9f2da60338d36d9a46245c7151b.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/infantil%20menu.txt</externallink>
 <fanart>https://i.ibb.co/KyHF3h7/FOTO-CAPA-ARTIGO-52.jpg</fanart>
