@@ -1,9 +1,9 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]UFO - Arquivos Secretos da KGB[/B]</title>
+<link>https://ia601200.us.archive.org/34/items/kgb.arquivos.secretos/UFO.arquivos.secretos.da.KGB.dub.ptbr.mp4</link>
 <thumbnail>https://i.ibb.co/9rhmHTk/unnamed.jpg</thumbnail>
-<fanart></fanart>
-<info></info></item>
+<fanart>https://i.ibb.co/tJ6v0pV/mqdefault.jpg</fanart>
+<info>Por cinco décadas, as agências americanas têm armazenado informações sobre UFOs. Assim também o fez seus homólogos por trás da cortina de ferro. Soldados, cientistas e espiões pintam um quadro preocupante das campanhas secretas da KGB. O encontro com UFOs que quase provocaram uma guerra nuclear. O par de caças MiG que tentaram derrubar um UFO – e ambos foram derrubados! Uma prova impressionante de que os soviéticos recuperaram algo que não é desta terra! Incríveis filmagens contrabandeadas da Rússia. Esta investigação exclusiva em um dos eventos mais interessantes do nosso tempo é aprestada por Roger Moore.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
