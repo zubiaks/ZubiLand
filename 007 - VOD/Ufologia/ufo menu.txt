@@ -6,7 +6,7 @@
 <fanart>https://i.ibb.co/BgwkhT2/images-2.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white]ufo Documenty[/COLOR][/B]</name>
+<channel><name>[B][COLOR white]ufo Documentary[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
