@@ -2,20 +2,20 @@
 
 <channel><name>[B][COLOR white]ufo films[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/ZHpwjK0/Science-Wonder-Stories-Nov-1929-flying-saucer.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Ufologia/ufo%20films/ufo%20films.txt</externallink>
 <fanart>https://i.ibb.co/BgwkhT2/images-2.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]ufo Documentary[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/ck1nVS4/7cdfb969c7cc846a5c7462df5072e364.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Ufologia/ufo%20Documentary/ufo%20Documentary.txt</externallink>
+<fanart>https://i.ibb.co/YN1sqMZ/190926112653-2019-09-11-nakhon-sawan-thailandcopyright-by-richard-s-ehrlich-img-9546pscp.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]ufo series[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/0Yq7gVg/a0c90c7805051eea27948ebc52f31542.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Ufologia/ufo%20series/ufo%20series.txt</externallink>
+<fanart>https://i.ibb.co/2P7mMK9/maxresdefault.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
