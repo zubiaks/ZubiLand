@@ -3,16 +3,16 @@
 <channel><name>[B][COLOR white]ufo films[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/ZHpwjK0/Science-Wonder-Stories-Nov-1929-flying-saucer.jpg</thumbnail>
 <externallink></externallink>
-<fanart></fanart>
+<fanart>https://i.ibb.co/BgwkhT2/images-2.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]ufo Documenty[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]ufo series[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
