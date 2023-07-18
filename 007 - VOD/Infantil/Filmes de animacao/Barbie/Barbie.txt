@@ -1,4 +1,28 @@
 
+<item><title>[B]Barbie E As Três Mosqueteiras[/B]</title>
+<link>https://ia600806.us.archive.org/16/items/BarbieTMEAsTrMsMosqueteirasFilmeCompleto/Barbie%E2%84%A2%20e%20as%20Tr%C3%AAs%20Mosqueteiras%20%20Filme%20Completo.mp4</link>
+<thumbnail>https://i.ibb.co/mSNrWmr/B16-pvp.webp</thumbnail>
+<fanart>https://i.ibb.co/W66q1GP/painel-barbie-e-as-tres-mosqueteiras.jpg</fanart>
+<info>Corinne treina em segredo para se tornar uma mosqueteira. Quando chega a hora de proteger o príncipe e a família real de um plano maligno, ela precisa da ajuda dos outros empregados do palácio.</info></item>
+
+<item><title>[B]Barbie E O Castelo De Diamante[/B]</title>
+<link>https://ia800101.us.archive.org/19/items/BarbieEOCasteloDeDiamante2008/Barbie%20E%20O%20Castelo%20De%20Diamante%20-%202008.mp4</link>
+<thumbnail>https://i.ibb.co/1JrHBC0/4338569.png</thumbnail>
+<fanart>https://i.ibb.co/Y7hCpjT/maxresdefault-1.jpg</fanart>
+<info>Liana e Alexa saem da sua cabana humilde para vender flores na vila e acabam conhecendo Melody, a guardiã do Castelo de Diamante. As duas decidem ajudá-la a impedir que a chave do castelo seja roubada por Lídia, uma musa egoísta.</info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
