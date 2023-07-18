@@ -1,7 +1,7 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<channel><name>[B][COLOR white]ufo films[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/ZHpwjK0/Science-Wonder-Stories-Nov-1929-flying-saucer.jpg</thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info></info></channel>
