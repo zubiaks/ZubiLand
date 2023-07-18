@@ -3,7 +3,7 @@
 <channel><name>[B][COLOR white]Barbie[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
-<fanart></fanart>
+<fanart>https://i.ibb.co/9y971hg/images-1.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
