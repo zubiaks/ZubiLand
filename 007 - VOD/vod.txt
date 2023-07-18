@@ -43,8 +43,8 @@
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Ufologia[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
+<thumbnail>https://i.ibb.co/GJrDVcN/ufo-aliens-vintage-colorful-poster-vector-43809122.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Ufologia/ufo%20menu.txt</externallink>
 <fanart>https://i.ibb.co/hZGHW36/ufologia-o-que-e-1200x676.jpg</fanart>
 <info></info></channel>
 
