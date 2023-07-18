@@ -1,7 +1,7 @@
 <channels>
 
 <channel><name>[B][COLOR white]Filmes de Animação[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/ysv9d2K/15284d4dcc5903955bc9fd5c8884acf7.jpg/thumbnail>
+<thumbnail>https://i.ibb.co/ysv9d2K/15284d4dcc5903955bc9fd5c8884acf7.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Filmes%20de%20animacao/Filmes%20de%20animacao.txt</externallink>
 <fanart>https://i.ibb.co/bN0NGCD/images.jpg</fanart>
 <info></info></channel>
