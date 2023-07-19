@@ -1,6 +1,6 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Dragon Ball Super[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/w4GPP50/0921b58c-bef9-4a4d-a677-03ec7745428c.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Dragon%20Ball/Dragon%20Ball%20Filmes/Dragon%20Ball%20Super/Dragon%20Ball%20Super.txt</externallink>
 <fanart>https://i.ibb.co/h7nJZvR/download.jpg</fanart>
@@ -18,7 +18,7 @@
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white]Dragon Ball Super[/COLOR][/B]</name>
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
