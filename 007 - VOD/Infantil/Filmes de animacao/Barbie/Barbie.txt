@@ -48,41 +48,41 @@
 <fanart>https://i.ibb.co/rc0d1js/1200x675-1.jpg</fanart>
 <info>A fada Elina finalmente ganha um par de asas para poder voar e ser como as outras fadas, mas, para salvar o reino submarino de Mermaidia, Elina tem que abandonar suas adoradas asas para sempre para se transformar em uma linda sereia e ajudar um reino ameaçado pelo mal. O príncipe Nalu foi capturado</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Barbie Butterfly[/B]</title>
+<link>https://ia800101.us.archive.org/23/items/BarbieButterfly20081/Barbie%20Butterfly%20-%202008-1.mp4</link>
+<thumbnail>https://i.ibb.co/R2VNWMW/Barbie-e-as-Amigas-Fadas.webp</thumbnail>
+<fanart>https://i.ibb.co/djbCpZ3/1200x675-2.jpg</fanart>
+<info>Butterfly é uma fada borboleta que mora no reino de Flutterfield e precisa encontrar um antídoto para salvar a vida da rainha Marabella, envenenada pela invejosa Henna. Para isso, conta com a ajuda do príncipe Carlos e das amigas Rayna e Rayla.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Barbie A Princesa E A Popstar[/B]</title>
+<link>https://ia800103.us.archive.org/14/items/BarbieAPrincesaEAPopstar20121/Barbie%20A%20Princesa%20E%20A%20Popstar%20-%202012-1.mp4</link>
+<thumbnail>https://i.ibb.co/g9s9jkz/23.webp</thumbnail>
+<fanart>https://i.ibb.co/SKx5P5t/sddefault.jpg</fanart>
+<info>Keira é uma estrela pop mundialmente conhecida. Tori é a princesa de Meribella e fã de Keira. Keira está em crise com o estrelato, e Tori sonha com a vida de estrela pop. As duas resolvem trocar de vida, mas as coisas não são assim tão fáceis.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Barbie A Sereia Das Pérolas[/B]</title>
+<link>https://ia600808.us.archive.org/14/items/BarbieASereiaDasProlas20141/Barbie%20A%20Sereia%20Das%20P%C3%A9rolas%20-%202014-1.mp4</link>
+<thumbnail>https://i.ibb.co/ZVkX0qy/27.webp</thumbnail>
+<fanart>https://i.ibb.co/fGhR0SN/1200x675-3.jpg</fanart>
+<info>Uma sereia estilista tem o poder de mudar a cor de pérolas preciosas.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Barbie Butterfly E A Princesa Fairy[/B]</title>
+<link>https://ia600103.us.archive.org/31/items/BarbieButterflyEAPrincesaFairy20131/Barbie%20Butterfly%20E%20A%20Princesa%20Fairy%20-%202013-1.mp4</link>
+<thumbnail>https://i.ibb.co/PhQH1Nh/25.webp</thumbnail>
+<fanart>https://i.ibb.co/bJBgZbz/maxresdefault-2.jpg</fanart>
+<info>Butterfly se torna a embaixadora real de Flutterfield e é enviada para estabelecer a paz entre sua terra encantada e seus rivais. Apesar de não causar uma boa impressão no rei, ela faz amizade com a tímida filha do monarca, a princesa Catania.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Barbie Escola De Princesas[/B]</title>
+<link>https://ia600806.us.archive.org/13/items/BarbieEscolaDePrincesas20041/Barbie%20Escola%20De%20Princesas%202004-1.mp4</link>
+<thumbnail>https://i.ibb.co/XsWZ0Vb/Barbie-Escola.jpg</thumbnail>
+<fanart>https://i.ibb.co/8PmnC9L/maxresdefault-3.jpg</fanart>
+<info>Blair é uma garota simples e órfã que foi sorteada para estudar na exclusiva Escola de Princesas. A escola é um lugar incrível, onde as meninas aprendem dança, etiqueta, arte e outras habilidades indispensáveis a uma princesa. Blair adora suas aulas, suas novas fadinhas assistentes e suas novas amigas</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Barbie Em Vida De Sereia[/B]</title>
+<link>https://ia800601.us.archive.org/23/items/BarbieEmVidaDeSereia20101/Barbie%20Em%20Vida%20De%20Sereia%20-%202010-1.mp4</link>
+<thumbnail>https://i.ibb.co/ZT74Yjj/Images-1.webp</thumbnail>
+<fanart>https://i.ibb.co/tMcb873/AAAABSj5-Ua-X7za-S7n5-MRjq-WJN6-TICj-WSCF5-OROPTy0-I1-VQ3-Hh14u-Se-Zxu-Xbm-y-CBn5b-A1p-Lpn2-LSX1-JGP.jpg</fanart>
+<info>Barbie é uma campeã de surfe que vive com sua família em Malibu. Um dia, ela descobre um segredo de família: ela é uma sereia. Sua mãe, a rainha de Oceana, está em perigo e ela parte numa grande aventura no fundo do mar para salvá-la.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
