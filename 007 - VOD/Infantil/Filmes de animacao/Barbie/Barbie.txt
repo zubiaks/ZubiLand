@@ -11,6 +11,103 @@
 <fanart>https://i.ibb.co/Y7hCpjT/maxresdefault-1.jpg</fanart>
 <info>Liana e Alexa saem da sua cabana humilde para vender flores na vila e acabam conhecendo Melody, a guardiã do Castelo de Diamante. As duas decidem ajudá-la a impedir que a chave do castelo seja roubada por Lídia, uma musa egoísta.</info></item>
 
+<item><title>[B]Barbie Lago Dos Cisnes[/B]</title>
+<link>https://ia800102.us.archive.org/31/items/BarbieLagoDosCisnes20031_201711/Barbie%20Lago%20Dos%20Cisnes%202003-1.mp4</link>
+<thumbnail>https://i.ibb.co/RgSM1QP/o-OIdy-QDj06-G8-V6-AHQl4-I7i1-UCTT.jpg</thumbnail>
+<fanart>https://i.ibb.co/9qncJFF/download.jpg</fanart>
+<info>Barbie of Swan Lake é um filme de animação estadunidense, o terceiro da série cinematográfica animada por computador inspirada na boneca Barbie, produzido pela Mainframe Entertainment, dirigido</info></item>
+
+<item><title>[B]Barbie Em A Canção De Natal[/B]</title>
+<link>https://ia800102.us.archive.org/22/items/BarbieEmACanoDeNatal2008/Barbie%20Em%20A%20Can%C3%A7%C3%A3o%20De%20Natal%20-%202008.mp4</link>
+<thumbnail>https://i.ibb.co/g99sh3z/images.jpg</thumbnail>
+<fanart>https://i.ibb.co/85PDPF1/1200x675.jpg</fanart>
+<info>Eden Starling é uma glamurosa cantora de um teatro londrino. Acompanhada de seu gato Chuzzlewit, ela planeja fazer com que todos os artistas do local permaneçam e ensaiem para o tão esperado Dia de Natal. Observando tal atitude, Catherine, amiga de infância da diva, conversa sobre o seu mal-humor.</info></item>
+
+<item><title>[B]Barbie Como Rapunzel[/B]</title>
+<link>https://ia600100.us.archive.org/20/items/BarbieComoRapunzel2002/Barbie%20Como%20Rapunzel%20-%202002.mp4$nome= Espanhol</link>
+<link>$nome= </link>
+<thumbnail>https://i.ibb.co/W3B7jJp/Barbie-Rapunzel.jpg</thumbnail>
+<fanart>https://i.ibb.co/5LLFw8g/maxresdefault.jpg</fanart>
+<info>A boneca Barbie vive Rapunzel, uma jovem de longos e lindos cabelos que é mantida prisioneira na torre de um castelo pela poderosa bruxa Gothel. A descoberta de um pincel mágico trará grandes revelações para a heroína e mudará seu destino.</info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
