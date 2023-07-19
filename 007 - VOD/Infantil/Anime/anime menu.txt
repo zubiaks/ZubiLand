@@ -2,7 +2,7 @@
 
 <channel><name>[B][COLOR white]Dragon Ball[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Tqs24nz/s-l400.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/anime%20menu.txt</externallink>
 <fanart>https://i.ibb.co/FmGy0d1/xUjGgo.webp</fanart>
 <info>Dragon Ball é uma franquia de mídia japonesa criada por Akira Toriyama. Originalmente iniciada com uma série de mangá escrita e ilustrada por Toriyama, foi serializada em capítulos na revista Weekly Shonen Jump de 1984 a 1995. Os 519 capítulos foram compilados em 42 volumes tankōbon e publicados pela editora Shueisha.</info></channel>
 
