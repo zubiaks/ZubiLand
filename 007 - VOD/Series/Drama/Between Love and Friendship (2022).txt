@@ -6,11 +6,11 @@
 <fanart>https://i.ibb.co/b70T80n/Between-Love-and-Friendship-2022-2.jpg</fanart>
 <info>Between Friendship and Love traz em episódios de 3 minutos o romance de escritório de Sarang e Woo Jung. Eles são colegas de trabalho e também amigos, conversam o dia todo pelo chat, trocam bilhetinhos e docinhos secretamente no meio do expediente. Mas afinal, qual é o relacionamento deles? Mais do que amigos, mas não amantes. Apenas entre amor e amizade.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Banana Actually (2016)[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/xYW5mQP/download.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Drama/Banana%20Actually%20(2016)/Season.txt</externallink>
+<fanart>https://i.ibb.co/txqKkpq/71pq3q-Gx-Og-L-RI.jpg</fanart>
+<info>Banana Actually é uma web série produzida pelo canal 72초TV no youtube, lançada em 2016 com duas temporadas</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
