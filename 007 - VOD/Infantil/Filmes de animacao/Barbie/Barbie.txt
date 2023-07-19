@@ -30,23 +30,23 @@
 <fanart>https://i.ibb.co/5LLFw8g/maxresdefault.jpg</fanart>
 <info>A boneca Barbie vive Rapunzel, uma jovem de longos e lindos cabelos que é mantida prisioneira na torre de um castelo pela poderosa bruxa Gothel. A descoberta de um pincel mágico trará grandes revelações para a heroína e mudará seu destino.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O Diário Da Barbie[/B]</title>
+<link>https://ia800103.us.archive.org/31/items/ODirioDaBarbie2006/O%20Di%C3%A1rio%20Da%20Barbie%20-%202006.mp4</link>
+<thumbnail>https://i.ibb.co/z55dKk9/d51351ff7be906d0c85bdab9a8ef543852ab966bv2-hq.jpg</thumbnail>
+<fanart>https://i.ibb.co/fQYCT1t/9267e202f40b08701690c9ef901e242b.jpg</fanart>
+<info>Barbie se apaixona pelo craque do time, Todd, mas ele e Raquel, a garota mais popular do colégio, reatam o namoro. Barbie usa a pulseira que vem com seu diário e sua sorte muda. Ela inscreve sua banda no festival do baile e ganha admirador secreto.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Barbie Em A Princesa Da Ilha[/B]</title>
+<link>https://ia800102.us.archive.org/12/items/BarbieEmAPrincesaDaIlha2007/Barbie%20Em%20A%20Princesa%20Da%20Ilha%20-%202007.mp4</link>
+<thumbnail>https://i.ibb.co/7WjhN8M/Barbie-as-the-Island-Princess.png</thumbnail>
+<fanart>https://i.ibb.co/thHyC3t/maxresdefault-1.jpg</fanart>
+<info>Depois de sobreviver a um naufrágio, a pequena princesa Rosella cresce em uma ilha deserta, onde é acolhida e criada por uma família de animais. Dez anos depois, o príncipe Antonio descobre a ilha e convida Rosella para acompanhá-lo até o seu reino.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Barbie Fairytopia Mermaidia[/B]</title>
+<link>https://ia800103.us.archive.org/16/items/BarbieFairytopiaMermaidia2006/Barbie%20Fairytopia%20Mermaidia%20-%202006.mp4</link>
+<thumbnail>https://i.ibb.co/9ZjgTg6/4242900.webp</thumbnail>
+<fanart>https://i.ibb.co/rc0d1js/1200x675-1.jpg</fanart>
+<info>A fada Elina finalmente ganha um par de asas para poder voar e ser como as outras fadas, mas, para salvar o reino submarino de Mermaidia, Elina tem que abandonar suas adoradas asas para sempre para se transformar em uma linda sereia e ajudar um reino ameaçado pelo mal. O príncipe Nalu foi capturado</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
