@@ -84,35 +84,35 @@
 <fanart>https://i.ibb.co/tMcb873/AAAABSj5-Ua-X7za-S7n5-MRjq-WJN6-TICj-WSCF5-OROPTy0-I1-VQ3-Hh14u-Se-Zxu-Xbm-y-CBn5b-A1p-Lpn2-LSX1-JGP.jpg</fanart>
 <info>Barbie é uma campeã de surfe que vive com sua família em Malibu. Um dia, ela descobre um segredo de família: ela é uma sereia. Sua mãe, a rainha de Oceana, está em perigo e ela parte numa grande aventura no fundo do mar para salvá-la.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Barbie Em O Quebra Nozes[/B]</title>
+<link>https://ia600809.us.archive.org/28/items/BarbieEmOQuebraNozes20011/Barbie%20Em%20O%20Quebra-nozes%202001-1.mp4</link>
+<thumbnail>https://i.ibb.co/m8BdTJp/Barbie-Nutcracker-2001.jpg</thumbnail>
+<fanart>https://i.ibb.co/YRgP2m6/maxresdefault-4.jpg</fanart>
+<info>Clara, ganha um lindo soldadinho de madeira de presente de sua tia favorita. Naquela noite, enquanto Clara dorme, o soldado quebra-nozes ganha vida para proteger sua dona do Rato Rei, que invade a sala de Clara. Ela acorda e ajuda o quebra-nozes, mas o Rato Rei encolhe-a com uma terrível magia.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Barbie E A Magia De Aladus[/B]</title>
+<link>https://ia800100.us.archive.org/19/items/BarbieEAMagiaDeAladus/Barbie%20E%20A%20Magia%20De%20Aladus.mp4</link>
+<thumbnail>https://i.ibb.co/yqBBywS/Barbie-and-the-Magic-of-Pegasus.png</thumbnail>
+<fanart>https://i.ibb.co/pJbMs8h/maxresdefault-5.jpg</fanart>
+<info>Ao completar 17 anos, a princesa Anika é pedida em casamento por um bruxo malvado e, diante de sua recusa, ele transforma os pais da moça e todos os súditos do reino em estátuas de gelo. Um cavalo alado aparece para ajudá-la a quebrar o feitiço.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Barbie E As Sapatilhas Mágicas[/B]</title>
+<link>https://ia800104.us.archive.org/19/items/BarbieEAsSapatilhasMgicas/Barbie%20E%20As%20Sapatilhas%20M%C3%A1gicas.mp4</link>
+<thumbnail>https://i.ibb.co/9WHvYKH/536x0w-29-0.webp</thumbnail>
+<fanart>https://i.ibb.co/XtmkNVB/maxresdefault-6.jpg</fanart>
+<info>Kristyn e Hailey vão parar em um mundo mágico do balé dominado pela diabólica Rainha das Neves. As duas bailarinas dançam seus balés favoritos para derrotar a rainha e realizar seus sonhos.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Barbie Em Vida De Sereia 2[/B]</title>
+<link>https://ia800805.us.archive.org/15/items/BarbieEmVidaDeSereia2/Barbie%20Em%20Vida%20De%20Sereia%202.mp4</link>
+<thumbnail>https://i.ibb.co/BGJ0YqC/536x0w-2.webp</thumbnail>
+<fanart>https://i.ibb.co/YbL8bv7/s640.jpg</fanart>
+<info>Merliah vai à Austrália participar de um torneio de surfe e evitar que Eris se apodere de Oceana.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Barbie Fairytopia A Magia Do Arco Iris[/B]</title>
+<link>https://ia600601.us.archive.org/3/items/BarbieFairytopiaAMagiaDoArcoIris/Barbie%20Fairytopia%20A%20Magia%20Do%20Arco-iris.mp4</link>
+<thumbnail>https://i.ibb.co/9ZjgTg6/4242900.webp</thumbnail>
+<fanart>https://i.ibb.co/F3YGYCV/hq720.jpg</fanart>
+<info>A corajosa fada Elina vai para uma escola de fadas no Palácio de Cristal, onde precisa aprender a usar seus poderes mágicos para realizar o Voo da Primavera. Mas a malvada Laverna está de volta e pretende congelar a primavera.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
