@@ -1,9 +1,9 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Dragon Ball Filmes[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/nr1QFB8/Dragon-Ball-Filmes-Dublado-Capa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Dragon%20Ball/Dragon%20Ball%20Filmes/Dragon%20Ball%20filmes.txt</externallink>
+<fanart>https://i.ibb.co/MpDbZVy/japanese-manga-anime-dragon-ball-z-goku-super-saiyan-family-5bu9-600.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
