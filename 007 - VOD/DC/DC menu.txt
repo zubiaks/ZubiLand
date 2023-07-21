@@ -1,9 +1,9 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]DC Animation Movies[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/RNqthNF/DCU-10-ANNIV-V-DD-KA-TT-2000x3000-300dpi-EN-r6.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/DC/DC%20menu.txt</externallink>
+<fanart>https://i.ibb.co/kXBs6Qn/maxresdefault.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
