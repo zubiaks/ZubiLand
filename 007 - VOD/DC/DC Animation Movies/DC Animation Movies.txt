@@ -117,26 +117,26 @@
 <info>Batman: Year One (bra: Batman: Ano Um[1]) é um filme de animação estadunidense de 2011, dirigido por Sam Liu e Lauren Montgomery. O roteiro de Tab Murphy baseia-se na história em quadrinhos homônima de quatro partes lançada em 1987. O filme teve premiere na Comic-Con International de San Diego em 22 de julho e foi lançado oficialmente em 18 de outubro de 2011.[2][3] É o 12º filme do Universo Animado DC Comics da Warner Premiere em parceira com a Warner Bros. Animation.</info></item>
 
 <item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
 <link>$nome= Link 1 (BR)</link>
 <link>$nome= Link 1 (BR)</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
