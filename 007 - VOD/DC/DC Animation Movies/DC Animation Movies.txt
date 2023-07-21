@@ -50,6 +50,13 @@
 <fanart>https://i.ibb.co/CbpGs3R/download-4.jpg</fanart>
 <info>A Liga da Justiça encontra uma força sobrenatural contra a qual seus poderes parecem ser inúteis, e Batman reúne uma nova equipe formada por heróis míticos como o Monstro do Pântano, o Demônio e Constantine.</info></item>
 
+<item><title>[B]jovens titãs o contrato de judas[/B]</title>
+<link>https://archive.org/download/filmesanimadosdc/09%20%E2%80%93%20Jovens%20Tit%C3%A3s%20O%20Contrato%20de%20Judas%20%282017%29.ia.mp4$nome= Link 1 (BR)</link>
+<link>https://archive.org/download/filmesanimadosdc/09%20%E2%80%93%20Jovens%20Tit%C3%A3s%20O%20Contrato%20de%20Judas%20%282017%29.mp4$nome= Link 2 (BR)</link>
+<thumbnail>https://i.ibb.co/WnBrN7m/521682-jpg-c-310-420-x-f-jpg-q-x-xxyxx.jpg</thumbnail>
+<fanart>https://i.ibb.co/nLDnSG7/jovens-titans-The-Judas-Contract-banner.jpg</fanart>
+<info>Conduzido por Starfire, os Teen Titãs formam uma equipe compacta em sua batalha contra o mal. Mas seu mais novo parceiro, o poderoso Terra, pode alterar essa dinâmica.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
@@ -59,12 +66,6 @@
 <item><title>[B][/B]</title>
 <link>$nome= Link 1 (BR)</link>
 <link>$nome= Link 1 (BR)</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
