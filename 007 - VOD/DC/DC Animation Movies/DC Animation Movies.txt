@@ -70,12 +70,12 @@
 <fanart>https://i.ibb.co/DVQyCkc/a-morte-do-superman-30-anos-HQ-DC.webp</fanart>
 <info>"A Morte do Superman", ou "A Morte do Super-Homem", é um arco de histórias em quadrinhos que serviu como catalisador para o evento crossover da DC Comics de 1993. O arco de histórias completo é chamado de A Morte e o Retorno do Superman/info></item>
 
-<item><title>[B][/B]</title>
-<link>$nome= Link 1 (BR)</link>
-<link>$nome= Link 1 (BR)</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]constantine cidade dos demônios[/B]</title>
+<link>https://archive.org/download/filmesanimadosdc/12%20%E2%80%93%20Constantine%20Cidade%20dos%20Dem%C3%B4nios%20%282018%29.ia.mp4$nome= Link 1 (BR)</link>
+<link>https://archive.org/download/filmesanimadosdc/12%20%E2%80%93%20Constantine%20Cidade%20dos%20Dem%C3%B4nios%20%282018%29.mp4$nome= Link 1 (BR)</link>
+<thumbnail>https://i.ibb.co/yYMJn7K/unnamed.webp</thumbnail>
+<fanart>https://i.ibb.co/fxYd0n6/constantine-cidade.jpg</fanart>
+<info>Uma década depois de um trágico acidente, o homem de família Chas e o místico detetive John Constantine pretendem curar Trish, a filha de Chas, de um misterioso coma sobrenatural. Com a ajuda de sócios poderosos, eles buscam a salvação.</info></item>
 
 <item><title>[B][/B]</title>
 <link>$nome= Link 1 (BR)</link>
