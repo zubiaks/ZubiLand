@@ -31,11 +31,12 @@
 <fanart>https://i.ibb.co/7SjwB3b/maxresdefault.jpg</fanart>
 <info>Damian Wayne não é uma criança comum. Com o manto de Robin ajuda Batman a combater o crime em Gotham City. Mas o destino prepara uma terrível surpresa ao enfrentar o seu adversário mais perigoso: seu pai.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]batman sangue ruim[/B]</title>
+<link>https://archive.org/download/filmesanimadosdc/06%20%E2%80%93%20Batman%20Sangue%20Ruim%20%282016%29.ia.mp4$nome= Link 1 (BR)</link>
+<link>https://archive.org/download/filmesanimadosdc/06%20%E2%80%93%20Batman%20Sangue%20Ruim%20%282016%29.mp4$nome= Link 1 (BR)</link>
+<thumbnail>https://i.ibb.co/2jdYWmW/367764.webp</thumbnail>
+<fanart>https://i.ibb.co/wpPGzZj/previews-0012-custom-1684872988-563.jpg</fanart>
+<info>Batman desapareceu. Nightwing e Robin devem levar adiante a luta contra o crime. Felizmente, chegam Batwoman e Batwing para ajudar, mas tudo se complica quando uma série de pistas indicam que Batman passou para o lado negro.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
