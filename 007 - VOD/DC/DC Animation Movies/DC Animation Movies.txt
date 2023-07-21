@@ -44,11 +44,11 @@
 <fanart>https://i.ibb.co/gzLqbS1/download-2.jpg</fanart>
 <info>Robin é forçado a trabalhar com os Jovens Titãs após comprometer uma missão da Liga da Justiça. Mas o vilão Trigon passa a controlar todos os membros da Liga, fazendo com que as duas equipes se enfrentem.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]liga da justiça sombria[/B]</title>
+<link>https://archive.org/download/filmesanimadosdc/08%20%E2%80%93%20Liga%20da%20Justi%C3%A7a%20Sombria%20%282017%29.mp4</link>
+<thumbnail>https://i.ibb.co/LzwzJVL/download-3.jpg</thumbnail>
+<fanart>https://i.ibb.co/CbpGs3R/download-4.jpg</fanart>
+<info>A Liga da Justiça encontra uma força sobrenatural contra a qual seus poderes parecem ser inúteis, e Batman reúne uma nova equipe formada por heróis míticos como o Monstro do Pântano, o Demônio e Constantine.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
