@@ -23,7 +23,7 @@
 <fanart>https://i.ibb.co/svS7j9G/maxresdefault-2.jpg</fanart>
 <info>The Last Starfighter (Brasil: O Último Guerreiro das Estrelas /Portugal: O Último Guerreiro do Espaço) é um filme norte-americano, do gênero ficção científica de space opera, dirigido por Nick Castle e produzido pela Universal Studios. O filme conta a história de Alex Rogan (Lance Guest), um adolescente médio recrutado por uma força de defesa alienígena para lutar em uma guerra interestelar. Ele também contou com Robert Preston, Dan O'Herlihy, Catherine Mary Stewart, Norman Neve e Kay E. Kuter.</info></item>
 
-<item><title>[B]Desafio De Lassie (1949) Dublagem Clássica Herbert Richers[/B]</title>
+<item><title>[B]Desafio De Lassie (1949)[/B]</title>
 <link>https://archive.org/download/desafio-de-lassie-1949-dublagem-classica-herbert-richers/Desafio%20de%20Lassie%20%281949%29%20Dublagem%20Cl%C3%A1ssica%20Herbert%20Richers.mp4</link>
 <thumbnail>https://i.ibb.co/mNWrfSp/1-aaa-MV5-BMj-Ew-ODQ2-NDQ0-NF5-BMl5-Ban-Bn-Xk-Ft-ZTYw-NDY5-NTQ5-V1.webp</thumbnail>
 <fanart>https://i.ibb.co/NVsRRSR/c7b727533087b20abfda179385570891.jpg</fanart>
@@ -35,28 +35,29 @@
 <fanart>https://i.ibb.co/kS3hQW9/7382727ada9778947683f99eb24d4542ce27a544180ad7e626b1345f62dc9034-UY500-UX667-RI-TTW.jpg</fanart>
 <info>No ano de 2019, um mercenário persegue dois clones que fogem de um centro de pesquisa depois de descobrirem qual é o seu verdadeiro destino.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A Inquilina (2011)[/B]</title>
+<link>https://archive.org/download/a-inquilina-2011-720p-dublado/A%20Inquilina%20%282011%29%20%20720p%20Dublado.mp4</link>
+<thumbnail>https://i.ibb.co/vhpQTZR/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/r635bCG/6op-P1-Chcx-CXb9-FS7y-En1xyx-IIJC.jpg</fanart>
+<info>A recém-separada Dra. Juliet se muda para um novo apartamento a fim de recomeçar sua vida. Porém, ela começa a perceber estranhas movimentações em sua nova casa e se vê cercada por uma invisível força do mal. Agora Juliet terá que descobrir a origem dessa força se quiser ter sua paz de volta.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O Preco Do Amanha (2011)[/B]</title>
+<link>https://archive.org/download/o-preco-do-amanha-2011-1080p-dublado/O%20Preco%20Do%20Amanha%202011%201080p%20DUBLADO.mp4</link>
+<thumbnail>https://i.ibb.co/xfGHPdM/19874732.jpg</thumbnail>
+<fanart>https://i.ibb.co/hcH2X7W/download-1.jpg</fanart>
+<info>Acusado de assassinato, um homem deve descobrir como derrubar um sistema onde tempo é dinheiro e que permite que os ricos vivam para sempre, enquanto os pobres devem implorar por cada minuto de suas vidas.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O Homem Da Máfia (2012)[/B]</title>
+<link>https://archive.org/download/o-homem-da-mafia-2012/O%20Homem%20da%20M%C3%A1fia%20%282012%29.ia.mp4</link>
+<thumbnail>https://i.ibb.co/9GDV50J/20301380.jpg</thumbnail>
+<fanart>https://i.ibb.co/37cRn7w/download-2.jpg</fanart>
+<info>Uma gangue decide roubar um jogo de pôquer clandestino da máfia. O assalto causa muitos problemas para os mafiosos, que decidem chamar o eficiente assassino de aluguel Jackie Cogan para descobrir o paradeiro dos assaltantes.</info></item>
+
+<item><title>[B]Instinto Selvagem 2 (2006)[/B]</title>
+<link>https://archive.org/download/instinto-selvagem-2-2006-1080-p-dub/Instinto%20Selvagem%202%20%282006%29%201080P%20DUB.mp4</link>
+<thumbnail>https://i.ibb.co/7WkSfhS/21050951-20131018203037217.webp</thumbnail>
+<fanart>https://i.ibb.co/HdRpCJJ/download-3.jpg</fanart>
+<info>Após a misteriosa morte de seu namorado em um acidente de carro, a escritora de suspenses Catherine Tramell, que sobreviveu ao acidente, é encaminhada para ser avaliada pelo conceituado psicólogo criminalista Michael Glass. O psicólogo conclui que Catherine é uma mulher sedutora e perigosa. Apesar disso, ele não resiste aos encantos dela e eles acabam se envolvendo em um intenso jogo de mentiras e sedução.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
