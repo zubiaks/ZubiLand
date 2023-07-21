@@ -57,8 +57,29 @@
 <fanart>https://i.ibb.co/nLDnSG7/jovens-titans-The-Judas-Contract-banner.jpg</fanart>
 <info>Conduzido por Starfire, os Teen Titãs formam uma equipe compacta em sua batalha contra o mal. Mas seu mais novo parceiro, o poderoso Terra, pode alterar essa dinâmica.</info></item>
 
+<item><title>[B]esquadrão suicida acerto de contas[/B]</title>
+<link>https://archive.org/download/filmesanimadosdc/10%20%E2%80%93%20Esquadr%C3%A3o%20Suicida%20Acerto%20de%20Contas%20%282018%29.mp4</link>
+<thumbnail>https://i.ibb.co/MggxkWL/unnamed.jpg</thumbnail>
+<fanart>https://i.ibb.co/42HF3nJ/esquadrao-suicida-acerto-de-contas-critica-1.jpg</fanart>
+<info>Amanda Waller forma um esquadrão especial cheio de vilões encarcerados para recuperar um objeto místico.</info></item>
+
+<item><title>[B]a morte do super homem[/B]</title>
+<link>https://archive.org/download/filmesanimadosdc/11%20%E2%80%93%20A%20Morte%20do%20Superman%20%282018%29.ia.mp4$nome= Link 1 (BR)</link>
+<link>https://archive.org/download/filmesanimadosdc/11%20%E2%80%93%20A%20Morte%20do%20Superman%20%282018%29.mp4$nome= Link 1 (BR)</link>
+<thumbnail>https://i.ibb.co/W25ZrQT/unnamed-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/DVQyCkc/a-morte-do-superman-30-anos-HQ-DC.webp</fanart>
+<info>"A Morte do Superman", ou "A Morte do Super-Homem", é um arco de histórias em quadrinhos que serviu como catalisador para o evento crossover da DC Comics de 1993. O arco de histórias completo é chamado de A Morte e o Retorno do Superman/info></item>
+
 <item><title>[B][/B]</title>
-<link></link>
+<link>$nome= Link 1 (BR)</link>
+<link>$nome= Link 1 (BR)</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link>$nome= Link 1 (BR)</link>
+<link>$nome= Link 1 (BR)</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -95,25 +116,8 @@
 <info></info></item>
 
 <item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
+<link>$nome= Link 1 (BR)</link>
+<link>$nome= Link 1 (BR)</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
