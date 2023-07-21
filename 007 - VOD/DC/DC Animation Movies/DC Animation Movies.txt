@@ -38,11 +38,11 @@
 <fanart>https://i.ibb.co/wpPGzZj/previews-0012-custom-1684872988-563.jpg</fanart>
 <info>Batman desapareceu. Nightwing e Robin devem levar adiante a luta contra o crime. Felizmente, chegam Batwoman e Batwing para ajudar, mas tudo se complica quando uma série de pistas indicam que Batman passou para o lado negro.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]liga da justiça vs jovens titãs[/B]</title>
+<link>https://archive.org/download/filmesanimadosdc/07%20%E2%80%93%20Liga%20da%20Justi%C3%A7a%20vs%20Jovens%20Tit%C3%A3s%20%282016%29.mp4</link>
+<thumbnail>https://i.ibb.co/4sjvL4f/1707091.webp</thumbnail>
+<fanart>https://i.ibb.co/gzLqbS1/download-2.jpg</fanart>
+<info>Robin é forçado a trabalhar com os Jovens Titãs após comprometer uma missão da Liga da Justiça. Mas o vilão Trigon passa a controlar todos os membros da Liga, fazendo com que as duas equipes se enfrentem.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
