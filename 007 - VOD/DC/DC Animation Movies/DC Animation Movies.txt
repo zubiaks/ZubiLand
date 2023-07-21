@@ -116,17 +116,17 @@
 <fanart>https://i.ibb.co/k2QGqFD/download.jpg</fanart>
 <info>Batman: Year One (bra: Batman: Ano Um[1]) é um filme de animação estadunidense de 2011, dirigido por Sam Liu e Lauren Montgomery. O roteiro de Tab Murphy baseia-se na história em quadrinhos homônima de quatro partes lançada em 1987. O filme teve premiere na Comic-Con International de San Diego em 22 de julho e foi lançado oficialmente em 18 de outubro de 2011.[2][3] É o 12º filme do Universo Animado DC Comics da Warner Premiere em parceira com a Warner Bros. Animation.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]lanterna verde cavaleiros esmeralda[/B]</title>
+<link>https://archive.org/download/0221254154084/021548545.mp4</link>
+<thumbnail>https://i.ibb.co/6rf0s4N/19776200.webp</thumbnail>
+<fanart>https://i.ibb.co/ZS1dTmt/5-XQobw-Juqx0-UFCHVDoo-WUBrae-ID.jpg</fanart>
+<info>A nova recruta Arisia une-se a Hal Jordan para salvar o universo das forças de Krona.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Iron Man: Rise Of Technovore[/B]</title>
+<link>https://archive.org/download/0221254154084/054850484.mp4</link>
+<thumbnail>https://i.ibb.co/cr6TDYf/nj2q-T5-Tcch56s-CUs-EYw1-Q8-G7ilt.jpg</thumbnail>
+<fanart>https://i.ibb.co/wQHrzvg/download-1.jpg</fanart>
+<info>O vilão Ezekiel Stane desenvolve uma nova biotecnologia que deixa a armadura do Homem de Ferro ultrapassada. Agora, Tony Stark precisa localizar Stane e descobrir seus verdadeiros planos e os perigos dessa tecnologia.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
