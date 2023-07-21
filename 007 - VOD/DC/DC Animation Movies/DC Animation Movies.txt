@@ -68,7 +68,7 @@
 <link>https://archive.org/download/filmesanimadosdc/11%20%E2%80%93%20A%20Morte%20do%20Superman%20%282018%29.mp4$nome= Link 1 (BR)</link>
 <thumbnail>https://i.ibb.co/W25ZrQT/unnamed-1.jpg</thumbnail>
 <fanart>https://i.ibb.co/DVQyCkc/a-morte-do-superman-30-anos-HQ-DC.webp</fanart>
-<info>"A Morte do Superman", ou "A Morte do Super-Homem", é um arco de histórias em quadrinhos que serviu como catalisador para o evento crossover da DC Comics de 1993. O arco de histórias completo é chamado de A Morte e o Retorno do Superman/info></item>
+<info>"A Morte do Superman", ou "A Morte do Super-Homem", é um arco de histórias em quadrinhos que serviu como catalisador para o evento crossover da DC Comics de 1993. O arco de histórias completo é chamado de A Morte e o Retorno do Superman</info></item>
 
 <item><title>[B]constantine cidade dos demônios[/B]</title>
 <link>https://archive.org/download/filmesanimadosdc/12%20%E2%80%93%20Constantine%20Cidade%20dos%20Dem%C3%B4nios%20%282018%29.ia.mp4$nome= Link 1 (BR)</link>
@@ -77,37 +77,37 @@
 <fanart>https://i.ibb.co/fxYd0n6/constantine-cidade.jpg</fanart>
 <info>Uma década depois de um trágico acidente, o homem de família Chas e o místico detetive John Constantine pretendem curar Trish, a filha de Chas, de um misterioso coma sobrenatural. Com a ajuda de sócios poderosos, eles buscam a salvação.</info></item>
 
-<item><title>[B][/B]</title>
-<link>$nome= Link 1 (BR)</link>
-<link>$nome= Link 1 (BR)</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A MORTE E O RETORNO DO SUPERMAN[/B]</title>
+<link>https://archive.org/download/filmesanimadosdc/13%20%E2%80%93%20O%20Retorno%20do%20Superman%20%282019%29.ia.mp4$nome= Link 1 (BR)</link>
+<link>https://archive.org/download/filmesanimadosdc/13%20%E2%80%93%20O%20Retorno%20do%20Superman%20%282019%29.mp4$nome= Link 1 (BR)</link>
+<thumbnail>https://i.ibb.co/cJ8R12q/50a4dbf16e9c3f2740efe64c5ff3fec86d3addea2f6e5945df3b0c132513f3f5-RI-TTW.jpg</thumbnail>
+<fanart>https://i.ibb.co/2tHSLn1/download.jpg</fanart>
+<info>A Morte do Superman é um filme animado produzido pela Warner Bros Animation e a DC Entertainment. Ele é baseado na história de mesmo nome da DC Comics, que narra a batalha entre Superman (Jerry O'Connell) e Apocalypse. É o 10º filme do Universo de Filmes Animados da DC. A Morte do Superman foi distribuído digitalmente em 24 de julho e em DVD e Blu-Ray em 7 de agosto 2018, pela Warner Bros Home Entertainment. A sequência, O Retorno do Superman que narra o retorno do Superman após sua ressurreição, foi lançado em 2019.</info></item>
 
-<item><title>[B][/B]</title>
-<link>$nome= Link 1 (BR)</link>
-<link>$nome= Link 1 (BR)</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]batman silêncio[/B]</title>
+<link>https://archive.org/download/filmesanimadosdc/14%20%E2%80%93%20Batman%20Sil%C3%AAncio%20%282019%29.ia.mp4$nome= Link 1 (BR)</link>
+<link>https://archive.org/download/filmesanimadosdc/14%20%E2%80%93%20Batman%20Sil%C3%AAncio%20%282019%29.mp4$nome= Link 1 (BR)</link>
+<thumbnail>https://i.ibb.co/Sw9xjhx/bma-Dp-Bb2dhk-D5-Wy-Yof-V0-Zubz86w.webp</thumbnail>
+<fanart>https://i.ibb.co/0sB5f5G/download-1.jpg</fanart>
+<info>O passado de Batman começa a se desenrolar e se inicia uma corrida para o Cavaleiro das Trevas solucionar os jogos mortais do silêncio.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]mulher maravilha linhagem de sangue[/B]</title>
+<link>https://archive.org/download/filmesanimadosdc/15%20%E2%80%93%20Mulher%20Maravilha%20Linhagem%20de%20Sangue%20%282019%29.mp4</link>
+<thumbnail>https://i.ibb.co/ZSBC1DP/download-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/jTHX1fR/download-3.jpg</fanart>
+<info>Mulher Maravilha assume a missão de ajudar uma jovem garota problemática, recrutada por uma organização conhecida como Corporação Vilania. Seus membros almejam invadir Themyscira, o lar paradisíaco da heroína.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]liga da justiça sombria apokolips[/B]</title>
+<link>https://archive.org/download/filmesanimadosdc/16%20%E2%80%93%20Liga%20da%20Justi%C3%A7a%20Sombria%20A%20Guerra%20de%20Apokolips%20%282020%29.mp4</link>
+<thumbnail>https://i.ibb.co/Yt6rNBJ/poltrona-justice-league-dark-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/C06QBDm/Liga-da-Justi-a-Sombria-1.jpg</fanart>
+<info>A Liga da Justiça sempre foi a primeira e última defesa da Terra, mas, com a chegada iminente de Darkseid, tudo está para mudar. Após a destruição da Terra, o grupo se reune para derrubar o tirano e salvar os membros remanescentes da equipe.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]batman o mistério da batwoman[/B]</title>
+<link>https://ia601709.us.archive.org/31/items/34-tm-4-n-c-4-tw-0-m-4-n/34TM4N%20C4TW0M4N.mp4</link>
+<thumbnail>https://i.ibb.co/ryPLsk6/unnamed.jpg</thumbnail>
+<fanart>https://i.ibb.co/7NkqkrK/maxresdefault.jpg</fanart>
+<info>Uma misteriosa justiceira surge em Gotham City, se vestindo como Batman e se autodenominando Mulher Morcego. Quando ela é sequestrada pelo vilão Bane, Batman precisa resgatá-la, descobrir sua identidade e deter os planos malignos do Pinguim.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
