@@ -29,11 +29,11 @@
 <fanart>https://i.ibb.co/NVsRRSR/c7b727533087b20abfda179385570891.jpg</fanart>
 <info>Challenge to Lassie é um filme de comédia dramática estadunidense dirigido por Richard Thorpe e lançado em 31 de outubro de 1949, pela MGM Studios. Foi o quinto longa-metragem estrelado pela cadela Lassie, personagem fictício criado pelo autor britânico Eric Knight.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A Ilha (2005)[/B]</title>
+<link>https://archive.org/download/a-ilha-2005-720p-dublado/A%20Ilha%202005%20720p%20DUBLADO.mp4</link>
+<thumbnail>https://i.ibb.co/RTbGWCN/The-Island.jpg</thumbnail>
+<fanart>https://i.ibb.co/kS3hQW9/7382727ada9778947683f99eb24d4542ce27a544180ad7e626b1345f62dc9034-UY500-UX667-RI-TTW.jpg</fanart>
+<info>No ano de 2019, um mercenário persegue dois clones que fogem de um centro de pesquisa depois de descobrirem qual é o seu verdadeiro destino.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
