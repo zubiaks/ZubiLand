@@ -17,11 +17,12 @@
 <fanart>https://i.ibb.co/RCk6Y7R/Son-of-Batman-Still.webp</fanart>
 <info>Batman descobre que tem um filho violento que foi criado secretamente por um grupo terrorista. Pai e filho precisam deixar de lado suas diferenças e lutar juntos para proteger Gotham City.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]liga da justiça o trono de atlantis[/B]</title>
+<link>https://archive.org/download/filmesanimadosdc/04%20%E2%80%93%20Liga%20da%20Justi%C3%A7a%20O%20Trono%20de%20Atl%C3%A2ntida%20%282015%29.ia.mp4$nome= Link 1 (BR)</link>
+<link>https://archive.org/download/filmesanimadosdc/04%20%E2%80%93%20Liga%20da%20Justi%C3%A7a%20O%20Trono%20de%20Atl%C3%A2ntida%20%282015%29.mp4$nome= Link 2 (BR)</link>
+<thumbnail>https://i.ibb.co/Qp5r8SB/Trono-de-Atlantis.webp</thumbnail>
+<fanart>https://i.ibb.co/WB1HNbL/download-1.jpg</fanart>
+<info>O mundo da superfície é atacado por um impressionante exército vindo das profundezas do oceano. Aquaman, então, se vê forçado a escolher entre trabalhar com a Liga da Justiça ou honrar a rainha de Atlântida.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
