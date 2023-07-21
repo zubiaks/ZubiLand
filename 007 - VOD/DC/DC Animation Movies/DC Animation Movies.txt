@@ -128,11 +128,11 @@
 <fanart>https://i.ibb.co/wQHrzvg/download-1.jpg</fanart>
 <info>O vilão Ezekiel Stane desenvolve uma nova biotecnologia que deixa a armadura do Homem de Ferro ultrapassada. Agora, Tony Stark precisa localizar Stane e descobrir seus verdadeiros planos e os perigos dessa tecnologia.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]liga da justiça ataque da legião do mal[/B]</title>
+<link>https://archive.org/download/0221254154084/20251515145.mp4</link>
+<thumbnail>https://i.ibb.co/W6TCJ4J/150136.webp</thumbnail>
+<fanart>https://i.ibb.co/tw0t9Q3/492136.webp</fanart>
+<info>Apesar de o crime estar sob controle em Metrópolis, a Liga da Justiça começa a enfrentar problemas quando tenta decidir quem deve ser indicado como líder da equipe e um novo membro aproveita a situação para espalhar as sementes da discórdia entre eles. Para tornar tudo ainda mais complicado, o malvado Lex Luthor decide juntar vilões de todo o mundo e formar sua própria equipe. Os objetivos são, além de invadir a ultrassecreta Área 52, destruir de uma vez por todas a Liga da Justiça.</info></item>
 
 <item><title>[B][/B]</title>
 <link>$nome= Link 1 (BR)</link>
