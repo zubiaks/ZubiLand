@@ -109,11 +109,12 @@
 <fanart>https://i.ibb.co/7NkqkrK/maxresdefault.jpg</fanart>
 <info>Uma misteriosa justiceira surge em Gotham City, se vestindo como Batman e se autodenominando Mulher Morcego. Quando ela é sequestrada pelo vilão Bane, Batman precisa resgatá-la, descobrir sua identidade e deter os planos malignos do Pinguim.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]batman ano 1[/B]</title>
+<link>https://ia601805.us.archive.org/29/items/34-tm-4-n-4-n-0-1-2011-dv-4-l/34TM4N%204N0%201%20%282011%29%20DV4L.mp4$nome= Link 1 (ING)(legendado)</link>
+<link>$nome= Link 2 (BR)</link>
+<thumbnail>https://i.ibb.co/JQNbGdJ/batman-ano-um.jpg</thumbnail>
+<fanart>https://i.ibb.co/k2QGqFD/download.jpg</fanart>
+<info>Batman: Year One (bra: Batman: Ano Um[1]) é um filme de animação estadunidense de 2011, dirigido por Sam Liu e Lauren Montgomery. O roteiro de Tab Murphy baseia-se na história em quadrinhos homônima de quatro partes lançada em 1987. O filme teve premiere na Comic-Con International de San Diego em 22 de julho e foi lançado oficialmente em 18 de outubro de 2011.[2][3] É o 12º filme do Universo Animado DC Comics da Warner Premiere em parceira com a Warner Bros. Animation.</info></item>
 
 <item><title>[B][/B]</title>
 <link>$nome= Link 1 (BR)</link>
