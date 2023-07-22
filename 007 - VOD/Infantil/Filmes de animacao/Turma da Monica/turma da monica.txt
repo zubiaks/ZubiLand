@@ -6,11 +6,11 @@
 <fanart>https://i.ibb.co/WzDsm7J/Sereia-do-Rio.webp</fanart>
 <info>Live action/animated feature directed by de Sousa and Khouri, in which Mônica meets a river fairy (Tetê Espíndola) and tells her stories about her and her friends.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]As aventuras da Turma da Mônica[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/gdZ3nBs/Cartaz-Aventuras-da-Turma-da-M-nica.jpg</thumbnail>
+<externallink>https://archive.org/download/AsAventurasDaTurmaDaMonica/As%20aventuras%20da%20Turma%20da%20Monica.mp4</externallink>
+<fanart>https://i.ibb.co/9pxXY0T/maxresdefault.jpg</fanart>
+<info>As Aventuras da Turma da Mônica é um filme de animação brasileiro de 1982 produzido pela Black & White & Color e distribuído pela Embrafilme</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
