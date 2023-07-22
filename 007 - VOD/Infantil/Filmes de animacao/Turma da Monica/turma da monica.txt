@@ -12,11 +12,11 @@
 <fanart>https://i.ibb.co/9pxXY0T/maxresdefault.jpg</fanart>
 <info>As Aventuras da Turma da Mônica é um filme de animação brasileiro de 1982 produzido pela Black & White & Color e distribuído pela Embrafilme</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]A Turma Da Mônica Em A Princesa E O Robô[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/6XD2MHm/A-Princesa-e-o-Rob.jpg</thumbnail>
+<externallink>https://ia801704.us.archive.org/27/items/a-turma-da-monica-em-a-princesa-e-o-robo/A%20Princesa%20e%20o%20Rob%C3%B4%20%28FILME%20COMPLETO%20em%20HD%29%20_%20Turma%20da%20M%C3%B4nica%20%281080p_24fps_H264-128kbit_AAC%29.ia.mp4</externallink>
+<fanart>https://i.ibb.co/8zf8Hb9/maxresdefault-1.jpg</fanart>
+<info>A Princesa e o Robô é um filme de animação brasileiro de 1984 dirigido por Mauricio de Sousa. É o segundo filme lançado para os cinemas baseado em Turma da Mônica, da qual Mauricio é criador.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
