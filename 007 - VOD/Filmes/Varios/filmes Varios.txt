@@ -119,11 +119,11 @@
 <fanart>https://i.ibb.co/LhQnpb8/ab4ae65b85ecd14f6e8866f817f5c9e5353bc9ef480e41a443d6a462a1e2677c-RI-TTW.jpg</fanart>
 <info>Dois policias rivais de Los Angeles são obrigados a se unir quando um chefão das drogas os envolve num crime que não cometeram. Eles acabam presos e a única opção é escapar para trazer o verdadeiro culpado à justiça.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Marte Ataca! (1996)[/B]</title>
+<link>https://archive.org/download/marte-ataca-1996-1080p-dublado/Marte%20Ataca%21%20%281996%29%201080p%20Dublado.mp4</link>
+<thumbnail>https://i.ibb.co/LvGP71R/download-4.jpg</thumbnail>
+<fanart>https://i.ibb.co/QHd90Y2/download-5.jpg</fanart>
+<info>Naves vindas de Marte cercam as principais cidades do mundo e toda a humanidade espera para ver se os visitantes extraterrestres chegaram em missão de paz. O presidente dos Estados Unidos, James Dale, recebe do professor Donald Kessler a garantia de que a missão de Marte é amigável. Mas quando uma troca pacífica termina na aniquilação total do Congresso norte-americano, os militares clamam por uma total retaliação nuclear.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
