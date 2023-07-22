@@ -66,6 +66,18 @@
 <fanart></fanart>
 <info></info></channel>
 
+<channel><name>[B][COLOR white]Disney[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/dchV2xT/scale.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.ibb.co/zs4kbs8/n037009-2029mar16-world-30-anniversary-fireworks-castle-16-9-tcm851-233244-w-1960-p-1-f-jpg.jpg</fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
@@ -83,6 +95,31 @@
 <externallink></externallink>
 <fanart></fanart>
 <info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
 
 
 </channels>
