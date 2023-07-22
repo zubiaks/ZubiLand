@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Mônica e a Sereia do Rio[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/bNhdPXF/M-nica-e-a-Sereia-do-Rio.png</thumbnail>
+<externallink>https://archive.org/download/MonicaEASereiaDoRio/M%C3%B4nica%20e%20a%20Sereia%20do%20Rio.mp4</externallink>
+<fanart>https://i.ibb.co/WzDsm7J/Sereia-do-Rio.webp</fanart>
+<info>Live action/animated feature directed by de Sousa and Khouri, in which Mônica meets a river fairy (Tetê Espíndola) and tells her stories about her and her friends.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
