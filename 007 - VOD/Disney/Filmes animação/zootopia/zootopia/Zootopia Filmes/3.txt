@@ -1,9 +1,9 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Zootopia[/B]</title>
+<link>https://archive.org/download/ZOTPIA/ZOTPIA.mp4</link>
+<thumbnail>https://i.ibb.co/xSkKqCQ/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/c3BfFyw/download-1.jpg</fanart>
+<info>Em uma cidade de animais, uma raposa falante se torna uma fugitiva ao ser acusada de um crime que não cometeu. O principal policial do local, o incontestável coelho, sai em sua busca.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
