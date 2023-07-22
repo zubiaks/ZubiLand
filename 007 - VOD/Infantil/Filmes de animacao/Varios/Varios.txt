@@ -1,15 +1,15 @@
 
-<item><title>[B]A Pequena Sereia (A Pequena Sereia)[/B]</title>
+<item><title>[B]A Pequena Sereia (Burbank's)[/B]</title>
 <link>https://archive.org/download/video_20191220_1717/Video.mp4</link>
 <thumbnail>https://i.ibb.co/QktX9bG/MV5-BMTg1-Nj-A3-MDg4-NV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-MTk2-Nz-A2-MDE-V1.jpg</thumbnail>
 <fanart>https://i.ibb.co/BZ64pWs/download.jpg</fanart>
 <info>A princesa Miranda vive com seu pai, o Rei do Mar, e suas duas irmãs em um palácio mágico. Ela tem a voz mais bonita de todo o Reino Merfolk. Miranda sempre teve uma curiosidade consumista sobre o mundo humano e a razão pela qual os humanos não tratam "seu mundo" com o mesmo amor e respeito que ela. No aniversário de 15 anos de Miranda, ela tem seu primeiro vislumbre do mundo humano e suas maravilhas.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Cassiopéia O Filme (1996)[/B]</title>
+<link>https://ia903209.us.archive.org/9/items/cassiopeia-o-filme/Cassiop%C3%A9ia%20O%20Filme%20-%201996.ia.mp4</link>
+<thumbnail>https://i.ibb.co/xYcfMRQ/Cassiopeia-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/BykCQSQ/download-1.jpg</fanart>
+<info>A história do planeta Ateneia, localizado na constelação de Cassiopeia, que um dia é atacado por invasores do espaço que começam a sugar sua energia vital. Um sinal de socorro é enviado para o espaço sideral pela astrônoma local, Liza, e recebido por quatro heróis que viajam através da galáxia para salvar o planeta.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
