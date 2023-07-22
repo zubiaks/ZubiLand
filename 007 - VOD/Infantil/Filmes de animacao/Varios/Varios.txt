@@ -11,11 +11,11 @@
 <fanart>https://i.ibb.co/BykCQSQ/download-1.jpg</fanart>
 <info>A história do planeta Ateneia, localizado na constelação de Cassiopeia, que um dia é atacado por invasores do espaço que começam a sugar sua energia vital. Um sinal de socorro é enviado para o espaço sideral pela astrônoma local, Liza, e recebido por quatro heróis que viajam através da galáxia para salvar o planeta.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Capuchinho Vermelho (Goodtimes)[/B]</title>
+<link>https://archive.org/download/capuchinho-vermelho-goodtimes-1/Capuchinho%20Vermelho%20Goodtimes-1.mp4</link>
+<thumbnail>https://i.ibb.co/BKJWfKQ/O-Capuchinho-Vermelho-1995.webp</thumbnail>
+<fanart>https://i.ibb.co/W6kGQVg/mqdefault.jpg</fanart>
+<info>Quando o Capuchinho Vermelho decide levar alguma comida à sua doente avozinha, a mãe tem sempre o cuidado de a alertar para os perigos da floresta. A menina não liga aos avisos e durante o percurso fala com todos os animais que encontra, até mesmo com o perigoso lobo. Quando chega finalmente a casa da sua avó, a menina espanta-se com a presença do lobo... mas, desta vez, todos os amigos do Capuchinho Vermelho têm guardadas muitas surpresas para o lobo mau.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
