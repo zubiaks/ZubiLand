@@ -113,11 +113,11 @@
 <fanart>https://i.ibb.co/WsZbfQ3/default.jpg</fanart>
 <info>Após quase ser morta pelo próprio pai, Lisbeth Salander é levada para o hospital em estado grave. Lá também está internado o pai dela, Alexander Zalachenko, que se tornou uma grande ameaça devido às informações que possui. Para eliminar a ameaça, é enviado ao hospital um homem que tem por objetivo matar Alexander e Lisbeth. Entretanto, ele apenas consegue matar Zalachenko e, logo em seguida, se suicida. Lisbeth enfrentar um processo nos tribunais, recebendo a ajuda de Mikael Blomqvist.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Tango E Cash Os Vingadores (1989)[/B]</title>
+<link>https://archive.org/download/tango-e-cash-os-vingadores-1989-720p-dublado/Tango%20E%20Cash%20-%20Os%20Vingadores/Tango%20E%20Cash%20-%20Os%20Vingadores%20%281989%29%20720p%20Dublado.mp4</link>
+<thumbnail>https://i.ibb.co/SxMt0Yc/download-3.jpg</thumbnail>
+<fanart>https://i.ibb.co/LhQnpb8/ab4ae65b85ecd14f6e8866f817f5c9e5353bc9ef480e41a443d6a462a1e2677c-RI-TTW.jpg</fanart>
+<info>Dois policias rivais de Los Angeles são obrigados a se unir quando um chefão das drogas os envolve num crime que não cometeram. Eles acabam presos e a única opção é escapar para trazer o verdadeiro culpado à justiça.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
