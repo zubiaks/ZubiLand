@@ -134,27 +134,27 @@
 <fanart>https://i.ibb.co/tw0t9Q3/492136.webp</fanart>
 <info>Apesar de o crime estar sob controle em Metrópolis, a Liga da Justiça começa a enfrentar problemas quando tenta decidir quem deve ser indicado como líder da equipe e um novo membro aproveita a situação para espalhar as sementes da discórdia entre eles. Para tornar tudo ainda mais complicado, o malvado Lex Luthor decide juntar vilões de todo o mundo e formar sua própria equipe. Os objetivos são, além de invadir a ultrassecreta Área 52, destruir de uma vez por todas a Liga da Justiça.</info></item>
 
+<item><title>[B]liga da justiça armadilha do tempo[/B]</title>
+<link>https://archive.org/download/LIGADAJUSTIAARMADILHADOTEMPOTTtulo0101/LIGA%20DA%20JUSTI%C3%87A%20ARMADILHA%20DO%20TEMPO_T%C3%ADtulo_01_01.mp4</link>
+<thumbnail>https://i.ibb.co/J3PzF10/71i-Rr7u-ZRg-L-AC-UF894-1000-QL80.jpg</thumbnail>
+<fanart>https://i.ibb.co/txSHm0x/justice-league-adventures-trapped-in-time.jpg</fanart>
+<info>Lex Luthor encontra uma nova maneira de eliminar o Super-Homem e seus amigos por meio de uma viagem no tempo que pode acabar com a Liga da Justiça.</info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B][/B]</title>
 <link>$nome= Link 1 (BR)</link>
 <link>$nome= Link 1 (BR)</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

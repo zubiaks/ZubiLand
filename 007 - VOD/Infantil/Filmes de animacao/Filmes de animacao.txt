@@ -1,5 +1,11 @@
 <channels>
 
+<channel><name>[B][COLOR white]Varios[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/8s8R0Cf/55e9d22cf4179e3d743fcde9fd9172b5.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.ibb.co/JCXWYmh/spider-verse-toy-story-spirited-away.webp</fanart>
+<info></info></channel>
+
 <channel><name>[B][COLOR white]Barbie[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/j3d2Nyp/descarga-1-d44f0637-2d6f-4749-865c-5daeb53414d4-1200x1200.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Filmes%20de%20animacao/Barbie/Barbie.txt</externallink>
@@ -10,12 +16,6 @@
 <thumbnail>https://i.ibb.co/Wg8rqqM/turma-da-monica-2023-costurado1l1-capas.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Filmes%20de%20animacao/Turma%20da%20Monica/turma%20da%20monica.txt</externallink>
 <fanart>https://i.ibb.co/HYxvf5B/download-7.jpg</fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
