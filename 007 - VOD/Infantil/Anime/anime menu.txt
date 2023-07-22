@@ -1,9 +1,9 @@
 <channels>
 
 <channel><name>[B][COLOR white]Series Anime[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/vJCkcn4/429424-Anime-Re-ZERO-Starting-Life-in-Another-World-Phone.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/Series%20Anime.txt</externallink>
+<fanart>https://i.ibb.co/ZdJLH3Y/best-anime-series-on-netflix-2.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Filmes Anime[/COLOR][/B]</name>
