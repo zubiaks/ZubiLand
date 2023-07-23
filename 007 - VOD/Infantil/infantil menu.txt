@@ -18,10 +18,10 @@
 <fanart>https://i.ibb.co/nCcWvw6/animes.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]DreamWorks[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0fZXZx9/Dreamworks-Logo-1.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/DreamWorks/DreamWorks%20menu.txt</externallink>
+<fanart>https://i.ibb.co/pxWFC7t/maxresdefault.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
