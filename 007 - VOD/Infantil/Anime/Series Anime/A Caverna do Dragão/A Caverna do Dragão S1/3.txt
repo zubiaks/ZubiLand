@@ -35,12 +35,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]A Caverna do Dragão E07[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]A Caverna do Dragão S01E07[/B]</title>
 <link>https://archive.org/download/dd.-s-02e-01.-o.-sonho.-720-p.-sdtv.-x-264-vcvix/Caverna%20do%20Drag%C3%A3o%20-%20Dublado/Dd.S01e07.A.Prisao.Sem.Muros.720P.Sdtv.X264-Vcvix.mp4</link>
 <thumbnail></thumbnail>
