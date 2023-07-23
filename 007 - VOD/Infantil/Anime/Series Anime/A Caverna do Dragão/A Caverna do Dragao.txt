@@ -1,18 +1,22 @@
+<channels>
 
-<item><title>[B]A Caverna do Dragão S1[/B]</title>
-<link>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/A%20Caverna%20do%20Drag%C3%A3o/A%20Caverna%20do%20Drag%C3%A3o%20S1/3.txt</link>
+<channel><name>[B][COLOR white]A Caverna do Dragão S1[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/wyxTn8t/cavernadodragao-animes.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/A%20Caverna%20do%20Drag%C3%A3o/A%20Caverna%20do%20Drag%C3%A3o%20S1/3.txt</externallink>
 <fanart>https://i.ibb.co/Pcrr5qp/temporada-1.jpg</fanart>
-<info></info></item>
+<info></info></channel>
 
-<item><title>[B]A Caverna do Dragão S2[/B]</title>
-<link>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/A%20Caverna%20do%20Drag%C3%A3o/A%20Caverna%20do%20Drag%C3%A3o%20S2/3%20-%20Copy.txt</link>
+<channel><name>[B][COLOR white]A Caverna do Dragão S2[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/5cfLxJH/temporada-2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/A%20Caverna%20do%20Drag%C3%A3o/A%20Caverna%20do%20Drag%C3%A3o%20S2/3%20-%20Copy.txt</externallink>
 <fanart>https://i.ibb.co/nnYFk0p/maxresdefault.jpg</fanart>
-<info></info></item>
+<info></info></channel>
 
-<item><title>[B]A Caverna do Dragão S3[/B]</title>
-<link>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/A%20Caverna%20do%20Drag%C3%A3o/A%20Caverna%20do%20Drag%C3%A3o%20S3/3%20-%20Copy%20(2).txt</link>
+<channel><name>[B][COLOR white]A Caverna do Dragão S3[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/wWJNmBd/temporada-3.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/A%20Caverna%20do%20Drag%C3%A3o/A%20Caverna%20do%20Drag%C3%A3o%20S3/3%20-%20Copy%20(2).txt</externallink>
 <fanart>https://i.ibb.co/ZJ3Tpf1/d86372-73b69fe6aadf4c0b8c74a0b4fcffe49f-mv2.webp</fanart>
-<info></info></item>
+<info></info></channel>
+
+
+</channels>
