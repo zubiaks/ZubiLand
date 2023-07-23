@@ -1,7 +1,7 @@
 <channels>
 
 <channel><name>[B][COLOR white]A Caverna do Dragão S1[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/wyxTn8t/cavernadodragao-animes.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/K7sz7r2/temporada-1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/A%20Caverna%20do%20Drag%C3%A3o/A%20Caverna%20do%20Drag%C3%A3o%20S1/3.txt</externallink>
 <fanart>https://i.ibb.co/Pcrr5qp/temporada-1.jpg</fanart>
 <info></info></channel>
