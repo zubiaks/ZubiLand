@@ -1,9 +1,9 @@
 <channels>
 
 <channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/z4S97Xc/7979-pays-de-gex-vign.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/DreamWorks/Filmes/3.txt</externallink>
-<fanart>https://i.ibb.co/5T6XnWZ/Dreamworks.webp</fanart>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
