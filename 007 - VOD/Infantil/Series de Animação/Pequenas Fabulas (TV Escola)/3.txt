@@ -59,56 +59,56 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]11 - O Camundongo, a Lebre e o Bode[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/11%20O%20Camundongo%2C%20a%20Lebre%20e%20o%20Bode.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]12 - O Leão e o Rato[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/12%20O%20leao%20e%20o%20Rato.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]13 - A Raposa e a Cegonha[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/13%20%20A%20Raposa%20e%20a%20Cegonha.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]14 - O Corvo e a Raposa[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/14%20O%20Corvo%20e%20a%20Raposa.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]15 - O Caranguejo e a Cegonha[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/15%20O%20Caranguejo%20e%20a%20Cegonha.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]16 - O Rato, a Lebre e o Corvo[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/16%20%20O%20Rato%2C%20a%20Lebre%20e%20o%20Corvo.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]17 - Dois Bodes e a Ponte[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/17%20Dois%20Bodes%20e%20a%20Ponte.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]18 - O Cachorro e o Caranguejo[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/18%20O%20Cachorro%20e%20o%20Caranguejo.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]19 - A Toupeira e a Águia[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/19%20A%20Toupeira%20e%20a%20%C3%81guia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
