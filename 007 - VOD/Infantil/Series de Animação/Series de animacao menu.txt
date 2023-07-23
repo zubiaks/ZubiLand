@@ -2,7 +2,7 @@
 
 <channel><name>[B][COLOR white]pequenas fábulas (tv escola)[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/vsFr7XY/raposa-feliz-dos-desenhos-animados-sentado-no-toco-de-arvore-29190-1009.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/Pequebas%20Fabulas%20(TV%20Escola)/3.txt</externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/Pequenas%20Fabulas%20(TV%20Escola)/3.txt</externallink>
 <fanart>https://i.ibb.co/jkWYtMr/images.jpg</fanart>
 <info>episódios da série de animação Pequenas Fábulas, a qual utiliza a estética tradicional do teatro de sombras para abordar importantes lições e valores éticos presentes no universo das fábulas.</info></channel>
 
