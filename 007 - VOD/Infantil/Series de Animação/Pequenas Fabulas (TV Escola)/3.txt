@@ -5,6 +5,114 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B]02 - O Corvo com Sede[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/2%20O%20Corvo%20com%20Sede.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]03 - O Rinoceronte e o Pardal[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/3%20%20O%20Rinoceronte%20e%20o%20Pardal.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]04 - O Casal de Pombinhos[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/4%20O%20Casal%20de%20Pombinhos.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]05 - O Pardal e as Penas[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/5%20O%20Pardal%20e%20as%20Penas.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]06 - O Pelicano e sua Casa[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]07 - A Lagarta e o Casulo[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/7%20A%20Lagarta%20e%20o%20Casulo.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]08 - O Voo dos Passaros[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/8%20O%20Voo%20dos%20Passaros.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]09 - A Raposa e a Tartaruga[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/9%20A%20Raposa%20e%20a%20Tartaruga.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]10 - O Cão e o Porco-Espinho[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/10%20O%20C%C3%A3o%20e%20o%20Porco-Espinho.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
