@@ -147,29 +147,32 @@ https://archive.org/details/10-o-canhao-gigante-lion-man/01+-+O+Homem+Foguete+-+
 Anime
 wiki - dragon ball
 https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Broly
-Anime Filmes
-https://archive.org/details/mutant-turtles-choujin-densetsu-hen
-Yu Gi Oh Filme. Piramide Da Luz. Dublado. Felipewinchester
-https://archive.org/details/YuGiOhFilme.PiramideDaLuz.Dublado.Felipewinchester
-Street Fighter II THE MOVIE [ Dual Audio PTBR & JPN]
-https://archive.org/details/1996-street-fighter-the-movie-dual-audio-ptbr-jpn
-https://archive.org/details/street-fighter-ii-o-filme-dual-audio-1080p-emerson-lino-animes
-Kore wa Zombie Desuka?
-https://archive.org/details/02_20201009_20201009_1646/%E3%81%93%E3%82%8C%E3%81%AF%E3%82%BB%E3%82%A4%E3%83%90%E3%83%BC%E3%81%8F%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B+%EF%BC%9F+01.avi
-Vampire Hunter D ( 1985) Emerson Lino Animes
-https://archive.org/details/vampire-hunter-d-1985-emerson-lino-animes
-[ S 02. E 06] Os Cavaleiros Do Zodíaco A Pirâmide De Gelo
-https://archive.org/details/s-02.-e-06-os-cavaleiros-do-zodiaco-a-piramide-de-gelo_202107
-[ S 01. E 14] Os Cavaleiros Do Zodíaco A Derrota Do Espírito Diabólico
-https://archive.org/details/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107
-[ S 03. E 01] Os Cavaleiros Do Zodíaco A Explosão Da Ilha Da Rainha Da Morte
-https://archive.org/details/s-03.-e-01-os-cavaleiros-do-zodiaco-a-explosao-da-ilha-da-rainha-da-morte_202107
-[ S 04. E 17] Os Cavaleiros Do Zodíaco
-https://archive.org/details/s-04.-e-17-os-cavaleiros-do-zodiaco_202108
-Yu Gi Oh! Bonds Beyond Time 10th Anniversary
-https://archive.org/details/ygo-dream-yu-gi-oh-3-d-bonds-beyond-time-10th-anniversary-hq-ygo-br
-Yu Gi Oh O Lado Negro Das Dimensoes
-https://archive.org/details/yu-gi-oh-o-lado-negro-das-dimensoes
+
+	Anime Filmes
+
+		https://archive.org/details/mutant-turtles-choujin-densetsu-hen
+
+		Yu Gi Oh Filme. Piramide Da Luz. Dublado. Felipewinchester
+			https://archive.org/details/YuGiOhFilme.PiramideDaLuz.Dublado.Felipewinchester
+
+		Street Fighter II THE MOVIE [ Dual Audio PTBR & JPN]
+			https://archive.org/details/1996-street-fighter-the-movie-dual-audio-ptbr-jpn
+			https://archive.org/details/street-fighter-ii-o-filme-dual-audio-1080p-emerson-lino-animes
+
+		Kore wa Zombie Desuka?
+			https://archive.org/details/02_20201009_20201009_1646/%E3%81%93%E3%82%8C%E3%81%AF%E3%82%BB%E3%82%A4%E3%83%90%E3%83%BC%E3%81%8F%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B+%EF%BC%9F+01.avi
+
+		Vampire Hunter D ( 1985) Emerson Lino Animes
+			https://archive.org/details/vampire-hunter-d-1985-emerson-lino-animes
+
+		[S04] Os Cavaleiros Do Zodíaco
+			https://archive.org/details/s-04.-e-17-os-cavaleiros-do-zodiaco_202108
+
+		Yu Gi Oh! Bonds Beyond Time 10th Anniversary
+			https://archive.org/details/ygo-dream-yu-gi-oh-3-d-bonds-beyond-time-10th-anniversary-hq-ygo-br
+
+		Yu Gi Oh O Lado Negro Das Dimensoes
+			https://archive.org/details/yu-gi-oh-o-lado-negro-das-dimensoes
 
 		Yu Gi Oh Filme. Piramide Da Luz. Dublado. Felipewinchester
 			https://archive.org/details/yu-gi-oh-filme.-piramide-da-luz.-dublado.-felipewinchester
@@ -179,6 +182,15 @@ https://archive.org/details/yu-gi-oh-o-lado-negro-das-dimensoes
 
 
 	Anime Series
+		[S01] Os Cavaleiros Do Zodíaco A Derrota Do Espírito Diabólico
+			https://archive.org/details/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107
+
+		[S02] Os Cavaleiros Do Zodíaco A Pirâmide De Gelo
+			https://archive.org/details/s-02.-e-06-os-cavaleiros-do-zodiaco-a-piramide-de-gelo_202107
+
+		[S03] Os Cavaleiros Do Zodíaco A Explosão Da Ilha Da Rainha Da Morte
+			https://archive.org/details/s-03.-e-01-os-cavaleiros-do-zodiaco-a-explosao-da-ilha-da-rainha-da-morte_202107
+
 		The Hakkenden 1 OVA 1-6
 			https://archive.org/details/tnnac-the-hakkenden-1-ova-06-655-f-087-a
 
