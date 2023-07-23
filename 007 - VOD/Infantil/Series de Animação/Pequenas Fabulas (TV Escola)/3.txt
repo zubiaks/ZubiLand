@@ -113,44 +113,44 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]20 - A Tartaruga e a Lebre[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/20%20A%20Tartaruga%20e%20a%20Lebre.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]21 - A Formiga e a Cigarra[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/21%20A%20Formiga%20e%20a%20Cigarra.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]22 - A Cabra e a Lebre[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/22%20%20A%20Cabra%20e%20a%20Lebre.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]23 - O Porco-Espinho e a Cegonha[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/23%20O%20Porco-Espinho%20e%20a%20Cegonha.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]24 - A Tartaruga e o Porco-Espinho[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/24%20A%20Tartaruga%20e%20o%20Porco-Espinho.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]25 - As Formigas e o Porco-Espinho[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]26 - O Rato e o Cachorro[/B]</title>
+<link>https://archive.org/download/PequenasFabulas/26%20%20O%20Rato%20e%20o%20Cachorro.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
