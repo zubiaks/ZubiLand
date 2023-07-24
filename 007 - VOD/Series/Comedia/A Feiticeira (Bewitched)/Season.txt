@@ -1,51 +1,51 @@
 <channels>
 
 <channel><name>[B][COLOR white]Temporada 1[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/GvptHJP/MV5-BMDU4-Yz-I4-MDAt-OWRi-ZC00-MDIz-LTky-Yzct-MDMw-YTZi-OWZh-OTg2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTUy-Njc3-ND.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Comedia/A%20Feiticeira%20(Bewitched)/season%201/eps.txt</externallink>
+<fanart>https://i.ibb.co/gMqm9Vy/7c51f15787cf7cea1f8727505656de1638df3313949131b20c18642a4a5d2146-RI-TTW.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Temporada 2[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/r6X30K3/5181-XJ1-N4-SL-AC-UF1000-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Comedia/A%20Feiticeira%20(Bewitched)/season%202/eps.txt</externallink>
+<fanart>https://i.ibb.co/KzKvDkY/942caaf3835ffa98bff003fc3cbcd5b7d0a87ba4dc14c236d4849f23dc3b5a0b-UY500-UX667-RI-TTW.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Temporada 3[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/Zhfyrc1/511-Vah-Bp3g-L-AC-UF1000-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Comedia/A%20Feiticeira%20(Bewitched)/season%203/eps.txt</externallink>
+<fanart>https://i.ibb.co/5LrNZJK/91st3-ZW1yr-L-RI.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Temporada 4[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/c616JCs/517-A7-EVTBDL-AC-UF894-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Comedia/A%20Feiticeira%20(Bewitched)/season%204/eps.txt</externallink>
+<fanart>https://i.ibb.co/ykyQccT/13445d2a9f9da32a21b1967081ca744574e14973c705bb4ea034d94d348396f2-RI.png</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Temporada 5[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/3fVWfDw/51-IWg5-S9an-L-AC-UF894-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Comedia/A%20Feiticeira%20(Bewitched)/season%205/eps.txt</externallink>
+<fanart>https://i.ibb.co/122GFpL/season-5.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Temporada 6[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/QPXbZNK/51-BLQa-Ddem-L-AC-UF894-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Comedia/A%20Feiticeira%20(Bewitched)/season%206/eps.txt</externallink>
+<fanart>https://i.ibb.co/RgwG48q/8f242c875027679023142ceeca2079e5af0fa2b923b13de8441fcd1a427c915c-RI-TTW.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Temporada 7[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/ysBHB7z/51k-zb-Wl-Qo-L-AC-UF894-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Comedia/A%20Feiticeira%20(Bewitched)/season%207/eps.txt</externallink>
+<fanart>https://i.ibb.co/SP06mXB/81njpy-Vt1-OL-RI.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Temporada 8[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/4Y2hpRs/51n-W94a3fs-L-AC-UF894-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Comedia/A%20Feiticeira%20(Bewitched)/season%208/eps.txt</externallink>
+<fanart>https://i.ibb.co/3Y8nTMq/bc9e13c27fe32b563694c8367bfd08c4183627b708a5b7bee69ab8f0a5758f50-RI-TTW.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
