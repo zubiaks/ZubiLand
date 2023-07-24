@@ -1,216 +1,216 @@
 
-<item><title>[B]Episode 01[/B]</title>
-<link></link>
+<item><title>[B]1.01 - I, Darrin, Take This Witch, Samantha[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.01%20-%20I%2C%20Darrin%2C%20Take%20This%20Witch%2C%20Samantha.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 02[/B]</title>
-<link></link>
+<item><title>[B]1.02 - Be It Ever So Mortgaged[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.02%20-%20Be%20It%20Ever%20So%20Mortgaged.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 03[/B]</title>
-<link></link>
+<item><title>[B]1.03 - It Shouldn't Happen to a Dog[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.03%20-%20It%20Shouldn%27t%20Happen%20to%20a%20Dog.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 04[/B]</title>
-<link></link>
+<item><title>[B]1.04 - Mother, Meet What's His Name[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.04%20-%20Mother%2C%20Meet%20What%27s%20His%20Name.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 05[/B]</title>
-<link></link>
+<item><title>[B]1.05 - Help, Help, Don't Save Me[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.05%20-%20Help%2C%20Help%2C%20Don%27t%20Save%20Me.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 06[/B]</title>
-<link></link>
+<item><title>[B]1.06 - Little Pitchers Have Big Fears[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.06%20-%20Little%20Pitchers%20Have%20Big%20Fears.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 07[/B]</title>
-<link></link>
+<item><title>[B]1.07 - The Witches Are Out[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.07%20-%20The%20Witches%20Are%20Out.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 08[/B]</title>
-<link></link>
+<item><title>[B]1.08 - Witch or Wife[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.08%20-%20Witch%20or%20Wife.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 09[/B]</title>
-<link></link>
+<item><title>[B]1.09 - The Girl Reporter[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.09%20-%20The%20Girl%20Reporter.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 10[/B]</title>
-<link></link>
+<item><title>[B]1.10 - Just One Happy Family[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.10%20-%20Just%20One%20Happy%20Family.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 11[/B]</title>
-<link></link>
+<item><title>[B]1.11 - It Takes One to Know One[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.11%20-%20It%20Takes%20One%20to%20Know%20One.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 12[/B]</title>
-<link></link>
+<item><title>[B]1.12 - And Something Makes Three[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.12%20-%20And%20Something%20Makes%20Three.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 13[/B]</title>
-<link></link>
+<item><title>[B]1.13 - Love Is Blind[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.13%20-%20Love%20Is%20Blind.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 14[/B]</title>
-<link></link>
+<item><title>[B]1.14 - Samantha Meets the Folks[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.14%20-%20Samantha%20Meets%20the%20Folks.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 15[/B]</title>
-<link></link>
+<item><title>[B]1.15 - A Vision of Sugar Plums[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.15%20-%20A%20Vision%20of%20Sugar%20Plums.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 16[/B]</title>
-<link></link>
+<item><title>[B]1.16 - It's Magic[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.16%20-%20It%27s%20Magic.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 17[/B]</title>
-<link></link>
+<item><title>[B]1.17 - A Is for Aardvark[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.17%20-%20A%20Is%20for%20Aardvark.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 18[/B]</title>
-<link></link>
+<item><title>[B]1.18 - The Cat's Meow[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.18%20-%20The%20Cat%27s%20Meow.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 19[/B]</title>
-<link></link>
+<item><title>[B]1.19 - A Nice Little Dinner Party[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.19%20-%20A%20Nice%20Little%20Dinner%20Party.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 20[/B]</title>
-<link></link>
+<item><title>[B]1.20 - Your Witch Is Showing[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.20%20-%20Your%20Witch%20Is%20Showing.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 21[/B]</title>
-<link></link>
+<item><title>[B]1.21 - Ling Ling[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.21%20-%20Ling%20Ling.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 22[/B]</title>
-<link></link>
+<item><title>[B]1.22 - Eye of the Beholder[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.22%20-%20Eye%20of%20the%20Beholder.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 23[/B]</title>
-<link></link>
+<item><title>[B]1.23 - Red Light, Green Light[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.23%20-%20Red%20Light%2C%20Green%20Light.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 24[/B]</title>
-<link></link>
+<item><title>[B]1.24 - Which Witch Is Which[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.24%20-%20Which%20Witch%20Is%20Which.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 25[/B]</title>
-<link></link>
+<item><title>[B]1.25 - Pleasure O'Riley[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.25%20-%20Pleasure%20O%27Riley.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 26[/B]</title>
-<link></link>
+<item><title>[B]1.26 - Driving Is the Only Way to Fly[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.26%20-%20Driving%20Is%20the%20Only%20Way%20to%20Fly.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 27[/B]</title>
-<link></link>
+<item><title>[B]1.27 - There's No Witch Like an Old Witch[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.27%20-%20There%27s%20No%20Witch%20Like%20an%20Old%20Witch.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 28[/B]</title>
-<link></link>
+<item><title>[B]1.28 - Open the Door, Witchcraft[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.28%20-%20Open%20the%20Door%2C%20Witchcraft.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 29[/B]</title>
-<link></link>
+<item><title>[B]1.29 - Abner Kadabra[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.29%20-%20Abner%20Kadabra.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 30[/B]</title>
-<link></link>
+<item><title>[B]1.30 - George the Warlock[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.30%20-%20George%20the%20Warlock.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 31[/B]</title>
-<link></link>
+<item><title>[B]1.31 - That Was My Wife[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.31%20-%20That%20Was%20My%20Wife.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 32[/B]</title>
-<link></link>
+<item><title>[B]1.32 - Illegal Separation[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.32%20-%20Illegal%20Separation.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 33[/B]</title>
-<link></link>
+<item><title>[B]1.33 - A Change of Face[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.33%20-%20A%20Change%20of%20Face.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 34[/B]</title>
-<link></link>
+<item><title>[B]1.34 - Remember the Main[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.34%20-%20Remember%20the%20Main.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 35[/B]</title>
-<link></link>
+<item><title>[B]1.35 - Eat at Mario's[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.35%20-%20Eat%20at%20Mario%27s.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 36[/B]</title>
-<link></link>
+<item><title>[B]1.36 - Cousin Edgar[/B]</title>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason1/1.36%20-%20Cousin%20Edgar.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
