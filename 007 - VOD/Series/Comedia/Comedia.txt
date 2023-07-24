@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]A Feiticeira (Bewitched)[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Q8Z7HnD/0bd71efb1308fc406e88ea5f1f8a16d1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Comedia/A%20Feiticeira%20(Bewitched)/Season.txt</externallink>
+<fanart>https://i.ibb.co/nzDxBW5/a-feiticeira-4.jpg</fanart>
+<info>Basta torcer o nariz para Samantha usar seus poderes de bruxa. O problema é que seu marido, o publicitário James, quer que ela seja uma esposa normal e ignore sua mágica.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
