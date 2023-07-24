@@ -1,9 +1,9 @@
 <channels>
 
 <channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/Rcf7PBK/best-worst-of-cartoon-network-fan-casting-poster-170168-medium.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Cartoons%20Network/Filmes/3.txt</externallink>
+<fanart>https://i.ibb.co/CvZ6KQd/Cartoon-Network-Theater-Header.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
