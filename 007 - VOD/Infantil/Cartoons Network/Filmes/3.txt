@@ -1,15 +1,15 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]moviesBilly E Mandy Salva O Natal (2005)[/B]</title>
+<link>https://archive.org/download/billy-e-mandy-salva-o-natal-2005-cn/Billy%20e%20Mandy%20Salva%20o%20Natal%20%282005%29%20%5BCN%5D.mp4</link>
+<thumbnail>https://i.ibb.co/pyC03LS/4-Xjis-Tfsd-BSVWBIwumtz1qvv-RWX.jpg</thumbnail>
+<fanart>https://i.ibb.co/mqChns9/download-2.jpg</fanart>
+<info>Era véspera de Natal e estava tudo pronto para a saída do Papai Noel para visitar as crianças que tiveram boa educação. De repente, Noel é atacado por um vampiro que coloca em risco a noite de Natal. Enquanto isso a Morte, Billy e Mandy saem do shopping, onde visitaram um falso Papai Noel. Para fazer com que Mandy acredite em Papai Noel, a Morte decide levar ele e Billy ao Pólo Norte para provar a existência do bom velhinho. Chegando lá, eles terão de ajudar Mamãe Noel a salvar o Natal.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Johnny Bravo Vai Para Bollywood (2011)[/B]</title>
+<link>https://archive.org/download/johnny.-bravo.-vai.-para.-bollywood.-2011.-tv.-movie.-tvrip.-tooncast.-avc/Johnny.Bravo.Vai.Para.Bollywood.2011.TV.Movie.TVRip.Tooncast.AVC.mp4</link>
+<thumbnail>https://i.ibb.co/t4ypD7W/download-3.jpg</thumbnail>
+<fanart>https://i.ibb.co/WVWCBch/johhny-bravo-bollywood-sbt.jpg</fanart>
+<info>Depois de assistir a um documentário do tipo True Hollywood Stories em que é considerado uma estrela esquecida, Johnny Bravo viaja para Mumbai, a capital do entretenimento da Índia, para provar que ainda é popular. Eventualmente, Johnny se encontra no meio de uma trama de assassinato para matar a maior estrela de Bollywood, Jiggy (equivalente e rival indiano de Johnny).</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
