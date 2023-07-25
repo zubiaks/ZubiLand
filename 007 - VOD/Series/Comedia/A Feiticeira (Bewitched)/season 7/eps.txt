@@ -1,168 +1,168 @@
 
 <item><title>[B]7.01 - To Go or Not to Go, That Is the Question[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.01%20-%20To%20Go%20or%20Not%20to%20Go%2C%20That%20Is%20the%20Question.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.02 - Salem, Here We Come[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.02%20-%20Salem%2C%20Here%20We%20Come.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.03 - The Salem Saga[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.03%20-%20The%20Salem%20Saga.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.04 - Samantha's Hot Bedwarmer[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.04%20-%20Samantha%27s%20Hot%20Bedwarmer.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.05 - Darrin on a Pedestal[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.05%20-%20Darrin%20on%20a%20Pedestal.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.06 - Paul Revere Rides Again[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.06%20-%20Paul%20Revere%20Rides%20Again.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.07 - Samantha's Bad Day in Salem[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.07%20-%20Samantha%27s%20Bad%20Day%20in%20Salem.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.08 - Samantha's Old Salem Trip[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.08%20-%20Samantha%27s%20Old%20Salem%20Trip.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.09 - Samantha's Pet Warlock[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.09%20-%20Samantha%27s%20Pet%20Warlock.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.10 - Samantha's Old Man[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.10%20-%20Samantha%27s%20Old%20Man.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.11 - The Corsican Cousins[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.11%20-%20The%20Corsican%20Cousins.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.12 - Samantha's Magic Potion[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.12%20-%20Samantha%27s%20Magic%20Potion.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.13 - Sisters at Heart[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.13%20-%20Sisters%20at%20Heart.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.14 - The Mother-in-Law of the Year[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.14%20-%20The%20Mother-in-Law%20of%20the%20Year.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.15 - Mary, the Good Fairy[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.15%20-%20Mary%2C%20the%20Good%20Fairy.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.16 - The Good Fairy Strikes Again[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.16%20-%20The%20Good%20Fairy%20Strikes%20Again.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.17 - The Return of Darrin the Bold[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.17%20-%20The%20Return%20of%20Darrin%20the%20Bold.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.18 - The House That Uncle Arthur Built[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.18%20-%20The%20House%20That%20Uncle%20Arthur%20Built.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.19 - Samantha and the Troll[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.19%20-%20Samantha%20and%20the%20Troll.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.20 - This Little Piggie[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.20%20-%20This%20Little%20Piggie.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.21 - Mixed Doubles[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.21%20-%20Mixed%20Doubles.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.22 - Darrin Goes Ape[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.22%20-%20Darrin%20Goes%20Ape.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.23 - Money Happy Returns[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.23%20-%20Money%20Happy%20Returns.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.24 - Out of the Mouths of Babes[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.24%20-%20Out%20of%20the%20Mouths%20of%20Babes.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.25 - Samantha's Psychic Slip [Legendado][/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.25%20-%20Samantha%27s%20Psychic%20Slip%20%5BLegendado%5D.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.26 - Samantha's Magic Mirror[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.26%20-%20Samantha%27s%20Magic%20Mirror.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.27 -Laugh, Clown, Laugh[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.27%20-Laugh%2C%20Clown%2C%20Laugh.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]7.28 - Samantha and the Antique Doll[/B]</title>
-<link></link>
+<link>https://archive.org/download/AFeiticeiraBewitchedSeason7/7.28%20-%20Samantha%20and%20the%20Antique%20Doll.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
