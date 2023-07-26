@@ -19,11 +19,11 @@
 <info>A medicina tradicional é praticada na China há muito tempo. O documentário embarca numa viagem pela República Popular da China para descobrir os rituais e segredos desta ciência milenar e a sua aplicação na sociedade atual. Neste documentário poderão conhecer famílias de doutores que transmitiram o seu conhecimento e a receita do seu segredo de geração em geração. Também poderão visitar as consultas de especialistas em acupuntura que curam doenças diagnosticadas como crônicas e conhecer os pacientes que viajam de todo o lado da Ásia para se submeterem aos seus tratamentos alternativos. Preparem-se para uma expedição às províncias remotas da China para visitar os melhores detentores destes conhecimentos.
 </info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O Processo (Documentário - 2018)[/B]</title>
+<link>https://archive.org/download/o-processo-2018/O%20Processo%20-%202018.ia.mp4</link>
+<thumbnail>https://i.ibb.co/2j1ckJX/the-trial-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/0yfqv4B/processo-dilma.jpg</fanart>
+<info>O documentário mostra a crise política que afeta o Brasil desde 2013 sem nenhum tipo de abordagem direta, como entrevistas ou intervenções. Acompanhe imagens das votações e discussões que determinaram a destituição da presidente Dilma Rousseff.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
