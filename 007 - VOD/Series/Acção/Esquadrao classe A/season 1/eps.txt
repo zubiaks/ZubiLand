@@ -1,84 +1,84 @@
 
 <item><title>[B]Episode 01[/B]</title>
-<link></link>
+<link>https://archive.org/download/esquadraoclassea/Esquadrao%20A%2001.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 02[/B]</title>
-<link></link>
+<link>https://archive.org/download/esquadraoclassea/Esquadro%20classe%20A%2002.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 03[/B]</title>
-<link></link>
+<link>https://archive.org/download/esquadraoclassea/Esquadro%20classe%20A%2003.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 04[/B]</title>
-<link></link>
+<link>https://archive.org/download/esquadraoclassea/Esquadrao%20classe%20A%2004.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 05[/B]</title>
-<link></link>
+<link>https://archive.org/download/esquadraoclassea/Esquadrao%20classe%20A%2005.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 06[/B]</title>
-<link></link>
+<link>https://archive.org/download/esquadraoclassea/Esquadrao%20classe%20A%20%2006.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 07[/B]</title>
-<link></link>
+<link>https://archive.org/download/esquadraoclassea/Esquadrao%20classe%20A%2007.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 08[/B]</title>
-<link></link>
+<link>https://archive.org/download/esquadraoclassea/Esquadrao%20classe%20A%2008.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 09[/B]</title>
-<link></link>
+<link>https://archive.org/download/esquadraoclassea/Esquadrao%20classe%20A%2009.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 10[/B]</title>
-<link></link>
+<link>https://archive.org/download/esquadraoclassea/Esquadrao%20classe%20A%2010.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 11[/B]</title>
-<link></link>
+<link>https://archive.org/download/esquadraoclassea/Esquadrao%20classe%20A%2011.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 12[/B]</title>
-<link></link>
+<link>https://archive.org/download/esquadraoclassea/Esquadrao%20classe%20A%2012.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 13[/B]</title>
-<link></link>
+<link>https://archive.org/download/esquadraoclassea/Esquadrao%20classe%20A%2013.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 14[/B]</title>
-<link></link>
+<link>https://archive.org/download/esquadraoclassea/Esquadrao%20classe%20A%2014.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
