@@ -25,17 +25,17 @@
 <fanart>https://i.ibb.co/0yfqv4B/processo-dilma.jpg</fanart>
 <info>O documentário mostra a crise política que afeta o Brasil desde 2013 sem nenhum tipo de abordagem direta, como entrevistas ou intervenções. Acompanhe imagens das votações e discussões que determinaram a destituição da presidente Dilma Rousseff.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]THE PRINCIPLE (O PRINCÍPIO / A CRISE COSMOLÓGICA / A TERRA NO CENTRO DO UNIVERSO) [LEGENDADO POR-BR][/B]</title>
+<link>https://archive.org/download/theprincipledvd2014720pleg/The%20Principle%20DVD%20%5B2014%5D%20%28720p%29%20Leg.mp4</link>
+<thumbnail>https://i.ibb.co/ZctFdHv/MV5-BMTg2-NTYx-OTMz-NF5-BMl5-Ban-Bn-Xk-Ft-ZTgw-MTQy-ODYx-Mz-E-V1-FMjpg-UX1000.jpg</thumbnail>
+<fanart>https://i.ibb.co/cNYg8nW/michio-kaku-the-principle.webp</fanart>
+<info>Neste documentário, vários cientistas entre físicos, matemáticos e teólogos debatem sobre as falhas científicas e as últimas descobertas (não divulgadas devidamente ao público) que vem trazendo uma crise na cosmologia ao praticamente derrubar todo o Princípio de Copérnico (o Heliocentrismo, onde a Terra não é nem o centro do sistema Solar, ao contrário do Geocentrismo) como pode derrubar até a Teoria da Relatividade de Einstein.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A Última Floresta - 2021 - Documentário[/B]</title>
+<link>https://archive.org/download/a-ultima-floresta/A%20%C3%9Altima%20Floresta.ia.mp4</link>
+<thumbnail>https://i.ibb.co/SdBX5cp/A-ltima-Floresta.jpg</thumbnail>
+<fanart>https://i.ibb.co/X2hY27F/AAAABQOK2-K2-Nx-YUZBTFx-Hr8c-x-G269-KDLh-Gj-Yp72-Lq-W-RERdoj5-USAj-Wptd-EIpt-Ib9-Mg-Qakhir-C6-Hr-bdy.jpg</fanart>
+<info>O xamã Davi Kopenawa Yanomani tenta manter vivos os espíritos da floresta e as tradições, enquanto a chegada de garimpeiros traz morte e doenças para a comunidade, que fica localizada em um território Yanomani, isolado na Amazônia. Os jovens ficam encantados com os bens trazidos pelos brancos.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
