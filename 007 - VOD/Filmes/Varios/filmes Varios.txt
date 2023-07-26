@@ -161,22 +161,23 @@
 <fanart>https://i.ibb.co/f2pf1X3/1078687-h-029e9d313239.webp</fanart>
 <info>A Dra. Lily Houghton pede a ajuda do sagaz capitão Frank Wolff para levá-la à Amazônia em seu barco em ruínas. Juntos, eles procuram por uma árvore ancestral que detém o poder de curar - uma descoberta que deve mudar o futuro da medicina.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Justiça em Família[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Justi%C3%A7a%20em%20Fam%C3%ADlia%202021.mp4</link>
+<thumbnail>https://i.ibb.co/BGMQSpr/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/YpbRk0g/maxresdefault.jpg</fanart>
+<info>O devotado homem de família, Ray Cooper, jura fazer justiça contra contra a gananciosa empresa farmacêutica responsável por retirar do mercado um medicamento que poderia ter salvo a vida de sua esposa. Sua busca pela verdade incomoda forças poderosas e coloca Ray e sua filha Rachel em perigo. Logo, sua missão se transforma em uma busca por vingança guiada pelo desejo de proteger a única família que lhe resta.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]luccas neto em busca do tesouro 2[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Luccas%20Neto%20Em%20%20O%20Mapa%20Do%20Tesouro%202%202021.mp4</link>
+<thumbnail>https://i.ibb.co/SrSX4Yg/4068170.jpg</thumbnail>
+<fanart>https://i.ibb.co/dgKwRsj/4159491.webp</fanart>
+<info>Em O Mapa do Tesouro 2, Luccas Neto e Gi Alparone vão embarcar em uma aventura para encontrar um misterioso baú, longe do território seguro do sítio da avó deles. No meio do caminho, eles conhecem Estela, uma elfa que faz parte de uma família que busca há anos pelo baú, que contém um colar mágico muito poderoso, capaz de acabar com preconceitos e reduzir as desigualdades entre as pessoas, mas que em mãos erradas pode gerar um caos no planeta, desequilibrando a justiça no mundo.</info></item>
+
+<item><title>[B]Chaos Walking: O Ruído[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Mundo%20Em%20Caos%202021.mp4</link>
+<thumbnail>https://i.ibb.co/47SqggW/1891925.jpg</thumbnail>
+<fanart>https://i.ibb.co/YcrNBKB/Poster-Mundo-em-Caos.jpg</fanart>
+<info>Todd cresceu com a crença de que as mulheres desapareceram do mundo e os homens foram afetados por um ruído capaz de deixar seus pensamentos audíveis. Ele então descobre um pedaço de silêncio no pântano, onde encontra uma garota chamada Viola. Todd jura protegê-la, mas para isso deve descobrir sua força e desvendar todos os segredos sombrios que seu planeta e sua comunidade guardam.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
