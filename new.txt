@@ -1,12 +1,24 @@
 DC
+
 	Filmes Animados
 		
 
 
 
 Filmes
+
 	Varios
 		
+
+
+	Filme Português
+
+		Inferno (2000)
+			https://archive.org/details/Inferno.filme
+
+		Capitães de Abril - April Captains (2000)
+			https://archive.org/details/capitaes-de-abril-2000
+
 
 
 	Filmes de Animação
@@ -23,18 +35,19 @@ Filmes
 
 
 
-	Disney
-		A Nova Onda Do Imperador (2000)
-			https://archive.org/details/a-nova-onda-do-imperador-2000-720p-dub
+Disney
 
-		Pateta O Filme (1995)
-			https://archive.org/details/pateta-o-filme-1995-720p-dub
+	A Nova Onda Do Imperador (2000)
+		https://archive.org/details/a-nova-onda-do-imperador-2000-720p-dub
 
-		Era.uma. Vez.um. Boneco.de. Neve.
-			https://archive.org/details/era.uma.-vez.um.-boneco.de.-neve
+	Pateta O Filme (1995)
+		https://archive.org/details/pateta-o-filme-1995-720p-dub
 
-		Up Altas Aventuras
-			https://archive.org/details/filme-up-altas-aventuras
+	Era.uma. Vez.um. Boneco.de. Neve.
+		https://archive.org/details/era.uma.-vez.um.-boneco.de.-neve
+
+	Up Altas Aventuras
+		https://archive.org/details/filme-up-altas-aventuras
 
 
 
@@ -42,6 +55,7 @@ Filmes
 		https://archive.org/details/tin-tin
 
 	Transformers
+
 		Gladiformers Os Novo Transformers
 			https://archive.org/details/gladiformers-1-pt-br-version
 
@@ -58,7 +72,21 @@ Filmes
 
 
 LooneyToons
-https://archive.org/details/PernalongaEPatolinoOsCacaFantasmas
+	
+	https://archive.org/details/PernalongaEPatolinoOsCacaFantasmas
+
+	TinyToon - REMASTER - 1 temporada
+		https://archive.org/details/tinytoon-remaster-1-temporada-by-vicimaxx/Tiny+Toon++Tt01ep01+2.33X+1920X1080.mkv
+
+	TinyToon - REMASTER - 2 Temporada
+		https://archive.org/details/tinytoon-remaster-2-temporada-by-vicimaxx
+
+	TinyToon - REMASTER - 3 Temporada
+		https://archive.org/details/tinytoon-remaster-3-temporada-by-vicimaxx_202108
+
+	Tiny Toon Filmes (Movies)
+		https://archive.org/details/tiny-toon-filmes-movies
+
 
 
 	Series Animação
@@ -87,53 +115,45 @@ https://archive.org/details/PernalongaEPatolinoOsCacaFantasmas
 		She Ra
 			https://archive.org/details/she-ra-s-01-e-20_202106
 
-TinyToon - REMASTER - 1 temporada by Vicimaxx
-https://archive.org/details/tinytoon-remaster-1-temporada-by-vicimaxx/Tiny+Toon++Tt01ep01+2.33X+1920X1080.mkv
-TinyToon - REMASTER - 2 Temporada by Vicimaxx
-https://archive.org/details/tinytoon-remaster-2-temporada-by-vicimaxx
-TinyToon - REMASTER - 3 Temporada by Vicimaxx
-https://archive.org/details/tinytoon-remaster-3-temporada-by-vicimaxx_202108
-Tiny Toon Filmes ( Movies )
-https://archive.org/details/tiny-toon-filmes-movies
+		Jibber e Jabber - Tvrip - Dublado
+			https://archive.org/details/jibber-e-jabber-tvrip-dublado_202110/Jibber_e_Jabber-EP01.mp4.avi
 
-Jibber e Jabber - Tvrip - Dublado
-https://archive.org/details/jibber-e-jabber-tvrip-dublado_202110/Jibber_e_Jabber-EP01.mp4.avi
-Loucademia de Polícia (animação BR)
-https://archive.org/details/policeacademy_series
-Sheep na Cidade Grande PT-BR Dublado (Lost Media)
-https://archive.org/details/05.-so-vivemos-duas-vezes_202112
-PT-BR | Hi Hi Puffy AmiYumi - Série completa
-https://archive.org/details/hi-hi-puffy-ami-yumi-pt-br
+		Loucademia de Polícia (animação BR)
+			https://archive.org/details/policeacademy_series
 
+		Sheep na Cidade Grande PT-BR Dublado (Lost Media)
+			https://archive.org/details/05.-so-vivemos-duas-vezes_202112
 
+		Hi Hi Puffy AmiYumi
+			https://archive.org/details/hi-hi-puffy-ami-yumi-pt-br
 
+		Miraculous: As Aventuras de Ladybug
+			https://archive.org/details/401.-verdade
+			https://archive.org/details/402.-mentiras
+			https://archive.org/details/403.-o-gang-dos-segredos
+			https://archive.org/details/404.-monsieur-pigeon-72
 
-Miraculous: As Aventuras de Ladybug
-https://archive.org/details/401.-verdade
-https://archive.org/details/402.-mentiras
-https://archive.org/details/403.-o-gang-dos-segredos
-https://archive.org/details/404.-monsieur-pigeon-72
+	Simpsons
 
+		Simpsons 2 temporada
+			https://archive.org/details/simpsons-s-02_202101/Simpsons+-+S02E01+A+prova+final+-+.mp4
 
+		Os Simpsons 3 temporada
+			https://archive.org/details/os-simpsons-3-temporada
 
+		Simpsons 4 temporada
+			https://archive.org/details/simpsons4temp
 
-
-
-Simpsons 2 temporada
-https://archive.org/details/simpsons-s-02_202101/Simpsons+-+S02E01+A+prova+final+-+.mp4
-Os Simpsons 3 temporada
-https://archive.org/details/os-simpsons-3-temporada
-Simpsons 4 temporada
-https://archive.org/details/simpsons4temp
-Simpsons 5 temporada
-https://archive.org/details/simpsons5temp
+		Simpsons 5 temporada
+			https://archive.org/details/simpsons5temp
 
 
 
 
-Series Infantis
-Lion Man I Completo 25 Capítulos
-https://archive.org/details/10-o-canhao-gigante-lion-man/01+-+O+Homem+Foguete+-+Lion+Man.avi
+	Series Infantis
+
+		Lion Man I Completo 25 Capítulos
+			https://archive.org/details/10-o-canhao-gigante-lion-man/01+-+O+Homem+Foguete+-+Lion+Man.avi
 
 
 
@@ -174,7 +194,8 @@ https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Broly
 		Yu Gi Oh Filme. Piramide Da Luz. Dublado. Felipewinchester
 			https://archive.org/details/yu-gi-oh-filme.-piramide-da-luz.-dublado.-felipewinchester
 
-
+		Naruto The Last 2014 PORT JAP Emerson Lino Animes
+			https://archive.org/details/naruto-the-last-2014-port-jap-emerson-lino-animes
 
 
 
@@ -211,70 +232,76 @@ https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Broly
 
 
 Marvel
-Marvel Filmes
-X-Men dias de um futuro esquecido
-https://archive.org/details/XM3N.D145.D3.UM.FUTUR0.35QU3C1D0.3D.V4MP1R4
-X Men Fênix Negra
-https://archive.org/details/x-men-fenix-negra
-X Men Apocalipse
-https://archive.org/details/x-men-apocalipse
-Capitão América: O Primeiro Vingador
-https://archive.org/details/CapitoAmricaOPrimeiroVingador20111080p210GJI
-O Justiceiro 2004 1080p DUAL
-https://archive.org/details/o-justiceiro-2004-1080p-dual
+
+	Marvel Filmes
+
+		X-Men dias de um futuro esquecido
+			https://archive.org/details/XM3N.D145.D3.UM.FUTUR0.35QU3C1D0.3D.V4MP1R4
+
+		X Men Fênix Negra
+			https://archive.org/details/x-men-fenix-negra
+
+		X Men Apocalipse
+			https://archive.org/details/x-men-apocalipse
+
+		Capitão América: O Primeiro Vingador
+			https://archive.org/details/CapitoAmricaOPrimeiroVingador20111080p210GJI
+
+		O Justiceiro 2004 1080p DUAL
+			https://archive.org/details/o-justiceiro-2004-1080p-dual
 
 
-Marvel Series
-Homem-Aranha A Série Animada 1994 WEB-DL (480p) Dublado
-https://archive.org/details/homem-aranha-a-serie-animada
-Homem Aranha Ação Sem Limites 1999 WEB-DL (480p) Dublado
-https://archive.org/details/homem-aranha-acao-sem-limites/Homem+Aranha+A%C3%A7%C3%A3o+Sem+Limites+1999+WEB-DL+(480p)+Dublado/1%C2%AA+Temporada/S01E01+-+Mundos+Separados+Parte+1.mp4
-The Mighty Thor (1966) 1-13 (Dual English - Portuguese)
-https://archive.org/details/The_Mighty_Thor_1966/The+Mighty+Thor+(1966)/01+Trapped+by+Loki.avi
-the-flash-seriado-1990
-https://archive.org/details/01-the-flash-piloto/01+The+Flash+-+Piloto.avi
+	Marvel Series
+
+		Homem-Aranha A Série Animada 1994 WEB-DL (480p) Dublado
+			https://archive.org/details/homem-aranha-a-serie-animada
+
+		Homem Aranha Ação Sem Limites 1999 WEB-DL (480p) Dublado
+			https://archive.org/details/homem-aranha-acao-sem-limites/Homem+Aranha+A%C3%A7%C3%A3o+Sem+Limites+1999+WEB-DL+(480p)+Dublado/1%C2%AA+Temporada/S01E01+-+Mundos+Separados+Parte+1.mp4
+
+		The Mighty Thor (1966) 1-13 (Dual English - Portuguese)
+			https://archive.org/details/The_Mighty_Thor_1966/The+Mighty+Thor+(1966)/01+Trapped+by+Loki.avi
+
+		the-flash-seriado-1990
+			https://archive.org/details/01-the-flash-piloto/01+The+Flash+-+Piloto.avi
 
 Star Wars - Trilogia Clássica inalterada
 	https://archive.org/details/star-wars-trilogia-classica-inalterada/Star+Wars+IV+-+Uma+nova+esperan%C3%A7a+%5BHD+720p%5D+Vers%C3%A3o+Inalterada.mkv
 
 
 
-Filme Português
-Inferno (2000)
-https://archive.org/details/Inferno.filme
-Capitães de Abril - April Captains (2000)
-https://archive.org/details/capitaes-de-abril-2000
 
 
 
+	Series
 
-Series
-A Feiticeira (Bewitched) 8ª Temporada Dublada
-https://archive.org/details/AFeiticeiraBewitchedSeason8
+		Esquadrao classe A
+			https://archive.org/details/esquadraoclassea/Esquadrao+A+01.mkv
 
-Esquadrao classe A
-https://archive.org/details/esquadraoclassea/Esquadrao+A+01.mkv
-O BESOURO VERDE – SÉRIE PARA TV
-https://archive.org/details/o-besouro-verde-dubaldo/1+(1).mp4
-Xena: A Princesa Guerreira
-https://archive.org/details/xena-a-princesa-guerreira/ep1.mp4
+		O BESOURO VERDE – SÉRIE PARA TV
+			https://archive.org/details/o-besouro-verde-dubaldo/1+(1).mp4
 
+		Xena: A Princesa Guerreira
+			https://archive.org/details/xena-a-princesa-guerreira/ep1.mp4
 
-Fate A Saga Winx S 01 E 06
-https://archive.org/details/fate-a-saga-winx-s-01-e-06/Fate+A+Saga+Winx+S01E01.mp4
+		Fate A Saga Winx S01
+			https://archive.org/details/fate-a-saga-winx-s-01-e-06/Fate+A+Saga+Winx+S01E01.mp4
 
 
 
 Documentarios
-filmes
-The Principle (O Princípio / A Crise Cosmológica / A Terra no Centro do Universo) [Legendado Por-BR]
-https://archive.org/details/theprincipledvd2014720pleg
+
+	filmes
+
+		The Principle (O Princípio / A Crise Cosmológica / A Terra no Centro do Universo) [Legendado Por-BR]
+			https://archive.org/details/theprincipledvd2014720pleg
 
 
 
-series
-Cosmos: Uma Viagem Pessoal 1980 BDRip Tri Áudio (1080p)
-https://archive.org/details/cosmos-uma-viagem-pessoal
+	series
+
+		Cosmos: Uma Viagem Pessoal 1980 BDRip Tri Áudio (1080p)
+			https://archive.org/details/cosmos-uma-viagem-pessoal
 
 
 
