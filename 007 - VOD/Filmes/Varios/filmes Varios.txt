@@ -149,17 +149,17 @@
 <fanart>https://i.ibb.co/gd2V1ck/cfd423098535be51dc37f02caa23d077eda63c540c5119486de67187ec4af557-UY500-UX667-RI-TTW.jpg</fanart>
 <info>Cinderella é uma moça determinada que embarca em uma aventura musical para alcançar seus sonhos. Mas ela não está sozinha nessa empreitada, a garota conta com a ajuda de seu Fado Madrinho e de seus ratinhos.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Escape Room 2: Sem Saída[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Escaperoomtournamentofchampions20211.mp4</link>
+<thumbnail>https://i.ibb.co/7XjmhwP/DP-6172461-Escape-Room-TOC-Cover-2000x3000-US.jpg</thumbnail>
+<fanart>https://i.ibb.co/bmV3PyH/AAAABQWn1-GUKepi-Dq-Mdtrxhp0-AEUH815-8-TS649c-Fi-JORSj5-Qd-Gv-OSRr-NENF8h-SKF8-Sx94jap-Moj5ah-QHglg.jpg</fanart>
+<info>Sobreviventes de jogos anteriores enfrentam uma nova e mais mortal série de jogos.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]jungle cruise[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Jungle%20Cruise%202021.mp4</link>
+<thumbnail>https://i.ibb.co/3TT1VPm/p-junglecruise-21740-v2-bb7f0ae4.jpg</thumbnail>
+<fanart>https://i.ibb.co/f2pf1X3/1078687-h-029e9d313239.webp</fanart>
+<info>A Dra. Lily Houghton pede a ajuda do sagaz capitão Frank Wolff para levá-la à Amazônia em seu barco em ruínas. Juntos, eles procuram por uma árvore ancestral que detém o poder de curar - uma descoberta que deve mudar o futuro da medicina.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
