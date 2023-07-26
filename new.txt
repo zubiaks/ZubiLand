@@ -13,11 +13,6 @@ Filmes
 
 	Filme Português
 
-		Inferno (2000)
-			https://archive.org/details/Inferno.filme
-
-		Capitães de Abril - April Captains (2000)
-			https://archive.org/details/capitaes-de-abril-2000
 
 
 
@@ -127,11 +122,14 @@ LooneyToons
 		Hi Hi Puffy AmiYumi
 			https://archive.org/details/hi-hi-puffy-ami-yumi-pt-br
 
-		Miraculous: As Aventuras de Ladybug
-			https://archive.org/details/401.-verdade
-			https://archive.org/details/402.-mentiras
-			https://archive.org/details/403.-o-gang-dos-segredos
-			https://archive.org/details/404.-monsieur-pigeon-72
+Miraculous: As Aventuras de Ladybug
+		https://archive.org/details/401.-verdade
+		https://archive.org/details/402.-mentiras
+		https://archive.org/details/403.-o-gang-dos-segredos
+		https://archive.org/details/404.-monsieur-pigeon-72
+
+	Miraculous World: As Aventuras de Ladybug em Xangai, a Lenda da Ladydragão
+		https://archive.org/download/wii-movies/filmes/Miraculous%20World%20Xangai%20%20A%20Lenda%20De%20Ladydragon%202021.mp4
 
 	Simpsons
 
@@ -148,6 +146,9 @@ LooneyToons
 			https://archive.org/details/simpsons5temp
 
 
+Mortal Kombat
+	Mortal Kombat Legends: Batalha dos Reinos
+		https://archive.org/download/wii-movies/filmes/Mortal%20Kombat%20Legends%20%20A%20Batalha%20Dos%20Reinos%202021.mp4
 
 
 	Series Infantis
