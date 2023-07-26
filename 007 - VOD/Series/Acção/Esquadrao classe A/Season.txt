@@ -1,10 +1,22 @@
 <channels>
 
-<channel><name>[B][COLOR white]Esquadrao classe A[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/n6R1L8J/192555.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Ac%C3%A7%C3%A3o/Esquadrao%20classe%20A/eps.txt</externallink>
-<fanart>https://i.ibb.co/sCQFrwc/A-Team.jpg</fanart>
-<info>Quatro desertores da Guerra do Vietnã, liderados por John 'Hannibal' Smith, trabalham como mercenários em defesa de causas justas.</info></channel>
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
