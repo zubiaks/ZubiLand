@@ -44,18 +44,28 @@ Disney
 	Up Altas Aventuras
 		https://archive.org/details/filme-up-altas-aventuras
 
+	Miraculous: As Aventuras de Ladybug
+		https://archive.org/details/401.-verdade
+		https://archive.org/details/402.-mentiras
+		https://archive.org/details/403.-o-gang-dos-segredos
+		https://archive.org/details/404.-monsieur-pigeon-72
+
+	Miraculous World: As Aventuras de Ladybug em Xangai, a Lenda da Ladydragão
+		https://archive.org/download/wii-movies/filmes/Miraculous%20World%20Xangai%20%20A%20Lenda%20De%20Ladydragon%202021.mp4
 
 
-	Tin Tin
-		https://archive.org/details/tin-tin
 
-	Transformers
 
-		Gladiformers Os Novo Transformers
-			https://archive.org/details/gladiformers-1-pt-br-version
+Tin Tin
+	https://archive.org/details/tin-tin
 
-		Gladiformers 2
-			https://archive.org/details/gladiformers-2-prbt
+Transformers
+
+	Gladiformers Os Novo Transformers
+		https://archive.org/details/gladiformers-1-pt-br-version
+
+	Gladiformers 2
+		https://archive.org/details/gladiformers-2-prbt
 
 
 
@@ -122,14 +132,6 @@ LooneyToons
 		Hi Hi Puffy AmiYumi
 			https://archive.org/details/hi-hi-puffy-ami-yumi-pt-br
 
-Miraculous: As Aventuras de Ladybug
-		https://archive.org/details/401.-verdade
-		https://archive.org/details/402.-mentiras
-		https://archive.org/details/403.-o-gang-dos-segredos
-		https://archive.org/details/404.-monsieur-pigeon-72
-
-	Miraculous World: As Aventuras de Ladybug em Xangai, a Lenda da Ladydragão
-		https://archive.org/download/wii-movies/filmes/Miraculous%20World%20Xangai%20%20A%20Lenda%20De%20Ladydragon%202021.mp4
 
 	Simpsons
 
