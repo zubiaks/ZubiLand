@@ -5,11 +5,13 @@
 <fanart>https://i.ibb.co/1dJ0Qtx/Inferno.webp</fanart>
 <info>Luke, Toni, Carraça, Nunes, Hugo, Zeca, Lito, Ruço, Xana, dez homens de meia-idade, que combateram lado a lado nos Rangers, em Angola, na fase mais violenta da Guerra. Dez homens que estão ligados para o bem e para o mal, estes reúnem-se uma vez por ano num restaurante nos confins do Alentejo. Mas desta vez a presença de Nina, uma prostituta que vive numa pensão em frente ao restaurante. Contudo, uma caçada acaba num tiroteio, esta será uma noite violenta, onde serão confrontados pelos traumas do passado. Uma missão de onde muitos não escaparão vivos, mas alguns morrerão como heróis.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Capitães de Abril - April Captains (2000)[/B]</title>
+<link>https://archive.org/download/capitaes-de-abril-2000/Capita%CC%83es%20de%20Abril%20%282000%29.mp4</link>
+<thumbnail>https://i.ibb.co/hcB3PcS/394989.jpg</thumbnail>
+<fanart>https://i.ibb.co/RSjQx59/image-w1280.webp</fanart>
+<info>Capitães de Abril é um filme de drama e ficção histórica de 2000, realizado por Maria de Medeiros, uma coprodução entre Portugal, Espanha, Itália e França. Foi a primeira longa-metragem de Maria de Medeiros como realizadora, tendo alcançado um assinalável sucesso na bilheteira portuguesa.
+
+A história do filme é baseada no golpe de estado militar que ocorreu em Portugal no dia 25 de Abril de 1974 e presta homenagem aos jovens soldados que resgataram a sua pátria desse tempo obscuro, destacando-se Salgueiro Maia.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
