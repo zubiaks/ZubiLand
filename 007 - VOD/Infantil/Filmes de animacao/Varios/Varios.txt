@@ -29,11 +29,11 @@
 <fanart>https://i.ibb.co/Xy9yWW4/maxresdefault.jpg</fanart>
 <info>Depois que seu lar é ameaçado por humanos, um dragão parte em busca de um lendário refúgio.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Peter Rabbit: Coelho à Solta[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<thumbnail>https://i.ibb.co/tHzSTCq/5592014.webp</thumbnail>
+<fanart>https://i.ibb.co/C7NxHDw/pedro-coelho-2-jpg.webp</fanart>
+<info>Bea, Thomas e os coelhos estão felizes em sua nova família improvisada, mas Pedro não consegue se encaixar. Assim, ele decide viver aventuras longe de casa e parte para conhecer o mundo.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
