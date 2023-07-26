@@ -137,17 +137,17 @@
 <fanart>https://i.ibb.co/9ngWjvX/download.jpg</fanart>
 <info>A Clockwork Orange () é um filme policial distópico de 1971 adaptado, produzido e dirigido por Stanley Kubrick, baseado no romance homônimo de Anthony Burgess de 1962. Ele emprega imagens perturbadoras e violentas para comentar sobre psiquiatria, delinquência juvenil, gangues juvenis e outros assuntos sociais, políticos e econômicos em uma Grã-Bretanha distópica de futuro próximo.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]amizade de ferias[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/02%20-%20Amizade%20De%20F%C3%A9rias%202021.mp4</link>
+<thumbnail>https://i.ibb.co/Mkv3Y39/4132685.jpg</thumbnail>
+<fanart>https://i.ibb.co/JsG7SY9/amizade-de-fe-rias-cri-tica-vacation-friends.webp</fanart>
+<info>Marcus e Emily desfrutam de uma semana incomum sem inibições quando fazem novos amigos durante férias no México. Porém, o casal fica horrorizado quando os novos colegas Ron e Kyla aparecem sem serem convidados para seu casamento.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]cinderella (2021)[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Cinderela%202021.mp4</link>
+<thumbnail>https://i.ibb.co/Lz74KHL/MV5-BZTk3-ZTEz-NGUt-ZTcw-Yy00-Nm-Rm-LWFh-MGYt-Zj-A4-NWY1-ZWI4-Mz-My-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-Uy.jpg</thumbnail>
+<fanart>https://i.ibb.co/gd2V1ck/cfd423098535be51dc37f02caa23d077eda63c540c5119486de67187ec4af557-UY500-UX667-RI-TTW.jpg</fanart>
+<info>Cinderella é uma moça determinada que embarca em uma aventura musical para alcançar seus sonhos. Mas ela não está sozinha nessa empreitada, a garota conta com a ajuda de seu Fado Madrinho e de seus ratinhos.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
