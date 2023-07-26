@@ -23,6 +23,12 @@
 <fanart>https://i.ibb.co/MZhMkpK/43f16f6fa1334c4d889906949f0d588e.webp</fanart>
 <info>Vivo é um jupará apaixonado por música que parte de Havana para Miami com uma importante missão: entregar uma canção de amor a pedido de um grande amigo.</info></item>
 
+<item><title>[B]o cavaleiro do dragão[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/O%20Cavaleiro%20Do%20Drag%C3%A3o%202021.mp4</link>
+<thumbnail>https://i.ibb.co/YXdNvTR/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/Xy9yWW4/maxresdefault.jpg</fanart>
+<info>Depois que seu lar é ameaçado por humanos, um dragão parte em busca de um lendário refúgio.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
