@@ -179,11 +179,11 @@
 <fanart>https://i.ibb.co/YcrNBKB/Poster-Mundo-em-Caos.jpg</fanart>
 <info>Todd cresceu com a crença de que as mulheres desapareceram do mundo e os homens foram afetados por um ruído capaz de deixar seus pensamentos audíveis. Ele então descobre um pedaço de silêncio no pântano, onde encontra uma garota chamada Viola. Todd jura protegê-la, mas para isso deve descobrir sua força e desvendar todos os segredos sombrios que seu planeta e sua comunidade guardam.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]sobreviva ou morra tentando[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Sobreviva%20Ou%20Morra%20Tentando%202020.mp4</link>
+<thumbnail>https://i.ibb.co/xsZvphT/1566117.webp</thumbnail>
+<fanart>https://i.ibb.co/VDbPz22/download-1.jpg</fanart>
+<info>Zoe é uma jovem de 17 anos cheia de raiva, lidando com a morte de sua mãe. Quando sua escola é invadida por estudantes armados, ela faz de tudo para enfrentar os agressores e salvar seus colegas.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
