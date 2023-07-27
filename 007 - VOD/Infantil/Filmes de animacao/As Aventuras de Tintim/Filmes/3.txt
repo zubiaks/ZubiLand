@@ -107,17 +107,53 @@
 <fanart>https://i.ibb.co/sCLBMLn/download.jpg</fanart>
 <info>Tintin, acompanhando um velho professor, chega a um pequeno país do Leste da Europa, chamado Sildávia. Descobre que outro país, a Bordúria, quer apoderar-se do controle do reino, roubando o Ceptro de Ottokar. Este é venerado pelo povo e o imperador deve usá-lo no desfile de São Vladimir, festa nacional da Sildávia, caso contrário perderá o direito ao trono. Tintin descobre isto e tenta avisar o imperador, mas é impedido de entrar no palácio real, o castelo de Kropow, mas está fortemente protegido por tropas imperiais. Apesar disso, o espião da Bordúria, Mustler, consegue roubar o Ceptro e tenta fugir do reino. Tintin consegue recuperar o Ceptro e retorna ao palácio, mesmo antes do começo do desfile. Assim a Sildávia mantém a independência.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]TINTIN NO TIBETE (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.19.Tintin.no.Tibet.1%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/Dr7837h/500x-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/fQDM7cY/download-1.jpg</fanart>
+<info>Em férias numa estação alpina, Tintin lê num jornal que um avião caiu no Nepal. Nessa noite, Tintin sonha com Tchang, um grande amigo, que pedia socorro. Logo depois, descobre que naquele avião que se dirigia à Europa se encontrava o jovem chinês Tchang. Tintin, convencido pelo seu sonho que o amigo sobreviveu ao acidente aéreo, parte à sua procura, acompanhado pelo Capitão Haddock.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]TINTIN NO TIBETE (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.20.Tintin.no.Tibet.2%C2%AAparte%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/Dr7837h/500x-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/fQDM7cY/download-1.jpg</fanart>
+<info>Em férias numa estação alpina, Tintin lê num jornal que um avião caiu no Nepal. Nessa noite, Tintin sonha com Tchang, um grande amigo, que pedia socorro. Logo depois, descobre que naquele avião que se dirigia à Europa se encontrava o jovem chinês Tchang. Tintin, convencido pelo seu sonho que o amigo sobreviveu ao acidente aéreo, parte à sua procura, acompanhado pelo Capitão Haddock.</info></item>
+
+<item><title>[B]TINTIN E OS PÍCAROS (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.21.Tintin.e.os.Timpanos%28Picaros%29.1%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/JpMY2j2/500x-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/swnLnPp/tintim-e-os-picaros.jpg</fanart>
+<info>O Capitão Haddock, o professor Girassol e o Tintin recebem uma informação inacreditável: a célebre cantora Bianca Castafiore, em digressão pela América do Sul, foi presa em San Teodoro, acusada de participar num complô contra o regime do general Tapioca! Maior é a surpresa dos nossos amigos ao saberem que também eles são acusados de participar na trama. O capitão e o professor Girassol decidem ir a San Teodoro esclarecer o assunto. Mas Tintin, pressentindo uma armadilha do tenebroso Tapioca, recusa-se a viajar com eles. Será que Tintin vai deixar os dois amigos enfrentarem o general sem a sua ajuda?</info></item>
+
+<item><title>[B]TINTIN E OS PÍCAROS (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.22.Tintin.e.os.Timpanos%28Picaros%29.2%C2%AAparte.%282%29.mp4</link>
+<thumbnail>https://i.ibb.co/JpMY2j2/500x-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/swnLnPp/tintim-e-os-picaros.jpg</fanart>
+<info>O Capitão Haddock, o professor Girassol e o Tintin recebem uma informação inacreditável: a célebre cantora Bianca Castafiore, em digressão pela América do Sul, foi presa em San Teodoro, acusada de participar num complô contra o regime do general Tapioca! Maior é a surpresa dos nossos amigos ao saberem que também eles são acusados de participar na trama. O capitão e o professor Girassol decidem ir a San Teodoro esclarecer o assunto. Mas Tintin, pressentindo uma armadilha do tenebroso Tapioca, recusa-se a viajar com eles. Será que Tintin vai deixar os dois amigos enfrentarem o general sem a sua ajuda?</info></item>
+
+<item><title>[B]TINTIN NO PAÍS DO OURO NEGRO (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.23.Tintin.no.pais.do.Ouro.Negro.1%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/vc76N0h/IMG-20211111-185747.jpg</thumbnail>
+<fanart>https://i.ibb.co/8xzGVYC/download.jpg</fanart>
+<info>Em o Tintin no País do Ouro Negro, tudo o que usa gasolina como combustível explode em série. Para investigar o caso, Tintin embarca num petroleiro rumo ao Médio Oriente. Dupont e Dupond seguem-no, disfarçados de marinheiros. Chegando ao destino, Tintin e Milu perdem-se no deserto, sempre seguidos pelos dois detectives. Acabam todos por se encontrar e já na capital, o jovem repórter descobre que o que estava em jogo era a exploração do petróleo do país, que atraía a cobiça de poderosos interesses internacionais, representados pelo sinistro doutor Müller.</info></item>
+
+<item><title>[B]TINTIN NO PAÍS DO OURO NEGRO (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.24.Tintin.no.pais.do.Ouro.Negro.2%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/vc76N0h/IMG-20211111-185747.jpg</thumbnail>
+<fanart>https://i.ibb.co/8xzGVYC/download.jpg</fanart>
+<info>Em o Tintin no País do Ouro Negro, tudo o que usa gasolina como combustível explode em série. Para investigar o caso, Tintin embarca num petroleiro rumo ao Médio Oriente. Dupont e Dupond seguem-no, disfarçados de marinheiros. Chegando ao destino, Tintin e Milu perdem-se no deserto, sempre seguidos pelos dois detectives. Acabam todos por se encontrar e já na capital, o jovem repórter descobre que o que estava em jogo era a exploração do petróleo do país, que atraía a cobiça de poderosos interesses internacionais, representados pelo sinistro doutor Müller.</info></item>
+
+<item><title>[B]VOO 714 PARA SYDNEY (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.25.Voo.714.para.Sidney.1%C2%AAparte%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/j6F55HJ/500x.jpg</thumbnail>
+<fanart>https://i.ibb.co/tYKKvzD/maxresdefault.jpg</fanart>
+<info>Tintin, Milu, capitão Haddock e professor Girassol estão a caminho de Sydney, onde são convidados de honra do Congresso Internacional de Astronáutica. Na escala em Jacarta, conhecem o milionário Carreidas, que os convida para seguir viagem no seu avião particular. A viagem para os três amigos irá transformar-se num terrível pesadelo: vão ser envolvidos numa armadilha por detrás da qual está um velho e perigoso conhecido.</info></item>
+
+<item><title>[B]VOO 714 PARA SYDNEY (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.26.Voo.714.para.Sidney.2%C2%AAparte%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/j6F55HJ/500x.jpg</thumbnail>
+<fanart>https://i.ibb.co/tYKKvzD/maxresdefault.jpg</fanart>
+<info>Tintin, Milu, capitão Haddock e professor Girassol estão a caminho de Sydney, onde são convidados de honra do Congresso Internacional de Astronáutica. Na escala em Jacarta, conhecem o milionário Carreidas, que os convida para seguir viagem no seu avião particular. A viagem para os três amigos irá transformar-se num terrível pesadelo: vão ser envolvidos numa armadilha por detrás da qual está um velho e perigoso conhecido.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
