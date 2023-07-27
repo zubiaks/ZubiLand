@@ -41,11 +41,71 @@
 <fanart>https://i.ibb.co/zQnZ5Np/Tintin-Maraja.jpg</fanart>
 <info>Tintin está a fazer um cruzeiro com destino ao Extremo Oriente, quando encontra um egiptólogo extravagante que procura a tumba de um faraó. Ao decidir acompanhá-lo é capturado e após várias peripécias chega à India, onde desmonta uma organização de traficantes de ópio...</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O LÓTUS AZUL (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.08.O.lotus.Azul.1%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/ChVzXyn/500-9789892308005-tintim-o-lotus-azul-nova-traducao.jpg</thumbnail>
+<fanart>https://i.ibb.co/qCspsVk/510-lotus-jpg-pagespeed-ce-UBI5-Vv4-GVL.jpg</fanart>
+<info>Um mensageiro da China, que se iria encontrar com Tintin, é atingido por uma flecha envenenada com o veneno da loucura, dando-lhe apenas tempo para pronunciar o nome Mitsuhirato. Tintin parte em busca deste individuo desconhecido, o que o leva até à Índia</info></item>
+
+<item><title>[B]O LÓTUS AZUL (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.09.O.lotus.Azul.2%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/ChVzXyn/500-9789892308005-tintim-o-lotus-azul-nova-traducao.jpg</thumbnail>
+<fanart>https://i.ibb.co/qCspsVk/510-lotus-jpg-pagespeed-ce-UBI5-Vv4-GVL.jpg</fanart>
+<info>Um mensageiro da China, que se iria encontrar com Tintin, é atingido por uma flecha envenenada com o veneno da loucura, dando-lhe apenas tempo para pronunciar o nome Mitsuhirato. Tintin parte em busca deste individuo desconhecido, o que o leva até à Índia</info></item>
+
+<item><title>[B]A ILHA NEGRA (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.10.A.Ilha.Negra.1%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/sQZQtbr/500x.jpg</thumbnail>
+<fanart>https://i.ibb.co/9YLT4s7/download.jpg</fanart>
+<info>"Ao ajudar um avião com problemas, Tintin leva um tiro. Encontra pistas dos agressores e os indícios levam-no até Inglaterra onde um certo Dr. Müller tenta matá-lo. Após conseguir escapar, Tintin persegue-o. Encontra vestígios do agressor na Ilha Negra, conhecida por ter uma ""besta"". É lá que descobre o esconderijo de uma quadrilha: Müller e seus comparsas, que são falsificadores de dinheiro. Tintin consegue prendê-los e revela a verdadeira natureza da besta: um gorila."</info></item>
+
+<item><title>[B]A ILHA NEGRA (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.11.A.Ilha.Negra.2%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/sQZQtbr/500x.jpg</thumbnail>
+<fanart>https://i.ibb.co/9YLT4s7/download.jpg</fanart>
+<info>"Ao ajudar um avião com problemas, Tintin leva um tiro. Encontra pistas dos agressores e os indícios levam-no até Inglaterra onde um certo Dr. Müller tenta matá-lo. Após conseguir escapar, Tintin persegue-o. Encontra vestígios do agressor na Ilha Negra, conhecida por ter uma ""besta"". É lá que descobre o esconderijo de uma quadrilha: Müller e seus comparsas, que são falsificadores de dinheiro. Tintin consegue prendê-los e revela a verdadeira natureza da besta: um gorila."</info></item>
+
+<item><title>[B]O CASO GIRASSOL (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.12.O.Caso.Girassol.1%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/j3ktjD1/500x-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/vJvm9F4/download-1.jpg</fanart>
+<info>Nesta aventura, uma série de misteriosos acontecimentos assombra o castelo de Moulinsart. Vidros e espelhos que de repente se partem, copos que se estilhaçam e as preciosas louças da colecção do capitão ficam em pedaços. Para piorar, ouvem-se tiros no parque. Guiados por Milu, o capitão e Tintin encontram um homem ferido, caído numa moita. No meio da confusão, o professor Girassol viaja para a Suíça e, após a sua partida, verifica-se que os estranhos acontecimentos cessam. Desconfiado, Tintin resolve visitar o laboratório do professor, onde encontra um mascarado, mas o homem consegue escapar. Pressentindo que Girassol possa estar em perigo, os nossos amigos partem para a Suíça. Mas não conseguem encontrar o professor. Escapam a atentados e ciladas, e na pista do Girassol, chegam à Bordúria, que é dominada por um tirano com planos sinistros em mente.</info></item>
+
+<item><title>[B]O CASO GIRASSOL (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.13.O.Caso.Girassol.2%C2%AA.parte.%283%29.mp4</link>
+<thumbnail>https://i.ibb.co/j3ktjD1/500x-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/vJvm9F4/download-1.jpg</fanart>
+<info>Nesta aventura, uma série de misteriosos acontecimentos assombra o castelo de Moulinsart. Vidros e espelhos que de repente se partem, copos que se estilhaçam e as preciosas louças da colecção do capitão ficam em pedaços. Para piorar, ouvem-se tiros no parque. Guiados por Milu, o capitão e Tintin encontram um homem ferido, caído numa moita. No meio da confusão, o professor Girassol viaja para a Suíça e, após a sua partida, verifica-se que os estranhos acontecimentos cessam. Desconfiado, Tintin resolve visitar o laboratório do professor, onde encontra um mascarado, mas o homem consegue escapar. Pressentindo que Girassol possa estar em perigo, os nossos amigos partem para a Suíça. Mas não conseguem encontrar o professor. Escapam a atentados e ciladas, e na pista do Girassol, chegam à Bordúria, que é dominada por um tirano com planos sinistros em mente.</info></item>
+
+<item><title>[B]A ESTRELA MISTERIOSA[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.14.A.Estrela.Misteriosa%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/gmjzH4B/download-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/xJqKgMK/download-3.jpg</fanart>
+<info>Tintin observa uma estrela que parece aproximar-se cada vez mais da Terra. Num observatório, o professor Calys descobre que é um meteorito e que em poucas horas vai embater no nosso planeta, causando o fim do mundo. Felizmente, os cientistas falham os cálculos e o meteorito passa ao lado, embora um fragmento acabe por cair no Mar do Norte. O Prof. Calys descobre que este contém um elemento quimíco desconhecido. É então organizada uma expedição para o recuperar, e entre o grupo está Tintin e o capitão Haddock. Mas vão ter de enfrentar um bilionário que tudo fará para impedir que os protagonistas cheguem primeiro ao destino.</info></item>
+
+<item><title>[B]o idolo roubado (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.15.O.idolo.Roubado.1%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/9n339LR/tintim-idoloroubado600-jpg.jpg</thumbnail>
+<fanart>https://i.ibb.co/0ftBGj8/download-4.jpg</fanart>
+<info>Tintin investiga o roubo no Museu Etnográfico de um fetiche pertencente a uma tribo ... Os Arumbaias. As pistas levam-no até à América do Sul, onde existe uma revolução em curso.  Perseguido por todos, refugia-se na tribo dos Arumbaias onde descobre o segredo.</info></item>
+
+<item><title>[B]o idolo roubado (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.16.O.idolo.Roubado.2%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/9n339LR/tintim-idoloroubado600-jpg.jpg</thumbnail>
+<fanart>https://i.ibb.co/0ftBGj8/download-4.jpg</fanart>
+<info>Tintin investiga o roubo no Museu Etnográfico de um fetiche pertencente a uma tribo ... Os Arumbaias. As pistas levam-no até à América do Sul, onde existe uma revolução em curso.  Perseguido por todos, refugia-se na tribo dos Arumbaias onde descobre o segredo.</info></item>
+
+<item><title>[B]O CEPTRO DE OTTOKAR (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.17.O.Cetro.de.Otokar.1%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/5jD1LHr/500x.jpg</thumbnail>
+<fanart>https://i.ibb.co/sCLBMLn/download.jpg</fanart>
+<info>Tintin, acompanhando um velho professor, chega a um pequeno país do Leste da Europa, chamado Sildávia. Descobre que outro país, a Bordúria, quer apoderar-se do controle do reino, roubando o Ceptro de Ottokar. Este é venerado pelo povo e o imperador deve usá-lo no desfile de São Vladimir, festa nacional da Sildávia, caso contrário perderá o direito ao trono. Tintin descobre isto e tenta avisar o imperador, mas é impedido de entrar no palácio real, o castelo de Kropow, mas está fortemente protegido por tropas imperiais. Apesar disso, o espião da Bordúria, Mustler, consegue roubar o Ceptro e tenta fugir do reino. Tintin consegue recuperar o Ceptro e retorna ao palácio, mesmo antes do começo do desfile. Assim a Sildávia mantém a independência.</info></item>
+
+<item><title>[B]O CEPTRO DE OTTOKAR (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.18.O.Cetro.de.Otokar.2%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/5jD1LHr/500x.jpg</thumbnail>
+<fanart>https://i.ibb.co/sCLBMLn/download.jpg</fanart>
+<info>Tintin, acompanhando um velho professor, chega a um pequeno país do Leste da Europa, chamado Sildávia. Descobre que outro país, a Bordúria, quer apoderar-se do controle do reino, roubando o Ceptro de Ottokar. Este é venerado pelo povo e o imperador deve usá-lo no desfile de São Vladimir, festa nacional da Sildávia, caso contrário perderá o direito ao trono. Tintin descobre isto e tenta avisar o imperador, mas é impedido de entrar no palácio real, o castelo de Kropow, mas está fortemente protegido por tropas imperiais. Apesar disso, o espião da Bordúria, Mustler, consegue roubar o Ceptro e tenta fugir do reino. Tintin consegue recuperar o Ceptro e retorna ao palácio, mesmo antes do começo do desfile. Assim a Sildávia mantém a independência.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
