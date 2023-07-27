@@ -20,7 +20,7 @@
 
 <channel><name>[B][COLOR white]As Aventuras de Tintim[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/gS035WJ/Tintinet-Milu.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Filmes%20de%20animacao/As%20Aventuras%20de%20Tintim/2.txt</externallink>
 <fanart>https://i.ibb.co/x1RbrpB/wired-tintin-edit-1.webp</fanart>
 <info>As Aventuras de Tintim é o título de uma série de histórias em quadrinhos criada pelo autor belga Georges Prosper Remi, mais conhecido como Hergé, em 1929. O herói das séries é o personagem epônimo Tintim, um repórter e aventureiro belga. Ele é auxiliado em suas aventuras desde o início por seu fiel cão Milu.</info></channel>
 
