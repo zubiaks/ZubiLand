@@ -23,17 +23,23 @@
 <fanart>https://i.ibb.co/D7dXfyh/download.jpg</fanart>
 <info>Tintin compra para o amigo Haddock o modelo de um galeão antigo, que, por coincidência, era a réplica do navio de um antepassado do capitão, o cavaleiro de Hadoque. O modelo é roubado, e logo depois a casa de Tintin é toda revirada. O que procuravam os assaltantes? Por sua vez, o capitão encontra no sótão de casa as memórias do cavaleiro. Nelas, ele narra o seu encontro no Caribe com o pirata Rackham, o Terrível, que o captura com o seu navio, e para o qual transfere os tesouros que havia pilhado. O cavaleiro consegue escapar e afunda o Licorne com todo o tesouro a bordo. Divide depois o mapa com a localização do naufrágio em três partes, que esconde em réplicas do navio. Muitos anos depois, Tintin e seus amigos decidem encontrar as partes do mapa, sabendo que para isso terão de enfrentar uma perigosa quadrilha</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O TESOURO DE RACKHAM O TERRÍVEL[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.05.O.Segredo.de.Rackham%2CO.terrivel%20%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/r7kktmJ/scan0109-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/52NsRFZ/maxresdefault.jpg</fanart>
+<info>Em O Tesouro de Rackham, o Terrível, sequência de O segredo de Licorne, Tintin e o capitão Haddock, já na posse das três partes do mapa com a localização do naufrágio da embarcação de Rackham, partem em busca dos destroços do Licorne. Junta-se a eles o extravagante professor Girassol, que se tornará um companheiro constante dos nossos heróis. Um invento do professor ajudará muito nas buscas: um mini-submarino com formato de tubarão. Depois de desembarcarem numa ilha deserta, onde encontram vários indícios da passagem do cavaleiro de Hadoque, finalmente descobrem o Licorne no fundo do mar. No navio, encontram um pequeno cofre. O que estará lá dentro?</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]OS CHARUTOS DO FARAÓ (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.06.Os.Charutos.do.Farao.1%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/wCMVP1k/os-charutos-do-farao.jpg</thumbnail>
+<fanart>https://i.ibb.co/zQnZ5Np/Tintin-Maraja.jpg</fanart>
+<info>Tintin está a fazer um cruzeiro com destino ao Extremo Oriente, quando encontra um egiptólogo extravagante que procura a tumba de um faraó. Ao decidir acompanhá-lo é capturado e após várias peripécias chega à India, onde desmonta uma organização de traficantes de ópio...</info></item>
+
+<item><title>[B]OS CHARUTOS DO FARAÓ (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.07.Os.Charutos.do.Farao.2%C2%AAparte%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/wCMVP1k/os-charutos-do-farao.jpg</thumbnail>
+<fanart>https://i.ibb.co/zQnZ5Np/Tintin-Maraja.jpg</fanart>
+<info>Tintin está a fazer um cruzeiro com destino ao Extremo Oriente, quando encontra um egiptólogo extravagante que procura a tumba de um faraó. Ao decidir acompanhá-lo é capturado e após várias peripécias chega à India, onde desmonta uma organização de traficantes de ópio...</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
