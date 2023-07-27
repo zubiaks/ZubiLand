@@ -1,4 +1,58 @@
 
+<item><title>[B]O CARANGUEJO DAS TENAZES DE OURO (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.01.O.Caranguejo.das.Tenazes.de.Ouro.1parte.by.Arqueir.mp4</link>
+<thumbnail>https://i.ibb.co/HD9Q789/012467-big.jpg</thumbnail>
+<fanart>https://i.ibb.co/XbLTsdC/maxresdefault.jpg</fanart>
+<info>O caso da morte de um marinheiro investigado por Dupond e Dupont, está relacionada com o que parece ser uma lata de caranguejo. Tintin embarca num cargueiro chamado Karaboudjan, onde é capturado por um bando de criminosos que escondem droga dentro de latas iguais. Tintin consegue escapar num bote, juntamente com o capitão do navio, Haddock, que completamente alcoolizado acaba por afundar o bote. Entretanto, um hidroavião tenta matá-los, mas os nossos heróis conseguem apoderar-se dele, acabando por se despenhar no deserto. São salvos pela legião estrangeira francesa que os leva até um porto em Marrocos, onde o capitão Haddock reconhece o seu navio. Tintin e a polícia conseguem capturar a quadrilha.</info></item>
+
+<item><title>[B]O CARANGUEJO DAS TENAZES DE OURO (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.02.O.Caranguejo.das.Tenazes.de.Ouro.prt.2%28.2%29.mp4</link>
+<thumbnail>https://i.ibb.co/HD9Q789/012467-big.jpg</thumbnail>
+<fanart>https://i.ibb.co/XbLTsdC/maxresdefault.jpg</fanart>
+<info>O caso da morte de um marinheiro investigado por Dupond e Dupont, está relacionada com o que parece ser uma lata de caranguejo. Tintin embarca num cargueiro chamado Karaboudjan, onde é capturado por um bando de criminosos que escondem droga dentro de latas iguais. Tintin consegue escapar num bote, juntamente com o capitão do navio, Haddock, que completamente alcoolizado acaba por afundar o bote. Entretanto, um hidroavião tenta matá-los, mas os nossos heróis conseguem apoderar-se dele, acabando por se despenhar no deserto. São salvos pela legião estrangeira francesa que os leva até um porto em Marrocos, onde o capitão Haddock reconhece o seu navio. Tintin e a polícia conseguem capturar a quadrilha.</info></item>
+
+<item><title>[B]O SEGREDO DO LICORNE (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.03.O.Segredo.do.Licorne.parte.1%282%29.mp4</link>
+<thumbnail>https://i.ibb.co/bdGsw4g/5619799-GG.jpg</thumbnail>
+<fanart>https://i.ibb.co/D7dXfyh/download.jpg</fanart>
+<info>Tintin compra para o amigo Haddock o modelo de um galeão antigo, que, por coincidência, era a réplica do navio de um antepassado do capitão, o cavaleiro de Hadoque. O modelo é roubado, e logo depois a casa de Tintin é toda revirada. O que procuravam os assaltantes? Por sua vez, o capitão encontra no sótão de casa as memórias do cavaleiro. Nelas, ele narra o seu encontro no Caribe com o pirata Rackham, o Terrível, que o captura com o seu navio, e para o qual transfere os tesouros que havia pilhado. O cavaleiro consegue escapar e afunda o Licorne com todo o tesouro a bordo. Divide depois o mapa com a localização do naufrágio em três partes, que esconde em réplicas do navio. Muitos anos depois, Tintin e seus amigos decidem encontrar as partes do mapa, sabendo que para isso terão de enfrentar uma perigosa quadrilha</info></item>
+
+<item><title>[B]O SEGREDO DO LICORNE (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.04.O.Segredo.do.Licorne.parte.2%282%29.mp4</link>
+<thumbnail>https://i.ibb.co/bdGsw4g/5619799-GG.jpg</thumbnail>
+<fanart>https://i.ibb.co/D7dXfyh/download.jpg</fanart>
+<info>Tintin compra para o amigo Haddock o modelo de um galeão antigo, que, por coincidência, era a réplica do navio de um antepassado do capitão, o cavaleiro de Hadoque. O modelo é roubado, e logo depois a casa de Tintin é toda revirada. O que procuravam os assaltantes? Por sua vez, o capitão encontra no sótão de casa as memórias do cavaleiro. Nelas, ele narra o seu encontro no Caribe com o pirata Rackham, o Terrível, que o captura com o seu navio, e para o qual transfere os tesouros que havia pilhado. O cavaleiro consegue escapar e afunda o Licorne com todo o tesouro a bordo. Divide depois o mapa com a localização do naufrágio em três partes, que esconde em réplicas do navio. Muitos anos depois, Tintin e seus amigos decidem encontrar as partes do mapa, sabendo que para isso terão de enfrentar uma perigosa quadrilha</info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
