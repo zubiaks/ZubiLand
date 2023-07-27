@@ -2,7 +2,7 @@
 
 <channel><name>[B][COLOR white]Madeira 600 Anos, História[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/W2yNz0b/Logo600anos.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Documentarios/Serie%20documentario/Madeira%20600%20Anos%2C%20Hist%C3%B3ria/eps.txt</externallink>
 <fanart>https://i.ibb.co/S3bKRJ3/download.jpg</fanart>
 <info></info></channel>
 
