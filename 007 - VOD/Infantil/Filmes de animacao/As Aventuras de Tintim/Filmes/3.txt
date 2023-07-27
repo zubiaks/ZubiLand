@@ -155,11 +155,17 @@
 <fanart>https://i.ibb.co/tYKKvzD/maxresdefault.jpg</fanart>
 <info>Tintin, Milu, capitão Haddock e professor Girassol estão a caminho de Sydney, onde são convidados de honra do Congresso Internacional de Astronáutica. Na escala em Jacarta, conhecem o milionário Carreidas, que os convida para seguir viagem no seu avião particular. A viagem para os três amigos irá transformar-se num terrível pesadelo: vão ser envolvidos numa armadilha por detrás da qual está um velho e perigoso conhecido.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]CARVÃO NO PORÃO (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.27.Perdidos.no.mar%28Carvao%20no%20Porao%29.1%C2%AAparte%282%29.mp4</link>
+<thumbnail>https://i.ibb.co/MCPJ1M8/500-9789892313955-tintin-carvao-no-porao.jpg</thumbnail>
+<fanart>https://i.ibb.co/xX16Yz5/1464261421-722777-1464262266-noticia-normal.jpg</fanart>
+<info>Tintin encontra-se por acaso com o general Alcazar, e descobre que ele está envolvido com um traficante de armas. Mais tarde, fica a saber que o emir do Khemed foi deposto graças aos aviões vendidos por Alcazar. Tintin decide então partir com Milu e o capitão Haddock para o Médio Oriente com o intuito de investigar toda essa história. Mas o barco em que viajam é atacado por uma esquadrilha de aviões...</info></item>
+
+<item><title>[B]CARVÃO NO PORÃO (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.28.Perdidos.no.mar%28Carvao%20no%20Porao%29.2%C2%AAparte%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/MCPJ1M8/500-9789892313955-tintin-carvao-no-porao.jpg</thumbnail>
+<fanart>https://i.ibb.co/xX16Yz5/1464261421-722777-1464262266-noticia-normal.jpg</fanart>
+<info>Tintin encontra-se por acaso com o general Alcazar, e descobre que ele está envolvido com um traficante de armas. Mais tarde, fica a saber que o emir do Khemed foi deposto graças aos aviões vendidos por Alcazar. Tintin decide então partir com Milu e o capitão Haddock para o Médio Oriente com o intuito de investigar toda essa história. Mas o barco em que viajam é atacado por uma esquadrilha de aviões...</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
