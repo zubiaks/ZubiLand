@@ -1,9 +1,9 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Era.uma. Vez.um. Boneco.de. Neve.[/B]</title>
+<link>https://archive.org/download/era.uma.-vez.um.-boneco.de.-neve/Era.uma.Vez.um.Boneco.de.Neve.2020.1080p.WEBRip.x264-DUAL.COMANDO.TO.mp4</link>
+<thumbnail>https://i.ibb.co/jM34bcq/Eraumavezumbonecodenevedp.webp</thumbnail>
+<fanart>https://i.ibb.co/5kKtDVM/scale.jpg</fanart>
+<info>Once Upon a Snowman é um curta-metragem de fantasia musical americano de 2020 produzido pela Walt Disney Animation Studios lançado no Disney+ em 23 de outubro de 2020. Once Upon a Snowman faz parte da franquia Frozen e acontece durante os eventos de Frozen.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
