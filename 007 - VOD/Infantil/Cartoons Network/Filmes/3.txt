@@ -1,5 +1,5 @@
 
-<item><title>[B]moviesBilly E Mandy Salva O Natal (2005)[/B]</title>
+<item><title>[B]Billy E Mandy Salva O Natal (2005)[/B]</title>
 <link>https://archive.org/download/billy-e-mandy-salva-o-natal-2005-cn/Billy%20e%20Mandy%20Salva%20o%20Natal%20%282005%29%20%5BCN%5D.mp4</link>
 <thumbnail>https://i.ibb.co/pyC03LS/4-Xjis-Tfsd-BSVWBIwumtz1qvv-RWX.jpg</thumbnail>
 <fanart>https://i.ibb.co/mqChns9/download-2.jpg</fanart>
