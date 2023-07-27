@@ -1,9 +1,9 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Miraculous World: As Aventuras de Ladybug em Xangai, a Lenda da Ladydragão[/B]</title>
+<link>https://ia802306.us.archive.org/29/items/wii-movies/filmes/Miraculous%20World%20Xangai%20%20A%20Lenda%20De%20Ladydragon%202021.mp4</link>
+<thumbnail>https://i.ibb.co/MgSD6cQ/miraculous-world-as-aventuras-de-ladybug-xangai-a-lenda-da-ladydragao-BI47576.webp</thumbnail>
+<fanart>https://i.ibb.co/F4GZfNH/hqdefault.jpg</fanart>
+<info>Durante as férias, Marinette vai a Xangai para conhecer Adrien e descobrir suas próprias origens.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>

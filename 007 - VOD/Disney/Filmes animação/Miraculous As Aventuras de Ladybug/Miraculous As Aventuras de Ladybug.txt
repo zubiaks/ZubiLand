@@ -1,15 +1,15 @@
 <channels>
 
 <channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/r5gs5Kr/As-aventuras-de-ladybug.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Disney/Filmes%20anima%C3%A7%C3%A3o/Miraculous%20As%20Aventuras%20de%20Ladybug/Filmes/3.txt</externallink>
+<fanart>https://i.ibb.co/jHQSHDB/maxresdefault-2.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Miraculous As Aventuras de Ladybug S4[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/SNTdTk1/temporada-4.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Disney/Filmes%20anima%C3%A7%C3%A3o/Miraculous%20As%20Aventuras%20de%20Ladybug/Miraculous%20As%20Aventuras%20de%20Ladybug%20S4/3.txt</externallink>
+<fanart>https://i.ibb.co/3N80NR5/maxresdefault-1.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
