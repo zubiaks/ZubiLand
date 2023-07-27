@@ -1,9 +1,9 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A Nova Onda Do Imperador (2000)[/B]</title>
+<link>https://archive.org/download/a-nova-onda-do-imperador-2000-720p-dub/A%20Nova%20Onda%20do%20Imperador%20%282000%29%20720p%20DUB.mp4</link>
+<thumbnail>https://i.ibb.co/q9xMYhV/The-Emperors-New-Groove-2000-In-Hindi.jpg</thumbnail>
+<fanart>https://i.ibb.co/1sM0KLm/scale-1.jpg</fanart>
+<info>O jovem e arrogante Imperador Kuzco é transformado em uma lhama por sua poderosa mentora chamada Yzma. Perdido na floresta, a única chance de Kuzco recuperar seu trono é com a ajuda de Pacha, um humilde camponês. Juntos, eles precisam enfrentar a bruxa Yzma antes de concluir sua jornada.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
