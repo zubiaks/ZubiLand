@@ -1,9 +1,9 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<channel><name>[B][COLOR white]Madeira 600 Anos, História[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/W2yNz0b/Logo600anos.png</thumbnail>
 <externallink></externallink>
-<fanart></fanart>
+<fanart>https://i.ibb.co/S3bKRJ3/download.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
