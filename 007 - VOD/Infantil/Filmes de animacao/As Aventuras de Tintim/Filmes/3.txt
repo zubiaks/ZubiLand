@@ -167,11 +167,17 @@
 <fanart>https://i.ibb.co/xX16Yz5/1464261421-722777-1464262266-noticia-normal.jpg</fanart>
 <info>Tintin encontra-se por acaso com o general Alcazar, e descobre que ele está envolvido com um traficante de armas. Mais tarde, fica a saber que o emir do Khemed foi deposto graças aos aviões vendidos por Alcazar. Tintin decide então partir com Milu e o capitão Haddock para o Médio Oriente com o intuito de investigar toda essa história. Mas o barco em que viajam é atacado por uma esquadrilha de aviões...</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]AS 7 BOLAS DE CRISTAL (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.29.As%20Sete%20Bolas%20Cristal.1%C2%AAParte%20%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/1KHQxgR/original.jpg</thumbnail>
+<fanart>https://i.ibb.co/9WhTXWJ/download.jpg</fanart>
+<info>Uma misteriosa doença afecta os membros de uma expedição arqueológica recentemente regressada dos Andes, onde descobriram uma múmia. Um por um, os membros da expedição ficam em estado de letargia. As únicas pistas são uns estilhaços de cristal encontrados perto de cada vítima, pertencentes a bolas de cristal. Preocupados com a situação, Tintin, o Capitão Haddock e o Professor Girassol visitam um amigo do último, o Professor Hipólito Bergamotte, o único membro da expedição ainda de boa saúde. É em casa deste que se encontra a múmia do inca Rascar Capac a qual desaparece misteriosamente. A situação complica-se ainda mais quando o professor Girassol descobre uma pulseira de ouro pertencente à múmia e a coloca no seu pulso...</info></item>
+
+<item><title>[B]AS 7 BOLAS DE CRISTAL (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.30.As%20Sete%20Bolas%20Cristal.2%C2%AAParte%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/1KHQxgR/original.jpg</thumbnail>
+<fanart>https://i.ibb.co/9WhTXWJ/download.jpg</fanart>
+<info>Uma misteriosa doença afecta os membros de uma expedição arqueológica recentemente regressada dos Andes, onde descobriram uma múmia. Um por um, os membros da expedição ficam em estado de letargia. As únicas pistas são uns estilhaços de cristal encontrados perto de cada vítima, pertencentes a bolas de cristal. Preocupados com a situação, Tintin, o Capitão Haddock e o Professor Girassol visitam um amigo do último, o Professor Hipólito Bergamotte, o único membro da expedição ainda de boa saúde. É em casa deste que se encontra a múmia do inca Rascar Capac a qual desaparece misteriosamente. A situação complica-se ainda mais quando o professor Girassol descobre uma pulseira de ouro pertencente à múmia e a coloca no seu pulso...</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
