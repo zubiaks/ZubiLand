@@ -13,6 +13,36 @@
 <info>Jon Arbuckle é um solteirão convicto que está sempre metido em trapalhadas. Garfield é seu gato muito preguiçoso, que adora lasanha e vive aprontando com Odie, o cão da casa.</info></channel>
 
 <channel><name>[B][COLOR white]Space Goofs[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/dJYN1NK/Space-Goofs.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/Space%20Goofs/1.txt</externallink>
+<fanart>https://i.ibb.co/VCYgLGj/FT8-IVIUWAAAW3a4.jpg</fanart>
+<info>Les Zinzins de l'espace é uma série de animação francesa de duas temporadas e 104 episódios, criada por Jean-Yves Raimbaud e Philippe Traversat. As etapas de produção da primeira temporada tiveram início nos estúdios da Gaumont em 1996.</info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
