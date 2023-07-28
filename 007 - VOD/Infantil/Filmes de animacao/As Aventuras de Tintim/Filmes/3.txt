@@ -173,41 +173,65 @@
 <fanart>https://i.ibb.co/9WhTXWJ/download.jpg</fanart>
 <info>Uma misteriosa doença afecta os membros de uma expedição arqueológica recentemente regressada dos Andes, onde descobriram uma múmia. Um por um, os membros da expedição ficam em estado de letargia. As únicas pistas são uns estilhaços de cristal encontrados perto de cada vítima, pertencentes a bolas de cristal. Preocupados com a situação, Tintin, o Capitão Haddock e o Professor Girassol visitam um amigo do último, o Professor Hipólito Bergamotte, o único membro da expedição ainda de boa saúde. É em casa deste que se encontra a múmia do inca Rascar Capac a qual desaparece misteriosamente. A situação complica-se ainda mais quando o professor Girassol descobre uma pulseira de ouro pertencente à múmia e a coloca no seu pulso...</info></item>
 
-<item><title>[B]AS 7 BOLAS DE CRISTAL (Part 1)[/B]</title>
+<item><title>[B]AS 7 BOLAS DE CRISTAL (Part 2)[/B]</title>
 <link>https://archive.org/download/tin-tin/TinTin.30.As%20Sete%20Bolas%20Cristal.2%C2%AAParte%281%29.mp4</link>
 <thumbnail>https://i.ibb.co/1KHQxgR/original.jpg</thumbnail>
 <fanart>https://i.ibb.co/9WhTXWJ/download.jpg</fanart>
 <info>Uma misteriosa doença afecta os membros de uma expedição arqueológica recentemente regressada dos Andes, onde descobriram uma múmia. Um por um, os membros da expedição ficam em estado de letargia. As únicas pistas são uns estilhaços de cristal encontrados perto de cada vítima, pertencentes a bolas de cristal. Preocupados com a situação, Tintin, o Capitão Haddock e o Professor Girassol visitam um amigo do último, o Professor Hipólito Bergamotte, o único membro da expedição ainda de boa saúde. É em casa deste que se encontra a múmia do inca Rascar Capac a qual desaparece misteriosamente. A situação complica-se ainda mais quando o professor Girassol descobre uma pulseira de ouro pertencente à múmia e a coloca no seu pulso...</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O TEMPLO DO SOL (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.31.O.templo.do.Sol.1%C2%AAparte%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/HpFMK2G/download-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/m49Bk6c/17963-42514-56122.webp</fanart>
+<info>Trata-se da continuação da aventura iniciada em As 7 Bolas de Cristal. Tintin, Haddock e Milu, chegam ao Peru antes do Pachacamac, o navio que levava o professor Girassol. Quando o cargueiro entra na baía, é posto em quarentena pelas autoridades sanitárias. Tintin resolve entrar clandestinamente no navio onde encontra o professor, que dorme sob o efeito de drogas. Tintin tem de fugir a nado, mas de madrugada vê desembarcarem o professor. Com Dupont e Dupond, enviados pela polícia francesa para os ajudar, o capitão, Tintin e Milu seguem a pista do professor pelo interior do Peru...</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O TEMPLO DO SOL (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.32.O.templo.do.Sol.2%C2%AAparte%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/HpFMK2G/download-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/m49Bk6c/17963-42514-56122.webp</fanart>
+<info>Trata-se da continuação da aventura iniciada em As 7 Bolas de Cristal. Tintin, Haddock e Milu, chegam ao Peru antes do Pachacamac, o navio que levava o professor Girassol. Quando o cargueiro entra na baía, é posto em quarentena pelas autoridades sanitárias. Tintin resolve entrar clandestinamente no navio onde encontra o professor, que dorme sob o efeito de drogas. Tintin tem de fugir a nado, mas de madrugada vê desembarcarem o professor. Com Dupont e Dupond, enviados pela polícia francesa para os ajudar, o capitão, Tintin e Milu seguem a pista do professor pelo interior do Peru...</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]AS JÓIAS DE CASTAFIORE(Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.33.As.Joias.da.Castafiore.1%C2%AAparte%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/zSw7Yv9/500x.jpg</thumbnail>
+<fanart>https://i.ibb.co/nL5ySYm/as-joias-da-castafiore.jpg</fanart>
+<info>No começo de As jóias de Castafiore, o capitão Haddock vai fazer uma caminhada e quando regressa ao castelo, recebe uma notícia calamitosa: a célebre Castafiore vem passar uma temporada ao castelo. Como se essa catástrofe não bastasse, o capitão tropeça na escada e torce o pé. Resultado: quinze dias de cadeira de rodas, tendo de aguentar os dotes vocais da diva, as escalas do seu pianista e a agitação permanente que a cantora traz a Moulinsart. Com ela vieram também as suas valiosíssimas jóias, que teme serem alvo dos ladrões. Porque será que coisas estranhas começam a acontecer no castelo?</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]AS JÓIAS DE CASTAFIORE(Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.34.As.Joias.da.Castafiore.2%C2%AAparte%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/zSw7Yv9/500x.jpg</thumbnail>
+<fanart>https://i.ibb.co/nL5ySYm/as-joias-da-castafiore.jpg</fanart>
+<info>No começo de As jóias de Castafiore, o capitão Haddock vai fazer uma caminhada e quando regressa ao castelo, recebe uma notícia calamitosa: a célebre Castafiore vem passar uma temporada ao castelo. Como se essa catástrofe não bastasse, o capitão tropeça na escada e torce o pé. Resultado: quinze dias de cadeira de rodas, tendo de aguentar os dotes vocais da diva, as escalas do seu pianista e a agitação permanente que a cantora traz a Moulinsart. Com ela vieram também as suas valiosíssimas jóias, que teme serem alvo dos ladrões. Porque será que coisas estranhas começam a acontecer no castelo?</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]RUMO À LUA (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.35.Rumo.a.Lua.1%C2%AAparte%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/NWfBCmx/500-9789892310695-tintin-rumo-a-lua.jpg</thumbnail>
+<fanart>https://i.ibb.co/g35FTNH/images.jpg</fanart>
+<info>Ao regressar do país do Ouro Negro, o capitão Haddock fica a saber que o professor Girassol partira havia três semanas com um estrangeiro desconhecido. Logo em seguida recebe um telegrama do professor, no qual diz que se encontra na Sildávia e pede ao capitão e ao Tintin para lá irem ter com ele. Os dois partem de imediato. No aeroporto da capital da Sildávia, um motorista espera-os e leva-os para o que parece ser uma instalação militar ultra-secreta. Lá encontram o professor a trabalhar num foguetão a bordo do qual partirá rumo à Lua. E ele quer que Tintin e Haddock participem na expedição! Nem é preciso dizer que Dupond e Dupont aparecem desastradamente para tratarem da segurança dos três. Enquanto isso, agentes de uma potência inimiga fazem de tudo para roubar o projecto e sabotar a expedição da Sildávia.</info></item>
+
+<item><title>[B]RUMO À LUA (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.36.Rumo.a.Lua.2%C2%AAparte%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/NWfBCmx/500-9789892310695-tintin-rumo-a-lua.jpg</thumbnail>
+<fanart>https://i.ibb.co/g35FTNH/images.jpg</fanart>
+<info>Ao regressar do país do Ouro Negro, o capitão Haddock fica a saber que o professor Girassol partira havia três semanas com um estrangeiro desconhecido. Logo em seguida recebe um telegrama do professor, no qual diz que se encontra na Sildávia e pede ao capitão e ao Tintin para lá irem ter com ele. Os dois partem de imediato. No aeroporto da capital da Sildávia, um motorista espera-os e leva-os para o que parece ser uma instalação militar ultra-secreta. Lá encontram o professor a trabalhar num foguetão a bordo do qual partirá rumo à Lua. E ele quer que Tintin e Haddock participem na expedição! Nem é preciso dizer que Dupond e Dupont aparecem desastradamente para tratarem da segurança dos três. Enquanto isso, agentes de uma potência inimiga fazem de tudo para roubar o projecto e sabotar a expedição da Sildávia.</info></item>
+
+<item><title>[B]EXPLORANDO A LUA (Part 1)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.37.Explorando.a.Lua.1%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/YB9YbwV/550x-500w.jpg</thumbnail>
+<fanart>https://i.ibb.co/82fjLg3/550x-500w.jpg</fanart>
+<info>Os inimigos da Sildávia fracassam, e a expedição liderada pelo professor Girassol finalmente consegue partir. Mas, estranhamente, também agentes estrangeiros, fazem de tudo para que a expedição seja bem sucedida Porque será que eles desejam tanto que o foguetão chegue à Lua? Os perigos que nossos astronautas vão enfrentar durante a viagem não serão nada comparados com aquilo que os espera na Lua...</info></item>
+
+<item><title>[B]EXPLORANDO A LUA (Part 2)[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.38.Explorando.a.Lua.2%C2%AAparte.%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/YB9YbwV/550x-500w.jpg</thumbnail>
+<fanart>https://i.ibb.co/82fjLg3/550x-500w.jpg</fanart>
+<info>Os inimigos da Sildávia fracassam, e a expedição liderada pelo professor Girassol finalmente consegue partir. Mas, estranhamente, também agentes estrangeiros, fazem de tudo para que a expedição seja bem sucedida Porque será que eles desejam tanto que o foguetão chegue à Lua? Os perigos que nossos astronautas vão enfrentar durante a viagem não serão nada comparados com aquilo que os espera na Lua...</info></item>
+
+<item><title>[B]TINTIN NA AMÉRICA[/B]</title>
+<link>https://archive.org/download/tin-tin/TinTin.39.Tintin.na.America%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/TLFZdKh/500x.jpg</thumbnail>
+<fanart>https://i.ibb.co/p162RyS/download.jpg</fanart>
+<info>Tintin parte para a América durante o período da lei seca. Em Chicago é raptado por gangsters, cujo chefe é Al Capone, que o consideram perigoso. Após escapar e ser de novo perseguido, acaba por encontrar os peles-vermelhas...</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
