@@ -19,9 +19,9 @@
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/1nfQcSX/p514269-b-v8-aa.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Looney%20Tunes/Serie/Tiny%20Toon/Filmes/Filmes.txt</externallink>
-<fanart></fanart>
+<fanart>https://i.ibb.co/284YJxn/images.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
