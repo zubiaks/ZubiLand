@@ -1,6 +1,6 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Pateta O Filme (1995)(BR) [/B]</title>
+<link>https://archive.org/download/pateta-o-filme-1995-720p-dub/Pateta%20O%20Filme%201995%20720p%20Dub.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
