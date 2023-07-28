@@ -1,26 +1,26 @@
 <channels>
 
 <channel><name>[B][COLOR white]Filme[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/Xbj6zWR/lion-guard-tvjpg-997911.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Disney/Filmes%20anima%C3%A7%C3%A3o/O%20Rei%20Le%C3%A3o/A%20Guarda%20do%20Le%C3%A3o/Filmes.txt</externallink>
+<fanart>https://i.ibb.co/Bn1YB5K/maxresdefault.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Disney/Filmes%20anima%C3%A7%C3%A3o/O%20Rei%20Le%C3%A3o/A%20Guarda%20do%20Le%C3%A3o/S1.txt</externallink>
+<fanart>https://i.ibb.co/hVbH6b3/p14264602-b1t-h10-aa.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]A Guarda do Leão S2[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
+<thumbnail>https://i.ibb.co/XVzRCR4/p14264602-b1t-v8-aa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Disney/Filmes%20anima%C3%A7%C3%A3o/O%20Rei%20Le%C3%A3o/A%20Guarda%20do%20Le%C3%A3o/S2.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]A Guarda do Leão S3[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/WKNX7JN/e958fc83c0c06817457bf139a0d0fd79.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Disney/Filmes%20anima%C3%A7%C3%A3o/O%20Rei%20Le%C3%A3o/A%20Guarda%20do%20Le%C3%A3o/S3.txt</externallink>
 <fanart>https://i.ibb.co/qkg14fV/a-guarda-do-leaoversao-humana-21252905-151220201756.jpg</fanart>
 <info></info></channel>
 

@@ -1,9 +1,9 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A Guarda do Leão - O Regresso do Rugido[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/A%20Guarda%20do%20Le%C3%A3o_%20O%20Regresso%20do%20Rugido%20-%20720p%20-%20%28PortugalDownloads%29.ia.mp4</link>
+<thumbnail>https://i.ibb.co/kqb4Bwm/unnamed.jpg</thumbnail>
+<fanart>https://i.ibb.co/V2DM6BQ/download.jpg</fanart>
+<info>O leão mais querido de todo o mundo está de volta para novas e emocionantes aventuras. Desta vez, a história central gira em torno de Kion, o filho mais novo de Nala e Simba, enquanto o felino finalmente decide assumir o papel de líder da famosa "Guarda do Leão", uma equipe de animais encarregados de proteger as terras do reino. Em suas aventuras, Kion conta sempre com a companhia de seus melhores amigos Bunga, Ono, Fuli e Beshte.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
