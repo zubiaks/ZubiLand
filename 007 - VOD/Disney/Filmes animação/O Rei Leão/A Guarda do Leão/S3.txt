@@ -1,396 +1,127 @@
 
-<item><title>[B]Episode 01[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 02[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 03[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 04[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 05[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 06[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 07[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 08[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 09[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 10[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 11[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 12[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 13[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 14[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 15[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 16[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 17[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 18[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 19[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 20[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 21[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 22[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 23[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 24[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 25[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 26[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 27[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 28[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 29[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 30[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 31[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 32[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 33[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 34[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 35[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 36[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 37[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 38[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 39[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 40[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 41[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 42[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 43[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 44[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 45[/B]</title>
-<link></link>
+<item><title>[B]3x01 - Battle For The Pride Lands - Part 1[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x01%20-%20Battle%20For%20The%20Pride%20Lands%20-%20Part%201.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 46[/B]</title>
-<link></link>
+<item><title>[B]3x02 - Battle For The Pride Lands - Part 2[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x02%20-%20Battle%20For%20The%20Pride%20Lands%20-%20Part%202.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode [/B]</title>
-<link></link>
+<item><title>[B]3x03 - Harmattan[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x03%20-%20Harmattan.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 47[/B]</title>
-<link></link>
+<item><title>[B]3x04 - Accidental Avalanche[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x04%20-%20Accidental%20Avalanche.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 48[/B]</title>
-<link></link>
+<item><title>[B]3x05 - Ghost Of The Mountain[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x05%20-%20Ghost%20Of%20The%20Mountain.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode [/B]</title>
-<link></link>
+<item><title>[B]3x06 - Marsh Of Mystery[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x06%20-%20Marsh%20Of%20Mystery.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 49[/B]</title>
-<link></link>
+<item><title>[B]3x07 - Dragon Island[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x07%20-%20Dragon%20Island.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 50[/B]</title>
-<link></link>
+<item><title>[B]3x08 - Journey Of Memories[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x08%20-%20Journey%20Of%20Memories.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 51[/B]</title>
-<link></link>
+<item><title>[B]3x09 - Race To Tuliza[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x09%20-%20Race%20To%20Tuliza.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 52[/B]</title>
-<link></link>
+<item><title>[B]3x10 - Mama Binturong[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x10%20-%20Mama%20Binturong.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 53[/B]</title>
-<link></link>
+<item><title>[B]3x11 - Friends To The End[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x11%20-%20Friends%20To%20The%20End.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 54[/B]</title>
-<link></link>
+<item><title>[B]3x12 - The Tree Of Life[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x12%20-%20The%20Tree%20Of%20Life.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 55[/B]</title>
-<link></link>
+<item><title>[B]3x13 - The River of Patience[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x13%20-%20The%20River%20of%20Patience.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 56[/B]</title>
-<link></link>
+<item><title>[B]3x14 - Little Old Ginterbong[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x14%20-%20Little%20Old%20Ginterbong.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 57[/B]</title>
-<link></link>
+<item><title>[B]3x15 - Poa the Destroyer[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x15%20-%20Poa%20the%20Destroyer.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 58[/B]</title>
-<link></link>
+<item><title>[B]3x16 - Long Live The Queen[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x16%20-%20Long%20Live%20The%20Queen.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 59[/B]</title>
-<link></link>
+<item><title>[B]3x17 - The Lake Of Reflection[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x17%20-%20The%20Lake%20Of%20Reflection.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 60[/B]</title>
-<link></link>
+<item><title>[B]3x18 - Triumph Of The Roar[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x18%20-%20Triumph%20Of%20The%20Roar.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 61[/B]</title>
-<link></link>
+<item><title>[B]3x19 - Journey To The Pride Lands[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x19%20-%20Journey%20To%20The%20Pride%20Lands.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 62[/B]</title>
-<link></link>
+<item><title>[B]3x20 - Return To The Pride Lands[/B]</title>
+<link>https://archive.org/download/2x05a0aascensaodoscar/3x20%20-%20Return%20To%20The%20Pride%20Lands.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 63[/B]</title>
+<item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 64[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>

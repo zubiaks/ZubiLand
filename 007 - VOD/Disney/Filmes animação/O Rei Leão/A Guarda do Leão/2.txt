@@ -1,6 +1,6 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Filme[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
@@ -12,16 +12,16 @@
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]A Guarda do Leão S2[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<channel><name>[B][COLOR white]A Guarda do Leão S3[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/WKNX7JN/e958fc83c0c06817457bf139a0d0fd79.jpg</thumbnail>
 <externallink></externallink>
-<fanart></fanart>
+<fanart>https://i.ibb.co/qkg14fV/a-guarda-do-leaoversao-humana-21252905-151220201756.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>

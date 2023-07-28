@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]A Guarda do Leão[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/WKNX7JN/e958fc83c0c06817457bf139a0d0fd79.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Disney/Filmes%20anima%C3%A7%C3%A3o/O%20Rei%20Le%C3%A3o/A%20Guarda%20do%20Le%C3%A3o/2.txt</externallink>
+<fanart>https://i.ibb.co/RHT4Wpd/5efcf1d05558ae539bafbe9df622d12a.jpg</fanart>
+<info>As aventuras de Kion, o filho de Simba, quando se torna o líder de um grupo de animais conhecido como a Guarda do Leão.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
