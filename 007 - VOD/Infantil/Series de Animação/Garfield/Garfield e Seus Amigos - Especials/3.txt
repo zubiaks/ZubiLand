@@ -17,11 +17,11 @@
 <fanart>https://i.ibb.co/MGqktnJ/download-1.jpg</fanart>
 <info>Garfield Goes Hollywood é um especial de televisão animado americano de 1987 baseado na história em quadrinhos de Garfield. Mais uma vez apresentou Lorenzo Music como a voz de Garfield.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O Natal Especial do Garfield (1987)[/B]</title>
+<link>https://archive.org/download/garfield-e-suas-9-vidas/Garfield%20Em%20O%20Natal%20Especial%20Do%20Garfield.ia.mp4</link>
+<thumbnail>https://i.ibb.co/ZzvPrGG/MV5-BMj-Vm-Njdh-N2-Qt-OWVk-Yi00-MDQw-LTgy-YTAt-MGNk-Njli-Mjlk-ZDM5-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc5-Nj-Ez.jpg</thumbnail>
+<fanart>https://i.ibb.co/DL884Ff/91h-G2d-B4-Rr-L-AC-UF1000-1000-QL80.jpg</fanart>
+<info>John Arbacle leva seu gatinho preguiçoso e guloso Garfield e seu inocente porém esperto cãozinho Oddie passar o Natal na casa dos pais do John.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
