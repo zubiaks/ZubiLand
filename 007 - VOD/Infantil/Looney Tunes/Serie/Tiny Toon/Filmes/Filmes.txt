@@ -1,15 +1,15 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]tiny toon ferias animadas[/B]</title>
+<link>https://archive.org/download/tiny-toon-filmes-movies/Tiny%20Toon%20F%C3%A9rias%20Animadas%201920X1080.mp4</link>
+<thumbnail>https://i.ibb.co/dLcF8wd/Tiny-Toon-293-Frias-Animadas.webp</thumbnail>
+<fanart>https://i.ibb.co/1QCnXs1/hqdefault.jpg</fanart>
+<info>Começam as tão esperadas férias de verão dos Tiny Toons. O filme as retrata sob o ponto de vista de cada personagem:</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Tiny Toon em Uma Noite e Tanto[/B]</title>
+<link>https://archive.org/download/tiny-toon-filmes-movies/Tiny%20Toon%20Uma%20Noite%20E%20Tanto%201920X1080.mp4</link>
+<thumbnail>https://i.ibb.co/0YXSW1y/145877-tiny-toons-night-ghoulery-0-230-0-345-crop.jpg</thumbnail>
+<fanart>https://i.ibb.co/C05YN1X/download.jpg</fanart>
+<info>Vampiros... Lobisomens... Múmias... Lilica é a apresentadora macabra deste show que vai arrepiar os seus cabelos! Pluck Duck e Presuntinho nunca imaginaram que limpar a casa fosse tão perigoso até descobrirem "Os Segredos do Aspirador". Max Montana está tão mau-humorado que vai parar no inferno em "O Diabo que se Cuide!" Perninha e Pluck enfrentam os terríveis monstros do Armário em "Segure Aquele Pato", enquanto um passageiro com muita fome decide comer o avião inteiro enquanto o piloto grita: "Tem um Gremlin na minha asa!".</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
