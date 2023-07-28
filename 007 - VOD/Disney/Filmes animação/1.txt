@@ -30,10 +30,10 @@
 <fanart>https://i.ibb.co/MCWpMJm/frozen-3-potencial-data-de-lancamento-e-tudo-o-que-sabemos-ate-agora.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]O Rei Leão[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/4K7mkHV/lion-king-the-2019-la-ih-ptb-1000-x-1440-2baad78d.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Disney/Filmes%20anima%C3%A7%C3%A3o/O%20Rei%20Le%C3%A3o/2.txt</externallink>
+<fanart>https://i.ibb.co/tPrVc8F/O-Rei-Le-o-diferen-as-capa-890x466.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
