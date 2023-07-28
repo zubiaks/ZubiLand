@@ -1,11 +1,5 @@
 <channels>
 
-<channel><name>[B][COLOR white]A Grande Ilusão[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/KwBKJH0/MV5-BMWYy-Zj-A1-Mz-Yt-Yj-E4-My00-Ym-Yz-LTgx-ZDEt-ODYy-ZTc3-YTE5-ZWQ4-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Az-NTM.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Reportagens/Grande%20Reportagem/A%20Grande%20Ilus%C3%A3o.txt</externallink>
-<fanart>https://i.ibb.co/1zGFNz5/6391-8549-76481.webp</fanart>
-<info></info></channel>
-
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
@@ -35,5 +29,30 @@
 <externallink></externallink>
 <fanart></fanart>
 <info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
 
 </channels>
