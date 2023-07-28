@@ -12,7 +12,7 @@
 <fanart>https://i.ibb.co/GtztQ4R/download-1.jpg</fanart>
 <info>Jon Arbuckle é um solteirão convicto que está sempre metido em trapalhadas. Garfield é seu gato muito preguiçoso, que adora lasanha e vive aprontando com Odie, o cão da casa.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Space Goofs[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
