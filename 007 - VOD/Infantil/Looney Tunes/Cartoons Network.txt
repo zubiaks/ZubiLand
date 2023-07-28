@@ -6,10 +6,10 @@
 <fanart>https://i.ibb.co/k5HgN59/Looney-Toons-GQ-July-2018-071618-3x2.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/gz1df1N/looney-tunes-characters-i1344.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Looney%20Tunes/Filmes/3.txt</externallink>
+<fanart>https://i.ibb.co/JsnPZCN/looney122.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
