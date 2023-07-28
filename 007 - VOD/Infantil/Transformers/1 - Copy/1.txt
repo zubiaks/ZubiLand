@@ -1,10 +1,16 @@
 <channels>
 
-<channel><name>[B][COLOR white]Gladiformers[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/Tcwx9RY/29d2f9048cf2963230741ee89f40d9f22b2018c8311a0f10e59a9a12149495ea-RI-TTW.jpg</thumbnail>
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
 <externallink></externallink>
-<fanart>https://i.ibb.co/1TtJJSD/a4ca1d120e4b2f98b18bff800dd6eb7a8122f7825798dc12062842c14f3de959-RI-TTW.jpg</fanart>
-<info>Luta. Perigo. Transformação. A Arena de Centuris é palco das mais brutais lutas entre potentes robôs gladiadores. Com lances arriscados e emocionantes, os Gladiformers irão surpreender a todos.</info></channel>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
