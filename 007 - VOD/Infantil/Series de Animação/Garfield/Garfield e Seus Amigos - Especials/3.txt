@@ -23,23 +23,23 @@
 <fanart>https://i.ibb.co/DL884Ff/91h-G2d-B4-Rr-L-AC-UF1000-1000-QL80.jpg</fanart>
 <info>John Arbacle leva seu gatinho preguiçoso e guloso Garfield e seu inocente porém esperto cãozinho Oddie passar o Natal na casa dos pais do John.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Garfield no Perigo (1984)[/B]</title>
+<link>https://archive.org/download/garfield-e-suas-9-vidas/Garfield%20Em%20Perigo.ia.mp4</link>
+<thumbnail>https://i.ibb.co/GJJFyP6/91-ZE02as-Bh-L-RI.jpg</thumbnail>
+<fanart>https://i.ibb.co/QPxfLpG/71-XH4-DB9-QNL-AC-UF1000-1000-QL80.jpg</fanart>
+<info>Garfield é levado para um acampamento por Jon, muito contra sua vontade. Uma série de desastres muito engraçados se segue. Mas nem tudo está bem, já que uma pantera escapou do zoológico local e está perseguindo-os. Nosso herói sobreviverá para comer outra lasanha e chutar Odie da mesa novamente?</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]GARFIELD no Halloween (1985)[/B]</title>
+<link>https://archive.org/download/garfield-e-suas-9-vidas/Garfield%20Na%20Noite%20Das%20Bruxas.ia.mp4</link>
+<thumbnail>https://i.ibb.co/0sd6ccG/Beetle-Bailey-and-Garfield-s-Halloween-Adventure-Poster.webp</thumbnail>
+<fanart>https://i.ibb.co/n64tCz2/download-2.jpg</fanart>
+<info>Fantasiados como um velho pirata e seu imediato, Garfield e Odie saem atrás de doces na noite de Halloween e enchem a sacola até bater em uma casa mal-assombrada e entrar em um verdadeiro conto de terror.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Garfield in Paradise (TV Short 1986)[/B]</title>
+<link>https://archive.org/download/garfield-e-suas-9-vidas/Garfield%20No%20Para%C3%ADso.mp4</link>
+<thumbnail>https://i.ibb.co/CKFqWqv/MV5-BMz-Ni-YTRm-MTIt-NGYz-Ni00-Nm-Y0-LWFl-ZDMt-Nzc2-NWU2-YWMx-MDBh-Xk-Ey-Xk-Fqc-Gde-QXVy-ODk1-Mj-Ax.jpg</thumbnail>
+<fanart>https://i.ibb.co/HgGVTky/5140-BF6-A4-TL-AC-UF1000-1000-QL80.jpg</fanart>
+<info>Garfield in Paradise é um especial de televisão animado de 1986 dirigido por Phil Roman, baseado na história em quadrinhos Garfield de Jim Davis. Apresenta Lorenzo Music como a voz de Garfield, o gato doméstico, outros regulares Thom Huge e Gregg Berger, e o ator convidado Wolfman Jack</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
