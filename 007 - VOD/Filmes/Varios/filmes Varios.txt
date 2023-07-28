@@ -197,11 +197,11 @@
 <fanart>https://i.ibb.co/87Ys1rL/scale.jpg</fanart>
 <info>Uma adolescente curiosa e inteligente encontra um broche e é transportada para uma realidade paralela repleta de robôs e invenções futuristas. Com a ajuda de um cientista que já visitou Tomorrowland, ela tenta descobrir os segredos do futuro.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O Professor Chanfrado (1996)[/B]</title>
+<link>https://archive.org/download/copia-de-paloprado.-96.-trial-bd-1080p.-memoriada-tv.-mini/C%C3%B3pia%20de%20PAloprado.96.TrialBD1080p.MemoriadaTV.Mini.mp4</link>
+<thumbnail>https://i.ibb.co/QP0Ct7R/The-Nutty-Professor.jpg</thumbnail>
+<fanart>https://i.ibb.co/fqQCcnJ/b9f4666de35e39f5bd9c14bcc11d6c405838b61fa72de3d3f66b680081cdcc55-UY500-UX667-RI-TTW.jpg</fanart>
+<info>Sherman Klump é um professor universitário com grandes conhecimentos de genética, mas que sempre foi ridicularizado por ser extremamente gordo. Porém, quando recebe uma atenção especial de uma bela e jovem professora de matemática, ele decide ingerir uma poção ainda em fase de testes, que altera a cadeia de DNA e faz com que se transforme em um bonitão esbelto, Buddy Love. A partir de então, Sherman passa a levar uma vida dupla, pois o experimento tem um efeito que dura pouco tempo.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
