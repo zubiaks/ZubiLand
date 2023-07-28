@@ -7,9 +7,9 @@
 <info></info></channel>
 
 <channel><name>[B][COLOR white]mickey donald goofy[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/SJRCk7q/05701818d982559914dd4e8d8f588ec2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Disney/mickey%20donald%20goofy/1.txt</externallink>
+<fanart>https://i.ibb.co/wSKCK6X/mickey-donald-goofy-by-zdrer456-d3e1z9c-fullview.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
