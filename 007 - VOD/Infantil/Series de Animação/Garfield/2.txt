@@ -1,9 +1,9 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Garfield e Seus Amigos - Especials[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/2Y24GCW/garfield-seus-amigos-5667-1-80c7dc8708fe0f00fb73000a3bcd42e2.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/Garfield/Garfield%20e%20Seus%20Amigos%20-%20Especials/3.txt</externallink>
+<fanart>https://i.ibb.co/sWfZV9h/garfield-and-friends-03.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
