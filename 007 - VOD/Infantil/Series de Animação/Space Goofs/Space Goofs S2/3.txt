@@ -1,42 +1,216 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Space Goofs - Abracadabra[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Abracadabra.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Space Goofs - Alienígenas de Bollywood[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Alien%C3%ADgenas%20de%20Bollywood.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Space Goofs - Boas Cercas Fazem Bons Vizinhos[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Boas%20Cercas%20Fazem%20Bons%20Vizinhos.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Space Goofs - Buffalo Blues[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Buffalo%20Blues.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Space Goofs - Carteira de Motorista[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Carteira%20de%20Motorista.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Space Goofs - Casa de Controle Remoto[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Casa%20de%20Controle%20Remoto.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Space Goofs - Contos de Fada[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Contos%20de%20Fada.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Cruiser Espacial ao Resgate[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Cruiser%20Espacial%20ao%20Resgate.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - De Volta à Escola[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20De%20Volta%20%C3%A0%20Escola.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Dentro do Gorgious[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Dentro%20do%20Gorgious.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Desenho Real[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Desenho%20Real.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Estúpidos Invasores[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Est%C3%BApidos%20Invasores.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Filhinho da Mamãe[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Filhinho%20da%20Mam%C3%A3e.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Gorgious Primeiro[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Gorgious%20Primeiro.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Gravidade Zero[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Gravidade%20Zero.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Ilha dos Gorilas[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Ilha%20dos%20Gorilas.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Inteligência Ártica[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Intelig%C3%AAncia%20%C3%81rtica.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Invasores Invisíveis[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Invasores%20Invis%C3%ADveis.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Macaquices[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Macaquices.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Madame Zelza[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Madame%20Zelza.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Manga Mania[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Manga%20Mania.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Meu Amigo Mollux[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Meu%20Amigo%20Mollux.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - O Alienígena[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20O%20Alien%C3%ADgena.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - O Colecionador[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20O%20Colecionador.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - O Manequim de Teste de Impacto[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20O%20Manequim%20de%20Teste%20de%20Impacto.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - O Pintinho de Sabão Número Um[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20O%20Pintinho%20de%20Sab%C3%A3o%20N%C3%BAmero%20Um.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - O Rei Alienígena[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20O%20Rei%20Alien%C3%ADgena.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - O Retorno[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20O%20Retorno.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Primo Walter[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Primo%20Walter.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Qual Bruxa é Qual[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Qual%20Bruxa%20%C3%A9%20Qual.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Quem é Quem[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Quem%20%C3%A9%20Quem.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - SOS[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20SOS.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Seja Meu Bebê[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Seja%20Meu%20Beb%C3%AA.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Senhor Sim Senhor[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Senhor%20Sim%20Senhor.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Viagem ao Centro da Terra[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Viagem%20ao%20Centro%20da%20Terra.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Space Goofs - Vida de Cachorro[/B]</title>
+<link>https://archive.org/download/spacegoofsepsdublados/Space%20Goofs%20-%20Vida%20de%20Cachorro.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
