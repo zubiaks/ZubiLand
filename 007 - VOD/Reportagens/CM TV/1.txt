@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Cante Alentejano[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0y6D3PB/cante-web.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Reportagens/CM%20TV/1.txt</externallink>
+<fanart>https://i.ibb.co/fDcKn2t/mqdefault.jpg</fanart>
+<info>Em Pias ainda se nasce a cantar e a ouvir o cante alentejano. A tradição passa de geração em geração em Pias. Rodrigo, de 12 anos, é o mais jovem do grupo.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

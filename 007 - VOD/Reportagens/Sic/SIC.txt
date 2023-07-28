@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Grande Reportagem[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/3Y3gXVW/download-1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Reportagens/Sic/Grande%20Reportagem/1.txt</externallink>
+<fanart>https://i.ibb.co/tHZKWKv/download.jpg</fanart>
+<info>Programa de jornalismo de investigação com a coordenação da jornalista Cândida Pinto.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
