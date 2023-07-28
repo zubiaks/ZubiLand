@@ -1,16 +1,16 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]CM TV[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/NKvBhFG/1662047401203.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Reportagens/CM%20TV/1.txt</externallink>
+<fanart>https://i.ibb.co/gtmGGM5/img-432x243-2021-03-15-17-29-19-1020608.jpg</fanart>
+<info>A CMTV é um canal de TV fechado português, associado ao diário Correio da Manhã. É um canal generalista com um forte cunho informativo, neste caso de caráter sensacionalista. As emissões do canal tiveram início em 17 de março de 2013</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
-<info></info></channel>
+<info>A Sociedade Independente de Comunicação é um canal de televisão privado em Portugal. A SIC, cujas transmissões tiveram início a 6 de outubro de 1992, foi o primeiro canal de televisão privado a operar em Portugal, tornando-se num contributo para a pluralidade e para a independência da informação.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
