@@ -1,26 +1,26 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Tiny Toon S1[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/X3C8sKJ/051601dd-218d-49ef-a209-15f599fb955e.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Looney%20Tunes/Serie/Tiny%20Toon/Tiny%20Toon%20S1/eps.txt</externallink>
+<fanart>https://i.ibb.co/QXxrWZd/download-1.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Tiny Toon S2[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/kypH4S3/poster-500.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Looney%20Tunes/Serie/Tiny%20Toon/Tiny%20Toon%20S2/eps.txt</externallink>
+<fanart>https://i.ibb.co/6FR2FsR/download-2.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Tiny Toon S3[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/PtKv5SL/season-3.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Looney%20Tunes/Serie/Tiny%20Toon/Tiny%20Toon%20S3/eps.txt</externallink>
+<fanart>https://i.ibb.co/2ghsmgn/download.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Looney%20Tunes/Serie/Tiny%20Toon/Filmes/Filmes.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
