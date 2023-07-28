@@ -1,10 +1,10 @@
 <channels>
 
 <channel><name>[B][COLOR white]Pateta O Filme (1995)[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<thumbnail>https://i.ibb.co/Jv1X4Xp/339246.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Disney/mickey%20donald%20goofy/Pateta/Pateta%20O%20Filme%20(1995)/3.txt</externallink>
+<fanart>https://i.ibb.co/D94GvvS/scale.jpg</fanart>
+<info>Pateta sempre tem a melhor das intenções, mas sua falta de jeito deixa seu filho adolescente Max constrangido. Quando Max apronta para cima do diretor da escola, Roxanne, a garota de seus sonhos, finalmente o nota e ele a convida para sair. Pateta está convencido que precisa fazer uma viagem com o filho para se aproximarem, o que atrapalha os planos de Max com Roxanne.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
