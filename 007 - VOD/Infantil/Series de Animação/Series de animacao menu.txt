@@ -7,9 +7,9 @@
 <info>episódios da série de animação Pequenas Fábulas, a qual utiliza a estética tradicional do teatro de sombras para abordar importantes lições e valores éticos presentes no universo das fábulas.</info></channel>
 
 <channel><name>[B][COLOR white]Garfields[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/kJTR4HR/2052301bbf6dbf55958485c684a46f279f0aecaa.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/Garfield/2.txt</externallink>
+<fanart>https://i.ibb.co/GtztQ4R/download-1.jpg</fanart>
 <info>Jon Arbuckle é um solteirão convicto que está sempre metido em trapalhadas. Garfield é seu gato muito preguiçoso, que adora lasanha e vive aprontando com Odie, o cão da casa.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
