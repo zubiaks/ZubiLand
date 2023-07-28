@@ -1,4 +1,28 @@
 
+<item><title>[B]Garfield's Feline Fantasies (TV Short 1990)[/B]</title>
+<link>https://archive.org/download/garfield-e-suas-9-vidas/As%20Fantasias%20Felinas%20Do%20Garfield.ia.mp4</link>
+<thumbnail>https://i.ibb.co/D46y8Rn/MV5-BNz-Y3-ZDE5-MTYt-ZDdl-OS00-MTZj-LWJi-MTIt-NGQ4-MTdl-NDYx-Mz-Nk-Xk-Ey-Xk-Fqc-Gde-QXVy-NTM3-MDMy-M.jpg</thumbnail>
+<fanart>https://i.ibb.co/XtR1nF1/61-QTYEJ699-L-AC-UF1000-1000-QL80.jpg</fanart>
+<info>Garfield's Feline Fantasies é um especial de animação para a televisão americana de 1990 baseado na história em quadrinhos de Garfield e é produzido pela Film Roman, United Media/Mendelson e Paws, Inc. Mais uma vez, apresentou Lorenzo Music como a voz de Garfield.</info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
