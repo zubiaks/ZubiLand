@@ -1,15 +1,15 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Gladiformers Os Novo Transformers[/B]</title>
+<link>https://archive.org/download/gladiformers-1-pt-br-version/Gladiformers%201%20%28PT-BR%20version%29.mp4</link>
+<thumbnail>https://i.ibb.co/KqDM76c/Gladiformers.jpg</thumbnail>
+<fanart>https://i.ibb.co/zb7RTw3/sddefault.jpg</fanart>
+<info>A Arena de Centuris é palco das lutas mais brutais entre potentes robôs gladiadores, os Gladiformers, que lutam para sobreviverem diante das apostas ferrenhas dos Sopremobots. Mas quando o príncipe regente, Julius Drive, é obrigado a participar nas terriveis batalhas, a realidade destes carros, que se transformam em robôs pode mudar. Para isso, Julius Drive, terá de confrontar poderosos adversários, incluindo o seu principal rival ao trono, o grande camião Magnum Tutor. Cheio de lances incriveis e arriscados, os Gladiformers irão surpreender todos. Lutem!</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Gladiformers 2[/B]</title>
+<link>https://archive.org/download/gladiformers-2-prbt/gladiformers2%20prbt.mp4</link>
+<thumbnail>https://i.ibb.co/vcvSD2n/8-D73-AB5-F-4820-4421-96-B5-DDA5-A87-B5-F67.webp</thumbnail>
+<fanart>https://i.ibb.co/qYnVgBP/81r3c-Y5-TUOL-AC-UF1000-1000-QL80.jpg</fanart>
+<info>Eles foram reconfigurados. Sua energia é mais intensa. As lutas, ainda mais emocionantes. E as transformações, inacreditáveis. Em um grande circuito de arenas, os inimigos Julius Drive e Magnum Tutor se unem para salvar sua espécie e a princesa.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
