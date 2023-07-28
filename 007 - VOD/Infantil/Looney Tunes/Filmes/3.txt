@@ -1,9 +1,10 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Pernalonga E Patolino Os Caça Fantasmas[/B]</title>
+<link>https://archive.org/download/PernalongaEPatolinoOsCacaFantasmas/Pernalonga%20e%20Patolino%20-%20Os%20Ca%C3%A7a%20Fantasmas.mp4</link>
+<thumbnail>https://i.ibb.co/x5XfrJ8/pernalonga-e-patolino-em-os-caca-fantasmas.jpg</thumbnail>
+<fanart>https://i.ibb.co/52Zr75s/maxresdefault.jpg</fanart>
+<info>Um velho e rico senhor deixa sua fortuna pra Patolino, mas ele teria que ser honesto e usar seu dinheiro para o bem! Então o pato decide se aventurar abrindo uma empresa para exterminar almas penadas. E como ajudantes, contrata Pernalonga e Gaguinho.
+Quackbusters Daffy Duck é um filme/animação de 1988 da Looney Tunes com uma compilação de clássicos da Warner Bros Desenhos animados e sequências de transição, estrelado por Patolino.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
