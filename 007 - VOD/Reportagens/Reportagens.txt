@@ -6,7 +6,7 @@
 <fanart>https://i.ibb.co/gtmGGM5/img-432x243-2021-03-15-17-29-19-1020608.jpg</fanart>
 <info>A CMTV é um canal de TV fechado português, associado ao diário Correio da Manhã. É um canal generalista com um forte cunho informativo, neste caso de caráter sensacionalista. As emissões do canal tiveram início em 17 de março de 2013</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]SIC[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/7b3NFxN/sic-azul-400x400.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Reportagens/Sic/SIC.txt</externallink>
 <fanart>https://i.ibb.co/gZP9wNn/mw-960.webp</fanart>
