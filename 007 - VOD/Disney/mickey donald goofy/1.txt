@@ -1,9 +1,9 @@
 <channels>
 
 <channel><name>[B][COLOR white]Pateta[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/njnPP9g/download-1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Disney/mickey%20donald%20goofy/Pateta/2.txt</externallink>
+<fanart>https://i.ibb.co/mCy8PLw/image-8u5d.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
