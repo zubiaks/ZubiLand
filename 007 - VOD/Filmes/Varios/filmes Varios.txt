@@ -215,11 +215,11 @@
 <fanart>https://i.ibb.co/HYkgMvj/97a3bdc587fe5bc91c167c5a44e853ef11229ce36bde0440169bb932afb99272-UR1920-1080.jpg</fanart>
 <info>No ano de 2154, os mais ricos vivem em uma estação espacial enquanto o resto da população mora em uma Terra arruinada. Um homem assume a missão de tentar trazer igualdade aos mundos polarizados.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Chappie (2015)[/B]</title>
+<link>https://archive.org/download/elysium-2013-wolverdonfilmes.com/Chappie%20%282015%29%20720p%20Dublado%20-%20Alan_680.mp4</link>
+<thumbnail>https://i.ibb.co/5kXhGbz/DP-2274037-Chappie-2015-1400x2100-US-0.jpg</thumbnail>
+<fanart>https://i.ibb.co/gJtTXbj/MV5-BMTA0-MDg3-Nz-Az-Nzle-QTJe-QWpw-Z15-Bb-WU4-MDgw-OTQw-Nj-Qx-V1.jpg</fanart>
+<info>Em um futuro próximo, policiais humanos são substituídos por robôs ultrarresistentes, dotados de inteligência artificial. Deon, o cientista criador das máquinas, rouba um modelo defeituoso e consegue fazer com que ele tenha a capacidade de sentir e pensar por si próprio. Porém, as autoridades começam a ver Chappie como um perigo para a humanidade e ordem e vão fazer de tudo para garantir que ele seja o último de sua espécie.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
