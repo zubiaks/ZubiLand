@@ -36,7 +36,7 @@
 <fanart>https://i.ibb.co/tPrVc8F/O-Rei-Le-o-diferen-as-capa-890x466.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Meet the Robinsons[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
