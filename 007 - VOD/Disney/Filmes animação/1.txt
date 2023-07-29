@@ -37,12 +37,12 @@
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Meet the Robinsons[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<thumbnail>https://i.ibb.co/Snppb3J/Meet-the-robinsons.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Disney/Filmes%20anima%C3%A7%C3%A3o/Meet%20the%20Robinsons/3.txt</externallink>
+<fanart>https://i.ibb.co/CMFW9k4/MV5-BOTk3-MTEw-NDU3-OF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-ODI2-MDIy-Nw-V1.jpg</fanart>
+<info>Lewis é um gênio que perde as esperanças de encontrar sua invenção mais recente, que foi roubada por Bowler Hat Guy. Porém para sua surpresa, o jovem Wilbur Robinson chega para levá-lo a um passeio em sua máquina do tempo. Os garotos passam um dia no futuro com a família excêntrica de Wilbur e acabam descobrindo um segredo.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]o corcunda de notre dame[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>

@@ -1,8 +1,8 @@
 
-<item><title>[B]meet the robinsons[/B]</title>
-<link>https://archive.org/download/o.-corcunda.de.-notre.-dame.-1996.720p.-blu-ray.x-264.-dublado-www.-bludv.-tv/A%20Fam%C3%ADlia%20do%20Futuro%20720p%20-%20Filmes%20Beta.mp4</link>
-<thumbnail>https://i.ibb.co/028FBDV/p-meettherobinsons-19888-f2779370.jpg</thumbnail>
-<fanart>https://i.ibb.co/S5S8sZ7/scale.jpg</fanart>
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <info></info></item>
 
 <item><title>[B][/B]</title>
