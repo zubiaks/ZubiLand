@@ -1,15 +1,15 @@
 <channels>
 
-<channel><name>[B][COLOR white]Sítio do Picapau Amarelo S1[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/yPk63w8/MV5-BM2-U0-NWJj-Yzgt-MTJh-NS00-NTZh-LWJm-Nm-It-Mzg0-Yj-Bi-NGZj-Yjkz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTU1-OTAw.jpg</thumbnail>
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
 <externallink></externallink>
-<fanart>https://i.ibb.co/qmscXwZ/sitio.jpg</fanart>
+<fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white]Sítio do Picapau Amarelo S2[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/pL1pZ81/images.jpg</thumbnail>
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
 <externallink></externallink>
-<fanart>https://i.ibb.co/K5WnT3j/sitio-pica-pau.jpg</fanart>
+<fanart></fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>

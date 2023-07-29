@@ -18,10 +18,10 @@
 <fanart>https://i.ibb.co/VCYgLGj/FT8-IVIUWAAAW3a4.jpg</fanart>
 <info>Les Zinzins de l'espace é uma série de animação francesa de duas temporadas e 104 episódios, criada por Jean-Yves Raimbaud e Philippe Traversat. As etapas de produção da primeira temporada tiveram início nos estúdios da Gaumont em 1996.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Sítio do Picapau Amarelo[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/XFy5XNC/8744569932-52da59136b-z.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/S%C3%ADtio%20do%20Picapau%20Amarelo/1.txt</externallink>
+<fanart>https://i.ibb.co/wC5PWMJ/maxresdefault.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
