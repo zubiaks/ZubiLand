@@ -2,13 +2,13 @@
 
 <channel><name>[B][COLOR white]Sítio do Picapau Amarelo S1[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/yPk63w8/MV5-BM2-U0-NWJj-Yzgt-MTJh-NS00-NTZh-LWJm-Nm-It-Mzg0-Yj-Bi-NGZj-Yjkz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTU1-OTAw.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/S%C3%ADtio%20do%20Picapau%20Amarelo/S1/eps.txt</externallink>
 <fanart>https://i.ibb.co/qmscXwZ/sitio.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Sítio do Picapau Amarelo S2[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/pL1pZ81/images.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/S%C3%ADtio%20do%20Picapau%20Amarelo/S2/eps.txt</externallink>
 <fanart>https://i.ibb.co/K5WnT3j/sitio-pica-pau.jpg</fanart>
 <info></info></channel>
 
