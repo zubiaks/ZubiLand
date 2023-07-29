@@ -41,11 +41,11 @@
 <fanart>https://i.ibb.co/VCcfYZ1/download-2.jpg</fanart>
 <info>Vesemir é um jovem bruxo convencido que caça criaturas por dinheiro. Um dia ele se depara com um novo e misterioso poder que o força a enfrentar demônios do passado e acaba descobrindo que alguns trabalhos são mais importantes do que o dinheiro.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Hotel Transilvânia 4[/B]</title>
+<link>https://archive.org/download/hotel-transilvania-4-transformonstrao/Hotel%20Transilv%C3%A2nia%204%20Transformonstrao.mp4</link>
+<thumbnail>https://i.ibb.co/L6tkmRB/4018641.jpg</thumbnail>
+<fanart>https://i.ibb.co/54G6hmg/download-1.jpg</fanart>
+<info>A nova invenção de Van Helsing transforma Drac e os amigos em humanos, e Johnny em um monstro. Agora, Drac deve encontrar uma maneira de reverter o feitiço antes que a mudança se torne permanente.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>

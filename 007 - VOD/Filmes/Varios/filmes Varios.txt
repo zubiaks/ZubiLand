@@ -221,11 +221,11 @@
 <fanart>https://i.ibb.co/gJtTXbj/MV5-BMTA0-MDg3-Nz-Az-Nzle-QTJe-QWpw-Z15-Bb-WU4-MDgw-OTQw-Nj-Qx-V1.jpg</fanart>
 <info>Em um futuro próximo, policiais humanos são substituídos por robôs ultrarresistentes, dotados de inteligência artificial. Deon, o cientista criador das máquinas, rouba um modelo defeituoso e consegue fazer com que ele tenha a capacidade de sentir e pensar por si próprio. Porém, as autoridades começam a ver Chappie como um perigo para a humanidade e ordem e vão fazer de tudo para garantir que ele seja o último de sua espécie.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Mainstream (2020)[/B]</title>
+<link>https://archive.org/download/mainstream-2021-bluray-720p/Mainstream%202021%20Bluray%20720p.mp4</link>
+<thumbnail>https://i.ibb.co/gJwQjXQ/ems.jpg</thumbnail>
+<fanart>https://i.ibb.co/kKKnMbs/mainstream-1.webp</fanart>
+<info>Uma jovem acha que encontrou seu caminho para a fama na internet quando começa a fazer vídeos no Youtube com um estranho carismático, até que o lado sombrio da celebridade viral ameaça arruiná-los.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
