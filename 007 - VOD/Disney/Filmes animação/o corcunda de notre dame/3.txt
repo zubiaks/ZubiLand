@@ -1,9 +1,9 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]o corcunda de notre dame[/B]</title>
+<link>https://archive.org/download/o.-corcunda.de.-notre.-dame.-1996.720p.-blu-ray.x-264.-dublado-www.-bludv.-tv/O.Corcunda.de.Notre.Dame.1996.720p.BluRay.x264.DUBLADO-WWW.BLUDV.TV.mp4</link>
+<thumbnail>https://i.ibb.co/nMsk0Mp/Ocorcundadenotredame.webp</thumbnail>
+<fanart>https://i.ibb.co/vmD6HKV/scale-1.jpg</fanart>
+<info>Um corcunda que toca os sinos da Catedral de Notre Dame, no século 15, em Paris, se apaixona por uma cigana e deve enfrentar a irá de um juiz com más intenções.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>

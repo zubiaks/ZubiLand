@@ -203,16 +203,17 @@
 <fanart>https://i.ibb.co/fqQCcnJ/b9f4666de35e39f5bd9c14bcc11d6c405838b61fa72de3d3f66b680081cdcc55-UY500-UX667-RI-TTW.jpg</fanart>
 <info>Sherman Klump é um professor universitário com grandes conhecimentos de genética, mas que sempre foi ridicularizado por ser extremamente gordo. Porém, quando recebe uma atenção especial de uma bela e jovem professora de matemática, ele decide ingerir uma poção ainda em fase de testes, que altera a cadeia de DNA e faz com que se transforme em um bonitão esbelto, Buddy Love. A partir de então, Sherman passa a levar uma vida dupla, pois o experimento tem um efeito que dura pouco tempo.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Glass (2019)[/B]</title>
+<link>https://archive.org/download/o.-corcunda.de.-notre.-dame.-1996.720p.-blu-ray.x-264.-dublado-www.-bludv.-tv/Vidro.2019.1080p.BluRay.x264.DUBLADO-WWW.BLUDV.TV.mp4</link>
+<thumbnail>https://i.ibb.co/qr551pL/unnamed.jpg</thumbnail>
+<fanart>https://i.ibb.co/H2wnBxh/download.jpg</fanart>
+<info>Kevin Crumb, um homem com 24 personalidades diferentes, passa a ser perseguido por David Dunn. O jogo de gato e rato entre o homem inquebrável e a Fera é influenciado pela presença de Elijah Price, que manipula seus encontros.</info></item>
+
+<item><title>[B]elysium (2013)[/B]</title>
+<link>https://archive.org/download/a-era-do-gelo-as-aventuras-de-buck-2022-web-dl-1080p-dual-5.1_202202/Elysium%20%282013%29%20-%20wolverdonfilmes.com.ia.mp4</link>
+<thumbnail>https://i.ibb.co/K9FX73C/918z-XXTsaj-L-AC-UF894-1000-QL80.jpg</thumbnail>
+<fanart>https://i.ibb.co/HYkgMvj/97a3bdc587fe5bc91c167c5a44e853ef11229ce36bde0440169bb932afb99272-UR1920-1080.jpg</fanart>
+<info>No ano de 2154, os mais ricos vivem em uma estação espacial enquanto o resto da população mora em uma Terra arruinada. Um homem assume a missão de tentar trazer igualdade aos mundos polarizados.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
