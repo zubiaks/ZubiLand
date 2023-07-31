@@ -43,11 +43,11 @@
 <fanart>https://i.ibb.co/fH6DCdH/download.jpg</fanart>
 <info>Ele se passa por um magnata do ramo dos diamantes e conquista mulheres na internet com uma identidade falsa. Tudo isso para dar um golpe milionário nas moças. Mas algumas de suas vítimas não aceitam o que aconteceu e querem justiça.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Bitcoin: The End of Money as We Know It (2015)[/B]</title>
+<link>https://archive.org/download/BitcoinAMoedaDigitalTheEndOfMoneyAsWeKnowItCanalOdissea/Bitcoin%2C%20A%20Moeda%20Digital%2C%20The%20end%20of%20money%20as%20we%20know%20it%2C%20Canal%20Odissea.mp4</link>
+<thumbnail>https://i.ibb.co/CQjv5YP/OIP.jpg</thumbnail>
+<fanart>https://i.ibb.co/R4n3NJw/R.jpg</fanart>
+<info>Para quem ainda não entendeu totalmente o polêmico Bitcoin, este é um curso intensivo conciso e informativo sobre Dinheiro e Criptomoedas.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
