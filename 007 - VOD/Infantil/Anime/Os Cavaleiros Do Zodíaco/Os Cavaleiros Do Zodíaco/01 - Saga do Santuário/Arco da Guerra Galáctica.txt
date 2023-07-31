@@ -1,47 +1,29 @@
 
-<item><title>[B][/B]</title>
+<item><title>[B]S01E01 Os Cavaleiros do Zodíaco - As Lendas de Uma Nova Era[/B]</title>
+<link>https://archive.org/download/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S01/%5BS01.E01%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20As%20Lendas%20de%20Uma%20Nova%20Era.mp4</link>
+<thumbnail>https://i.ibb.co/rHwKPKt/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+<info>Consta-se que os Cavaleiros aparecem quando o mundo é ameaçado pelo mal. No Oriente, Saori Kido, neta de Mitsumasa Kido, está comandando a Guerra Galáctica, o maior torneio da história, que seu avô idealizara há anos. O torneio premiará o vencedor com a sagrada Armadura de Ouro de Sagitário. A primeira luta é entre Jabu de Unicórnio e Ban de Leão Menor. No Santuário, na Grécia, Seiya, que se submeteu a seis duros anos de treinamento com sua mestra, Marin, desperta seu cosmo e derrota Cassios, conquistando a Armadura de Bronze de Pégaso, a maior prova de que é um Cavaleiro. Antes de retornar para o Japão, o Cavaleiro ainda enfrenta a Amazona Shaina de Ofiúco. Na ocasião, Seiya destrói a máscara da guerreira e vê seu rosto.</info></item>
+
+<item><title>[B]S01E02 Os Cavaleiros do Zodíaco - Quando Seiya veste a Armadura de Pégaso[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S01E03 Os Cavaleiros Do Zodíaco - Cisne, O Guerreiro Do Gelo[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S01E04 Os Cavaleiros do Zodíaco - O invencível golpe do dragão[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
+<item><title>[B]S01E05 Os Cavaleiros do Zodíaco - A Ressurreição do Dragão[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
