@@ -12,6 +12,66 @@
 <fanart>https://i.ibb.co/dJ5LgKf/2884-42657-61676.webp</fanart>
 <info></info></channel>
 
+<channel><name>[B][COLOR white]Filmes Brasil[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/L02p5yZ/a78f2f1da395c13e6f6cc5573fe12fa0.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/Filmes%20Brasil/1.txt</externallink>
+<fanart>https://i.ibb.co/MRwN2My/download.jpg</fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>

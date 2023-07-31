@@ -1,58 +1,144 @@
-<channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<item><title>[B]A Maldição do Sanpaku (1991)[/B]</title>
+<link>https://archive.org/download/a-maldicao-do-sanpaku-1991_202202/A%20Maldi%C3%A7%C3%A3o%20do%20Sanpaku%20%281991%29.mp4</link>
+<thumbnail>https://i.ibb.co/Sdppycn/MV5-BNjlm-ZWI3-MTMt-Ym-Jj-OC00-Zj-A0-LWE5-Zj-Et-Yjk0-MDRi-ZGMx-Nz-I3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI0-Nzk5.jpg</thumbnail>
+<fanart>https://i.ibb.co/zN2KQ2H/download-1.jpg</fanart>
+<info>Integrante de quadrilha rouba uma pedra preciosa e passa a ser perseguido por seu chefe violento, disposto a qualquer coisa para recuperar sua fortuna. Ciente dos riscos que corre, o ladrão envolve sua namorada e seu melhor amigo no golpe.</info></item>
+
+<item><title>[B]Cidade Oculta (1986)[/B]</title>
+<link>https://archive.org/download/cidade-oculta-1986/Cidade%20Oculta%20%281986%29.mp4</link>
+<thumbnail>https://i.ibb.co/pzYLPkX/MV5-BM2-Ey-Mjhk-ZGMt-MGIw-ZS00-YWY2-LTky-Nzct-N2-Zm-Mm-Qz-NGIz-Zm-Q0-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-U0-Nzk.jpg</thumbnail>
+<fanart>https://i.ibb.co/BjX8Whf/MV5-BODE1-ZDlm-NWUt-Y2-Mz-Zi00-ZTFj-LWI5-ZDAt-Mz-Ix-ZTJm-OGEw-Mzc5-Xk-Ey-Xk-Fqc-Gde-QXVy-ODMy-Mzg4-N.jpg</fanart>
+<info>Depois de cumprir pena de sete anos na cadeia, Anjo reencontra seu antigo comparsa, agora chefe de uma organização, e se envolve com Shirley Sombra, estrela do submundo. Ele também arruma inimizade com um policial corrupto.</info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
-<externallink></externallink>
 <fanart></fanart>
-<info></info></channel>
+<info></info></item>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
-<externallink></externallink>
 <fanart></fanart>
-<info></info></channel>
+<info></info></item>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
-<externallink></externallink>
 <fanart></fanart>
-<info></info></channel>
+<info></info></item>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
-<externallink></externallink>
 <fanart></fanart>
-<info></info></channel>
+<info></info></item>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
-<externallink></externallink>
 <fanart></fanart>
-<info></info></channel>
+<info></info></item>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
-<externallink></externallink>
 <fanart></fanart>
-<info></info></channel>
+<info></info></item>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
-<externallink></externallink>
 <fanart></fanart>
-<info></info></channel>
+<info></info></item>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
-<externallink></externallink>
 <fanart></fanart>
-<info></info></channel>
+<info></info></item>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
-<externallink></externallink>
 <fanart></fanart>
-<info></info></channel>
+<info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
 
-</channels>
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
