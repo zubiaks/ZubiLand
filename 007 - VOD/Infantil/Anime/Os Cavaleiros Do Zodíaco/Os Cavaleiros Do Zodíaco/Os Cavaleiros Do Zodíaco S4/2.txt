@@ -1,10 +1,16 @@
 <channels>
 
-<channel><name>[B][COLOR white]Os Cavaleiros Do Zodíaco[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/HKgrBnz/download.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Os%20Cavaleiros%20Do%20Zod%C3%ADaco/Os%20Cavaleiros%20Do%20Zod%C3%ADaco/1.txt</externallink>
-<fanart>https://i.ibb.co/Ct8s4sQ/Os-Cavaleiros-do-Zod-aco.webp</fanart>
-<info>Seiya, um obstinado adolescente de rua, passa seu tempo lutando por dinheiro enquanto procura por sua irmã sequestrada. Quando uma de suas lutas inadvertidamente desperta poderes místicos que ele nunca soube que tinha, Seiya se vê lançado em um mundo de santos guerreiros, treinamento mágico antigo e uma deusa reencarnada que precisa de sua proteção. Se ele quiser sobreviver, precisará abraçar seu destino e sacrificar tudo para ocupar seu lugar de direito entre os Cavaleiros do Zodíaco.</info></channel>
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
