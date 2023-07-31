@@ -6,25 +6,32 @@
 <info>Consta-se que os Cavaleiros aparecem quando o mundo é ameaçado pelo mal. No Oriente, Saori Kido, neta de Mitsumasa Kido, está comandando a Guerra Galáctica, o maior torneio da história, que seu avô idealizara há anos. O torneio premiará o vencedor com a sagrada Armadura de Ouro de Sagitário. A primeira luta é entre Jabu de Unicórnio e Ban de Leão Menor. No Santuário, na Grécia, Seiya, que se submeteu a seis duros anos de treinamento com sua mestra, Marin, desperta seu cosmo e derrota Cassios, conquistando a Armadura de Bronze de Pégaso, a maior prova de que é um Cavaleiro. Antes de retornar para o Japão, o Cavaleiro ainda enfrenta a Amazona Shaina de Ofiúco. Na ocasião, Seiya destrói a máscara da guerreira e vê seu rosto.</info></item>
 
 <item><title>[B]S01E02 Os Cavaleiros do Zodíaco - Quando Seiya veste a Armadura de Pégaso[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<link>https://archive.org/download/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S01/%5BS01.E02%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Quando%20Seiya%20veste%20a%20Armadura%20de%20P%C3%A9gaso.mp4</link>
+<thumbnail>https://i.ibb.co/QpnFhg1/maxresdefault-1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Seiya entra pro torneio galático (visando ser visto por sua irmã, Seika) e vence Geki de Urso na sua primeira batalha.</info></item>
 
 <item><title>[B]S01E03 Os Cavaleiros Do Zodíaco - Cisne, O Guerreiro Do Gelo[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<link>https://archive.org/download/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S01/%5BS01.E03%5D%20Os%20Cavaleiros%20Do%20Zod%C3%ADaco%20-%20Cisne%2C%20O%20Guerreiro%20Do%20Gelo.mp4</link>
+<thumbnail>https://i.ibb.co/nB77Qj5/003.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Hyoga chega pra participar do torneio, e vence Ichi de Hidra em sua primeira batalha.</info></item>
 
 <item><title>[B]S01E04 Os Cavaleiros do Zodíaco - O invencível golpe do dragão[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<link>https://archive.org/download/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S01/%5BS01.E04%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20O%20invenc%C3%ADvel%20golpe%20do%20drag%C3%A3o.mp4</link>
+<thumbnail>https://i.ibb.co/ScdN0Hw/OIP.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Seiya inicia sua segunda batalha, desta vez contra Shiryu de Dragão; Seiya consegue enganar Shiryu e o faz destruir sua defesa impenetrável; agora, os dois continuam a luta desprotegidos.
+</info></item>
 
 <item><title>[B]S01E05 Os Cavaleiros do Zodíaco - A Ressurreição do Dragão[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<link>https://archive.org/download/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S01/%5BS01.E05%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Epis%C3%B3dio.mp4</link>
+<thumbnail>https://i.ibb.co/9wGtjFQ/os-cavaleiros-do-zodiaco-episodio-5-300x225.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Seiya vence Shiryu, mas, este corre risco de vida e Seiya tenta fazer seu coração parar de bater.</info></item>
+
+<item><title>[B]S01E06 Os Cavaleiros do Zodíaco - Fênix, o guerreiro que voltou do inferno[/B]</title>
+<link>https://archive.org/download/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S01/%5BS01.E06%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20F%C3%AAnix%2C%20o%20guerreiro%20que%20voltou%20do%20inferno.mp4</link>
+<thumbnail>https://i.ibb.co/jDnmV4T/OIP-1.jpg</thumbnail>
+<fanart></fanart>
+<info>Shun de Andrômeda, enfrenta Jabu de Unicórnio, mas, a batalha é interrompida por seu irmão, Ikki de Fênix, que aparenta não ter boas intensões.</info></item>
