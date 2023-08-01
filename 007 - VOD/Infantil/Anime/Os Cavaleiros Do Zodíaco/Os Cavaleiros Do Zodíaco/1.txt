@@ -18,11 +18,11 @@
 <fanart>https://i.ibb.co/tDRhBhB/A-NEBULOSA-DE-ANDR3-F-O-DA-COSMO-ENERGIA-DE-SHUN.webp</fanart>
 <info>Após derrotarem Ikki e seus Cavaleiros Negros, os Cavaleiros de Bronze são atacados por outros Cavaleiros enviados pelo Santuário para recuperar a máscara da Armadura de Ouro.</info></channel>
 
-<channel><name>[B][COLOR white]Os Cavaleiros Do Zodíaco S4[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Saga do Santuário - Cavaleiros de Prata[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/9NDZcDq/Arco-dos-Cavaleiros-de-Prata.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Os%20Cavaleiros%20Do%20Zod%C3%ADaco/Os%20Cavaleiros%20Do%20Zod%C3%ADaco/01%20-%20Saga%20do%20Santu%C3%A1rio/Arco%20dos%20Cavaleiros%20de%20Prata.txt</externallink>
+<fanart>https://i.ibb.co/Wcnpr3H/download-2.jpg</fanart>
+<info>Os Cavaleiros de Prata são enviados para punir os Cavaleiros de Bronze, que traíram as regras do Santuário ao travarem lutas por interesses particulares, e destruir o Coliseu Graad. Começa a luta bronze vs. prata em nome de Atena!</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
