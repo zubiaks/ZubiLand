@@ -1,6 +1,6 @@
 <channels>
 
-<channel><name>[B][COLOR white]Saga do Santuário - Arco Guerra Galáctica[/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Saga do Santuário - Guerra Galáctica[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/s3KXD7j/Arco-da-Guerra-Gal-ctica.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Os%20Cavaleiros%20Do%20Zod%C3%ADaco/Os%20Cavaleiros%20Do%20Zod%C3%ADaco/01%20-%20Saga%20do%20Santu%C3%A1rio/Arco%20da%20Guerra%20Gal%C3%A1ctica.txt</externallink>
 <fanart>https://i.ibb.co/0cWnzZc/hqdefault.jpg</fanart>
@@ -12,11 +12,11 @@
 <fanart>https://i.ibb.co/d61SrDj/R.jpg</fanart>
 <info>Inicia-se a dura batalha entre os Cavaleiros de Bronze entre os Cavaleiros Negros pela recuperação das nove partes da Armadura de Ouro. Mesmo feridos, Seiya e os outros Cavaleiros de Bronze derrotam os Cavaleiros Negros, mas Ikki surge para detê-los. Fênix é poderoso mesmo lutando sozinho, mas o poder da amizade dos quatro Cavaleiros de Bronze faz acontecer um milagre...</info></channel>
 
-<channel><name>[B][COLOR white]Os Cavaleiros Do Zodíaco S3[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Saga do Santuário - Forças Ocultas no Santuário[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/RSVDkTK/Ares-Atacando.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Os%20Cavaleiros%20Do%20Zod%C3%ADaco/Os%20Cavaleiros%20Do%20Zod%C3%ADaco/01%20-%20Saga%20do%20Santu%C3%A1rio/Arco%20das%20For%C3%A7as%20Ocultas%20no%20Santu%C3%A1rio.txt</externallink>
+<fanart>https://i.ibb.co/tDRhBhB/A-NEBULOSA-DE-ANDR3-F-O-DA-COSMO-ENERGIA-DE-SHUN.webp</fanart>
+<info>Após derrotarem Ikki e seus Cavaleiros Negros, os Cavaleiros de Bronze são atacados por outros Cavaleiros enviados pelo Santuário para recuperar a máscara da Armadura de Ouro.</info></channel>
 
 <channel><name>[B][COLOR white]Os Cavaleiros Do Zodíaco S4[/COLOR][/B]</name>
 <thumbnail></thumbnail>
