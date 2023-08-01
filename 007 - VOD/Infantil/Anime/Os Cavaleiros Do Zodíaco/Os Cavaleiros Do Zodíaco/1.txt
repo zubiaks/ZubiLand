@@ -6,11 +6,11 @@
 <fanart>https://i.ibb.co/0cWnzZc/hqdefault.jpg</fanart>
 <info>O Arco da Guerra Galáctica é o primeiro Arco da série Os Cavaleiros do Zodíaco e o primeiro Arco da Saga do Santuário. Neste Arco são apresentados os Cavaleiros, os conceitos do Cosmo, os personagens principais, bem como a introdução da historia de Atena.</info></channel>
 
-<channel><name>[B][COLOR white]Os Cavaleiros Do Zodíaco S2[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Saga do Santuário - Os Cavaleiros Negros[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/hcP8wFN/Arco-dos-Cavaleiros-Negros.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Os%20Cavaleiros%20Do%20Zod%C3%ADaco/Os%20Cavaleiros%20Do%20Zod%C3%ADaco/01%20-%20Saga%20do%20Santu%C3%A1rio/Arco%20dos%20Cavaleiros%20Negros.txt</externallink>
+<fanart>https://i.ibb.co/d61SrDj/R.jpg</fanart>
+<info>Inicia-se a dura batalha entre os Cavaleiros de Bronze entre os Cavaleiros Negros pela recuperação das nove partes da Armadura de Ouro. Mesmo feridos, Seiya e os outros Cavaleiros de Bronze derrotam os Cavaleiros Negros, mas Ikki surge para detê-los. Fênix é poderoso mesmo lutando sozinho, mas o poder da amizade dos quatro Cavaleiros de Bronze faz acontecer um milagre...</info></channel>
 
 <channel><name>[B][COLOR white]Os Cavaleiros Do Zodíaco S3[/COLOR][/B]</name>
 <thumbnail></thumbnail>

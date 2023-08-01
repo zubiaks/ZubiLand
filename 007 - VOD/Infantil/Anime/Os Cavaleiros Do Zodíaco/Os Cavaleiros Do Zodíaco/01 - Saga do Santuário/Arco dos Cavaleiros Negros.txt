@@ -1,48 +1,54 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S01E07 Os Cavaleiros do Zodíaco - A vingança do Cavaleiro Fênix[/B]</title>
+<link>https://archive.org/download/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S01/%5BS01.E07%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20A%20vingan%C3%A7a%20do%20Cavaleiro%20F%C3%AAnix.mp4</link>
+<thumbnail>https://i.ibb.co/Wp87Yjc/OIP-2.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S01E08 Os Cavaleiros do Zodíaco - À procura da armadura de ouro[/B]</title>
+<link>https://archive.org/download/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S01/%5BS01.E08%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20%C3%80%20procura%20da%20armadura%20de%20ouro.mp4</link>
+<thumbnail>https://i.ibb.co/3cPr37G/images.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S01E09 Os Cavaleiros do Zodíaco - Os Cavaleiros do Apocalipse[/B]</title>
+<link>https://archive.org/download/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S01/%5BS01.E09%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Os%20Cavaleiros%20do%20Apocalipse.mp4</link>
+<thumbnail>https://i.ibb.co/nw98LsW/legiao-p-Lr5-Kg9ny-U1-Ff-XEJQ8-NVb-Hk-MAGzxe2-Scu-dv-Ws-Blo-Y-png.webp</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S01E10 Os Cavaleiros do Zodíaco - O túmulo das Armaduras Sagradas[/B]</title>
+<link>https://archive.org/download/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S01/%5BS01.E10%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20O%20t%C3%BAmulo%20das%20Armaduras%20Sagradas.mp4</link>
+<thumbnail>https://i.ibb.co/ZNVgzxP/download.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S01E11 Os Cavaleiros do Zodíaco - Seiya enfrenta o Pégaso Negro[/B]</title>
+<link>https://archive.org/download/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S01/%5BS01.E11%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Seiya%20enfrenta%20o%20P%C3%A9gaso%20Negro.mp4</link>
+<thumbnail>https://i.ibb.co/dBgCSDT/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S01E12 Os Cavaleiros do Zodíaco - As correntes da amizade[/B]</title>
+<link>https://archive.org/download/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S01/%5BS01.E12%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20As%20correntes%20da%20amizade.mp4</link>
+<thumbnail>https://i.ibb.co/NsvLGSK/images-1.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S01E13 Os Cavaleiros do Zodíaco - As façanhas explosivas[/B]</title>
+<link>https://archive.org/download/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S01/%5BS01.E13%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20As%20fa%C3%A7anhas%20explosivas.mp4</link>
+<thumbnail>https://i.ibb.co/vJWVpv0/download-1.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S01E14 Os Cavaleiros do Zodíaco - A derrota do espírito diabólico[/B]</title>
+<link>https://archive.org/download/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S01/%5BS01.E14%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20A%20derrota%20do%20esp%C3%ADrito%20diab%C3%B3lico.mp4</link>
+<thumbnail>https://i.ibb.co/qjt738T/download-2.jpg</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E15 Os Cavaleiros do Zodíaco - O segredo de Fênix[/B]</title>
+<link>https://archive.org/download/s-01.-e-14-os-cavaleiros-do-zodiaco-a-derrota-do-espirito-diabolico_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S01/%5BS01.E15%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20O%20segredo%20de%20F%C3%AAnix.mp4</link>
+<thumbnail>https://i.ibb.co/LxLXG2y/images-2.jpg</thumbnail>
 <fanart></fanart>
 <info></info></item>
