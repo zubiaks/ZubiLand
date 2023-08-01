@@ -1,47 +1,53 @@
 
-<item><title>[B][/B]</title>
+<item><title>[B]S02E08 Os Cavaleiros do Zodíaco - O anjo da morte[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S02E09 Os Cavaleiros do Zodíaco - O vôo de Pégaso[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S02E10 Os Cavaleiros do Zodíaco - A revelação[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S02E11 Os Cavaleiros do Zodíaco - Os Cavaleiros de Aço[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S02E12 Os Cavaleiros do Zodíaco - O escudo da Medusa[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S02E13 Os Cavaleiros do Zodíaco - O golpe de misericórdia do dragão[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S02E14 Os Cavaleiros do Zodíaco - O sequestro de Saori[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S02E15 Os Cavaleiros do Zodíaco - O cosmo flamejante do amor[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S02E16 Os Cavaleiros do Zodíaco - A fronteira entre a vida e a morte[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
