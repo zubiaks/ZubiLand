@@ -11,59 +11,59 @@
 <fanart></fanart>
 <info>Seiya pede para Shiryu, Hyoga e Shun seguirem em frente enquanto ele luta contra Aldebaran. O Pégaso ataca o Touro com os seus Meteoros de Pégaso e o trio tenta passar, entretanto, todos são facilmente nocauteados pelo Cosmo de Aldebaran, que deixa Shiryu, Hyoga e Shun desmaiados.</info></item>
 
-<item><title>[B]S04E03 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E03 Os Cavaleiros do Zodíaco - Gêmeos, o Labirinto de Luz e Sombra[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E03%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/jhj6BV3/1601128743-f91140c45478cdf7c183b11e7d57252ae52ce06dfac8340144628820af177b16-d-640.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Seiya se defende dos golpes de Aldebaran e consegue cortar o chifre do elmo da Armadura de Touro. Aldebaran se surpreende com o poder e a determinação do Cavaleiro de Pégaso e o deixa passar pela Casa de Touro. Mas, os outros Cavaleiros de Bronze precisam enfrentar Aldebaran, para que ele os deixe passar. Shiryu, Hyoga e Shun atacam juntos e conseguem congelar os braços de Aldebaran que finalmente os permite passar pela Casa de Touro. Os quatro Cavaleiros de Bronze entram na Casa de Gêmeos, mas lá, descobrem que existe um labirinto onde a luz e a sombra são misturados. Toda vez que os quatro Cavaleiros saem da Casa de Gêmeos, eles voltam para a entrada, porém na última vez encontram duas Casas de Gêmeos. Os Cavaleiros de Bronze se separam em duas duplas: Hyoga e Shun entram na casa à esquerda e Seiya e Shiryu entram na casa à direita. Por fim, o Cavaleiro de Ouro de Gêmeos aparece para enfrentar Hyoga e Shun.</info></item>
 
-<item><title>[B]S04E04 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E04 Os Cavaleiros do Zodíaco - Enviados para uma Outra Dimensão[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E04%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/z6qB8jJ/imagem-post045.png</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Hyoga ataca o Cavaleiro de Gêmeos com o Pó de Diamante e depois com o Trovão Aurora Ataque porém, ambos os ataques são devolvidos. Na outra casa, Seiya e Shiryu também encontram o Cavaleiro de Ouro de Gêmeos. Seiya tenta atacá-lo, mas é impedido por Shiryu que graças à sua cegueira, não pode sentir a cosmo energia de Gêmeos e assim, descobre que não existe inimigo algum na frente deles. Desta forma, eles conseguem sair da casa de Gêmeos. No entanto, na outra casa, Hyoga acaba desmaiado, após receber os seus golpes de volta e agora, é a vez de Shun enfrentar Gêmeos. Usando o golpe Outra Dimensão, o Cavaleiro de Gêmeos tenta derrotar Shun, que consegue se salvar graças as suas correntes que se prendem nas pilastras da Casa de Gêmeos. No entanto, Hyoga acaba sendo enviado para outra dimensão. O Cavaleiro de Gêmeos repete seu ataque, mas mais poderoso desta vez. O golpe é tão forte, que parece que Shun não conseguirá resistir.</info></item>
 
-<item><title>[B]S04E05 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E05 Os Cavaleiros do Zodíaco - A Corrente Nebulosa de Andrômeda Ataca Desta Vez[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E05%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/cN6nL7f/46.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Shun está quase sendo mandado para Outra Dimensão quando o Cavaleiro de Gêmeos, que na verdade é o Mestre Ares, é impedido no último momento, por outra cosmo energia. Esse grande poder pertence a Ikki, que está se recuperando dentro de um vulcão. Na Casa de Gêmeos, a ilusão desaparece e Shun tem a opção de sair de lá, mas está preocupado com Hyoga. O Mestre Ares começa a lutar novamente contra Shun e retorna com a ilusão de Gêmeos. O Mestre repete o mesmo ataque e tenta enviar Shun para outra dimensão. Mas nesse momento, Shun desperta o seu cosmo e usando todo seu poder, consegue se proteger dos ataques do inimigo com a Defesa Circular. Em seguida, Shun utiliza o golpe Onda Relâmpago.</info></item>
 
-<item><title>[B]S04E06 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E06 Os Cavaleiros do Zodíaco - O Corajoso Hyoga Descansa em Paz[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E06%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Lr2r7hN/download-1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Camus, o Cavaleiro de Ouro de Aquário, se apresenta para Hyoga na Casa de Libra. Camus é o mestre do Cavaleiro de Cristal e por isso Hyoga o considera como seu mestre também. Foi Camus que salvou Hyoga do golpe Outra Dimensão do Cavaleiro de Gêmeos e assim, o Cisne foi parar na Casa de Libra. No entanto, Camus pede para Hyoga ir embora do Santuário, do contrário irá matá-lo. Hyoga se recusa, pois precisa salvar Atena e também não ataca Camus, por causa do respeito que ele tem com seu mestre. No entanto, Aquário o ataca sem piedade com a intenção de fazê-lo lutar de verdade, mas Hyoga não reage. Como sua última tentativa de provocar o Cisne, Camus usa o seu grande poder para afundar o barco onde Natassia, a mãe falecida de Hyoga, estava sepultada e assim, ela cai a grandes profundidades no mar congelado. Hyoga, furioso, ataca Camus violentamente, porém seus ataques são detidos facilmente pelo Cavaleiro de Aquário, que conhece todas as suas técnicas.</info></item>
 
-<item><title>[B]S04E07 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E07 Os Cavaleiros do Zodíaco - O Dragão Volta do Mundo dos Mortos[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E07%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/p4bQsmC/download-2.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Seiya e Shiryu chegam à Casa de Câncer. Dentro da Casa, eles encontram no chão e nas paredes, cabeças de pessoas mortas. Então, surge Máscara da Morte de Câncer, que explica que essas pessoas foram assassinadas por ele e estão lá na Casa de Câncer, porque representam seus troféus. Shiryu decide lutar sozinho contra Máscara da Morte, enquanto Seiya parte para a Casa de Leão. Shiryu, no entanto, não é páreo para o inimigo e após receber o golpe Ondas do Inferno, acaba sendo enviado para o Yomotsu Hirasaka, a entrada para o Mundo dos Mortos. Com a ajuda de Atena, o espírito de Shiryu consegue voltar ao seu corpo na Casa de Câncer e assim, ele tenta lutar novamente contra Máscara da Morte. Porém, seus ataques não surtem efeito contra o Cavaleiro de Câncer que o envia novamente para o Yomotsu.</info></item>
 
-<item><title>[B]S04E08 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E08 Os Cavaleiros do Zodíaco - Shunrei Reza por Shiryu[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E08%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/ZBnqcZB/download-3.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Shunrei vê uma estrela cadente e começa a rezar por Shiryu, recordando sua infância com ele nos Cinco Picos Antigos de Rozan. Máscara da Morte segue Shiryu até o Yomotsu Hirasaka para garantir que ele não volte novamente. O Cavaleiro de Câncer arrasta o Dragão até o buraco para o mundo dos mortos e tenta jogá-lo lá, mas nessa momento, as Orações de Shunrei irritam o Cavaleiro de Câncer. Usando a sua telecinese, Máscara da Morte joga Shunrei na Cachoeira de Rozan. Shiryu enfurecido, eleva seu Cosmo ao máximo e começa a atacar violentamente o Cavaleiro de Câncer.</info></item>
 
-<item><title>[B]S04E09 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E09 Os Cavaleiros do Zodíaco - Levante-se Dragão[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E09%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Bnk1fPY/download-4.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Shiryu ataca furiosamente Máscara da Morte que se surpreende com o poder do Cavaleiro de Dragão. Porém, seus ataques são inúteis, porque a Armadura de Ouro está protegendo o Câncer. Shiryu volta a ficar em desvantagem e está prestes a ser jogado no buraco para o Mundo dos Mortos por Máscara da Morte. No entanto, Shiryu faz uma última tentativa e ataca a perna de seu inimigo. O golpe tem efeito porque a parte da Armadura que cobria a perna do Câncer é removida. Em seguida, as outras partes da Armadura de Ouro se recusam a proteger o Cavaleiro de Câncer e o abandonam, por ele ser um Cavaleiro mal, que não luta pela justiça. Máscara da Morte se surpreende por aquilo estar acontecendo e entra em desespero. No entanto, Shiryu também retira sua Armadura de Dragão, para que eles lutem nas mesmas condições.</info></item>
 
-<item><title>[B]S04E10 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E10 Os Cavaleiros do Zodíaco - Por Que Leão Tenta Matar Seiya?[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E10%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/BjNbVsQ/download-5.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Seiya encontra Aiolia de Leo na casa de Leo, mas Leo não está disposto a deixá-lo ir, apesar de ter jurado lealdade a Saori e reconhecê-la como Atena. Aiolia está disposta a parar Seiya por todos os meios, então ela o ataca com seu Raio de Tensão. Marin retorna ao Santuário, quando chegou a notícia de que Seiya e os outros Santos de Bronze penetraram nas Doze Casas, mas é interceptado por Jaki, um aspirante a Santo. Para derrotá-lo Marin, ele deve fazer uso de seu cosmos e no final ele cai junto com Jaki em um abismo profundo. Seiya sente o cosmos de Marin e também acende seu cosmos, com o qual ele finalmente consegue se esquivar do ataque de Aiolia e consegue lhe dar um golpe direto.</info></item>
 
-<item><title>[B]S04E11 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E11 Os Cavaleiros do Zodíaco - O Golpe Satânico de Ares[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E11%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/x54yp5T/Saga-usa-o-Sat-Imperial-em-Aiolia.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O golpe recebido por Aiolia, o transforma em um ser maligno. Desta vez, ele ataca Seiya com todo o seu poder e mostra a diferença de níveis. Seiya está praticamente impotente contra os ataques de Aiolia. No meio da luta, Seiya é gravemente ferido na perna, o que piora sua situação. Enquanto isso, Shaina se recupera do ataque de Aiolia no leste. Cássio, seu discípulo, cuida dela. Shaina entre os sonhos nomeia Seiya várias vezes, o que deixa Cássio com ciúmes, que está secretamente apaixonado por ela. Seiya tenta convencer Aiolia a desistir do combate, mas o Santo de Leão continua a atacá-lo impiedosamente. Na aldeia, Cássio descobre que Seiya está na casa de Leo. Shaina eventualmente acorda e descobre a missão de Seiya, mas fica aliviada ao saber que Seiya está com Aiolia. Cassios diz a ele que Aiolia é dominada pelo Satanás Imperial de Kyōkō Ares e não vai parar até que alguém morra diante de seus olhos. Sabendo disso, Shaina tenta ir para as Doze Casas, mas Cassios a impede com um golpe preciso que a deixa inconsciente. Enquanto Aiolia parte para derrubar Seiya.</info></item>
 
 <item><title>[B]S04E12 Os Cavaleiros do Zodíaco - [/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E12%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
