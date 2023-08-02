@@ -30,11 +30,12 @@
 <fanart>https://i.ibb.co/sWwVGXG/cavaleiros-de-ouro-mais-poderosos-f.webp</fanart>
 <info>O Arco dos Cavaleiros de Ouro é o quarto Arco da série Os Cavaleiros do Zodíaco e o quarto Arco da Saga do Santuário. Neste Arco são apresentados os Cavaleiros de Ouro, é revelado que Aiolia é irmão de Aiolos e confirmado que Saori Kido é a reencarnação da deusa Atena no século XX.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Saga do Santuário - Batalha das Doze Casas[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/y0mQDBz/Saint-Seiya-CDZ-Kanzenban-06-Capadura-p.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Os%20Cavaleiros%20Do%20Zod%C3%ADaco/Os%20Cavaleiros%20Do%20Zod%C3%ADaco/01%20-%20Saga%20do%20Santu%C3%A1rio/Arco%20da%20Batalha%20das%20Doze%20Casas.txt</externallink>
+<fanart>https://i.ibb.co/hBqTR6T/images-2.jpg</fanart>
+<info>Os cinco Cavaleiros de Bronze desafiam corajosamente os doze Cavaleiros de Ouro, os mais poderosos de todos os cavaleiros.
+Para salvar Atena, atingida no coração por uma flecha de ouro, Seiya e os outros Cavaleiros de Bronze precisam atravessar as Doze Casas do Zodíaco, derrotando os Cavaleiros de Ouro, e trazer o Grande Mestre para que ele retire a flecha antes que acabem as doze horas.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

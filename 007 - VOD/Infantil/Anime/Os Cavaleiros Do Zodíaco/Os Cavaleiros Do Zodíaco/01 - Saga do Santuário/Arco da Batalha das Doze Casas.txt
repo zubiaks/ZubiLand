@@ -1,192 +1,192 @@
 
-<item><title>[B]S04E01 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S04E01 Os Cavaleiros do Zodíaco - Cosmo Final[/B]</title>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E01%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
+<thumbnail>https://i.ibb.co/GFZRWnM/1601127427-704f6d855b8c5fb694fe62aed86f8ce68aabf9331911c9283f900f04b7e3c034-d-640.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Após receber uma flecha dourada em seu peito, Saori pergunta a si mesma se está morta e tem a impressão de ver a imagem de seu avô Mitsumasa Kido. Saori relembra os tempos em que era uma menina que se divertia obrigando as crianças órfãs da Fundação Graad a fazer tudo que ela quisesse. Mitsumasa explica a pequena Saori que um destino cruel aguarda aqueles pequenos meninos, mas que acredita que eles enfrentarão o destino com muita coragem, assim como sua neta. Ele completa dizendo que o julgamento de Saori poderá ser ainda mais severo comparado ao dos meninos. Portanto, para superar tal destino ela deverá lutar com grande força de vontade cooperando junto a eles.</info></item>
 
-<item><title>[B]S04E02 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S04E02 Os Cavaleiros do Zodíaco - Batalha na Casa de Touro[/B]</title>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E02%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
+<thumbnail>https://i.ibb.co/LN3gRzP/1601128196-b6e5ab0fd238ddc6dfd01ee03a13fed540a2b116cdf0a93733d27aa9f37918b9-d-640.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Seiya pede para Shiryu, Hyoga e Shun seguirem em frente enquanto ele luta contra Aldebaran. O Pégaso ataca o Touro com os seus Meteoros de Pégaso e o trio tenta passar, entretanto, todos são facilmente nocauteados pelo Cosmo de Aldebaran, que deixa Shiryu, Hyoga e Shun desmaiados.</info></item>
 
 <item><title>[B]S04E03 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E03%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E04 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E04%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E05 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E05%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E06 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E06%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E07 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E07%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E08 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E08%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E09 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E09%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E10 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E10%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E11 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E11%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E12 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E12%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E13 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E13%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E14 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E14%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E15 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E15%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E16 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E16%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E17 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E17%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E18 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E18%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E19 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E19%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E20 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E20%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E21 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E21%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E22 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E22%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E23 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E23%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E24 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E24%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E25 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E25%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E26 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E26%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E27 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E27%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E28 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E28%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E29 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E29%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E30 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E30%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E31 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E31%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E32 Os Cavaleiros do Zodíaco - [/B]</title>
-<link></link>
+<link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E32%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
