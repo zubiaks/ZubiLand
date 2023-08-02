@@ -101,92 +101,92 @@
 <fanart></fanart>
 <info>Agora que Ikki perdeu seus cinco sentidos, Shaka tenta enviá-lo de volta para um dos 6 mundos do inferno, mas é interrompido por Shun. Ikki avisa Shun para não intervir na batalha. Shaka ataca Ikki, mas o cosmos de Ikki começa a despertá-lo e protegê-lo, à medida que ele cresce e cresce. Ao mesmo tempo, Seiya e Shiryū acordam e notam que Shaka abriu os olhos. Shaka ataca Ikki novamente com seu Tesouro do Céu e tira seu sexto sentido, pensou. Aparentemente, Ikki agora é um cadáver vivo, no entanto, seu cosmos começa a crescer até que ele atinja o Sétimo Sentido. Graças a isso, ele imobiliza Shaka, o tira por trás e explode seu cosmos, que leva Shaka, a milhões de quilômetros de distância. Diante da armadura vazia de Virgem, Shun chora pela morte de seu irmão, mas decide seguir em frente junto com Seiya e Shiryū.</info></item>
 
-<item><title>[B]S04E18 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E18 Os Cavaleiros do Zodíaco - Hyoga Volta à Vida[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E18%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/BGH4zMW/download-2.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Em outro ponto do Santuário, Aiolia leva o cadáver de Cássio para o enterro. No caminho, ele encontra Shaina, que ao saber da morte de sua discípula, tenta partir para as Doze Casas, mas é impedido por um golpe preciso de Aiolia de Leo. Novamente Shaina descansa em sua casa, enquanto Aiolia enterra Cassios em uma encosta de onde a casa de Shaina é visível. Seiya e os outros chegam à Casa de Libra. Sabendo que esta casa é guardada pelo velho mestre de Shiryū, eles entram sem medo, mas encontram a tumba de gelo de Hyōga. Seiya sente o cosmos agora quase imperceptível de Hyōga, então ele tenta libertá-lo, mas é impossível. Felizmente, a Armadura de Libra aparece, enviada pelo velho mestre para libertar Hyōga de sua prisão. Shiryū usa a Espada de Libra e consegue libertar Hyōga, mas ainda é afetado pelo ar frio de Camus. Shun decide ficar para tentar salvar Hyōga.</info></item>
 
-<item><title>[B]S04E19 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E19 Os Cavaleiros do Zodíaco - O Renascer de Hyoga[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E19%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/8M2h8fN/maxresdefault-1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Shun usa todo o poder do seu Cosmo para aquecer Hyoga, mas com isso, coloca sua própria vida em perigo. Seiya e Shiryu chegam à Casa de Escorpião e nesse momento, sentem que Shun está se sacrificando para salvar Hyoga. Os dois decidem voltar para a Casa de Libra. No entanto, Milo aparece e uma nova batalha começa. Shiryu o ataca com o Cólera do Dragão, mas não consegue afetar Milo. Seiya tenta golpeá-lo com o Meteoros de Pégaso, mas consegue apenas arranhar o rosto de Milo. O Cavaleiro de Escorpião decide mostrar a diferença de níveis que existe entre eles e os ataca na velocidade da luz com o golpe Restrição. Seiya e Shiryu são feridos com o veneno do Escorpião. Nessa hora, surge Hyoga, trazendo Shun nos braços, que tinha desmaiado por causa do seu esforço.</info></item>
 
-<item><title>[B]S04E20 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E20 Os Cavaleiros do Zodíaco - Renda-se ou Morrerá![/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E20%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/BKpMhgh/os-cavaleiros-do-zodiaco-episodio-61.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Hyoga decide enfrentar Milo sozinho e o imobiliza com o golpe Círculo de Gelo, para que Seiya e Shiryu passassem para a próxima Casa levando Shun. Hyoga e Milo começam a batalha. Milo ataca Hyoga com sua Agulha Escarlate e o deixa bastante ferido. Hyoga utiliza o Pó de Diamante, mas seu ataque parece ineficaz contra o Cavaleiro de Escorpião. Milo está prestes a desferir o último golpe, Agulha Escarlate de Antares, quando percebe que Hyoga conseguiu congelar suas pernas. Hyoga aplica em Milo o golpe Trovão Aurora Ataque e atinge em cheio o Cavaleiro de Ouro.</info></item>
 
-<item><title>[B]S04E21 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E21 Os Cavaleiros do Zodíaco - Hyoga, o Guerreiro Corajoso[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E21%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/826JxC8/download-3.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Milo não é afetado pelo último ataque de Hyoga. No entanto, as feridas causadas pela Agulha Escarlate começam a sangrar, enfraquecendo ainda mais Hyoga, que perde seus cinco sentidos, lentamente. Milo revela à Hyoga, o objetivo que Camus tinha, quando o enfrentou na Casa de Libra. Apesar disso, Hyoga quer continuar lutando. Milo, por respeito a ele, decide enfrentá-lo com toda sua força. Ambos se atacam mutuamente, até que Milo consegue atingir o peito de Hyoga com o último golpe, Antares. Hyoga perde a luta e fica agonizando. Milo, no entanto, se surpreende ao notar que sua Armadura de Ouro foi congelada no último momento e que se não fosse por ela, ele teria morrido primeiro. Milo reconhece que o Cosmo de Hyoga se tornou mais forte que o dele naquela hora. Surpreso com o poder do Cavaleiro de Cisne, Milo aplica um golpe em Hyoga e assim consegue parar o sangramento.</info></item>
 
-<item><title>[B]S04E22 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E22 Os Cavaleiros do Zodíaco - Todas as Armaduras de Ouro Reuniram-se no Santuário![/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E22%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Njj2KwV/gold-saints-by-aioriandrei-d4u9rr6.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Milo não é afetado pelo último ataque de Hyoga. No entanto, as feridas causadas pela Agulha Escarlate começam a sangrar, enfraquecendo ainda mais Hyoga, que perde seus cinco sentidos, lentamente. Milo revela à Hyoga, o objetivo que Camus tinha, quando o enfrentou na Casa de Libra. Apesar disso, Hyoga quer continuar lutando. Milo, por respeito a ele, decide enfrentá-lo com toda sua força. Ambos se atacam mutuamente, até que Milo consegue atingir o peito de Hyoga com o último golpe, Antares. Hyoga perde a luta e fica agonizando. Milo, no entanto, se surpreende ao notar que sua Armadura de Ouro foi congelada no último momento e que se não fosse por ela, ele teria morrido primeiro. Milo reconhece que o Cosmo de Hyoga se tornou mais forte que o dele naquela hora. Surpreso com o poder do Cavaleiro de Cisne, Milo aplica um golpe em Hyoga e assim consegue parar o sangramento.</info></item>
 
-<item><title>[B]S04E23 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E23 Os Cavaleiros do Zodíaco - Juramos Proteger Atena![/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E23%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/1XYSRPp/bb0cc6f4e43c943c6d2f1b21cec30f9f-sagittarius-anime-saint.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Seiya consegue escapar da flecha dourada de Sagitário que abre um buraco na parede. Os Cavaleiros de Bronze entram lá dentro, inclusive Hyoga, que os tinha alcançado. Os quatro Cavaleiros enfrentam muitos obstáculos difíceis, mas depois de despertarem os seus Cosmos, continuam em frente. Então, os Cavaleiros de Bronze voltam novamente à Casa de Sagitário. A Armadura de Ouro de Sagitário relança outra flecha contra a parede e revela o testamento de Aiolos que diz: "Aos jovens que aqui chegaram, eu lhes confio Athena". Os Cavaleiros de Bronze se comovem com o testamento e juram proteger Athena, cumprindo a vontade de Aiolos.</info></item>
 
-<item><title>[B]S04E24 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E24 Os Cavaleiros do Zodíaco - A Espada Sagrada Ruge[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E24%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/hB2jqRp/5ce3293ad0b722a1e0af4f9d0c9e1eb1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Shiryu, Seiya, Shun e Hyoga chegam na Casa de Capricórnio. Lá dentro, não encontram nenhum Cavaleiro Dourado, mas apenas uma estátua de Athena entregando Excalibur, a espada sagrada, para o Cavaleiro de Capricórnio. Uma vez fora da casa, eles são atacados de surpresa, mas Shiryu consegue adverti-los a tempo e assim, os protege contra um segundo ataque. Em seguida, o Cavaleiro de Ouro, Shura de Capricórnio, se apresenta como o mais fiel à deusa Athena. Seiya, Hyoga e Shun avançam para a próxima Casa, esperando que Shiryu vença o combate e os alcance. Shura ataca Shiryu com o grande poder da Excalibur. Além disso, Shura confessa que foi ele quem matou Aiolos, por ele ter se voltado contra o Grande Mestre. Há 13 anos, o Cavaleiro de Sagitário tentava escapar com a bebê Saori do Santuário, quando Shura os encontrou e após derrotar Aiolos, sentiu o Cosmo da Deusa e decidiu não matá-la, acreditando que aquela Athena era uma impostora.</info></item>
 
-<item><title>[B]S04E25 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E25 Os Cavaleiros do Zodíaco - Shiryu se Transforma numa Estrela Cadente[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E25%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/5vnTqPv/download-4.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Shura se surpreende com o enorme Cosmo de Shiryu. O Cavaleiro de Bronze recorda as palavras do Mestre Ancião, que ele jamais deveria usar o Cólera do Dragão após queimar seu Cosmo por completo ou iria morrer. A explosão causada por maximizar o seu Cosmo consegue derrotar qualquer inimigo, mas também pode acabar com sua vida. Shiryu, decide arriscar tudo e executar o seu golpe. Shura descobre o ponto fraco de Shiryu e o apunha-la no peito, na altura do coração. Shiryu aproveita a situação e quebra os ossos do braço esquerdo de Shura. Shiryu, ferido, faz uma nova tentativa e Shura repete o mesmo ataque, desta vez com o braço direito. Mas, Shiryu não desfere o golpe e deixa ser atingido de propósito, aumentando o seu Cosmo ao máximo e conseguindo finalmente despertar o Sétimo Sentido. Dessa forma, Shiryu consegue cortar o braço direito de Shura e assim, utiliza o seu golpe secreto: o Último Dragão.</info></item>
 
-<item><title>[B]S04E26 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E26 Os Cavaleiros do Zodíaco - Adeus ao Meu Mestre e aos Meus Amigos[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E26%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/7t7QRmq/1601144500-99ac8e88fe283058ad4cf49fe54c746020d957ff05791cbb67f18f81354df9ac-d-640.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Hyoga, Shun e Seiya chegam à Casa de Aquário onde encontram Camus. Hyoga decide lutar sozinho e Camus aceita, permitindo que Seiya e Shun passassem. Hyoga está determinado a mostrar a Camus como melhorou como Cavaleiro. No entanto, o ar frio de Hyoga não é suficiente para derrotar Camus. Aquário lembra à Hyoga que para vencer um Cavaleiro de Ouro, é necessário que ele atinja o Zero Absoluto, a temperatura mais baixa que um Cavaleiro do frio pode chegar. Hyoga tenta fazer o seu melhor, mas é inútil. Camus tenta prender Hyoga novamente no Caixão de Gelo, afirmando que nem mesmo as armas da Armadura de Libra serão capazes de libertá-lo dessa vez. Tudo parece perdido para Hyoga, quando ele começa a lembrar dos esforços de seus amigos e do sacrifício de Shiryu e finalmente, libera todo o poder do seu Cosmo, conseguindo sozinho destruir o Caixão de Gelo. Camus se surpreende com Hyoga e ambos se atacam ao mesmo tempo, lançando um poderoso ar congelante, um contra o outro.</info></item>
 
-<item><title>[B]S04E27 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E27 Os Cavaleiros do Zodíaco - Um Maravilhoso Guerreiro: Afrodite[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E27%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/8KTJcmZ/68-1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Seiya e Shun chegam à última Casa, a de Peixes. Aphrodite, o Cavaleiro de Ouro de Peixes, os espera na entrada e Shun decide enfrentá-lo sozinho. Seiya consegue passar por Aphrodite, mas este garante à Shun, que Pégaso irá morrer antes de chegar à Sala do Grande do Mestre. Quando Seiya atravessa a Casa de Peixes, encontra o caminho para a Sala do Mestre, que é coberto por rosas vermelhas. Apesar disso, Seiya continua, mas gradualmente acaba enfraquecendo pelo efeito das rosas, até que finalmente cai inconsciente. E Shun, precisa derrotar Aphrodite, se quiser salvar Seiya.</info></item>
 
-<item><title>[B]S04E28 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E28 Os Cavaleiros do Zodíaco - O Doce Aroma da Morte[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E28%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/dp2Qxg4/1601145522-864f3823c83340c31c76c0998c35a791098d5b64f5306726d2d442e20415024e-d-640.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Aphrodite revela que ajudou Milo de Escorpião, em sua invasão às Ilhas Andrômeda e que foi ele quem matou Albiore, o mestre de Shun. A batalha entre Aphrodite e Shun, é então iniciada. Aphrodite ataca Shun com suas Rosas Diabólicas Reais, deixando-o ferido. Shun usa as suas Correntes para se defender dos ataques de Aphrodite com a Defesa Circular. Aphrodite então, cria um turbilhão de pétalas de rosas e desaparece nele, ocultando sua presença. Shun consegue encontrá-lo com as Ondas Relâmpago e quando está prestes a atacá-lo com a Corrente de Andrômeda, Aphrodite consegue deter o ataque com uma rosa negra.</info></item>
 
-<item><title>[B]S04E29 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E29 Os Cavaleiros do Zodíaco - Durma em Paz, Shun[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E29%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/p0wQ4K3/1601146001-606645bec517e2e44147bb2bd31bc70590c6b88a7f3a0af4b13de85a330a9381-d-640.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Aphrodite ataca Shun com as Rosas Piranhas e destrói facilmente a Armadura de Andrômeda. Shun é muito ferido, mas não desiste e depois de queimar seu Cosmo, finalmente atinge o Sétimo Sentido e lança o seu ataque mais poderoso, a Corrente Nebulosa. Aphrodite é imobilizado sobre o grande vapor formado por Shun. O Cavaleiro de Peixes decide usar seu último golpe, a Rosa Branca. Shun o adverte que se ele atirar essa rosa, irá matá-lo com a Tempestade Nebulosa, mas Aphrodite o ignora. A Rosa Branca é presa no peito de Shun, que por sua vez, atinge Aphrodite com a Tempestade Nebulosa e finalmente, o mata. Porém, Shun acaba gravemente ferido e cai quase morto ao lado de Aphrodite. Ao mesmo tempo, Shaina derrota os soldados do Grande Mestre, enquanto Marin parte para salvar Seiya.</info></item>
 
-<item><title>[B]S04E30 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E30 Os Cavaleiros do Zodíaco - O Relógio de Fogo se Extingue[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E30%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/9nMMXX2/1601146670-235bc51cf09de01b80323dd3e202c5f1a99841a569bad7d781ca72655bba312a-d-640.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Marin atravessa a Casa de Peixes e encontra Seiya desmaiado. Ela coloca sua máscara sobre ele e tenta levá-lo para a Sala do Grande Mestre. Seiya recupera a consciência, mas Marin acaba sendo envenenada por causa das Rosas Diabólicas Reais de Aphrodite. Seiya devolve a máscara à Marin, achando que ela é sua irmã Seika e em seguida, destrói as Rosas Diabólicas Reais usando os Meteoros de Pegáso. Shaina chega e fica cuidando de Marin, enquanto Seiya, parte para a Sala do Grande Mestre. Chegando lá, Seiya se encontra com ele, que não parece ser um homem mal e que está arrependido por suas ações. O Grande Mestre diz que o escudo da estátua de Athena, pode destruir a flecha que está no peito de Saori. Seiya então, tenta ir pegar o escudo, quando inesperadamente, o Grande Mestre começa a mudar, ficando com sua personalidade maligna e assim, ataca o Cavaleiro de Pégaso.</info></item>
 
-<item><title>[B]S04E31 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E31 Os Cavaleiros do Zodíaco - Não Perca Seus Amigos Seiya[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E31%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/2q5xMSV/Seiya-vs-Saga-Cap-71.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Seiya é abatido pelo poderoso Cavaleiro de Gêmeos, que o deixa sem seus cinco sentidos e assim, ele não consegue fazer nada contra o inimigo. Seiya é o único Cavaleiro vivo depois que aparentemente Ikki, Shiryu, Hyoga e Shun sacrificaram suas vidas e está quase sendo derrotado por Gêmeos. Nessa hora, na Casa de Áries, Mu que é o Cavaleiro que possui a melhor telecinesia entre os Cavaleiros de Ouro, é chamado por Shaka, que pede sua ajuda, para ajudá-lo à voltar da outra dimensão, trazendo consigo outra pessoa. Shaka reaparece na Casa de Virgem, junto com Ikki e depois de fazer renascer a Armadura de Fênix, o manda ir imediatamente ajudar Seiya. Quando tudo parece perdido para Seiya, Ikki aparece e desafia Gêmeos. Então, Seiya continua avançando lentamente para o Templo de Athena. Gêmeos decide não perder tempo com Ikki e depois de lançá-lo para bem longe, corre rapidamente para impedir Seiya.</info></item>
 
-<item><title>[B]S04E32 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E32 Os Cavaleiros do Zodíaco - Amigos, Reúnam-se com Atena![/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E32%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/QPpZbM6/1601147537-253ecff80815b1c5e023421d3ab8e53a98d5e2b093429807c07207ceeac87db1-d-640.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Athena recuperada, se levanta e parte com os Cavaleiros de Bronze para as Doze Casas. O Mestre Ancião de Libra se comunica com os Cavaleiros de Ouro restantes no Santuário. Libra revela para eles que o Grande Mestre é na verdade Saga, o Cavaleiro de Ouro de Gêmeos. Há 13 anos, Saga assassinou o verdadeiro Grande Mestre e tomou o seu lugar. Saga tentou matar a bebê Athena, mas foi impedido por Aiolos, que fugiu do Santuário com ela. Conhecendo a verdade, os Cavaleiros de Ouro juram lealdade à Athena e cada um deles, deixa as suas respectivas Casas e acompanham Saori, para irem juntos ao encontro de Saga. Athena encontra Hyoga, Shun e até mesmo Shiryu (que tentou se sacrificar com Shura) e consegue curá-los, para que sigam adiante com ela. Saga fica furioso e determinado a matar Seiya, por arruinar seus planos.</info></item>
