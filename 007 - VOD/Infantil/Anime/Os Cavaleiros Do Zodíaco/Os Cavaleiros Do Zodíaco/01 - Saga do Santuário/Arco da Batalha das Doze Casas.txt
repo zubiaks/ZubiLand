@@ -65,41 +65,41 @@
 <fanart></fanart>
 <info>O golpe recebido por Aiolia, o transforma em um ser maligno. Desta vez, ele ataca Seiya com todo o seu poder e mostra a diferença de níveis. Seiya está praticamente impotente contra os ataques de Aiolia. No meio da luta, Seiya é gravemente ferido na perna, o que piora sua situação. Enquanto isso, Shaina se recupera do ataque de Aiolia no leste. Cássio, seu discípulo, cuida dela. Shaina entre os sonhos nomeia Seiya várias vezes, o que deixa Cássio com ciúmes, que está secretamente apaixonado por ela. Seiya tenta convencer Aiolia a desistir do combate, mas o Santo de Leão continua a atacá-lo impiedosamente. Na aldeia, Cássio descobre que Seiya está na casa de Leo. Shaina eventualmente acorda e descobre a missão de Seiya, mas fica aliviada ao saber que Seiya está com Aiolia. Cassios diz a ele que Aiolia é dominada pelo Satanás Imperial de Kyōkō Ares e não vai parar até que alguém morra diante de seus olhos. Sabendo disso, Shaina tenta ir para as Doze Casas, mas Cassios a impede com um golpe preciso que a deixa inconsciente. Enquanto Aiolia parte para derrubar Seiya.</info></item>
 
-<item><title>[B]S04E12 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E12 Os Cavaleiros do Zodíaco - Cassios Morre por Amor[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E12%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/ysYHD1L/download-6.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Cássio vai para a casa de Leo. Ao longo do caminho, ele pára Shiryū e Shun. Quando Aiolia está prestes a acabar com Seiya, Cassios intervém e tenta segurar Aiolia para que Seiya possa passar pela casa. No entanto, o esforço é inútil, já que Aiolia se solta facilmente e deixa Cássio gravemente machucado. Aiolia contra-ataca Seiya novamente, mas Cássio interrompe o golpe com seu corpo. A imagem de Cássio morrendo inflama o cosmos de Seiya, que atinge o Sétimo Sentido, permitindo que ele se esquive do golpe de Aiolia e contra-ataque com seu Cometa Pégaso. Cássio morre e Seiya chora pelo sacrifício que salvou sua vida.</info></item>
 
-<item><title>[B]S04E13 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E13 Os Cavaleiros do Zodíaco - Ikki, a Ave Fênix sem Asas[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E13%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/dM8c8x7/1601135783-6674c6e2b1e610af70b9f044bc5552871c86781b06240a931a7332494ed5fb6c-d-640.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Aiolia informa a Seiya, Shiryū e Shun que eles devem evitar a todo custo que seu próximo adversário, Shaka de Virgem, abra seus olhos. Na ilha de Kanon, os soldados do Papa perguntam aos aldeões onde Ikki está. Eles chegaram a agredir a netinha do cacique da aldeia. Ouvindo os gritos, Ikki descarrega e varre os soldados rapidamente. Dois Santos de Prata chegam. Eles são introduzidos como Peacock Shiva e Lotus Agora. Eles são discípulos de Shaka que vêm para matar Ikki. Os golpes de Ikki não afetam Shiva, o santo do Pavão. Ele decide usar a Ilusão Diabólica da Fênix, mas isso não tem efeito. Shun sente que seu irmão está em perigo. Ikki está realmente paralisado pelos poderes mentais de longa distância de Shaka. Os dois discípulos aproveitam para atacá-lo juntos e ele quase cai no vulcão. A menina incute coragem nele. Agora começa a levitar e meditar paralisando Ikki de Phoenix.</info></item>
 
-<item><title>[B]S04E14 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E14 Os Cavaleiros do Zodíaco - A Súplica de Atena[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E14%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/b2QXbSX/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Agora faz Ikki sofrer com todo o seu poder e o manda embora. Ikki acha que tudo acabou. Atena tenta ajudá-lo, mas não consegue alcançá-lo. Algo a bloqueia, mas ela continua tentando. Os dois santos se unem, mas Ikki decide atacá-los. No Santuário, Shaka continua a paralisar Ikki à distância. Atena entra em contato com Ikki e mais tarde consegue libertá-lo do poder de Shaka. Shiva e Agora continuam atacando projetando Ikki de volta ao chão. Então, quando ele está prestes a quebrar seu crânio, ele se liberta e termina seus inimigos com as Asas de Fogo da Fênix. Ikki conforta a menina antes de ir para o Santuário. Seiya, Shiryū e Shun finalmente chegam à sexta casa, a de Virgem, onde Shaka os espera com um sorriso perigoso nos lábios e os olhos fechados.</info></item>
 
-<item><title>[B]S04E15 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E15 Os Cavaleiros do Zodíaco - Shaka, o Cavaleiro Mais Próximo de Deus[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E15%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/ByrwMCf/55f4a3e9748d2f3fc6e1613e943d6203510a59fb-hq.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Seiya, Shun e Shiryū entram juntos na sexta casa e ficam cara a cara com o Santo Dourado de Virgem, Shaka, que permanece em levitação de olhos fechados, sem prestar atenção aos Santos de Bronze. Seiya o ataca primeiro, mas é repelido pelo cosmos de Shaka. Shiryū então inicia seu ataque, mas seu Dragão Ascendente é parado com uma mão. Shun também tenta atacar, mas sua corrente interrompe seu ataque e se volta para ele. Shaka usa um ataque poderoso e derruba os três Santos de Bronze fora de ação. Quando ele se propõe a acabar com Shun, ele é interrompido por uma pena do pássaro imortal, é Ikki, o Santo Fênix, que tenta enfrentá-lo, mas é atacado por Shaka, que o envia para um dos 6 mundos do inferno usando a Queda para o Inferno.</info></item>
 
-<item><title>[B]S04E16 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E16 Os Cavaleiros do Zodíaco - Shaka Abre os Olhos[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E16%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/2MCB2Wr/download.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O Santo Fênix planejou se vingar da Fundação Graude, por tê-lo maltratado e enviado para a Ilha da Morte da Rainha quando ele era pequeno. Jabu de Unicórnio, e depois Nachi, o Santo de Lobo, tentam impedi-lo, mas ambos são derrotados. Os Santos Negros aparecem e roubam a Armadura de Ouro de Sagitário.</info></item>
 
-<item><title>[B]S04E17 Os Cavaleiros do Zodíaco - [/B]</title>
+<item><title>[B]S04E17 Os Cavaleiros do Zodíaco - lkki Morre Corajosamente por Amizade[/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E17%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/25RM4zS/download-1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Agora que Ikki perdeu seus cinco sentidos, Shaka tenta enviá-lo de volta para um dos 6 mundos do inferno, mas é interrompido por Shun. Ikki avisa Shun para não intervir na batalha. Shaka ataca Ikki, mas o cosmos de Ikki começa a despertá-lo e protegê-lo, à medida que ele cresce e cresce. Ao mesmo tempo, Seiya e Shiryū acordam e notam que Shaka abriu os olhos. Shaka ataca Ikki novamente com seu Tesouro do Céu e tira seu sexto sentido, pensou. Aparentemente, Ikki agora é um cadáver vivo, no entanto, seu cosmos começa a crescer até que ele atinja o Sétimo Sentido. Graças a isso, ele imobiliza Shaka, o tira por trás e explode seu cosmos, que leva Shaka, a milhões de quilômetros de distância. Diante da armadura vazia de Virgem, Shun chora pela morte de seu irmão, mas decide seguir em frente junto com Seiya e Shiryū.</info></item>
 
 <item><title>[B]S04E18 Os Cavaleiros do Zodíaco - [/B]</title>
 <link>https://archive.org/download/s-04.-e-17-os-cavaleiros-do-zodiaco_202108/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S04/%5BS04.E18%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco.mp4</link>
