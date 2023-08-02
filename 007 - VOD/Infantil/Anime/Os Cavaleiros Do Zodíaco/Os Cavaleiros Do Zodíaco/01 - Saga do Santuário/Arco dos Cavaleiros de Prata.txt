@@ -52,3 +52,27 @@
 <thumbnail>https://i.ibb.co/3s4hFMc/Episodio-31-Saint-Seiya-Jump-Gold-Selection-2-1.jpg</thumbnail>
 <fanart></fanart>
 <info>Dante de Cérbero e Capella de Auriga, dois Cavaleiros de Prata, começam a enfrentar Hyoga e Shun. Dante e Capella lançam os dois Cavaleiros de Bronze no abismo e quando estão prestes a atacar Saori, Ikki aparece. O Cavaleiro de Fênix traça uma linha no chão e ameaça os Cavaleiros de Prata, dizendo que se eles a atravessarem, perderão suas vidas. Capella o ignora e antes que pudesse fazer qualquer coisa, sofre um ataque de Fênix e cai desmaiado. Dante tenta enfrentá-lo, mas também não é rival para Ikki. Capella desperta e tenta atacar Ikki, mas devido ao Golpe Fantasma de Fênix acaba sendo mutilado e morto por seus próprios discos. Quando Hyoga e Shun conseguem sair do abismo, Ikki deixa o campo de batalha. Shun então enfrenta Dante e o derrota.</info></item>
+
+<item><title>[B]S03E01 Os Cavaleiros do Zodíaco - A explosão da ilha da Rainha da Morte[/B]</title>
+<link>https://archive.org/download/s-03.-e-01-os-cavaleiros-do-zodiaco-a-explosao-da-ilha-da-rainha-da-morte_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S03/%5BS03.E01%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20A%20explos%C3%A3o%20da%20ilha%20da%20Rainha%20da%20Morte.mp4</link>
+<thumbnail>https://i.ibb.co/0ycdM0k/Episodio-32-Saint-Seiya-Jump-Gold-Selection-II.jpghttps://i.ibb.co/0ycdM0k/Episodio-32-Saint-Seiya-Jump-Gold-Selection-II.jpg</thumbnail>
+<fanart></fanart>
+<info>Ikki retorna à Ilha da Rainha da Morte, onde fez seu treinamento. Jango, que se apossou do controle dos Cavaleiros Negros após Ikki sumir, o enfrenta. Com a ajuda de Seiya e dos outros, Ikki o vence, assim como ao Fênix Negro. No entanto, o Mestre Ares, com seu grande Cosmo, faz com que toda a ilha sucumba à uma gigantesca erupção vulcânica, fazendo com que ela exploda e afunde no oceano, mas Saori consegue salvar à todos com sua cosmo energia.</info></item>
+
+<item><title>[B]S03E02 Os Cavaleiros do Zodíaco - As lágrimas do dragão cego[/B]</title>
+<link>https://archive.org/download/s-03.-e-01-os-cavaleiros-do-zodiaco-a-explosao-da-ilha-da-rainha-da-morte_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S03/%5BS03.E02%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20As%20l%C3%A1grimas%20do%20drag%C3%A3o%20cego.mp4</link>
+<thumbnail>https://i.ibb.co/LrJHytL/download-7.jpg</thumbnail>
+<fanart></fanart>
+<info>Shiryu está descansando nos Cinco Picos Antigos, mas ainda não se conforma com a possibilidade de ficar cego para sempre. Enquanto isso, Seiya vai para Jamiel em busca de Mu, tentando encontrar uma cura para os olhos de Shiryu. Shunrei, ao nadar em um rio, é arrastada por uma correnteza. Shiryu nada pode fazer por causa de sua cegueira. Neste momento surge Ohko, o ex-parceiro de treino de Shiryu, que salva Shunrei. Devido a uma rivalidade antiga, Ohko tenta derrotar Shiryu, mas Shunrei o alerta sobre sua cegueira. Devido a isso, Ohko decide adiar a batalha. No entanto, Shiryu frustrado por não conseguir mais lutar como um Cavaleiro, chora amargamente sob as águas da cachoeira.</info></item>
+
+<item><title>[B]S03E03 Os Cavaleiros do Zodíaco - Adeus companheiro, descanse em paz[/B]</title>
+<link>https://archive.org/download/s-03.-e-01-os-cavaleiros-do-zodiaco-a-explosao-da-ilha-da-rainha-da-morte_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S03/%5BS03.E03%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Adeus%20companheiro%2C%20descanse%20em%20paz.mp4</link>
+<thumbnail>https://i.ibb.co/rHDn8rq/Episodio-34-Saint-Seiya-Jump-Gold-Selection-II.jpg</thumbnail>
+<fanart></fanart>
+<info>Ohko retorna para o seu antigo local de treinamento, e tem recordações da época em que, junto de Shiryu, era discípulo do Mestre Ancião. Ele decide enfrentar Shiryu, usando uma venda para igualar as condições, e Shiryu consegue vencê-lo com o Cólera do Dragão. O Mestre Ancião, ao final da luta, aceita Ohko de novo como seu discípulo. Longe dali, as partes separadas da Armadura de Ouro de Sagitário, que estavam tanto com o Santuário quanto com os Cavaleiros de Bronze, desaparecem. Na verdade, elas se reuniram sobre um lago e afundaram, se ocultando sob a água.</info></item>
+
+<item><title>[B]S03E04 Os Cavaleiros do Zodíaco - A esperança de Seiya[/B]</title>
+<link>https://archive.org/download/s-03.-e-01-os-cavaleiros-do-zodiaco-a-explosao-da-ilha-da-rainha-da-morte_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S03/%5BS03.E04%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20A%20esperan%C3%A7a%20de%20Seiya.mp4</link>
+<thumbnail>https://i.ibb.co/tC9H1t3/download-8.jpg</thumbnail>
+<fanart></fanart>
+<info>Os Cavaleiros de Aço auxiliam na busca pela Armadura de Ouro. Ao mesmo tempo, Seiya chega em Jamiel, mas Mu não se encontra e Kiki fala sobre a Água da Vida, de uma fonte no topo da montanha chamada Jandhara, próxima de Jamiel. Seiya decide tentar, mas ao chegar lá, Kiki descobre que poderes como a telecinese não funcionam. Seiya sobe, enfrentando muitos obstáculos e consegue obter a Água da Vida. Ao voltar, o Cavaleiro de Pégaso se depara com Kiki sendo atacado por Aracne de Tarântula, mais um Cavaleiro enviado pelo Santuário, e o enfrenta mesmo sem sua Armadura de Pégaso, e acaba preso pelo golpe de Aracne e quase morto. Shô do Céu aparece para avisar Seiya sobre a Armadura de Sagitário, e o ajuda no combate, livrando o Pégaso do golpe de Aracne. Em seguida a Armadura de Pégaso aparece para ajudar e com ela, Seiya desfere seus Meteoros de Pégaso e acaba com Aracne.</info></item>
