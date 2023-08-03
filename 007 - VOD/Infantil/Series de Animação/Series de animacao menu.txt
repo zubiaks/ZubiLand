@@ -24,11 +24,11 @@
 <fanart>https://i.ibb.co/wC5PWMJ/maxresdefault.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Futurama[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Zz16GfV/p8103491-i-v13-ab.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/Futurama/1.txt</externallink>
+<fanart>https://i.ibb.co/YdN06YF/230722-futurama-tease-ecifg8.jpg</fanart>
+<info>As aventuras de Fry, um entregador de pizzas que foi acidentalmente congelado e acorda mil anos depois. Ele é acolhido por seu único descendente, um cientista idoso e confuso que possui um pequeno serviço de entrega.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
