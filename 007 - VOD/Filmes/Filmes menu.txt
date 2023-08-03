@@ -18,10 +18,10 @@
 <fanart>https://i.ibb.co/MRwN2My/download.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Filmes de Terror[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/tYNW0Lb/filters-quality-75.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/Filmes%20de%20Terror/3.txt</externallink>
+<fanart>https://i.ibb.co/qkVcmT7/melhoresfilmesdeterror2022-1.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
