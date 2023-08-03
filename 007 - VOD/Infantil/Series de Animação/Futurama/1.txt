@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Futurama S1[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/q78WSV0/Futurama-Volume-1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/Futurama/S1/eps.txt</externallink>
+<fanart>https://i.ibb.co/cymX8S0/75ec2e1773b74037d1d9db64f299caa792e88aa96ca681e4949d232f980801c3-RI-TTW.jpg</fanart>
+<info>A primeira temporada de Futurama começou a ser exibida em 28 de março de 1999 e foi concluída em 14 de novembro de 1999 após 13 episódios. A série original de 72 episódios de Futurama foi produzida em quatro temporadas; A Fox transmitiu os episódios fora da ordem pretendida, resultando em cinco temporadas exibidas.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
