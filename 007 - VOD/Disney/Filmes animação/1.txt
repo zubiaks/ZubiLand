@@ -1,5 +1,11 @@
 <channels>
 
+<channel><name>[B][COLOR white]Diversos[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/HpfQZZG/disney-stitch-i153295.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Disney/Filmes%20anima%C3%A7%C3%A3o/Diversos/3.txt</externallink>
+<fanart>https://i.ibb.co/JQj0tmH/best-disney-movies-1673991349.jpg</fanart>
+<info></info></channel>
+
 <channel><name>[B][COLOR white]zootopia[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/7Rr1FtJ/zootopia-junior-novel.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Disney/Filmes%20anima%C3%A7%C3%A3o/zootopia/zootopia/2.txt</externallink>
@@ -46,12 +52,6 @@
 <thumbnail>https://i.ibb.co/4pmV01f/O-Corcunda.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Disney/Filmes%20anima%C3%A7%C3%A3o/o%20corcunda%20de%20notre%20dame/3.txt</externallink>
 <fanart>https://i.ibb.co/jwxGJmB/download-1.jpg</fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
