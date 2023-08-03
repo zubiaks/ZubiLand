@@ -227,17 +227,17 @@
 <fanart>https://i.ibb.co/kKKnMbs/mainstream-1.webp</fanart>
 <info>Uma jovem acha que encontrou seu caminho para a fama na internet quando começa a fazer vídeos no Youtube com um estranho carismático, até que o lado sombrio da celebridade viral ameaça arruiná-los.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Dragon Tiger Gate[/B]</title>
+<link>https://archive.org/download/dragon-tiger-gate-hd-dub/Dragon%20Tiger%20Gate%20HD%20DUB.ia.mp4</link>
+<thumbnail>https://i.ibb.co/xMnj8C3/MV5-BYzhl-NDE3-NGIt-Zj-Rh-Zi00-YTdi-LThj-MTkt-YWVk-ODE2-Mzcx-NTEz-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-I1-Nz-Mx.jpg</thumbnail>
+<fanart>https://i.ibb.co/ypGmTvG/download.jpg</fanart>
+<info>Dragon Tiger é uma facção das artes marciais fundada por Tiger Wong, Dragon Wong e Turbo Shek. Três jovens que acreditam piamente na justiça e na verdade. Quando eles se apoderam, sem querer, de uma placa dourada, símbolo de uma das maiores organizações criminosas do Oriente, o Lousha Gate, passam a ser alvo de um poder amaldiçoado.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Popeye, O Filme (1980)[/B]</title>
+<link>https://archive.org/download/popeye-o-filme-1980-vhsrip-1a-dublagem/Popeye%2C%20o%20Filme%20%281980%29%20VHSRip%201%C2%AA%20Dublagem.mp4</link>
+<thumbnail>https://i.ibb.co/ykJ2YWG/20535433.webp</thumbnail>
+<fanart>https://i.ibb.co/yXp6kL0/sddefault.jpg</fanart>
+<info>Procurando seu pai que o deserdou quando era bebê, um marinheiro de nome Popeye viaja para à cidade do porto de Sweethaven. Ele faz amizade com uma variedade de pessoas e se apaixona por Olívia Palito, que já tem um pretendente, o valentão Brutus. Popeye também acha um bebê abandonado, Gugu, que ele cria sozinho. Quando Brutus sequestra Olívia e a criança, Popeye entra em ação, com a ajuda de seu espinafre mágico.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
