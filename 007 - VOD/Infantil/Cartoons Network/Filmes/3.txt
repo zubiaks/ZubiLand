@@ -11,6 +11,78 @@
 <fanart>https://i.ibb.co/WVWCBch/johhny-bravo-bollywood-sbt.jpg</fanart>
 <info>Depois de assistir a um documentário do tipo True Hollywood Stories em que é considerado uma estrela esquecida, Johnny Bravo viaja para Mumbai, a capital do entretenimento da Índia, para provar que ainda é popular. Eventualmente, Johnny se encontra no meio de uma trama de assassinato para matar a maior estrela de Bollywood, Jiggy (equivalente e rival indiano de Johnny).</info></item>
 
+<item><title>[B]Fred coquinho e a Ilha das frutas[/B]</title>
+<link>https://archive.org/download/fred-1-1/Fred%201-1.mp4</link>
+<thumbnail>https://i.ibb.co/qRnTR12/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/tm4LjNM/Fred-Coquinho-e-a-Ilha-das-Frutas.webp</fanart>
+<info>O desenho conta a história de uma ilha exótica, onde vivem várias frutas. Na ilha existe um coco chamado de Fred Coquinho e apronta as… Mais </info></item>
+
+<item><title>[B]Billy e Mandy Contra o Bicho Papão - Filme (2007)[/B]</title>
+<link>https://archive.org/download/billy-mandy-contra-o-bicho-papao-pt-br/Billy%20%26%20Mandy%20Contra%20o%20Bicho%20Pap%C3%A3o%20%28PT-BR%29.mp4</link>
+<thumbnail>https://i.ibb.co/Rvp1V55/0183244-png-c-310-420-x-f-jpg-q-x-xxyxx.jpg</thumbnail>
+<fanart>https://i.ibb.co/fSRQSBh/6v-ZPKkq7-JEsc6x3lik-FXhq2p-L9-B.jpg</fanart>
+<info>Quando o Bicho Papão faz com que Puro Osso perca seus poderes, posição e título na Corte do Submundo por usar mal seus poderes, ele planeja procurar a Mão do Horror e dominar o mundo. Cabe a Billy, Mandy, Irwin e Puro Osso chegar a Mão do Terror antes do que o Bicho Papão.</info></item>
+
+<item><title>[B]KND A Turma Do Bairro - Operação C.O.M[/B]</title>
+<link>https://archive.org/download/conviteoumissaoallstars/videoplayback.mp4</link>
+<thumbnail>https://i.ibb.co/54y9P37/download-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/NSrNLb9/images.jpg</fanart>
+<info>Número Um resolve convidar a delicada Lizzie, sua antiga namorada, para acompanhá-lo a uma festa. O problema, no entanto, é que essa festa não passa de uma grande armadilha preparada para enganar as crianças do bairro.</info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
