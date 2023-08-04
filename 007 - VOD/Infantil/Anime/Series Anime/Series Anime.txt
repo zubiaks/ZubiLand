@@ -18,11 +18,11 @@
 <fanart>https://i.ibb.co/3TJNTzy/shokugyo.webp</fanart>
 <info>A história segue Hajime Nagumo, que é transportado para outro mundo com o resto de sua classe para lutar em uma guerra contra uma raça demoníaca. Depois de ser traído e deixado para morrer por um de seus colegas de classe, Hajime começa uma jornada para se aperfeiçoar e encontrar uma maneira de voltar para casa.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<channel><name>[B][COLOR white]leadale no daichi nite[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/bW3HJZb/MV5-BZjlk-Mj-Y1-YTYt-Njdm-OC00-YTlj-LWI3-Yz-At-NDhk-NTU4-Nz-Yz-Mz-Q1-Xk-Ey-Xk-Fqc-Gde-QXVy-Mzgx-ODM4.jpg</thumbnail>
 <externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<fanart>https://i.ibb.co/y4y3JYt/download.jpg</fanart>
+<info>In the Land of Leadale é uma série de light novel japonesa escrita por Ceez e ilustrada por Tenmaso. Foi serializado online entre novembro de 2010 e dezembro de 2012 no site de publicação de novels gerado pelo usuário Shōsetsuka ni Narō.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
