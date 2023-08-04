@@ -1,48 +1,132 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]01 The Flash - Piloto[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/01%20The%20Flash%20-%20Piloto.avi</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]02 Uma Amizade Antiga[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/02%20Uma%20Amizade%20Antiga.avi</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]03 De Olho Nos Detetives[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/03%20De%20Olho%20Nos%20Detetives.avi</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]04 A Máscara de Rasputin[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/04%20A%20M%C3%A1scara%20de%20Rasputin.avi</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]05 Visão Dupla[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/05%20Vis%C3%A3o%20Dupla.avi</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]06 Chegado Do Pai[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/06%20Chegado%20Do%20Pai.avi</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]07 Brincadeira De Criança[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/07%20Brincadeira%20De%20Crian%C3%A7a.avi</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]08 O Manto Da Morte[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/08%20O%20Manto%20Da%20%20Morte.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]09 Fantasma No Video[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/09%20Fantasma%20No%20Video.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]10 Visão Invisivel[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/10%20Vis%C3%A3o%20Invisivel.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]11 Lutando Contra O Relógio[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/11%20Lutando%20Contra%20O%20Rel%C3%B3gio.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]12 O Prestidigitador[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/12%20O%20Prestidigitador.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]13 Tina É Você Mesmo[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/13%20Tina%20%C3%89%20Voc%C3%AA%20Mesmo.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]14 O Bebe É Meu[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/14%20O%20Bebe%20%C3%89%20Meu.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]15 Mais Veloz Do Que Nunca[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/15%20Mais%20Veloz%20Do%20Que%20Nunca.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]16 A Sombra Mortal[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/16%20A%20Sombra%20Mortal.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]17 Capitão Frio[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/17%20Capit%C3%A3o%20Frio.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]18 Truques Genios[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/18%20Truques%20Genios.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]19 Truque Dos Espelhos[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/19%20Truque%20Dos%20Espelhos.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]20 Boa Noite Central City[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/20%20Boa%20Noite%20Central%20City.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]21 Alfa[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/21%20Alfa.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]22 O Julgamento Do Prestidigitador[/B]</title>
+<link>https://archive.org/download/01-the-flash-piloto/22%20O%20Julgamento%20Do%20Prestidigitador.avi</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
