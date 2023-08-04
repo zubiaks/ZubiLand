@@ -1,9 +1,9 @@
 <channels>
 
-<channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Arifureta Shokugyou de Sekai Saikyou 2nd Season[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/LvWHNpT/114444l.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/Arifureta%20Do%20lugar%20comum%20ao%20mais%20forte%20do%20mundo/S2/eps.txt</externallink>
+<fanart>https://i.ibb.co/TY1pkFx/222df030-4caa-11ec-ad0d-65be192a6d3c-800-420.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
