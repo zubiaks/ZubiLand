@@ -6,7 +6,7 @@
 <fanart>https://i.ibb.co/sCQFrwc/A-Team.jpg</fanart>
 <info>Quatro desertores da Guerra do Vietnã, liderados por John 'Hannibal' Smith, trabalham como mercenários em defesa de causas justas.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]O BESOURO VERDE[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
