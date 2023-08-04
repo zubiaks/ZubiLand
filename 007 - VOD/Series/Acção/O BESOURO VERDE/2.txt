@@ -1,10 +1,10 @@
 <channels>
 
 <channel><name>[B][COLOR white]O BESOURO VERDE (1966)[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<thumbnail>https://i.ibb.co/LxgbGrc/2.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Ac%C3%A7%C3%A3o/O%20BESOURO%20VERDE/O%20BESOURO%20VERDE%20(1966)/eps.txt</externallink>
+<fanart>https://i.ibb.co/HpGkVhd/hq720.jpg</fanart>
+<info>A série acompanha as aventuras de Britt Reid, um playboy magnata da mídia que se transforma no vigilante Besouro Verde para combater o crime. Na luta contra os bandidos, ele conta ainda com a ajuda do assistente Kato, um mestre da artes marciais.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
