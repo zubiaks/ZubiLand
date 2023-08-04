@@ -5,17 +5,17 @@
 <fanart>https://i.ibb.co/j4NR0y3/download.jpg</fanart>
 <info>O Dr. Bolivar Trask acredita que os mutantes são uma ameaça para a humanidade. Ele desenvolve gigantescos robôs chamados Sentinelas, que perseguem impiedosamente os mutantes. Os poucos sobreviventes precisam viver escondidos. Wolverine viaja no tempo para procurar os jovens Xavier e Magneto e impedir que eles sejam caçados e aniquilados no futuro.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]X Men Fênix Negra[/B]</title>
+<link>https://archive.org/download/x-men-fenix-negra/X-Men%20F%C3%AAnix%20Negra.ia.mp4</link>
+<thumbnail>https://i.ibb.co/tBVKBkM/unnamed.jpg</thumbnail>
+<fanart>https://i.ibb.co/VYvvc8B/scale.jpg</fanart>
+<info>Jean Grey começa a desenvolver incríveis poderes que a corrompem e a transformam em uma Fênix Negra. Agora, os X-Men precisam decidir se a vida de um membro da equipe vale mais do que todas as pessoas do mundo.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]X Men Apocalipse[/B]</title>
+<link>https://archive.org/download/x-men-apocalipse/X-Men%20Apocalipse.ia.mp4</link>
+<thumbnail>https://i.ibb.co/9t3MhML/Xmen-apocalypse-ver18.jpg</thumbnail>
+<fanart>https://i.ibb.co/kDdG5Yb/maxresdefault.jpg</fanart>
+<info>O primeiro mutante destruidor do mundo, Apocalipse, está de volta disposto a acabar com a humanidade. Professor Xavier conta com Mística, Fera e Mercúrio, além de novos alunos, para impedir o vilão.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
