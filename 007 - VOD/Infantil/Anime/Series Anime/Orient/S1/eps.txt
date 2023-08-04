@@ -1,9 +1,9 @@
 
-<item><title>[B]Episode 01[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]Musashi e Kojiro[/B]</title>
+<link>https://archive.org/download/ans11/ans11/orient/orient_dublado_ep_1.mp4</link>
+<thumbnail>https://i.ibb.co/T8wvG1W/Episode-01-Title.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Com o aparecimento de oni sobrenatural, liderado pelo enorme poderoso Kishin, a humanidade foi forçada a servir seus novos mestres demoníacos. Após 150 anos de governo, a única força que resta para lutar pela liberdade humana são bandos de Bushi. Esta é a história de dois jovens e seu sonho de formar a banda Bushi mais forte!</info></item>
 
 <item><title>[B]Episode 02[/B]</title>
 <link></link>
