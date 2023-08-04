@@ -1,9 +1,9 @@
 <channels>
 
 <channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/s5SFjGc/screenshot-nr21-ykjc.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Filmes/3.txt</externallink>
+<fanart>https://i.ibb.co/sJDJqFx/5550692.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
