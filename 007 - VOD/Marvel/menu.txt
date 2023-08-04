@@ -12,10 +12,10 @@
 <fanart>https://i.ibb.co/yYpwVWb/Series-Marvel-Disney-Plus-1024x576.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Series Animadas[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/S5TxJj0/s-l1600.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Series%20Animadas/1.txt</externallink>
+<fanart>https://i.ibb.co/NLxHg7v/download-2.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
