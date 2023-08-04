@@ -11,62 +11,62 @@
 <fanart></fanart>
 <info>Musashi e Kojiro tentam enfrentar o poderoso Kishin que apareceu, mas será que os dois realmente serão capazes de enfrentar a classe de oni que domina Hinomoto há mais de cem anos?</info></item>
 
-<item><title>[B]Episode 03[/B]</title>
+<item><title>[B]Episode 03 O Mundo Exterior[/B]</title>
 <link>https://archive.org/download/ans11/ans11/orient/orient_dublado_ep_3.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/N3LtSpT/Episode-03-Title.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Com a chegada da banda Takeda Buse, Musashi está desesperado para derrotar os Kishin antes que eles possam.</info></item>
 
-<item><title>[B]Episode 04[/B]</title>
+<item><title>[B]Episode 04 Kosameda Bushi[/B]</title>
 <link>https://archive.org/download/ans11/ans11/orient/orient_dublado_ep_4.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/c3d3rts/Episode-04-Title.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A jornada de Musashi e Kojiro tem problemas quando uma garota misteriosa rouba seu veículo.</info></item>
 
-<item><title>[B]Episode 05[/B]</title>
+<item><title>[B]Episode 05 Escolhendo o amanhã[/B]</title>
 <link>https://archive.org/download/ans11/ans11/orient/orient_dublado_ep_5.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/YLzY9HG/Episode-05-Title.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Musashi e Kojiro são forçados a encontrar uma maneira de escapar da prisão do Castelo de Kosameda, enquanto Tsumugi está presa entre seu desejo de proteger seus amigos e os comandos de seu pai dominador.</info></item>
 
-<item><title>[B]Episode 06[/B]</title>
+<item><title>[B]Episode 06 Ficando mais forte[/B]</title>
 <link>https://archive.org/download/ans11/ans11/orient/orient_dublado_ep_6.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/mH37L6X/Episode-06-Title.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Tsumugi luta para decidir o que fazer a seguir, e Musashi encontra um misterioso Bushi de preto.</info></item>
 
-<item><title>[B]Episode 07[/B]</title>
+<item><title>[B]Episode 07 Você não pode sobreviver debaixo d'água[/B]</title>
 <link>https://archive.org/download/ans11/ans11/orient/orient_dublado_ep_7.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/w0qC5Yx/Episode-07-Title.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Musashi e Kojiro estão prontos para obter as Lâminas de Kitetsu que precisarão para lutar contra oni, mas um misterioso ritual envolvendo as espadas místicas pode ser um obstáculo inesperado.</info></item>
 
-<item><title>[B]Episode 08[/B]</title>
+<item><title>[B]Episode 08 A Deusa Obsidiana[/B]</title>
 <link>https://archive.org/download/ans11/ans11/orient/orient_dublado_ep_8.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/NtCks2y/Episode-08-Title.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Shiro se oferece para ajudar Musashi a superar suas dificuldades com Kitetsu Blades e ficar mais forte, mas ele pode ser confiável?</info></item>
 
-<item><title>[B]Episode 09[/B]</title>
+<item><title>[B]Episode 09 O modo de vida de um Bushi[/B]</title>
 <link>https://archive.org/download/ans11/ans11/orient/orient_dublado_ep_9.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/h1nFd2r/Episode-09-Title.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Enquanto Shiro ataca os outros Bushi que se reuniram para caçar um Kishin, Musashi tem que encontrar uma maneira de escapar do poço de lava e ajudar seus amigos.</info></item>
 
-<item><title>[B]Episode 10[/B]</title>
+<item><title>[B]Episode 10 O Poder da Deusa[/B]</title>
 <link>https://archive.org/download/ans11/ans11/orient/orient_dublado_ep_10.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/HYckD5K/Episode-10-Title.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Musashi, Kojiro e Tsugumi enfrentam Nanao e Shiro, e sua única esperança de vitória pode ser a misteriosa entidade dentro de Musashi.</info></item>
 
-<item><title>[B]Episode 11[/B]</title>
+<item><title>[B]Episode 11 O que há em uma Katana[/B]</title>
 <link>https://archive.org/download/ans11/ans11/orient/orient_dublado_ep_11.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/2kTMzfW/Episode-11-Title.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Com a ajuda da deusa obsidiana, os Kanemaki Bushi conseguiram sobreviver ao ataque de Shiro e Nanao. Antes de partir para a próxima parada em sua jornada, há uma última coisa que Musashi precisa fazer.</info></item>
 
-<item><title>[B]Episode 12[/B]</title>
+<item><title>[B]Episode 12 Onde esta estrada leva[/B]</title>
 <link>https://archive.org/download/ans11/ans11/orient/orient_dublado_ep_12_final.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/cCBGBCz/Episode-12-Title.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Musashi, Kojiro e Tsugumi estão perdidos no deserto quando um encontro casual os coloca no caminho para uma nova aventura.</info></item>
