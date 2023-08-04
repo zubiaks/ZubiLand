@@ -20,7 +20,7 @@
 
 <channel><name>[B][COLOR white]leadale no daichi nite[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/bW3HJZb/MV5-BZjlk-Mj-Y1-YTYt-Njdm-OC00-YTlj-LWI3-Yz-At-NDhk-NTU4-Nz-Yz-Mz-Q1-Xk-Ey-Xk-Fqc-Gde-QXVy-Mzgx-ODM4.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/leadale%20no%20daichi%20nite/1.txt</externallink>
 <fanart>https://i.ibb.co/y4y3JYt/download.jpg</fanart>
 <info>In the Land of Leadale é uma série de light novel japonesa escrita por Ceez e ilustrada por Tenmaso. Foi serializado online entre novembro de 2010 e dezembro de 2012 no site de publicação de novels gerado pelo usuário Shōsetsuka ni Narō.</info></channel>
 
