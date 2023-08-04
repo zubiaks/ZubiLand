@@ -30,11 +30,11 @@
 <fanart>https://i.ibb.co/xg1VJzY/download-1.jpg</fanart>
 <info>Aos 10 anos, os melhores amigos Musashi e Kojiro sentaram-se em silêncio empolgado enquanto o pai de Kojiro contava histórias de demônios malignos que atacavam inocentes e guerreiros que os derrotavam. Praticando o jogo de espadas, os dois juram se tornar os mais fortes do mundo, mas à medida que crescem, Kojiro se torna cínico e Musashi percebe que não pode derrubar 150 anos de domínio demoníaco por conta própria. Ele está sendo chamado de prodígio com uma picareta, e está quase pronto para se estabelecer em uma vida de trabalho. No entanto, ele não consegue abalar a sensação de que ainda tem a responsabilidade de agir... e logo, as injustiças de seu mundo forçarão sua mão...</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Tensai Ouji no Akaji Kokka Saisei Jutsu[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/9V1Dq2D/tensai-ouji-no-akaji-kokka-saisei-jutsu.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/Tensai%20Ouji%20no%20Akaji%20Kokka%20Saisei%20Jutsu/1.txt</externallink>
+<fanart>https://i.ibb.co/K9mrfhC/download.jpg</fanart>
+<info>Sinopse A história acompanha um príncipe de um pais pequeno e fraco, que tem como objetivo vender o reino para poder se ver livre das suas responsabilidade e viver em paz. Entretanto, seu maior inimigo para realizar esse plano acaba sendo ele mesmo, já que, graças a sua genialidade, acaba sempre realizando grandes feitos, e ganhando ainda mais apoio de seus súditos, tornando impossível abandonar o país.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
