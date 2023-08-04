@@ -1,9 +1,9 @@
 <channels>
 
-<channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]leadale no daichi nite S1[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Jpvrcc0/leadale-no-daichi-nite-large.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/leadale%20no%20daichi%20nite/S1/3.txt</externallink>
+<fanart>https://i.ibb.co/dcqfL8r/Leadale-no-Daichi-nite-600-3585204.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
