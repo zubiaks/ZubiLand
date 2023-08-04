@@ -1,9 +1,9 @@
 <channels>
 
-<channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Tensai Ouji no Akaji Kokka Saisei Jutsu S1[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/pRWmXv1/Vol1-Eng.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/Tensai%20Ouji%20no%20Akaji%20Kokka%20Saisei%20Jutsu/S1/eps.txt</externallink>
+<fanart>https://i.ibb.co/NnznSD9/download-1.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
