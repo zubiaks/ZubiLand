@@ -14,9 +14,9 @@
 
 <channel><name>[B][COLOR white]Arifureta Do lugar comum ao mais forte do mundo[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/rZ1k2V3/Arifureta-volume-1.jpg</thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/Arifureta%20Do%20lugar%20comum%20ao%20mais%20forte%20do%20mundo/1.txt</externallink>
+<fanart>https://i.ibb.co/3TJNTzy/shokugyo.webp</fanart>
+<info>A história segue Hajime Nagumo, que é transportado para outro mundo com o resto de sua classe para lutar em uma guerra contra uma raça demoníaca. Depois de ser traído e deixado para morrer por um de seus colegas de classe, Hajime começa uma jornada para se aperfeiçoar e encontrar uma maneira de voltar para casa.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
