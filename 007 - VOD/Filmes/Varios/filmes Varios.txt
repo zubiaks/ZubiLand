@@ -251,29 +251,29 @@
 <fanart>https://i.ibb.co/RyHDTzq/picingridjoanofarc.webp</fanart>
 <info>No século 15, a França é uma nação derrotada e arruinada após a Guerra dos Cem Anos contra a Inglaterra. Uma jovem fazendeira de catorze anos, Joana D'Arc, afirma ouvir vozes do céu pedindo-lhe para liderar o Exército de Deus.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]a stolen life (1946)[/B]</title>
+<link>https://archive.org/download/1946-uma-vida-roubada-a-stolen-life-dub/%5B1946%5D%20Uma%20Vida%20Roubada%20%28A%20Stolen%20Life%29%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/MnR3ZXy/A-Stolen-life-Theatrical-release-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/NCKHvvR/download-1.jpg</fanart>
+<info>Quando sua irmã gêmea morre afogada, a artista Kate assume o lugar dela para ficar com seu marido.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]My Darling Clementine (1946)[/B]</title>
+<link>https://archive.org/download/1946-paixao-dos-fortes-dub/%5B1946%5D%20Paix%C3%A3o%20dos%20Fortes%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/ZmQJchk/My-Darling-Clementine-1946-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/nfX1jPJ/image-w1280.jpg</fanart>
+<info>Baseado na biografia de Wyatt Earp (Henry Fonda), o lendário xerife de Dodge City. Em uma das viagens com seus irmãos carregando gado, ele deixa seu irmão mais novo tomando conta do rebanho enquanto vai ao saloon. Quando volta, encontra o pequeno morto. Decide então aceitar trabalhar no cargo de xerife da cidade, tentando trazer a justiça ao local.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Anna Karenina (1935)[/B]</title>
+<link>https://archive.org/download/1935-anna-karenina-dub/%5B1935%5D%20Anna%20Karenina%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/pw1RKmF/MV5-BZDBh-N2-E1-MDIt-ZDUw-Zi00-Zm-Vk-LThm-Mjct-Y2-Jl-Yz-Zk-Zm-E5-MDkw-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Uw-Mz.jpg</thumbnail>
+<fanart>https://i.ibb.co/8P1zrFW/download.jpg</fanart>
+<info>Dama da Corte Imperial russa abandona o gélido marido para viver uma verdadeira paixão com um oficial do exército, no século 19.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Payback (1999)[/B]</title>
+<link>https://archive.org/download/1999-o-troco-dub/%5B1999%5D%20O%20Troco%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/ssGnK9f/MV5-BN2-Yx-YTUy-MTIt-Ym-U4-ZS00-OTIz-LWIw-MWQt-MDY3-Nz-Ri-Mm-Iy-MWMx-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-M.jpg</thumbnail>
+<fanart>https://i.ibb.co/PgF0JJ8/t-T8-Vb5kvlk8y-DZQr-OUr6fupx26-D.jpg</fanart>
+<info>Porter (Mel Gibson) e Val Resnick (Gregg Henry) assaltam uma gangue de chineses e roubam 140 mil dólares. Porter se dá por satisfeito, apesar de esperar entre 350 mil e meio milhão de dólares, mas Val não, pois precisava de 130 mil dólares para saldar suas dívidas e ser aceito na "Organização". Assim, com a ajuda de Lynn (Deborah Unger), a esposa de Porter, Val o trai e Porter é baleado e dado como morto. Mas após algum tempo ele reaparece, decidido a receber os 70 mil dólares da sua parte, mesmo que para isto tenha de enfrentar toda a "Organização". Mas existe uma forte possibilidade que ele morra tentando e nesta louca tentativa conta apenas com Rosie (Maria Bello), uma garota de programa bastante exclusiva com quem tinha se envolvido, quando era seu segurança e motorista.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
