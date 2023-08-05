@@ -1,48 +1,96 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]01 A Aparição de Acabe[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20-%20ep.01.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>A Família Dó-Ré-Mi está de férias na praia, mas não ficam em paz. O fantasma do Capitão Ahab e de Moby Dick estão assombrando a mansão na colina e Goober e os caçadores vão atrás de uma reportagem para a revista.</info></item>
+
+<item><title>[B]02 Pincele seu Shakespeare[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20%E2%80%93%20Ep.02.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>A Família Dó-Ré-Mi deveria tocar em um concerto mas a apresentação é cancelada quando o fantasma de Macbeth assombra o local.</info></item>
+
+<item><title>[B]03 O fantasma galopante[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20-%20ep.03.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Goober e a turma investigam uma casa mal-assombrada após a reportagem do "Fantasma galopante" a fim de conseguir uma história para a revista "Caçadores de Fantasmas".</info></item>
+
+<item><title>[B]04 O Fantasma Cantor[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20-%20ep.04.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>O monstro de Frankenstein III convence a Família Dó-Ré-Mi a ir ao seu castelo para um musical. Lá, eles percebem que a única coisa que ele quer é a voz de Danny.</info></item>
+
+<item><title>[B]05 O Navio Fantasma[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20-%20ep.05.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Goober e a turma estão abordo de um navio pirata para fotos de publicidade, quando o navio fica à deriva graças a alguns espíritos.</info></item>
+
+<item><title>[B]06 A mamãe sabe melhor[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20-%20ep.06.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>A Família Dó-Ré-Mi, Goober e a turma decidem passar férias em Kahrobi, terra das noites árabes e dos fantasmas!</info></item>
+
+<item><title>[B]07 O Museu de Cera Assombrado[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20-%20ep.07.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Com uma folga entre os concertos, a Família Dó-Ré-Mi decide visitar um velho museu de cera, assombrado por fantasmas.</info></item>
+
+<item><title>[B]08 Aloha fantasma[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20-%20ep.08.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Goober e a turma viajam ao Havaí para cobrir uma história de um local assombrado.</info></item>
+
+<item><title>[B]09 O Cão Bruxo Malvado[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20-%20ep.09.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Um cão sobrenatural está assombrando um farol na Escócia.</info></item>
+
+<item><title>[B]10 Veneza Alguém?[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20-%20ep.10.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Goober e a turma viajam à Veneza para investigar uma gôndola mal-assombrada.</info></item>
+
+<item><title>[B]11 Fantasma jovem do oeste vai para o oeste[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20-%20ep.11.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Num parque de diversões, a casa mal-assombrada está um pouco mais do que assombrada para a Família Dó-Ré-Mi, Goober e a turma.</info></item>
+
+<item><title>[B]12 Um cavaleiro de dia difícil[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20-%20ep.12.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]13 Is Sherlock Holme?[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20-%20ep.13.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Goober e a turma viajam para a Inglaterra para resolver um mistério. São auxiliados por um parente do famoso detetive Sherlock Holmes.</info></item>
+
+<item><title>[B]14 Aquele fantasma da neve[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20-%20ep.14.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Goober e turma são contratados por um resort de esqui para investigar o Fantasma da Neve.</info></item>
+
+<item><title>[B]15 Inca Dinka Doo[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20-%20ep.15.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]16 Velho McDonald tinha um fantasma - EE II EEYOW[/B]</title>
+<link>https://archive.org/download/goober-e-os-cacadores-de-fantasmas-ep.-08/Goober%20e%20os%20Ca%C3%A7adores%20de%20Fantasmas%20-%20ep.16.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<info>Goober e a turma visitam uma fazenda mal-assombrada.</info></item>

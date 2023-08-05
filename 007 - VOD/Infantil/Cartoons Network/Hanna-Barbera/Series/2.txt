@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Goober e os caçadores de fantasmas[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/HzPgBZQ/MV5-BODZi-Nj-Qx-M2-Qt-MTcw-ZC00-M2-Qw-LTk2-MDIt-NWMw-NTUw-ZTIz-Ym-Fm-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Ex-ODE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Cartoons%20Network/Hanna-Barbera/Series/Goober%20e%20os%20ca%C3%A7adores%20de%20fantasmas/3.txt</externallink>
+<fanart>https://i.ibb.co/2Ky5Z0Q/maxresdefault.jpg</fanart>
+<info>Goober e os caçadores de fantasmas (Goober and the ghost chasers, no original (em inglês)) foi um desenho produzido pela Hanna-Barbera que foi ao ar pela primeira vez em 8 de setembro de 1973, nos EUA, na Rede ABC. Semelhante ao grande sucesso da Hanna-Barbera, Scooby-Doo, Goober também se trata de um grupo de jovens, resolvendo casos de mistérios assombrosos, acompanhados de um cachorro, Goober. A grande diferença é que muitos dos fantasmas são reais.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
