@@ -1,66 +1,66 @@
 
 <item><title>[B]S04E01 - Culpado[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/4%C2%AA%20Temporada/S04E01%20-%20Culpado.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E02 - O Gato[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/4%C2%AA%20Temporada/S04E02%20-%20O%20Gato.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E03 - Gata Negra[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/4%C2%AA%20Temporada/S04E03%20-%20Gata%20Negra.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E04 - A Volta de Kraven[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/4%C2%AA%20Temporada/S04E04%20-%20A%20Volta%20de%20Kraven.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E05 - Parceiros[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/4%C2%AA%20Temporada/S04E05%20-%20Parceiros.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E06 - O Despertar[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/4%C2%AA%20Temporada/S04E06%20-%20O%20Despertar.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E07 - A Rainha Vampira[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/4%C2%AA%20Temporada/S04E07%20-%20A%20Rainha%20Vampira.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E08 - O Retorno do Duende Verde[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/4%C2%AA%20Temporada/S04E08%20-%20O%20Retorno%20do%20Duende%20Verde.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E09 - Os Fantasmas de Mary Jane[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/4%C2%AA%20Temporada/S04E09%20-%20Os%20Fantasmas%20de%20Mary%20Jane.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E10 - O Rei Lagarto[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/4%C2%AA%20Temporada/S04E10%20-%20O%20Rei%20Lagarto.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S04E11 - O Gatuno[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/4%C2%AA%20Temporada/S04E11%20-%20O%20Gatuno.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
