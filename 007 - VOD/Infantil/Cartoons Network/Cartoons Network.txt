@@ -6,11 +6,11 @@
 <fanart>https://i.ibb.co/CvZ6KQd/Cartoon-Network-Theater-Header.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Hanna-Barbera[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Cartoons%20Network/Hanna-Barbera/1.txt</thumbnail>
+<externallink>https://i.ibb.co/yRGdHsM/MV5-BNj-Ax-MGRl-OWUt-NGUz-Mi00-Mm-Jj-LThh-OGEt-ZTkw-ODk4-Mj-Yx-Mz-Jl-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Ex-ODE.jpg</externallink>
+<fanart>https://i.ibb.co/hRhXwGj/download-2.jpg</fanart>
+<info>Hanna-Barbera foi um estúdio de desenho animado fundado em 1957, sendo em 2001 absorvido pela Warner Bros. Animation. Fundado pela dupla de cartunistas norte-americanos William Hanna e Joseph Barbera, ex-diretores da divisão de animação da Metro-Goldwyn-Mayer e criadores de Tom e Jerry.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
