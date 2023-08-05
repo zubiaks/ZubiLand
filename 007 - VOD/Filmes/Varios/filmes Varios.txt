@@ -275,52 +275,53 @@
 <fanart>https://i.ibb.co/PgF0JJ8/t-T8-Vb5kvlk8y-DZQr-OUr6fupx26-D.jpg</fanart>
 <info>Porter (Mel Gibson) e Val Resnick (Gregg Henry) assaltam uma gangue de chineses e roubam 140 mil dólares. Porter se dá por satisfeito, apesar de esperar entre 350 mil e meio milhão de dólares, mas Val não, pois precisava de 130 mil dólares para saldar suas dívidas e ser aceito na "Organização". Assim, com a ajuda de Lynn (Deborah Unger), a esposa de Porter, Val o trai e Porter é baleado e dado como morto. Mas após algum tempo ele reaparece, decidido a receber os 70 mil dólares da sua parte, mesmo que para isto tenha de enfrentar toda a "Organização". Mas existe uma forte possibilidade que ele morra tentando e nesta louca tentativa conta apenas com Rosie (Maria Bello), uma garota de programa bastante exclusiva com quem tinha se envolvido, quando era seu segurança e motorista.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]10 Things I Hate About You (1999)[/B]</title>
+<link>https://archive.org/download/1999-10-coisas-que-eu-odeio-em-voce-dub/%5B1999%5D%2010%20Coisas%20que%20Eu%20Odeio%20em%20Voc%C3%AA%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/ftBrq8Q/10-Things-I-Hate-About-You-film.jpg</thumbnail>
+<fanart>https://i.ibb.co/KDFRkZG/scale.jpg</fanart>
+<info>A situação está tensa na casa dos Stratford. Bianca (Larisa Oleynik) não vê a hora de arranjar um namorado, mas seu pai (Larry Miller) não permite que ela saia com garotos. Após muita insistência, o pai toma uma resolução: Bianca pode namorar, desde que sua irmã, Katharina (Julia Stiles), namore também. Só que Katharina é uma verdadeira megera, que não tem amigos na escola nem em lugar algum. Para resolver a questão, Cameron (Joseph Gordon-Levitt), apaixonado por Bianca, resolve contratar o misterioso Patrick Verona (Heath Ledger) para seduzir a futura cunhada.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]seven brides for seven brothers (1954)[/B]</title>
+<link>https://archive.org/download/1954-sete-noivas-para-sete-irmaos-1954/%5B1954%5D%20Sete%20Noivas%20Para%20Sete%20Irm%C3%A3os%20%5B1954%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/gDfsNm1/MV5-BMm-Nk-YWU3-Nzkt-Mm-Rh-MS00-Y2-E4-LTkx-Yjgt-NGQz-Yz-Yz-MDQy-MWMx-L2lt-YWdl-L2lt-YWdl-Xk-Ey-Xk-Fq.jpg</thumbnail>
+<fanart>https://i.ibb.co/LNQXGN7/download-1.jpg</fanart>
+<info>Adam (Howard Kell) é um rapaz simples, primogênito de uma família que vive no interior. Ele faz uma viagem à cidade para comprar mantimentos e acaba arranjando uma esposa, a garçonete Milly (Jane Powell). Incentivados pelo casório, os outros seis irmãos de Adam decidem viajar para a cidade em busca de pretendentes. Inspirado pelo mito do Rapto das Sabinas pelos romanos, Adam motiva seus irmãos a sequestrar as moças com quem quem querem se casar.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Sexy e Marginal (1972)[/B]</title>
+<link>https://archive.org/download/1972-sexy-e-marginal-dub/%5B1972%5D%20Sexy%20e%20Marginal%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/HgGg2k0/Boxcar-Bertha-sapo.jpg</thumbnail>
+<fanart>https://i.ibb.co/zFCMwnJ/img.webp</fanart>
+<info>Durante a época da depressão, Bertha Thompson (Barbara Hershey) viu seu pai ser forçado em pilotar um avião em condições precárias e morrer em um acidente. Mais tarde ela liga a "Big" Bill Shelley (David Carradine), um líder sindical, mas na "caça as bruxas" que c6aracterizou a época do macartismo ele era considerado um comunista. Assim, "Big" Bill é perseguido e logo o casal se vê envolvido em assaltos.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Legend of Billie Jean (1985)[/B]</title>
+<link>https://archive.org/download/1985-a-lenda-de-billie-jean-dub/%5B1985%5D%20A%20Lenda%20de%20Billie%20Jean%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/D4Tt5FD/71khvo-Mn68-S-AC-UF894-1000-QL80.jpg</thumbnail>
+<fanart>https://i.ibb.co/6mb6g7n/MV5-BMGVh-OGIz-ZTYt-NDNl-Yi00-Ym-I1-LWI3-NDkt-ZDhm-Yzgy-OGY0-MWNl-Xk-Ey-Xk-Fqc-Gde-QXVy-OTc5-MDI5-Nj.jpg</fanart>
+<info>Injustamente acusada por um crime que não cometeu, Billie Jean Davy (Helen Slater), uma garota do interior do Texas, foge para não ser capturada pela corrupta polícia local. Com o passar do tempo, sua história se torna conhecida entre os jovens locais, que passam a idolatrá-la.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Overboard (1987)[/B]</title>
+<link>https://archive.org/download/1987-um-salto-para-a-felicidade-dub/%5B1987%5D%20Um%20Salto%20Para%20a%20Felicidade%20%5BDUB%5D%20.ia.mp4</link>
+<thumbnail>https://i.ibb.co/hs26Ypb/MV5-BMTQ2-ODA1-MTMx-Ml5-BMl5-Ban-Bn-Xk-Ft-ZTYw-OTgw-Nj-I5-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/2jFYsJ7/p10535-v-h10-aa.jpg</fanart>
+<info>Após maltratar um rude marceneiro, uma milionária esnobe cai de seu iate e acaba perdendo a memória. O sujeito, ao perceber a amnésia da patroa, busca se vingar tentando convencê-la de que é seu marido. Agora, ela viverá uma vida simples e sem luxo.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]House of Wax (1953)[/B]</title>
+<link>https://archive.org/download/1953-museu-de-cera-dub/%5B1953%5D%20Museu%20De%20Cera%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/1dgKwFC/MV5-BOWRh-MTg1-Nj-Yt-NDA5-MS00-NDJh-LTgz-Zm-Qt-Zm-Y3-Nm-Rj-NTEx-YWE3-Xk-Ey-Xk-Fqc-Gde-QXVy-NTIz-OTk5.jpg</thumbnail>
+<fanart>https://i.ibb.co/GMV5gd4/download.jpg</fanart>
+<info>Henry Jarrod, um artista que produz esculturas históricas em cera, tem sua obra queimada por um ganancioso sócio e quase morre no incêndio. Tempos depois, ele retorna em cadeira de rodas e com sede de vingança para restaurar suas criações em cera.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Fim Dos Dias (1999)[/B]</title>
+<link>https://archive.org/download/1999-fim-dos-dias-dub/%5B1999%5D%20Fim%20dos%20Dias%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/rMGV1BH/20407383.webp</thumbnail>
+<fanart>https://i.ibb.co/HGG1Kww/maxresdefault.jpg</fanart>
+<info>O milênio se aproxima enquanto uma série de sinais perturbadores sugere que Satanás voltou à Terra e está vagando pelas ruas da cidade de Nova York. Ele precisa encontrar uma mulher que dará à luz seu filho a tempo da chegada do Anticristo. Um ex-policial deve proteger a mulher supostamente escolhida para ser a mãe.</info></item>
+
+<item><title>[B]3000 Miles to Graceland (2001)[/B]</title>
+<link>https://archive.org/download/3000-milhas/3000%20milhas.mp4</link>
+<thumbnail>https://i.ibb.co/R3VZdXg/MV5-BMTEx-MDA0-NDAy-OTRe-QTJe-QWpw-Z15-Bb-WU2-MDM4-ODg3-OQ-V1-FMjpg-UX1000.jpg</thumbnail>
+<fanart>https://i.ibb.co/LhK2BXF/download-1.jpg</fanart>
+<info>Um grupo de ex-presidiários liderado por Michael e Murphy planeja um assalto a um cassino de Las Vegas. Porém, como o assalto acontecerá em meio à uma convenção de imitadores de Elvis Presley, eles precisam se vestir a caráter para executar o roubo.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
