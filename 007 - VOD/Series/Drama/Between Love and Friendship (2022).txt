@@ -12,11 +12,11 @@
 <fanart>https://i.ibb.co/txqKkpq/71pq3q-Gx-Og-L-RI.jpg</fanart>
 <info>Banana Actually é uma web série produzida pelo canal 72초TV no youtube, lançada em 2016 com duas temporadas</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Beauty and the Beast (telessérie de 1987)[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/dKHnXWp/MV5-BNzg3-Zj-Vk-MWYt-Yj-E0-OC00-Yj-Rj-LWJl-Mm-It-Njg4-YWQ4-Zj-Bi-ZWNm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTk3-OTk.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Drama/Beauty%20and%20the%20Beast%20(teless%C3%A9rie%20de%201987)/Season.txt</externallink>
+<fanart>https://i.ibb.co/h8RfyYw/p7895983-b-h9-aa.jpg</fanart>
+<info>A promotora de justiça Catherine é salva por Vincent, uma criatura metade homem, metade animal, que vive sob Nova York. Eles se apaixonam e compartilham uma conexão mental que leva Vincent a pressentir quando Catherine se encontra em perigo.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
