@@ -239,17 +239,18 @@
 <fanart>https://i.ibb.co/yXp6kL0/sddefault.jpg</fanart>
 <info>Procurando seu pai que o deserdou quando era bebê, um marinheiro de nome Popeye viaja para à cidade do porto de Sweethaven. Ele faz amizade com uma variedade de pessoas e se apaixona por Olívia Palito, que já tem um pretendente, o valentão Brutus. Popeye também acha um bebê abandonado, Gugu, que ele cria sozinho. Quando Brutus sequestra Olívia e a criança, Popeye entra em ação, com a ajuda de seu espinafre mágico.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]the godfather (1972)[/B]</title>
+<link>https://archive.org/download/1972-o-poderoso-chefao-dub/%5B1972%5D%20O%20Poderoso%20Chef%C3%A3o%20%5BDUB%5D.mp4</link>
+<thumbnail>https://i.ibb.co/5245Sj7/MV5-BM2-My-Nj-Yx-Nm-Ut-YTAw-Ni00-MTYx-LWJm-NWYt-Yz-Zl-ODY3-ZTk3-OTFl-Xk-Ey-Xk-Fqc-Gde-QXVy-Nzkw-Mj-Q.jpg</thumbnail>
+<fanart>https://i.ibb.co/r0Rf5q0/the-godfather-h-1972.webp</fanart>
+<info>Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
