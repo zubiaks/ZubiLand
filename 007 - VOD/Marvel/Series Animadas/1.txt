@@ -1,10 +1,10 @@
 <channels>
 
 <channel><name>[B][COLOR white]Homem-Aranha A Série Animada (1994)[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<thumbnail>https://i.ibb.co/tDyBLrr/MV5-BMm-Q1-Nz-Bl-Ym-It-Nm-Zk-Zi00-OTZk-LTg5-YTEt-NTI5-Yjcz-Zjk3-Yjc1-Xk-Ey-Xk-Fqc-Gde-QXVy-NTAy-ODkw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Series%20Animadas/Homem-Aranha%20A%20S%C3%A9rie%20Animada%20(1994)/2.txt</externallink>
+<fanart>https://i.ibb.co/zNN72Rk/maxresdefault-2.jpg</fanart>
+<info>Em um minuto ele é Peter Parker, o estudante universitário, e no outro, o Homem Aranha.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
