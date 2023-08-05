@@ -1,15 +1,15 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Series[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/ynfX9zM/20220303quebra-cabeca-hanna-barbera-cast-500-piece-jigsaw-puzzle-02.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Cartoons%20Network/Hanna-Barbera/Series/2.txt</externallink>
+<fanart>https://i.ibb.co/vZ7S6qv/download.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/7K3zDt0/hanna-barbera.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Cartoons%20Network/Hanna-Barbera/Filmes/2.txt</externallink>
+<fanart>https://i.ibb.co/vZ3ry8G/William-Hanna-some-cartoon-characters-Joseph-Barbera-1988.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
