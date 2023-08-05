@@ -8,25 +8,25 @@
 
 <channel><name>[B][COLOR white]Spider-Man S2[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/3R99JyR/poster-500.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Series%20Animadas/Homem-Aranha%20A%20S%C3%A9rie%20Animada%20(1994)/S2/3.txt</externallink>
 <fanart>https://i.ibb.co/HGpY59w/Peter-Parker-28-Earth-92131.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Spider-Man S3[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/TkygBgm/temporada-3.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Series%20Animadas/Homem-Aranha%20A%20S%C3%A9rie%20Animada%20(1994)/S3/3.txt</externallink>
 <fanart>https://i.ibb.co/L6vGBp6/Edward-Brock-29-and-Peter-Parker-29-from-Spider-Man-29-Season-1-9-001.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Spider-Man S4[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/fM9rtKq/81zm0-Si-Ks-L-AC-UF1000-1000-QL80.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Series%20Animadas/Homem-Aranha%20A%20S%C3%A9rie%20Animada%20(1994)/S4/3.txt</externallink>
 <fanart>https://i.ibb.co/TmxBcNt/download.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Spider-Man S5[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/wBwBj9F/89708908790879-JPG.webp</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Series%20Animadas/Homem-Aranha%20A%20S%C3%A9rie%20Animada%20(1994)/S5/3.txt</externallink>
 <fanart>https://i.ibb.co/gRJmHqL/Spider-Man-The-Animated-Series-Season-5.jpg</fanart>
 <info></info></channel>
 
