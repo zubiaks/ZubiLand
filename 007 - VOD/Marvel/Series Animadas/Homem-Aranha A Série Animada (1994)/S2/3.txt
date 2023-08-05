@@ -1,84 +1,84 @@
 
 <item><title>[B]S02E01 - Os Seis Traiçoeiros (Parte 01)[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/2%C2%AA%20Temporada/S02E01%20-%20Os%20Seis%20Trai%C3%A7oeiros%20%28Parte%2001%29.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S02E02 - Os Seis Traiçoeiros (Parte 02)[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/2%C2%AA%20Temporada/S02E02%20-%20Os%20Seis%20Trai%C3%A7oeiros%20%28Parte%2002%29.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S02E03 - Hydroman[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/2%C2%AA%20Temporada/S02E03%20-%20Hydroman.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S02E04 - Morte Aos Mutantes (Parte 01)[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/2%C2%AA%20Temporada/S02E04%20-%20Morte%20Aos%20Mutantes%20%28Parte%2001%29.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S02E05 - Morte Aos Mutantes (Parte 02)[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/2%C2%AA%20Temporada/S02E05%20-%20Morte%20Aos%20Mutantes%20%28Parte%2002%29.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S02E06 - Morbius (Parte 01)[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/2%C2%AA%20Temporada/S02E06%20-%20Morbius%20%28Parte%2001%29.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S02E07 - Morbius (Parte 02)[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/2%C2%AA%20Temporada/S02E07%20-%20Morbius%20%28Parte%2002%29.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S02E08 - Duelo de Caçadores[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/2%C2%AA%20Temporada/S02E08%20-%20Duelo%20de%20Ca%C3%A7adores.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S02E09 - Blade O Vampiro Caçador[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/2%C2%AA%20Temporada/S02E09%20-%20Blade%20O%20Vampiro%20Ca%C3%A7ador.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S02E10 - O Vampiro Imortal[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/2%C2%AA%20Temporada/S02E10%20-%20O%20Vampiro%20Imortal.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S02E11 - Tabuleta do Tempo[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/2%C2%AA%20Temporada/S02E11%20-%20Tabuleta%20do%20Tempo.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S02E12 - Devastação dos Tempos[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/2%C2%AA%20Temporada/S02E12%20-%20Devasta%C3%A7%C3%A3o%20dos%20Tempos.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S02E13 - O Gemido da Criatura[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/2%C2%AA%20Temporada/S02E13%20-%20O%20Gemido%20da%20Criatura.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S02E14 - O Pesadelo Final[/B]</title>
-<link></link>
+<link>https://archive.org/download/homem-aranha-a-serie-animada/Homem%20Aranha%20A%20S%C3%A9rie%20Animada%201994%20WEB-DL%20480p%20Dublado/2%C2%AA%20Temporada/S02E14%20-%20O%20Pesadelo%20Final.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
