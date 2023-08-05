@@ -245,11 +245,11 @@
 <fanart>https://i.ibb.co/r0Rf5q0/the-godfather-h-1972.webp</fanart>
 <info>Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]joana d'arc (1948)[/B]</title>
+<link>https://archive.org/download/1948-joana-darc-dub_202305/%5B1948%5D%20Joana%20D%27arc%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/b7j5q1F/MV5-BYj-M1-ODJl-N2-Qt-MTE4-NC00-Mz-Nh-LTg3-Zj-Yt-YWNk-MWZj-Nm-Jm-Nj-Fk-Xk-Ey-Xk-Fqc-Gde-QXVy-MDI2-ND.jpg</thumbnail>
+<fanart>https://i.ibb.co/RyHDTzq/picingridjoanofarc.webp</fanart>
+<info>No século 15, a França é uma nação derrotada e arruinada após a Guerra dos Cem Anos contra a Inglaterra. Uma jovem fazendeira de catorze anos, Joana D'Arc, afirma ouvir vozes do céu pedindo-lhe para liderar o Exército de Deus.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
