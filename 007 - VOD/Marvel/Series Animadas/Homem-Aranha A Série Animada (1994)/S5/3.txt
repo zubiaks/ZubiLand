@@ -1,47 +1,77 @@
 
-<item><title>[B][/B]</title>
+<item><title>[B]S05E01 - O Casamento[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S05E02 - Os Seis Guerreiros Esquecidos (Parte 1)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S05E03 - Herança Não Reclamada (Parte 2)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S05E04 - Segredos dos Seis (Parte 3)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S05E05 - Os Seis Atacam Novamente (Parte 4)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S05E06 - O Preço do Heroísmo (Parte 5)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S05E07 - O Retorno de Hydro-Man (Parte 1)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]S05E08 - O Retorno de Hydro-Man (Parte 2)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S05E09 - Guerras Secretas (Parte 1) A Chegada[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S05E10 - Guerras Secretas (Parte 2) A Punição do Caveira Vermelha[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S05E11 - Guerras Secretas (Parte 3) Doutor Destino[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S05E12 - A Guerra dos Aranhas (Parte 1) Eu Odeio Clones[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S05E13 - A Guerra dos Aranhas (Parte 2) Adeus Homem-Aranha[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
