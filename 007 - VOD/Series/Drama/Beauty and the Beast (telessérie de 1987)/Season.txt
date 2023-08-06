@@ -1,15 +1,15 @@
 <channels>
 
 <channel><name>[B][COLOR white]season 1[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/r2dG6m2/Beauty-and-the-Beast-Season-1.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Drama/Beauty%20and%20the%20Beast%20(teless%C3%A9rie%20de%201987)/season%201/eps.txt</externallink>
+<fanart>https://i.ibb.co/pK5jhFh/81mz-Ht-IGI4-L-RI.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]season 2[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/rQvnJ6D/51i-Dz-P4-T0-BL-AC-UF894-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Drama/Beauty%20and%20the%20Beast%20(teless%C3%A9rie%20de%201987)/season%202/eps.txt</externallink>
+<fanart>https://i.ibb.co/NxZxJ7X/91c-SXTQm-GL-RI.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
