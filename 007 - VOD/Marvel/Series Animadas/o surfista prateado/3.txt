@@ -1,48 +1,78 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E01 A Origem Do Surfista Prateado 1ª Parte[/B]</title>
+<link>https://archive.org/download/o-surfista-prateado-s-01-e-05-a-curva-do-conhecimento-1a-parte/O%20Surfista%20Prateado%20S01E01%20A%20Origem%20Do%20Surfista%20Prateado%201%C2%AA%20Parte.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E02 A Origem Do Surfista Prateado 2ª Parte[/B]</title>
+<link>https://archive.org/download/o-surfista-prateado-s-01-e-05-a-curva-do-conhecimento-1a-parte/O%20Surfista%20Prateado%20S01E02%20A%20Origem%20Do%20Surfista%20Prateado%202%C2%AA%20Parte.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E03 A Origem Do Surfista Prateado 3ª Parte[/B]</title>
+<link>https://archive.org/download/o-surfista-prateado-s-01-e-05-a-curva-do-conhecimento-1a-parte/O%20Surfista%20Prateado%20S01E03%20A%20Origem%20Do%20Surfista%20Prateado%203%C2%AA%20Parte.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E04 O Planeta Do Dr Moreau[/B]</title>
+<link>https://archive.org/download/o-surfista-prateado-s-01-e-05-a-curva-do-conhecimento-1a-parte/O%20Surfista%20Prateado%20S01E04%20O%20Planeta%20Do%20Dr%20Moreau.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E05 A Curva Do Conhecimento 1ª Parte[/B]</title>
+<link>https://archive.org/download/o-surfista-prateado-s-01-e-05-a-curva-do-conhecimento-1a-parte/O%20Surfista%20Prateado%20S01E05%20A%20Curva%20Do%20Conhecimento%201%C2%AA%20Parte.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E06 A Curva Do Conhecimento 2ª Parte[/B]</title>
+<link>https://archive.org/download/o-surfista-prateado-s-01-e-05-a-curva-do-conhecimento-1a-parte/O%20Surfista%20Prateado%20S01E06%20A%20Curva%20Do%20Conhecimento%202%C2%AA%20Parte.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E07 Visões Inferiores[/B]</title>
+<link>https://archive.org/download/o-surfista-prateado-s-01-e-05-a-curva-do-conhecimento-1a-parte/O%20Surfista%20Prateado%20S01E07%20Vis%C3%B5es%20Inferiores.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E08 Anticorpo[/B]</title>
+<link>https://archive.org/download/o-surfista-prateado-s-01-e-05-a-curva-do-conhecimento-1a-parte/O%20Surfista%20Prateado%20S01E08%20Anticorpo.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E09 Um Segundo Começo[/B]</title>
+<link>https://archive.org/download/o-surfista-prateado-s-01-e-05-a-curva-do-conhecimento-1a-parte/O%20Surfista%20Prateado%20S01E09%20Um%20Segundo%20Come%C3%A7o.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E10 Justiça Radical[/B]</title>
+<link>https://archive.org/download/o-surfista-prateado-s-01-e-05-a-curva-do-conhecimento-1a-parte/O%20Surfista%20Prateado%20S01E10%20Justi%C3%A7a%20Radical.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E11 A Guerra Eterna[/B]</title>
+<link>https://archive.org/download/o-surfista-prateado-s-01-e-05-a-curva-do-conhecimento-1a-parte/O%20Surfista%20Prateado%20S01E11%20A%20Guerra%20Eterna.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E12 Retorno a Zenn[/B]</title>
+<link>https://archive.org/download/o-surfista-prateado-s-01-e-05-a-curva-do-conhecimento-1a-parte/O%20Surfista%20Prateado%20S01E12%20Retorno%20a%20Zenn-la.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E13 O Fim da Eternidade[/B]</title>
+<link>https://archive.org/download/o-surfista-prateado-s-01-e-05-a-curva-do-conhecimento-1a-parte/O%20Surfista%20Prateado%20S01E13%20O%20Fim%20da%20Eternidade.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

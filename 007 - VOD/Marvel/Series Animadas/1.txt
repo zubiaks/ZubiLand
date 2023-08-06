@@ -6,11 +6,11 @@
 <fanart>https://i.ibb.co/zNN72Rk/maxresdefault-2.jpg</fanart>
 <info>Em um minuto ele é Peter Parker, o estudante universitário, e no outro, o Homem Aranha.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]o surfista prateado[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/fp4dQgP/20769168-s-Ui67.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Series%20Animadas/o%20surfista%20prateado/3.txt</externallink>
+<fanart>https://i.ibb.co/5MwFgYq/download.jpg</fanart>
+<info>Acompanhe as aventuras do Surfista Prateado enquanto ele busca por seu lar perdido e sua amada ao se rebelar contra seu mestre.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
