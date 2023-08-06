@@ -11,10 +11,10 @@
 <fanart>https://i.ibb.co/BjX8Whf/MV5-BODE1-ZDlm-NWUt-Y2-Mz-Zi00-ZTFj-LWI5-ZDAt-Mz-Ix-ZTJm-OGEw-Mzc5-Xk-Ey-Xk-Fqc-Gde-QXVy-ODMy-Mzg4-N.jpg</fanart>
 <info>Depois de cumprir pena de sete anos na cadeia, Anjo reencontra seu antigo comparsa, agora chefe de uma organização, e se envolve com Shirley Sombra, estrela do submundo. Ele também arruma inimizade com um policial corrupto.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<item><title>[B]As Filhas Do Fogo (1978)[/B]</title>
+<link>https://archive.org/download/AsFilhasDoFogo1978/As%20Filhas%20do%20Fogo%201978.mp4</link>
+<thumbnail>https://i.ibb.co/DbK6kHr/MV5-BZm-Rk-Mj-Zh-Yzkt-Mz-Fj-ZC00-OTEw-LTg4-Mz-At-ZDE3-ZWE0-M2-Y2-YTJi-Xk-Ey-Xk-Fqc-Gde-QXVy-OTU3-ODk.jpg</thumbnail>
+<fanart>https://i.ibb.co/GFQjFRh/FB-0027-022.webp</fanart>
 <info></info></item>
 
 <item><title>[B][/B]</title>
