@@ -1,48 +1,78 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E01 - Mundos Separados Parte 1[/B]</title>
+<link>https://archive.org/download/homem-aranha-acao-sem-limites/Homem%20Aranha%20A%C3%A7%C3%A3o%20Sem%20Limites%201999%20WEB-DL%20%28480p%29%20Dublado/1%C2%AA%20Temporada/S01E01%20-%20Mundos%20Separados%20Parte%201.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E02 - Mundos Separados Parte 2[/B]</title>
+<link>https://archive.org/download/homem-aranha-acao-sem-limites/Homem%20Aranha%20A%C3%A7%C3%A3o%20Sem%20Limites%201999%20WEB-DL%20%28480p%29%20Dublado/1%C2%AA%20Temporada/S01E02%20-%20Mundos%20Separados%20Parte%202.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E03 - Onde Mora o Perigo[/B]</title>
+<link>https://archive.org/download/homem-aranha-acao-sem-limites/Homem%20Aranha%20A%C3%A7%C3%A3o%20Sem%20Limites%201999%20WEB-DL%20%28480p%29%20Dublado/1%C2%AA%20Temporada/S01E03%20-%20Onde%20Mora%20o%20Perigo.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E04 - Opções Fatais[/B]</title>
+<link>https://archive.org/download/homem-aranha-acao-sem-limites/Homem%20Aranha%20A%C3%A7%C3%A3o%20Sem%20Limites%201999%20WEB-DL%20%28480p%29%20Dublado/1%C2%AA%20Temporada/S01E04%20-%20Op%C3%A7%C3%B5es%20Fatais.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E05 - Coração de Aço[/B]</title>
+<link>https://archive.org/download/homem-aranha-acao-sem-limites/Homem%20Aranha%20A%C3%A7%C3%A3o%20Sem%20Limites%201999%20WEB-DL%20%28480p%29%20Dublado/1%C2%AA%20Temporada/S01E05%20-%20Cora%C3%A7%C3%A3o%20de%20A%C3%A7o.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E06 - Aparece o Caçador![/B]</title>
+<link>https://archive.org/download/homem-aranha-acao-sem-limites/Homem%20Aranha%20A%C3%A7%C3%A3o%20Sem%20Limites%201999%20WEB-DL%20%28480p%29%20Dublado/1%C2%AA%20Temporada/S01E06%20-%20Aparece%20o%20Ca%C3%A7ador%21.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E07 - O Abutre Resmungão[/B]</title>
+<link>https://archive.org/download/homem-aranha-acao-sem-limites/Homem%20Aranha%20A%C3%A7%C3%A3o%20Sem%20Limites%201999%20WEB-DL%20%28480p%29%20Dublado/1%C2%AA%20Temporada/S01E07%20-%20O%20Abutre%20Resmung%C3%A3o.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E08 - O Monstro da Lua Cheia[/B]</title>
+<link>https://archive.org/download/homem-aranha-acao-sem-limites/Homem%20Aranha%20A%C3%A7%C3%A3o%20Sem%20Limites%201999%20WEB-DL%20%28480p%29%20Dublado/1%C2%AA%20Temporada/S01E08%20-%20O%20Monstro%20da%20Lua%20Cheia.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E09 - Subsistência[/B]</title>
+<link>https://archive.org/download/homem-aranha-acao-sem-limites/Homem%20Aranha%20A%C3%A7%C3%A3o%20Sem%20Limites%201999%20WEB-DL%20%28480p%29%20Dublado/1%C2%AA%20Temporada/S01E09%20-%20Subsist%C3%AAncia.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E10 - Questões do Coração[/B]</title>
+<link>https://archive.org/download/homem-aranha-acao-sem-limites/Homem%20Aranha%20A%C3%A7%C3%A3o%20Sem%20Limites%201999%20WEB-DL%20%28480p%29%20Dublado/1%C2%AA%20Temporada/S01E10%20-%20Quest%C3%B5es%20do%20Cora%C3%A7%C3%A3o.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E11 - O Número Um é o Mais Solitário[/B]</title>
+<link>https://archive.org/download/homem-aranha-acao-sem-limites/Homem%20Aranha%20A%C3%A7%C3%A3o%20Sem%20Limites%201999%20WEB-DL%20%28480p%29%20Dublado/1%C2%AA%20Temporada/S01E11%20-%20O%20N%C3%BAmero%20Um%20%C3%A9%20o%20Mais%20Solit%C3%A1rio.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E12 - Os Pecados dos Pais[/B]</title>
+<link>https://archive.org/download/homem-aranha-acao-sem-limites/Homem%20Aranha%20A%C3%A7%C3%A3o%20Sem%20Limites%201999%20WEB-DL%20%28480p%29%20Dublado/1%C2%AA%20Temporada/S01E12%20-%20Os%20Pecados%20dos%20Pais.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E13 - Destino à Solta[/B]</title>
+<link>https://archive.org/download/homem-aranha-acao-sem-limites/Homem%20Aranha%20A%C3%A7%C3%A3o%20Sem%20Limites%201999%20WEB-DL%20%28480p%29%20Dublado/1%C2%AA%20Temporada/S01E13%20-%20Destino%20%C3%A0%20Solta.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
