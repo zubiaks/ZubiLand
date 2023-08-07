@@ -12,11 +12,12 @@
 <fanart>https://i.ibb.co/5MwFgYq/download.jpg</fanart>
 <info>Acompanhe as aventuras do Surfista Prateado enquanto ele busca por seu lar perdido e sua amada ao se rebelar contra seu mestre.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Homem Aranha Ação Sem Limites (1999)[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/YRSpf6G/fc6edb777d2a870221da476b6d3c0b2f.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Series%20Animadas/Homem%20Aranha%20A%C3%A7%C3%A3o%20Sem%20Limites%20(1999)/3.txt</externallink>
+<fanart>https://i.ibb.co/PrWvqY9/eh-DEan-GJRu-H5-Oxcz2-C5-HSdcx-UIN.jpg</fanart>
+<info>Peter Parker aproveita que todos acham que ele morreu depois de salvar uma vida num incêndio e embarca numa missão para resgatar John Jameson na Contra-Terra! Prepare-se para ver Homem-Aranha em Ações sem Limites!
+</info>Spider-Man Unlimited foi uma série animada de treze episódios, na qual o Homem-Aranha vive aventuras na Contra-Terra. Serve como um spin-off da série Homem-Aranha dos anos 90 e é parcialmente inspirada no Homem-Aranha 2099.</channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
