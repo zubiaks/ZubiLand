@@ -30,11 +30,11 @@
 <fanart>https://i.ibb.co/YdN06YF/230722-futurama-tease-ecifg8.jpg</fanart>
 <info>As aventuras de Fry, um entregador de pizzas que foi acidentalmente congelado e acorda mil anos depois. Ele é acolhido por seu único descendente, um cientista idoso e confuso que possui um pequeno serviço de entrega.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Meu Amigo É Um Gigante[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/YDKhRcm/O-meu-amigo-gigante.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/Meu%20Amigo%20%C3%89%20Um%20Gigante/eps.txt</externallink>
+<fanart>https://i.ibb.co/qRYTx2k/8e1eb35aabff8c3c3ccd336c8a7a249f7754380b-hq.jpg</fanart>
+<info>1° Temporada do desenho Meu Amigo É Um Gigante (Linus & Boom) com 51 episódios (Não Consegui Encontrar O Episódio 36) todos estão em português de Portugal (Melhor do que nada kkkkk) se alguém puder legendar os episódios em português do Brasil na versão francesa Meu Amigo É Um Gigante (Francês) 1° Temporada 2009 480p (Linus & Boom)</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
