@@ -1,0 +1,78 @@
+
+<item><title>[B]01 Trapped by Loki[/B]</title>
+<link>https://archive.org/download/The_Mighty_Thor_1966/The%20Mighty%20Thor%20%281966%29/01%20Trapped%20by%20Loki.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]02 Chained Evil[/B]</title>
+<link>https://archive.org/download/The_Mighty_Thor_1966/The%20Mighty%20Thor%20%281966%29/02%20Chained%20Evil.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]03 Battle of Gods[/B]</title>
+<link>https://archive.org/download/The_Mighty_Thor_1966/The%20Mighty%20Thor%20%281966%29/03%20Battle%20of%20Gods.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]04 Trial of Gods[/B]</title>
+<link>https://archive.org/download/The_Mighty_Thor_1966/The%20Mighty%20Thor%20%281966%29/04%20Trial%20of%20Gods.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]05 The Absorbing Man[/B]</title>
+<link>https://archive.org/download/The_Mighty_Thor_1966/The%20Mighty%20Thor%20%281966%29/05%20The%20Absorbing%20Man.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]06 Terror of The Tomb[/B]</title>
+<link>https://archive.org/download/The_Mighty_Thor_1966/The%20Mighty%20Thor%20%281966%29/06%20Terror%20of%20The%20Tomb.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]07 The Grey Gargoyle[/B]</title>
+<link>https://archive.org/download/The_Mighty_Thor_1966/The%20Mighty%20Thor%20%281966%29/07%20The%20Grey%20Gargoyle.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]08 The Mysterious Mister Hyde[/B]</title>
+<link>https://archive.org/download/The_Mighty_Thor_1966/The%20Mighty%20Thor%20%281966%29/08%20The%20Mysterious%20Mister%20Hyde.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]09 Every Hand Against Him[/B]</title>
+<link>https://archive.org/download/The_Mighty_Thor_1966/The%20Mighty%20Thor%20%281966%29/09%20Every%20Hand%20Against%20Him.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]10 The Tomorrow Man[/B]</title>
+<link>https://archive.org/download/The_Mighty_Thor_1966/The%20Mighty%20Thor%20%281966%29/10%20The%20Tomorrow%20Man.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]11 Enter Hercules[/B]</title>
+<link>https://archive.org/download/The_Mighty_Thor_1966/The%20Mighty%20Thor%20%281966%29/11%20Enter%20Hercules.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]12 Thunder in the Netherworld[/B]</title>
+<link>https://archive.org/download/The_Mighty_Thor_1966/The%20Mighty%20Thor%20%281966%29/12%20Thunder%20in%20the%20Netherworld.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]13 Molto, The Lava Man[/B]</title>
+<link>https://archive.org/download/The_Mighty_Thor_1966/The%20Mighty%20Thor%20%281966%29/13%20Molto%2C%20The%20Lava%20Man.avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
