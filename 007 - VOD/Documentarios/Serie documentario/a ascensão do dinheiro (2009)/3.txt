@@ -1,48 +1,36 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]01 - Sonhos de Avareza[/B]</title>
+<link>https://archive.org/download/AAscensaoDoDinheiroDublado/01%20-%20Sonhos%20de%20Avareza%5Bmvm%5D.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]02 - Escravidão Humana[/B]</title>
+<link>https://archive.org/download/AAscensaoDoDinheiroDublado/02%20-%20Escravid%C3%A3o%20Humana%5Bmvm%5D.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]03 - Bolhas de Sabão[/B]</title>
+<link>https://archive.org/download/AAscensaoDoDinheiroDublado/03%20-%20Bolhas%20de%20Sab%C3%A3o%5Bmvm%5D.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]04 - Negocio Arriscado[/B]</title>
+<link>https://archive.org/download/AAscensaoDoDinheiroDublado/04%20-%20Negocio%20Arriscado%5Bmvm%5D.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]05 - Seguro como Casas[/B]</title>
+<link>https://archive.org/download/AAscensaoDoDinheiroDublado/05%20-%20Seguro%20como%20Casas%5Bmvm%5D.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]06 - Chimerica[/B]</title>
+<link>https://archive.org/download/AAscensaoDoDinheiroDublado/06%20-%20Chimerica%5Bmvm%5D.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
