@@ -1,48 +1,29 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Episódio 1: A Linguagem do Universo[/B]</title>
+<link>https://archive.org/download/AHistoriaDaMatematicaDublado/A%20Hist%C3%B3ria%20da%20Matem%C3%A1tica%201%20-%20A%20Linguagem%20do%20Universo%20%28480p%29.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Neste primeiro episódio, Marcus du Sautoy olha para a importância que a Matemática tem para as nossas vidas, antes de analisar a matemática do Antigo Egipto, Mesopotâmia e Grécia, abordando a matemática da construção das pirâmides, a descoberta do Pi, a importância dos triângulos retângulos e da geometria grega, onde pontificaram os grandes nomes de Platão, Pitágoras, Euclides e Arquimedes.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Episódio 2: O Génio do Oriente[/B]</title>
+<link>https://archive.org/download/AHistoriaDaMatematicaDublado/A%20Hist%C3%B3ria%20da%20Matem%C3%A1tica%202%20-%20O%20G%C3%AAnio%20do%20Oriente%20%28480p%29.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Marcus du Sautoy visita o Oriente. Enquanto a Europa estava mergulhada na Idade das Trevas, a Matemática avançava no Oriente: na China e na Índia, e mais tarde no Médio Oriente. Nesse episódio estão as maiores descobertas matemáticas deste período, quando surgiu o sistema de notação decimal, o zero, a Álgebra e a Trigonometria, avanços obtidos graças às mentes de Ch’in Ju Xiao, Madhava, Omar Khayyam, Muhammad al-Khwarizmi, Fibonacci e Tartaglia.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Episódio 3: As Fronteiras do Espaço[/B]</title>
+<link>https://archive.org/download/AHistoriaDaMatematicaDublado/A%20Hist%C3%B3ria%20da%20Matem%C3%A1tica%203%20-%20As%20Fronteiras%20do%20Espa%C3%A7o%20%28480p%29.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>No século XVII, a Europa tornou-se no centro matemático do mundo. Tinham sido dados grandes passos na compreensão da geometria dos objetos fixos no espaço e no tempo. Chegava a hora de procurar desvendar a matemática que descreve os objetos em movimento.
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+Marcus du Sautoy visita a França de René Descartes um grande matemático que conseguiu juntar a Geometria e a Álgebra. Analisa as propriedades dos números primos que foram descobertas por Fermat e que hoje são usados na tecnologia moderna. Segue-se a matemática de Newton e Leibniz onde será contada a história de antagonismo existente entre dois dos maiores cérebros matemáticos da História. Por fim, são analisadas as implicações das descobertas matemáticas em nossas vidas de mais três gigantes da Matemática: Gauss, Euler e Riemann.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Episódio 4: Rumo ao Infinito e Mais Além[/B]</title>
+<link>https://archive.org/download/AHistoriaDaMatematicaDublado/A%20Hist%C3%B3ria%20da%20Matem%C3%A1tica%204%20-%20Al%C3%A9m%20do%20Infinito%20%28480p%29.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>No último episódio desta série, Marcus du Sautoy aborda alguns dos maiores problemas matemáticos do século XX propostos por David Hilbert em 1900 e as histórias dos homens e mulheres que lutaram para conseguir solucioná-los.
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+Desde os trabalhos de Cantor sobre os infinitos, a teoria do caos descoberta por Henri Poincaré, os grandes dilemas colocados por Gödel, amigo íntimo de Einstein, o trabalho de Paul Cohen sobre os diferentes tipos de matemática existentes, a Geometria Algébrica de André Weil e as novas linguagens matemáticas de Galois, Julia Robinson e Grothendieck.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
