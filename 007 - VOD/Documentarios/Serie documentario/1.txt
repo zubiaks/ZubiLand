@@ -24,11 +24,11 @@
 <fanart>https://i.ibb.co/McZhq3d/MARCUS-DU-SAUTOY-SIMETRIA-ENIGMA-DA-REALIDADE-520x245.png</fanart>
 <info>The story of maths, documentário produzido pela BBC, conta a história da matemática e mostra a sua importância para a nossa vida. Apresentado por Marcus du Sautoy, pesquisador e professor da Universidade de Oxford, o documentário é dividido em 4 episódios e está disponível no YouTube com legendas em português.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]O Legado de Pitágoras[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/jb6vFjD/Pitagoras.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Documentarios/Serie%20documentario/O%20Legado%20de%20Pit%C3%A1goras/3.txt</externallink>
+<fanart>https://i.ibb.co/jkPFCKT/O-Legado-de-Pitagoras-520x245.webp</fanart>
+<info>O programa apresenta a história e as contribuições desse importante filósofo e matemático grego para a humanidade e para o entendimento do universo.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

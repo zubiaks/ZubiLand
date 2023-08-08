@@ -1,48 +1,18 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Desafiando Pitagoras[/B]</title>
+<link>https://archive.org/download/OLegadoDePitagoras/Desafiando%20Pitagoras%5Bmvm%5D.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Os Triangulos de Samos[/B]</title>
+<link>https://archive.org/download/OLegadoDePitagoras/Os%20Triangulos%20de%20Samos%5Bmvm%5D.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Pitagoras e Outros[/B]</title>
+<link>https://archive.org/download/OLegadoDePitagoras/Pitagoras%20e%20Outros%5Bmvm%5D.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

@@ -49,11 +49,14 @@
 <fanart>https://i.ibb.co/R4n3NJw/R.jpg</fanart>
 <info>Para quem ainda não entendeu totalmente o polêmico Bitcoin, este é um curso intensivo conciso e informativo sobre Dinheiro e Criptomoedas.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Filhos De Galileu[/B]</title>
+<link>https://archive.org/download/FilhosDeGalileuDocumentrio/Filhos%20de%20Galileu%20-%20Document%C3%A1rio.mp4</link>
+<thumbnail>https://i.ibb.co/FsqBtMr/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/vmq9bfS/sddefault.jpg</fanart>
+<info>Uma rara visita aos bastidores do Observatório do Vaticano, e as questões cosmológicas enfrentadas pelos astrônomos Jesuítas que lá trabalham.
+Desde 1891, o Observatório abrigado na residência de verão do Papa, aplica a experiência científica dos astrônomos e astrofísicos Jesuítas a questões fundamentais que intrigam todas as pessoas de fé: como esse universo foi criado e qual o nosso papel nele?
+Conheça essa memorável instituição, um observatório astronômico na mesma Igreja que silenciou Galileu. Os cientistas que ali trabalham são os descendentes espirituais do astrônomo italiano do século dezessete, Galileu, cujas investigações confirmaram a visão Copérnica do Sol como o centro do Sistema Solar, e que foi forçado a abdicar de suas conclusões pois conflitavam com os ensinamentos da igreja.
+Sendo os únicos cientistas pesquisadores financiados pela Igreja Católica, estes cientistas Jesuítas ocupam um vínculo único em nossa compreensão do universo, um onde a nossa admiração e respeito pela vida é apenas reforçado pelo conhecimento científico.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
