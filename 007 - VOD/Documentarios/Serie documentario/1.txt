@@ -30,10 +30,10 @@
 <fanart>https://i.ibb.co/jkPFCKT/O-Legado-de-Pitagoras-520x245.webp</fanart>
 <info>O programa apresenta a história e as contribuições desse importante filósofo e matemático grego para a humanidade e para o entendimento do universo.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Limites Humanos[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/L9bKgPC/c1943c5cc985c398582507dbd9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Documentarios/Serie%20documentario/Limites%20Humanos/3.txt</externallink>
+<fanart>https://i.ibb.co/CW0PZFq/3-Face-2x-100-min.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
