@@ -19,11 +19,11 @@
 <info>Peter Parker aproveita que todos acham que ele morreu depois de salvar uma vida num incêndio e embarca numa missão para resgatar John Jameson na Contra-Terra! Prepare-se para ver Homem-Aranha em Ações sem Limites!
 </info>Spider-Man Unlimited foi uma série animada de treze episódios, na qual o Homem-Aranha vive aventuras na Contra-Terra. Serve como um spin-off da série Homem-Aranha dos anos 90 e é parcialmente inspirada no Homem-Aranha 2099.</channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]The Mighty Thor (1966)[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/myHC83N/813-DAMUao5-L-AC-UF1000-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Series%20Animadas/The%20Mighty%20Thor%20(1966)/3.txt</externallink>
+<fanart>https://i.ibb.co/ZXLqCPz/download-1.jpg</fanart>
+<info>Quando o médico coxo, Don Blake, encontrou uma bengala velha e acidentalmente a atingiu, algo extraordinário aconteceu. Don Blake se transformou no que acabou sendo sua verdadeira forma, Thor, o Deus nórdico do Trovão e do Relâmpago e o bastão se tornou seu poderoso martelo, Mjolnir. Esta série segue suas aventuras enquanto ele luta contra os inimigos de Migard (Terra) de ameaças como seu meio-irmão maligno, Loki.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
