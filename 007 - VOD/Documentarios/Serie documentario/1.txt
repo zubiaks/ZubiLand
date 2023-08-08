@@ -12,11 +12,11 @@
 <fanart>https://i.ibb.co/NYg6dGd/hqdefault.jpg</fanart>
 <info>A série retrata o mundo do dinheiro e a história financeira além do interesse acadêmico.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]No Jardim de Darwin[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/zbkGY7r/MV5-BMDRk-MTg1-Nj-Yt-OWZj-My00-Nj-Fi-LTg0-Ym-Qt-Nm-Y5-ZTEz-Zj-U0-M2-E4-Xk-Ey-Xk-Fqc-Gde-QXVy-NDcz-MD.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Documentarios/Serie%20documentario/No%20Jardim%20de%20Darwin/3.txt</externallink>
+<fanart>https://i.ibb.co/3TkrXJn/hqdefault-1.jpg</fanart>
+<info>O entomologista Jimmy Doherty segue os passos de Charles Darwin e refaz suas experiências nos jardins e estufas da mesma casa onde o famoso naturalista britânico realizou seus experimentos.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
