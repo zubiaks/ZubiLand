@@ -1,9 +1,9 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Primeira temporada (1985 - 1986)[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Mf44nGL/6132-BKYS3-PL-AC-UF894-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/he%20man%20and%20she%20ra/She-Ra%20Princesa%20do%20Poder/Primeira%20temporada%20(1985%20-%201986)/eps.txt</externallink>
+<fanart>https://i.ibb.co/LvsCVjR/temporada-1.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
