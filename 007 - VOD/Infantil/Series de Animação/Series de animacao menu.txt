@@ -36,6 +36,42 @@
 <fanart>https://i.ibb.co/qRYTx2k/8e1eb35aabff8c3c3ccd336c8a7a249f7754380b-hq.jpg</fanart>
 <info>1° Temporada do desenho Meu Amigo É Um Gigante (Linus & Boom) com 51 episódios (Não Consegui Encontrar O Episódio 36) todos estão em português de Portugal (Melhor do que nada kkkkk) se alguém puder legendar os episódios em português do Brasil na versão francesa Meu Amigo É Um Gigante (Francês) 1° Temporada 2009 480p (Linus & Boom)</info></channel>
 
+<channel><name>[B][COLOR white]he man and she ra[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/pP08PC5/91-TS9q0v-KGL-AC-UF1000-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/he%20man%20and%20she%20ra/1.txt</externallink>
+<fanart>https://i.ibb.co/Lnn0NHT/maxresdefault.jpg</fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
@@ -77,6 +113,43 @@
 <externallink></externallink>
 <fanart></fanart>
 <info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
 
 
 </channels>
