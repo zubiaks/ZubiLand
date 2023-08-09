@@ -58,11 +58,11 @@ Desde 1891, o Observatório abrigado na residência de verão do Papa, aplica a 
 Conheça essa memorável instituição, um observatório astronômico na mesma Igreja que silenciou Galileu. Os cientistas que ali trabalham são os descendentes espirituais do astrônomo italiano do século dezessete, Galileu, cujas investigações confirmaram a visão Copérnica do Sol como o centro do Sistema Solar, e que foi forçado a abdicar de suas conclusões pois conflitavam com os ensinamentos da igreja.
 Sendo os únicos cientistas pesquisadores financiados pela Igreja Católica, estes cientistas Jesuítas ocupam um vínculo único em nossa compreensão do universo, um onde a nossa admiração e respeito pela vida é apenas reforçado pelo conhecimento científico.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Sons do Arco Ribeirinho Sul[/B]</title>
+<link>https://archive.org/download/SARSdocumentario/SARS_FINAL%20UNcontained-QuickTime%20H.264.mp4</link>
+<thumbnail>https://i.ibb.co/3Bbmp5b/Estuturacao-territorial-da-AML-2010-fonte-geografia11hramadablogspotcom-Q320.jpg</thumbnail>
+<fanart>https://i.ibb.co/tHnkb0z/sars-img-banner.jpg</fanart>
+<info>O projeto “SONS DO ARCO RIBEIRINHO SUL” está integrado no OUT.FEST – Festival Internacional de Música Exploratória do Barreiro, e pretende, através de uma abordagem artística baseada no Som, contribuir para a preservação e a consciencialização do património material e imaterial, ecológico e urbano do Sapal de Coina, Mata da Machada e Frente Ribeirinha do Barreiro.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
