@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]She-Ra Princesa do Poder[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/QKgz32x/MV5-BNWU3-Yzll-MDMt-MWU0-OC00-ZWEz-LWI0-NDAt-Nz-Az-Y2-Nk-ZTk4-MGZk-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Az-ODY0.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/he%20man%20and%20she%20ra/She-Ra%20Princesa%20do%20Poder/2.txt</externallink>
+<fanart>https://i.ibb.co/yghqZTQ/maxresdefault.jpg</fanart>
+<info>She-Ra: Princess of Power (bra: She-Ra: A Princesa do Poder; prt: She-Ra) é uma série estadunidense de desenho animado, produzida em 1985 pela Filmation. Sendo um spin-off da série de animação He-Man and the Masters of the Universe, também da Filmation, She-Ra era voltada principalmente para o público feminino jovem para complementar a popularidade de He-Man com os jovens do sexo masculino. [1] Produzido de 1985 a 1986 pelo . Em Portugal a série foi emitida pela RTP entre 1986 e 1987, na versão original com legendas, e no Brasil, o desenho foi exibido pela Rede Globo a partir de 30 de junho de 1986 no programa Xou da Xuxa, sendo posteriormente exibida nos programas TV Colosso e Xuxa Park, também da TV Globo, durante a década de 1990. Atualmente é exibido pelo canal Gloob e pelo serviço de streaming Netflix.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
