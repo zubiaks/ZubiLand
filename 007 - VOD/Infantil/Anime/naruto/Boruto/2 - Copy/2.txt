@@ -1,6 +1,6 @@
 <channels>
 
-<channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
@@ -12,11 +12,17 @@
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white]boruto[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/wL924DQ/250px-Boruto-manga-vol-1.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/naruto/Boruto/1.txt</externallink>
-<fanart>https://i.ibb.co/qYFQVXG/Boruto-Uzumaki.jpg</fanart>
-<info>Boruto e uma nova geração de ninjas treinam para se tornarem grandes shinobis da vila da folha. Mas é difícil para o garoto estar à sombra do pai e Boruto luta para encontrar o seu próprio caminho.</info></channel>
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
