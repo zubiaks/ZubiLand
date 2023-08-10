@@ -24,10 +24,10 @@
 <fanart>https://i.ibb.co/Tcd9zRr/09131422100311.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<channel><name>[B][COLOR white]Naruto[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/ZxjQzZH/9d19e4b55a1be26f44d663bdc13a20c6.png</thumbnail>
 <externallink></externallink>
-<fanart></fanart>
+<fanart>https://i.ibb.co/S3PfwSs/images.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
