@@ -26,7 +26,7 @@
 
 <channel><name>[B][COLOR white]Naruto[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/ZxjQzZH/9d19e4b55a1be26f44d663bdc13a20c6.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/naruto/1.txt</externallink>
 <fanart>https://i.ibb.co/S3PfwSs/images.jpg</fanart>
 <info></info></channel>
 
