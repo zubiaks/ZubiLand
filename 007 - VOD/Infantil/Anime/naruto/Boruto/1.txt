@@ -7,39 +7,39 @@
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Arco de Sarada Uchiha[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/gr6QxWL/download.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/naruto/Boruto/02_Arco_de_Sarada_Uchiha/3.txt</externallink>
+<fanart>https://i.ibb.co/F3scBRd/download-1.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Arco das Excursões Escolares[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/qF7LTKp/novo-arco-de-Boruto-Naruto-Next-Generations-1.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/naruto/Boruto/03_Arco_das_Excurs%C3%B5es_Escolares/3.txt</externallink>
+<fanart>https://i.ibb.co/fdjwVL5/Alunos-de-Shino.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Arco da Graduação[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/th2sMY1/boruto-manga-arco-02-00.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/naruto/Boruto/04_Arco_da_Gradua%C3%A7%C3%A3o/3.txt</externallink>
+<fanart>https://i.ibb.co/0svJ6sx/borutocover.png</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Arco das Missões Genin[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/gTjbgYy/Boruto-3-Frie.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/naruto/Boruto/05_Arco_das_Miss%C3%B5es_Genin/3.txt</externallink>
+<fanart>https://i.ibb.co/6sFmgym/boruto-capa-cke.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Arco da Gangue Byakuya[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/JCpPRKr/download.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/naruto/Boruto/06_Arco_da_Gangue_Byakuya/3.txt</externallink>
+<fanart>https://i.ibb.co/1Xh4K49/naruto-boruto-haku-1088860-1280x0.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Arco dos Exames Chūnin[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/x8xH772/Cap28-Capa.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/naruto/Boruto/07_Arco_dos_Exames_Ch%C5%ABnin/3.txt</externallink>
+<fanart>https://i.ibb.co/3WLKS9V/Os-Exames-de-Gradua3-Fo-Come21.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
