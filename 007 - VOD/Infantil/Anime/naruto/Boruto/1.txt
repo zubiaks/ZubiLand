@@ -1,9 +1,9 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Arco da Academia[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/9w4cx8p/Whats-App-Image-2022-07-19-at-16-24-33.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/naruto/Boruto/01_Arco_da_Academia/3.txt</externallink>
+<fanart>https://i.ibb.co/z5KVx91/20220719-20220719-210701.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>

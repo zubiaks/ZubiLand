@@ -1,47 +1,107 @@
 
-<item><title>[B][/B]</title>
+<item><title>[B]Episódio 01 – Uzumaki Boruto!![/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Episódio 02 – O Filho Do Hokage!![/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Episódio 03 – Metal Lee Vai Com Tudo!![/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Episódio 04 – Guerra De Ninjutsu Entre Os Sexos!![/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Episódio 05 – O Misterioso Aluno Novo!![/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Episódio 06 – A Última Aula!![/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Episódio 07 – Amor E Batatinhas!![/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Episódio 08 – A Revelação Do Sonho[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 09 – Prova de Si Mesmo[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 10 – O Incidente Do Fantasma! A Investigação Começa!![/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 11 – A Sombra do Culpado[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 12 – Boruto e Mitsuki[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 13 – A Besta Demoníaca Aparece!![/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 14 – O Caminho Que Boruto Vê[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 15 – Um Novo Caminho[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 16 – Crise A Ameaça da Reprovação [FILLER][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 17 – Corra, Sarada!! [FILLER][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 18 – Um Dia na Vida da Família Uzumaki[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
