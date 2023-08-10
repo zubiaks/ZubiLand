@@ -1,36 +1,36 @@
 
 <item><title>[B]Episódio 01 – Uzumaki Boruto!![/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2001%20%E2%80%93%20Uzumaki%20Boruto%21%21.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episódio 02 – O Filho Do Hokage!![/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2002%20%E2%80%93%20O%20Filho%20Do%20Hokage%21%21.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episódio 03 – Metal Lee Vai Com Tudo!![/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2003%20%E2%80%93%20Metal%20Lee%20Vai%20Com%20Tudo%21%21.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episódio 04 – Guerra De Ninjutsu Entre Os Sexos!![/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2004%20%E2%80%93%20Guerra%20De%20Ninjutsu%20Entre%20Os%20Sexos%21%21.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episódio 05 – O Misterioso Aluno Novo!![/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2005%20%E2%80%93%20O%20Misterioso%20Aluno%20Novo%21%21.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episódio 06 – A Última Aula!![/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2006%20%E2%80%93%20A%20%C3%9Altima%20Aula%21%21.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -42,67 +42,67 @@
 <info></info></item>
 
 <item><title>[B]Episódio 08 – A Revelação Do Sonho[/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2007%20%E2%80%93%20Amor%20E%20Batatinhas%21%21.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episódio 09 – Prova de Si Mesmo[/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2009%20%E2%80%93%20Prova%20de%20Si%20Mesmo.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episódio 10 – O Incidente Do Fantasma! A Investigação Começa!![/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2010%20%E2%80%93%20O%20Incidente%20Do%20Fantasma%21%20A%20Investiga%C3%A7%C3%A3o%20Come%C3%A7a%21%21.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episódio 11 – A Sombra do Culpado[/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2011%20%E2%80%93%20A%20Sombra%20do%20Culpado.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episódio 12 – Boruto e Mitsuki[/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2012%20%E2%80%93%20Boruto%20e%20Mitsuki.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episódio 13 – A Besta Demoníaca Aparece!![/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2013%20%E2%80%93%20A%20Besta%20Demon%C3%ADaca%20Aparece%21%21.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episódio 14 – O Caminho Que Boruto Vê[/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2014%20%E2%80%93%20O%20Caminho%20Que%20Boruto%20V%C3%AA.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episódio 15 – Um Novo Caminho[/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2015%20%E2%80%93%20Um%20Novo%20Caminho.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episódio 16 – Crise A Ameaça da Reprovação [FILLER][/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2016%20%E2%80%93%20Crise%20A%20Amea%C3%A7a%20da%20Reprova%C3%A7%C3%A3o%20%5BFILLER%5D.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episódio 17 – Corra, Sarada!! [FILLER][/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2017%20%E2%80%93%20Corra%2C%20Sarada%21%21%20%5BFILLER%5D.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episódio 18 – Um Dia na Vida da Família Uzumaki[/B]</title>
-<link></link>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2018%20%E2%80%93%20Um%20Dia%20na%20Vida%20da%20Fam%C3%ADlia%20Uzumaki.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

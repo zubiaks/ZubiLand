@@ -1,0 +1,84 @@
+
+<item><title>[B]Episódio 53 – O Aniversário de Himawari[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2053%20%E2%80%93%20O%20Anivers%C3%A1rio%20de%20Himawari.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 54 – Sasuke e Boruto[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2054%20%E2%80%93%20Sasuke%20e%20Boruto.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 55 – A ferramenta ninja cientifica[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2055%20%E2%80%93%20A%20ferramenta%20ninja%20cientifica.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 56 – Rivais, reúnam-se![/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2056%20%E2%80%93%20Rivais%2C%20re%C3%BAnam-se%21.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 57 – A Razão Pela Qual Não Posso Perder![/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2057%20%E2%80%93%20A%20Raz%C3%A3o%20Pela%20Qual%20N%C3%A3o%20Posso%20Perder%21.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 58 – O Torneio Começa![/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2058%20%E2%80%93%20O%20Torneio%20Come%C3%A7a%21.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 59 – Boruto vs Shikadai[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2059%20%E2%80%93%20Boruto%20vs%20Shikadai.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 60 – Vila da Folha vs. Vila da Areia[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2060%20%E2%80%93%20Vila%20da%20Folha%20vs.%20Vila%20da%20Areia.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>

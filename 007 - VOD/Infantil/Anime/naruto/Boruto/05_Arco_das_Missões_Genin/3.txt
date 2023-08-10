@@ -1,0 +1,18 @@
+
+<item><title>[B]Episódio 40 – Time 7! A Primeira Missão! [FILLER][/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2040%20%E2%80%93%20Time%207%21%20A%20Primeira%20Miss%C3%A3o%21%20%5BFILLER%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 41 – Força na União! [FILLER][/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2041%20%E2%80%93%20For%C3%A7a%20na%20Uni%C3%A3o%21%20%5BFILLER%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 42 – O trabalho de um Ninja[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2042%20%E2%80%93%20O%20trabalho%20de%20um%20Ninja.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>

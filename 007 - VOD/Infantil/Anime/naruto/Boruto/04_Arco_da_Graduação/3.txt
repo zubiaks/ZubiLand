@@ -1,0 +1,30 @@
+
+<item><title>[B]Episódio 35 – A Reunião de Pais e Alunos![/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2035%20%E2%80%93%20A%20Reuni%C3%A3o%20de%20Pais%20e%20Alunos%21.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 36 – O Exame de Graduação Começa![/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2036%20%E2%80%93%20O%20Exame%20de%20Gradua%C3%A7%C3%A3o%20Come%C3%A7a%21.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 37 – A Determinação de Um Ninja[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2037%20%E2%80%93%20A%20Determina%C3%A7%C3%A3o%20de%20Um%20Ninja.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 38 – Formação Das Equipes De Três Pessoas[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2038%20%E2%80%93%20Forma%C3%A7%C3%A3o%20Das%20Equipes%20De%20Tr%C3%AAs%20Pessoas.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 39 – O Caminho Iluminado Pela Lua Cheia[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2039%20%E2%80%93%20O%20Caminho%20Iluminado%20Pela%20Lua%20Cheia.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>

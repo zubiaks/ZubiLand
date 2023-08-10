@@ -1,0 +1,60 @@
+
+<item><title>[B]Episódio 43 – A gangue Byakuya aparece[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2043%20%E2%80%93%20A%20gangue%20Byakuya%20aparece.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 44 – As Dúvidas de Shikadai![/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2044%20%E2%80%93%20As%20D%C3%BAvidas%20de%20Shikadai%21.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 45 – Memórias de Um Dia de Neve[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2045%20%E2%80%93%20Mem%C3%B3rias%20de%20Um%20Dia%20de%20Neve.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 46 – Vá! Plano na calada da noite![/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2046%20%E2%80%93%20V%C3%A1%21%20Plano%20na%20calada%20da%20noite%21.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 47 – Quem eu almejo ser[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2047%20%E2%80%93%20Quem%20eu%20almejo%20ser.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 48 – O documentário Genin! [FILLER][/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2048%20%E2%80%93%20O%20document%C3%A1rio%20Genin%21%20%5BFILLER%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 49 – Wasabi e Namida [FILLER][/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2049%20%E2%80%93%20Wasabi%20e%20Namida%20%5BFILLER%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]pisódio 50 – Exame Chunin! A Reunião de Recomendação! [FILLER][/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2050%20%E2%80%93%20Exame%20Chunin%21%20A%20Reuni%C3%A3o%20de%20Recomenda%C3%A7%C3%A3o%21%20%5BFILLER%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 51 – O Aniversário de Boruto[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2051%20%E2%80%93%20O%20Anivers%C3%A1rio%20de%20Boruto.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 52 – A sombra do Sasuke[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2052%20%E2%80%93%20A%20sombra%20do%20Sasuke.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>

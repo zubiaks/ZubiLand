@@ -1,0 +1,60 @@
+
+<item><title>[B]Episódio 25 – A Excursão Caótica[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2025%20%E2%80%93%20A%20Excurs%C3%A3o%20Ca%C3%B3tica.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 26 – O Sucessor do Mizukage[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2026%20%E2%80%93%20O%20Sucessor%20do%20Mizukage.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 27 – Um Duelo Ninja da Amizade[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2027%20%E2%80%93%20Um%20Duelo%20Ninja%20da%20Amizade.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 28 – Uma Declaração de Guerra[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2028%20%E2%80%93%20Uma%20Declara%C3%A7%C3%A3o%20de%20Guerra.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 29 – Os Novos Sete Espadachins da Névoa!![/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2029%20%E2%80%93%20Os%20Novos%20Sete%20Espadachins%20da%20N%C3%A9voa%21%21.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 30 – Sharingan vs Kiba, a Espada do Trovão!![/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2030%20%E2%80%93%20Sharingan%20vs%20Kiba%2C%20a%20Espada%20do%20Trov%C3%A3o%21%21.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 31 – Boruto e Kagura[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2031%20%E2%80%93%20Boruto%20e%20Kagura.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 32 – A Jornada Por Uma Aliança[/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2032%20%E2%80%93%20A%20Jornada%20Por%20Uma%20Alian%C3%A7a.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 33 – A Crise do Chojuu Giga!! [FILLER][/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2033%20%E2%80%93%20A%20Crise%20do%20Chojuu%20Giga%21%21%20%5BFILLER%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episódio 34 – A Noite de Estrelas Cadentes [FILLER][/B]</title>
+<link>https://archive.org/download/episodio-06-a-ultima-aula/BORUTO%20Parte%201/Epis%C3%B3dio%2034%20%E2%80%93%20A%20Noite%20de%20Estrelas%20Cadentes%20%5BFILLER%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
