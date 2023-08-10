@@ -42,7 +42,7 @@
 <fanart>https://i.ibb.co/Lnn0NHT/maxresdefault.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Jibber e Jabber[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
