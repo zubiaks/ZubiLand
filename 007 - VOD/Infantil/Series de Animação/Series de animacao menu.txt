@@ -48,11 +48,11 @@
 <fanart>https://i.ibb.co/qsrZZtN/f8e6727facc3a21be19bdab990e26087.jpg</fanart>
 <info>Jibber Jabber é uma série de televisão em desenho animado canadense criada por David Bowes. Conta a história de dois irmãos gêmeos, Jibber e Jabber, no qual eles realizam diversas brincadeiras e imaginações.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Save-Ums[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/svJGZHp/MV5-BNzgz-Yj-Ix-OTQt-Nzlm-Yy00-ZTVj-LWFj-Ym-Ut-Mzk3-YWMz-Yz-Vl-ZThi-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Ex-ODE1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/Save-Ums/1.txt</externallink>
+<fanart>https://i.ibb.co/jMPkrRv/maxresdefault.jpg</fanart>
+<info>Save-Ums! é uma série de televisão animada em CGI canadense-estadunidense criada por Ross Margrave e Dan Clark. É uma produção do estúdio Canadian Broadcasting Corporation, The Dan Clark Company, C.O.R.E.Toons, Decode Entertainment e Discovery Kids.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
