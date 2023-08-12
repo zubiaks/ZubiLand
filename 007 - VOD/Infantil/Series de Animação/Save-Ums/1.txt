@@ -1,15 +1,15 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Season 1[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/tpP6ZbF/13213.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/Save-Ums/S1/3.txt</externallink>
+<fanart>https://i.ibb.co/8mRdcbN/The-Save-Ums-Logo.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Season 2[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/FB5hKh7/51-NS8-TJFX8-L-AC-UF1000-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/Save-Ums/S2/3.txt</externallink>
+<fanart>https://i.ibb.co/vJcnsSf/The-Save-Ums.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
