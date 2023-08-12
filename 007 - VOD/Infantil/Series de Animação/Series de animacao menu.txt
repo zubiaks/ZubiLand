@@ -60,11 +60,11 @@
 <fanart>https://i.ibb.co/jMPkrRv/maxresdefault.jpg</fanart>
 <info>Save-Ums! é uma série de televisão animada em CGI canadense-estadunidense criada por Ross Margrave e Dan Clark. É uma produção do estúdio Canadian Broadcasting Corporation, The Dan Clark Company, C.O.R.E.Toons, Decode Entertainment e Discovery Kids.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Descobrindo a Ciência[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/FWXKcQ7/1001141-E.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/02%20-Descobrindo%20a%20Ci%C3%AAncia/3.txt</externallink>
+<fanart>https://i.ibb.co/sbS5WHK/1001143-E.jpg</fanart>
+<info>Nesses dois episódios iniciais, conheceremos um menina da cidade, chamada Omji e seu melhor amigo, Gomji; dois estudantes curiosos que gostam de passar um tempo no laboratório de um Professor que parece saber tudo. Os dois descobrem que na geladeira do Professor vive um pinguim, e tentam descobrir o motivo de seu medo de voltar para a Antártica. Eles embarcam em uma viagem na nave do Professor que os leva aos pólos da Terra, onde eles aprendem tudo sobre o tipo de vida que existe por lá.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

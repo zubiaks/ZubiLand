@@ -1,48 +1,294 @@
 
-<item><title>[B][/B]</title>
+<item><title>[B]01 - O Pólo Norte e o Pólo Sul - Parte 1[/B]</title>
+<link>https://archive.org/download/descobrindo-a-ciencia-10-episodios-dublados/Descobrindo%20a%20Ci%C3%AAncia%20-%20S01E01%20-%20O%20P%C3%B3lo%20Norte%20e%20o%20P%C3%B3lo%20Sul%20%28Parte%201%29%20%5B001141%5D.mp4</link>
+<thumbnail>https://i.ibb.co/FWXKcQ7/1001141-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Nesses dois episódios iniciais, conheceremos um menina da cidade, chamada Omji e seu melhor amigo, Gomji; dois estudantes curiosos que gostam de passar um tempo no laboratório de um Professor que parece saber tudo. Os dois descobrem que na geladeira do Professor vive um pinguim, e tentam descobrir o motivo de seu medo de voltar para a Antártica. Eles embarcam em uma viagem na nave do Professor que os leva aos pólos da Terra, onde eles aprendem tudo sobre o tipo de vida que existe por lá.</info></item>
+
+<item><title>[B]02 - O Pólo Norte e o Pólo sul - Parte 2[/B]</title>
+<link>https://archive.org/download/descobrindo-a-ciencia-10-episodios-dublados/Descobrindo%20a%20Ci%C3%AAncia%20-%20S01E02%20-%20O%20P%C3%B3lo%20Norte%20e%20o%20P%C3%B3lo%20Sul%20%28Parte%202%29%20%5B001142%5D.mp4</link>
+<thumbnail>https://i.ibb.co/GPDtv4M/1001142-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Nesses dois episódios iniciais, conheceremos um menina da cidade, chamada Omji e seu melhor amigo, Gomji; dois estudantes curiosos que gostam de passar um tempo no laboratório de um Professor que parece saber tudo. Os dois descobrem que na geladeira do Professor vive um pinguim, e tentam descobrir o motivo de seu medo de voltar para a Antártica. Eles embarcam em uma viagem na nave do Professor que os leva aos pólos da Terra, onde eles aprendem tudo sobre o tipo de vida que existe por lá.</info></item>
+
+<item><title>[B]03 - Meio Ambiente[/B]</title>
+<link>https://archive.org/download/descobrindo-a-ciencia-10-episodios-dublados/Descobrindo%20a%20Ci%C3%AAncia%20-%20S01E03%20-%20Meio%20Ambiente%20%5B1001143%5D.mp4</link>
+<thumbnail>https://i.ibb.co/sbS5WHK/1001143-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Quando Monggu, o cão robô, começa a apresentar falhas, Omji e Gomji desconfiam que a questão é o problema ambiental. Durante a investigação, os dois amigos descobrem mais sobre a chuva ácida e os problemas e danos causados por ela.</info></item>
+
+<item><title>[B]04 - Fezes[/B]</title>
+<link>https://archive.org/download/descobrindo-a-ciencia-10-episodios-dublados/Descobrindo%20a%20Ci%C3%AAncia%20-%20S01E04%20-%20Fezes%20%5B001144%5D.mp4</link>
+<thumbnail>https://i.ibb.co/6Zwmq78/1001144-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Omji, de repente, começa a achar que ir ao banheiro não é algo muito delicado e, por isso, decide que nunca mais fará isso. Monggu tenta convencê-la da importância dessa função natural biológica. Pra isso, ele encolhe a nave do professor e a leva pra uma viagem pelo nosso sistema digestivo.</info></item>
+
+<item><title>[B]05 - Um Extraterreste e um Disco Voador[/B]</title>
+<link>https://archive.org/download/descobrindo-a-ciencia-10-episodios-dublados/Descobrindo%20a%20Ci%C3%AAncia%20-%20S01E05%20-%20Um%20Extraterrestre%20e%20um%20Disco%20Voador%20%5B001145%5D.mp4</link>
+<thumbnail>https://i.ibb.co/0GTM1TY/1001145-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Depois que Omji acredita ter visto algo estranho no céu, o Professor explica sobre a possibilidade de existir vida em outros planetas. Enquanto isso, eles encontram um OVNI que tem uma história bem interessante pra contar!</info></item>
+
+<item><title>[B]06 - A Zona entre as Marés[/B]</title>
+<link>https://archive.org/download/descobrindo-a-ciencia-10-episodios-dublados/Descobrindo%20a%20Ci%C3%AAncia%20-%20S01E06%20-%20A%20Zona%20Entre%20as%20Mar%C3%A9s%20%5B001146%5D.mp4</link>
+<thumbnail>https://i.ibb.co/qkBtQ9b/1001146-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: O professor leva Omji em uma viagem pelo litoral, mas Gomji fica desapontado ao ver um monte de lama ao invés de água. O professor aproveita a oportunidade para explicar sobre as marés altas e baixas e também mostra aos dois a rica diversidade de seres vivos que moram ali.</info></item>
+
+<item><title>[B]07 - Transportes[/B]</title>
+<link>https://archive.org/download/descobrindo-a-ciencia-10-episodios-dublados/Descobrindo%20a%20Ci%C3%AAncia%20-%20S01E07%20-%20Transportes%20%5B001147%5D.mp4</link>
+<thumbnail>https://i.ibb.co/FwXKsMq/1001147-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Quando o professor, Omji e Gomji encalham numa ilha, eles planejam maneiras de voltar para casa. Durante as tentativas, eles aprendem muito sobre as várias formas de transporte - incluindo aviões e barcos à vela, descobrindo sobre suas histórias e funcionamentos.</info></item>
+
+<item><title>[B]08 - Fósseis[/B]</title>
+<link>https://archive.org/download/descobrindo-a-ciencia-10-episodios-dublados/Descobrindo%20a%20Ci%C3%AAncia%20-%20S01E08%20-%20F%C3%B3sseis%20%5B001148%5D.mp4</link>
+<thumbnail>https://i.ibb.co/4m7HYpn/1001148-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Os três principais personagens fazem uma viagem para a Ilha do Fim - um lugar que fica no ponto mais meridional do país - para observar fósseis de dinossauros e criaturas menores. É uma ótima chance para Omji e Gomji aprenderem sobre pedras sedimentares e os fósseis encontrados nelas.</info></item>
+
+<item><title>[B]09 - O Corpo Humano[/B]</title>
+<link>https://archive.org/download/descobrindo-a-ciencia-10-episodios-dublados/Descobrindo%20a%20Ci%C3%AAncia%20-%20S01E09%20-%20O%20Corpo%20Humano%20%5B1001150%5D.mp4</link>
+<thumbnail>https://i.ibb.co/D7n7jnV/1001150-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Enquanto jogam bola, Omji e Gomji caem em um buraco e acabam encontrando um assutador esqueleto chamado Harold. Eles descobrem que Harold não é tão assustador assim, mas os dois amigos terão que responder algumas perguntas sobre o corpo humano para poder voltar para casa.</info></item>
+
+<item><title>[B]10 - Estrelas e Constelações[/B]</title>
+<link>https://archive.org/download/descobrindo-a-ciencia-10-episodios-dublados/Descobrindo%20a%20Ci%C3%AAncia%20-%20S01E10%20-%20Estrelas%20e%20Constela%C3%A7%C3%B5es%20%5B001151%5D.mp4</link>
+<thumbnail>https://i.ibb.co/my7VpWR/1001151-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Gomji e Omji ficam um pouco frustrados quando a lua, brilhante, impede que eles façam um dever de casa sobre as estrelas. O Professor aproveita pra explicar o melhor momento de se observar o céu e também como se encontrar as mais famosas constelações.</info></item>
+
+<item><title>[B](OFF)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]11 - Plantas[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/qnzM9RY/1001152-E.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sinopse: Quando Gomji diz que odeia verduras, Omji e o Professor resolvem pregar uma pequena peça nele, falando que a fada das plantas vai transformá-lo em um vegetal. Durante a história, Omji aprende coisas interessantes sobre plantas, inclusive o quão saudável elas são para a saúde.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]12 - O Espaço[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/4T27bFr/1001153-E.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sinopse: Graças à algumas invenções de alta tecnologia feitas pelo Professor, Omji e Gomji são capazes de ir ao espaço, em um tour pelo sistema solar. Junto com Monggu, os dois aprendem bastante sobre os diferentes planetas que orbitam nosso sol.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]13 - Computadores[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Bshd97X/1001154-E.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sinopse: Uma nova invenção do Professor permitirá que Omji e Gomji façam uma visita ao interior dos computadores. Eles verão de pertinho como a máquina funciona, e terão uma idéia de onde os computadores poderão nos levar no futuro.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]14 - O Oceano[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/fnSnXX2/1001156-E.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sinopse: O Professor leva Omji e Gomji para sobrevoar o mar e ensina as crianças sobre a formação dos oceanos. No caminho, a sereia Nana responde perguntas sobre a vida marinha.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]15 - Foguetes e Sondas Espaciais[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/pjLjJ9r/1001157-E.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sinopse: O Professor leva as crianças para uma visita ao Centro Nacional Espacial, onde elas aprendem a história e o futuro das viagens espaciais.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]16 - Física[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/nQWCH6f/1001158-E.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sinopse: Um alienígena aparece no jardim e Omji e Gomji querem ajuda-lo a voltar para casa. O Professor lhes ajudará a levar a nave de volta ao espaço, e durante esta aventura eles aprenderão mais sobre gravidade, inércia e outros princípios da Física.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]17 - A Terra[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/YyVpd5x/1001160-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: O Professor descobre que alienígenas estão discutindo se vale a pena ou não salvar a Terra. Junto com Omji e Gomji ele dará uma aula de história geológica do nosso planeta e da importância de conservarmos toda forma de vida que existe por aqui.</info></item>
+
+<item><title>[B]18 - Plantas Venenosas e os Animais[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/s6RR45r/1001161-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Gomji coloca uma tarantula nas mãos de Omji e ela corre até o Professor, muito assustada. O Professor lhes ensina sobre os vários tipos de criaturas venenosas que existem, e como o veneno pode ser útil para a medicina.</info></item>
+
+<item><title>[B]19 - Doenças[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/xJ44KYC/1001162-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Gomji fica doente na véspera de um teste importante e recebe as explicações de Omji e do Professor sobre como a disseminação de bactérias e vírus pode nos abater.</info></item>
+
+<item><title>[B]20 - Insetos[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/nc0zRm9/1001163-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Omji e Gomji precisam recolher insetos para um trabalho escolar e descobre que o Professor tem tanto medo dessas pequenas criaturas que chega a desmaiar. É hora das crianças ensinarem ao Professor que não é preciso ter medo!</info></item>
+
+<item><title>[B]21 - Os Animais[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/ggRKkG2/1001164-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Gomji é escolhido para ser o cuidador honorário do Zoológico por um dia; ele aprende sobre a variedade de animais que são naturalmente encontrados na África e em partes da Ásia.</info></item>
+
+<item><title>[B]22 - Descobertas e Invenções[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/hXPqYf6/1001165-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Omji entra em uma competição com um aluno super inteligente da escola. Eles terão que responder perguntas sobre a história de algumas invenções, e o prêmio será uma visita à uma importante feira de ciências.</info></item>
+
+<item><title>[B]23 - Os Dinossauros[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/6WkgDQf/1001166-E.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: O professor faz ajustes na nave para que ela possa fazer viagens no tempo. Eles acatam o pedido de Gomji e fazem uma visita à era dos dinossauros para aprender um pouco mais sobre esses animais extintos.</info></item>
+
+<item><title>[B]24 - O Camelo Pisa em Ovos[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sinopse: Um ovo se quebra sob o peso de um camelo, mas será que 500 ovos conseguem sustentar um animal de 800 quilos?</info></item>
+
+<item><title>[B]25 - Vidro Poderoso[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info><Sinopse: Um lutador de sumô de 130 quilos é pendurado sob um grande copo cheio de água. O experimento demonstra que esse copo invertido pode resistir a grandes pesos por meio da pressão do ar./info></item>
+
+<item><title>[B]26 - Baleia Voadora[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: Um balão de ar artesanal de vinil de 50 metros é aquecido usando apenas a luz solar. Atado ao balão, será que um homem conseguirá voar?</info></item>
+
+<item><title>[B]27 - Um Casamento "Salgado"[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: O desafio deste episódio é fazer um vestido de casamento usando sal cristalizado.</info></item>
+
+<item><title>[B]28 - O Segredo do Balé Aéreo[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: Um grupo de dançarinas realiza uma apresentação aérea para verificar diferenças na velocidade de rotação. Elas sobem por uma corda para alterar a velocidade utilizando argolas especiais.</info></item>
+
+<item><title>[B]29 - A Bola Retorna?[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: Uma bola é atirada para cima de um carro que se locomove a 40 km/h. Segundo as leis do movimento e velocidade, a tendência da bola é voltar em direção ao carro.</info></item>
+
+<item><title>[B]30 - O Fortíssimo Livro[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: Páginas intercaladas de dois livros geram uma enorme força de atrito. Mas será que essa força é capaz de sustentar um lutador de sumô de 130 kg?</info></item>
+
+<item><title>[B]31 - O Resgate. O Plano de Alavancagem[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: O desafio deste episódio é levantar um caminhão usando apenas uma alavanca especial com 20m de comprimento.</info></item>
+
+<item><title>[B]32 - A Bola para em Alta Velocidade?[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: Bolas são atiradas de um lançador a 100 km/h, instalado em um caminhão que se locomove a 100 km/h.</info></item>
+
+<item><title>[B]33 - A Maçã não quer se Mexer?[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: Os pratos colocados sobre uma toalha de mesa de 10 metros quadrados se moverão se ela for puxada por um carro de rali?</info></item>
+
+<item><title>[B]34 - Vamos Jogar Bilhar[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: O desafio é jogar em uma mesa de bilhar de 30 metros, com mais de 650 bolas alinhadas. Quando um jogador profissional de bilhar bater na primeira bola, veja se a que está posicionada na outra extremidade se moverá ou não.</info></item>
+
+<item><title>[B]35 - Balanço a 100km/h[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: Um pêndulo de 50 metros é suspenso para que se possa verificar se a oscilação máxima do peso chega a 100 kg/m.</info></item>
+
+<item><title>[B]36 - O Som é Poderoso?[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: O desafio deste episódio é fazer com que uma taça de vidro se quebre com a vibração entre ela e a voz.</info></item>
+
+<item><title>[B]37 - Vamos ver a Velocidade do Som[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: Sons em alto volume se deslocam ao longo de uma fila de pessoas de 1,7km de comprimento. Cada pessoa levantará a bandeira quando ouvir o som, o que confirmará sua velocidade.</info></item>
+
+<item><title>[B]38 - Venha Junto[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: 100 bolas são atiradas em um disco parabólico de 2 metros para que se possa verificar se elas se encontram em um único ponto focal.</info></item>
+
+<item><title>[B]39 - Cozinhando com a Luz Solar[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: Nessa experiência, cozinha-se um prato francês, e usando apenas a luz refletida por 500 pedaços de espelhos.</info></item>
+
+<item><title>[B]40 - Geração do Poder Humano[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: Gerar eletricidade pedalando uma bicicleta pode fazer um carrossel girar?</info></item>
+
+<item><title>[B]41 - Carro Limão[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: Esse experimento faz um carro se mover usando baterias caseiras de limões sicilianos.</info></item>
+
+<item><title>[B]42 - Desenhando com Eletricidade Estática[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: O desafio é fazer um desenho em um papel com uma pistola de eletricidade estática e um toner carregado.</info></item>
+
+<item><title>[B]43 - Ninja Magnético[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: Nesse episódio, veja como são feitos potentes sapatos eletromagnéticos, capazes de escalar uma parede de ferro.</info></item>
+
+<item><title>[B]44 - Gelo Pegando Fogo[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: O experimento desse epsiódio é produzir fogo com uma lente convexa de 2m de diâmetro feita de gelo.</info></item>
+
+<item><title>[B]45 - Lâmina D'água[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: O desafio é fazer um cortador hidráulico caseiro capaz de cortar uma maçã.</info></item>
+
+<item><title>[B]46 - A Grande Perseguição! 7 Horas da Sombra Gigante[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: O desafio é fazer um cortador hidráulico caseiro capaz de cortar uma maçã.</info></item>
+
+<item><title>[B]47 - Quanto Pesa um Elefante?[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: Neste episódio, um elefante é pesado usando um barco.</info></item>
+
+<item><title>[B]48 - Traga Luz à Escuridão[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: O desafio deste episódio é transmitir luz a 300 metros de distância refletindo-a com espelhos.</info></item>
