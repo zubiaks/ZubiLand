@@ -68,11 +68,11 @@
 <fanart>https://i.ibb.co/qrTwjjg/scale.jpg</fanart>
 <info>Snoopy embarca em sua maior missão como piloto até hoje, atrás de seu arqui-inimigo, o Barão Vermelho, enquanto seu melhor amigo, Charlie Brown, inicia a sua própria jornada épica.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Narigota[/B]</title>
+<link>https://archive.org/download/narigota-dublado/Narigota.mp4</link>
+<thumbnail>https://i.ibb.co/dg2ZHDM/c81c09cda76281e77259158b487860f598b6d61762a6940cd67df4fb2c9f54e9-RI-TTW.jpg</thumbnail>
+<fanarthttps://i.ibb.co/mv4hvcx/b100a660e205353f3757fc0d8fe1e62cbba239928e73031d30b662d052aefde3-RI-TTW.jpg></fanart>
+<info>Narigota, la aventura del agua (conhecida internacionalmente como Gota de Chuva) é uma série animada espanhola transmitida em 2001, que é sobre uma gota de água de mesmo nome, que se aventura com seus amigos, uma nuvem de vapor e um cubo de gelo, para evitar a poluição ambiental causada por um germe maligno chamado Germón.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
