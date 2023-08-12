@@ -6,7 +6,7 @@
 <info>Depois que todas as partes, menos a máscara da Armadura de Ouro, foram roubadas por Dócrates, os Cavaleiros de Bronze retornaram para a mansão da Fundação Graad para encontrar Saori.</info></item>
 
 <item><title>[B]S02E02 Os Cavaleiros do Zodíaco - Temos que salvar Saori[/B]</title>
-<link>https://archive.org/download/s-02.-e-06-os-cavaleiros-do-zodiaco-a-piramide-de-gelo_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S02%20DUAL/%5BS02.E03%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Os%20Cavaleiros%20Fantasmas.mp4</link>
+<link>https://archive.org/download/s-02.-e-06-os-cavaleiros-do-zodiaco-a-piramide-de-gelo_202107/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20S02%20DUAL/%5BS02.E02%5D%20Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Temos%20que%20salvar%20Saori.mp4</link>
 <thumbnail>https://i.ibb.co/0Z3vb0Z/os-cavaleiros-do-zodiaco-episodio-17-temos-que-salvar-saori.jpg</thumbnail>
 <fanart></fanart>
 <info>Após lutarem contra Dócrates no Coliseu, Seiya, Hyoga e Shun conseguem salvar Saori e recuperar a máscara da Armadura de Ouro. Enquanto isso, Shiryu e Kiki voltam ao local da morte de Ikki para tentar recuperar as demais oitos partes da Armadura de Ouro, que Dócrates havia escondido por lá, mas chegam tarde demais, somente a tempo de assistirem um helicóptero indo embora.</info></item>

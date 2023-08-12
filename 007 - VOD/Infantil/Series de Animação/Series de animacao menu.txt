@@ -43,10 +43,10 @@
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Jibber e Jabber[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<thumbnail>https://i.ibb.co/K6HvM5X/MV5-BYWVl-Mm-Nm-NDct-MWI2-ZC00-NGU3-LWFk-Mz-Qt-Yj-Ay-MDky-N2-E4-Yz-Jh-Xk-Ey-Xk-Fqc-Gde-QXVy-NDQx-Mj.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/Jibber%20e%20Jabber/eps.txt</externallink>
+<fanart>https://i.ibb.co/qsrZZtN/f8e6727facc3a21be19bdab990e26087.jpg</fanart>
+<info>Jibber Jabber é uma série de televisão em desenho animado canadense criada por David Bowes. Conta a história de dois irmãos gêmeos, Jibber e Jabber, no qual eles realizam diversas brincadeiras e imaginações.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
