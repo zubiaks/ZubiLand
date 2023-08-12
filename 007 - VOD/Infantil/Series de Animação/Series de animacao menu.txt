@@ -1,5 +1,11 @@
 <channels>
 
+<channel><name>[B][COLOR white]Varios[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/92xL1HQ/cartoon-character-with-helmet-glasses-625492-10853.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/01%20-%20Varios/3.txt</externallink>
+<fanart>https://i.ibb.co/28Fbv6s/cartoons.webp</fanart>
+<info>Varios sem ordem</info></channel>
+
 <channel><name>[B][COLOR white]pequenas fábulas (tv escola)[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/vsFr7XY/raposa-feliz-dos-desenhos-animados-sentado-no-toco-de-arvore-29190-1009.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/Pequenas%20Fabulas%20(TV%20Escola)/3.txt</externallink>
@@ -53,12 +59,6 @@
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/Save-Ums/3.txt</externallink>
 <fanart>https://i.ibb.co/jMPkrRv/maxresdefault.jpg</fanart>
 <info>Save-Ums! é uma série de televisão animada em CGI canadense-estadunidense criada por Ross Margrave e Dan Clark. É uma produção do estúdio Canadian Broadcasting Corporation, The Dan Clark Company, C.O.R.E.Toons, Decode Entertainment e Discovery Kids.</info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
