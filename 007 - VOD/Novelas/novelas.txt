@@ -7,10 +7,10 @@
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Sampa (1989)[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<thumbnail>https://i.ibb.co/MBMtMpZ/images.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Novelas/Sampa%20(1989)/eps.txt</externallink>
+<fanart>https://i.ibb.co/jMbB6dC/download.jpg</fanart>
+<info>Luísa desaparece misteriosamente enlouquecendo seu marido Amadeu, um arquiteto em crise existencial. A trama se desenvolve a partir das hipóteses levantadas por Amadeu para explicar o sumiço da esposa. Ao procurar pela mulher pelas ruas de São Paulo, vai entrando em contato com seus problemas, inseguranças e limitações.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
