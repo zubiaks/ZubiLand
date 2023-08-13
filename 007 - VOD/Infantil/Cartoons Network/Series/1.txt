@@ -1,5 +1,53 @@
 <channels>
 
+<channel><name>[B][COLOR white]Chop Socky Chooks (2007-2008)[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/c8YygFm/uak9f-VEa-XPff-MSLt-LCBZ8-Po0-EDJ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Cartoons%20Network/Series/01%20-%20Chop%20Socky%20Chooks/3.txt</externallink>
+<fanart>https://i.ibb.co/1TLcQB0/chop-socky-chooks.webp</fanart>
+<info>Chop Socky Chooks é uma série de ação animada por computador produzida pela Aardman Animations, Decode Entertainment e Cartoon Network Europe que foi exibida no Cartoon Network de 7 de março de 2008 a 24 de julho de 2009</info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>

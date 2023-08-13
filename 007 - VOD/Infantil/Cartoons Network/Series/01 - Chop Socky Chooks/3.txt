@@ -1,48 +1,156 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]1. Kobura Strikes[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP01.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>An enemy from Chuckie's past returns for revenge.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]2. Now You Coliseum, Now You Don't[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP02.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Chooks find themselves in a showdown.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]3. In Your Dreams[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP03.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Chuckie becomes a prisoner of Wasabi's Dream World.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]4. Big Bad Bubba[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP04.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Bubba becomes possessed by an ancient demon.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]5. Game Over[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP05.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Chooks must fight to defend themselves in a deadly virtual battle.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]6. Double Trouble[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP06.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A gang of robotic renegade Chooks go on a crime spree in Wasabi World.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]7. Do You Want Thighs With That?[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP07.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Wasabi's new burger sauce is strangely addictive and his new liposuction clinic is proving successful.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]8. Speak Now or Forever Hold Your Breath[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP08.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Wedding bells ring for Wasabi much to the dismay of the Chooks.</info></item>
+
+<item><title>[B]9. If Looks Could Kill[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP09.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Chick P reunites with an old friend only to discover a family secret.</info></item>
+
+<item><title>[B]10. Return the Other Cheek[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP10.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Wasabi steals the Iron Butt Monks' sacred talisman.</info></item>
+
+<item><title>[B]11. A Snake in the Class[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP11.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>The Chooks secret identities are revealed.</info></item>
+
+<item><title>[B]12. His Master's Choice[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP12.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Wasabi's new must-have toy is not all it's cracked up to be.</info></item>
+
+<item><title>[B]13. Chop Socky Whoops[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP13.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Wasabi uses a time machine to travel back to the day the team was formed.</info></item>
+
+<item><title>[B]14. The Codfather[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP14.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>The Chooks recruit Bubba has their fourth member.</info></item>
+
+<item><title>[B]15. Enter the Chickens[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP15.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>The Chooks enter into a tournament to find the Ultimate Martial Artist.</info></item>
+
+<item><title>[B]16. Bushido Babies[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP16.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Wasabi's new milk formula is turning babies into a deadly army.</info></item>
+
+<item><title>[B]17. Mark of the Bantam[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP17.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>The elusive Bantam, a TV superhero from 20 years ago, reappears and has a surprise in store for the evil Wasabi.</info></item>
+
+<item><title>[B]18. Swarm Welcome[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP18.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>The Chooks have to fight one of their most disgusting battles yet when they come up against Dr. Wasabi's evil swarm of cockroaches.</info></item>
+
+<item><title>[B]19. The Level That Time Forgot[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP19.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>The Chooks become trapped in a prehistoric game level where the inhabitants, the Neandermalls, hail Chick P as their Queen.</info></item>
+
+<item><title>[B]20. Night of the Karaoke Zombies[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP20.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>The evil Wasabi hypnotizes everyone at a nightclub, turning them into zombies; the Chop Socky Chooks must fight back and try to return everyone to normal before it's too late.</info></item>
+
+<item><title>[B]21. Planet of the Bubba[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP21.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Bubba, struck by a powerful force while fixing Wasabi's TV satellite, becomes super smart and puts the Wasabi World citizens in a zoo.</info></item>
+
+<item><title>[B]22. Appalling 13[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP22.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>A crack team of Kung Fu Chickens work undercover to combat their arch-enemy.</info></item>
+
+<item><title>[B]23. The Chooks of Hazard[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP23.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Wasabi sets up a wacky scavenger hunt to find the parts to Professor Shirikan's terrible new weapon, the Doomsday Device.</info></item>
+
+<item><title>[B]24. The Lamest Show on Earth[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP24.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Chuckie's master sends him a rare dragon egg to protect; however, when the egg hatches the mischievous young dragon becomes a target for Wasabi and his lame circus.</info></item>
+
+<item><title>[B]25. Isle Be Seeing You[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP25.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>The Chooks wake up on a mysterious island filled with dangerous perils as part of Dr. Wasabi's new, deadly, reality TV show.</info></item>
+
+<item><title>[B]26. Down the Drain[/B]</title>
+<link>https://archive.org/download/frangos-kung-fu-completo-dublado/Frango_Kung_Fu-EP26.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>A crack team of Kung Fu Chickens work undercover to combat their arch-</info></item>
