@@ -14,7 +14,7 @@
 
 <channel><name>[B][COLOR white]Series[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/m82Mfhn/cartoon-network-shows-you-should-rewatch.webp</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Cartoons%20Network/Series/1.txt</externallink>
 <fanart>https://i.ibb.co/m82Mfhn/cartoon-network-shows-you-should-rewatch.webp</fanart>
 <info></info></channel>
 
