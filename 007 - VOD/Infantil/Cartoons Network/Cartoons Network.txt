@@ -12,10 +12,10 @@
 <fanart>https://i.ibb.co/hRhXwGj/download-2.jpg</fanart>
 <info>Hanna-Barbera foi um estúdio de desenho animado fundado em 1957, sendo em 2001 absorvido pela Warner Bros. Animation. Fundado pela dupla de cartunistas norte-americanos William Hanna e Joseph Barbera, ex-diretores da divisão de animação da Metro-Goldwyn-Mayer e criadores de Tom e Jerry.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<channel><name>[B][COLOR white]Series[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/m82Mfhn/cartoon-network-shows-you-should-rewatch.webp</thumbnail>
 <externallink></externallink>
-<fanart></fanart>
+<fanart>https://i.ibb.co/m82Mfhn/cartoon-network-shows-you-should-rewatch.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
