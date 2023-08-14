@@ -66,11 +66,11 @@
 <fanart>https://i.ibb.co/sbS5WHK/1001143-E.jpg</fanart>
 <info>Nesses dois episódios iniciais, conheceremos um menina da cidade, chamada Omji e seu melhor amigo, Gomji; dois estudantes curiosos que gostam de passar um tempo no laboratório de um Professor que parece saber tudo. Os dois descobrem que na geladeira do Professor vive um pinguim, e tentam descobrir o motivo de seu medo de voltar para a Antártica. Eles embarcam em uma viagem na nave do Professor que os leva aos pólos da Terra, onde eles aprendem tudo sobre o tipo de vida que existe por lá.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<channel><name>[B][COLOR white]a ratinha e o urso[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Q8ZQP2R/Ernest-Caelestine-La-Collection-Serie-de-TV-920159258-large.jpg</thumbnail>
 <externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<fanart>https://i.ibb.co/NpHxfcC/download-1.jpg</fanart>
+<info>Ernest é um urso de bom coração dotado de um talento artístico que vive com Célestine, um ratinho órfão que ele acolheu há muito tempo. Juntos, eles embarcarão em todos os tipos de aventuras enquanto se preparam para o inverno.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
