@@ -1,48 +1,312 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]01 Escrito em Pedra[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2001%20-%20Escrito%20em%20Pedra.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]02 Espetinho de Carne[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2002%20-%20Espetinho%20de%20Carne.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]03 Confronto Monumental[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2003%20Confronto%20Monumental.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]04 Destroçado[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2004%20Destro%C3%A7ado.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]05 O Barbeiro da Vila do Sonho[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2005%20O%20Barbeiro%20da%20Vila%20do%20Sonho.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]06 Dá um Grito[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2006%20D%C3%A1%20um%20Grito.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]07 O Amor é Rock 'n Roll[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2007%20O%20Amor%20%C3%A9%20Rock%20%27n%20Roll.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]08 Um Olhar Petrificante[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2008%20Um%20Olhar%20Petrificante.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]09 Vote no Bode[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2009%20Vote%20no%20Bode.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]10 Mostra os Dedões[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2010%20Mostra%20os%20Ded%C3%B5es.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]11 Dia de Shopping[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2011%20Dia%20de%20Shopping.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]12 Pega o Saque[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2012%20Pega%20o%20Saque.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]13 Picadinho da Ruína[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2013%20Picadinho%20da%20Ru%C3%ADna.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]14 Vulcão Não Não[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2014%20Vulc%C3%A3o%20N%C3%A3o%20N%C3%A3o.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]15 Quando Pensa o Pensador[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2015%20Quando%20Pensa%20o%20Pensador.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]16 Bola de Neve[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2016%20Bola%20de%20Neve.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]17 São as Gárgulas[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2017%20S%C3%A3o%20as%20G%C3%A1rgulas.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]18 Atlas Salvou o Mundo[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2018%20Atlas%20Salvou%20o%20Mundo.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]19 Cachorros Talentosos[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2019%20Cachorros%20Talentosos.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]20 A Vingança do Napoleão[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2020%20A%20Vingan%C3%A7a%20do%20Napole%C3%A3o.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]21 Corações em Chamas[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2021%20Cora%C3%A7%C3%B5es%20em%20Chamas.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]22 Qual é Onda[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2022%20Qual%20%C3%A9%20Onda.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]23 Espetos e Ossos[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2023%20Espetos%20e%20Ossos.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]24 Só um Aviso[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2024%20S%C3%B3%20um%20Aviso.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]25 Entrando em Forma[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2025%20Entrando%20em%20Forma.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]26 Sem Chuva meu Desfile[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2026%20Sem%20Chuva%20meu%20Desfile.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]27 Desfile de Moda[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2027%20Desfile%20de%20Moda.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]28 Raiva Fraternal[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2028%20Raiva%20Fraternal.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]29 Quando os Opostos se Atraem[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2029%20Quando%20os%20Opostos%20se%20Atraem.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]30 A Luta da Zoe[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2030%20A%20Luta%20da%20Zoe.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]31 O Lincoln Dormiu Aqui[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2031%20O%20Lincoln%20Dormiu%20Aqui.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]32 Algo Está Podre[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2032%20Algo%20Est%C3%A1%20Podre.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]33 Doidonautas[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2033%20Doidonautas.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]34 Miss Fabulosa[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2034%20Miss%20Fabulosa.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]35 Uma Vida de Pirata pra mim[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2035%20Uma%20Vida%20de%20Pirata%20pra%20mim.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]36 Loucura de Festa[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2036%20Loucura%20de%20Festa.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]37 Triângulos Amorosos[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2037%20Tri%C3%A2ngulos%20Amorosos.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]38 Melhores Amigas[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2038%20Melhores%20Amigas.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]39 Enlouquecendo[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2039%20Enlouquecendo.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]40 Música para os meus Ouvidos[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2040%20M%C3%BAsica%20para%20os%20meus%20Ouvidos.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]41 Um Lindo Problema[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2041%20Um%20Lindo%20Problema.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]42 Os Davincis Bailarinos[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2042%20Os%20Davincis%20Bailarinos.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]43 Os Tenores e o Sapo[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2043%20Os%20Tenores%20e%20o%20Sapo.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]44 Um Molho Qualquer com outro Nome[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2044%20Um%20Molho%20Qualquer%20com%20outro%20Nome.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]45 Qual é o seu Seno[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2045%20Qual%20%C3%A9%20o%20seu%20Seno.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]46 Invasores de Rede[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2046%20Invasores%20de%20Rede.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]47 Picada de Pulga[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2047%20Picada%20de%20Pulga.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]48 Vidro do Passado[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2048%20Vidro%20do%20Passado.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]49 O Dragão dos Davincis[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2049%20O%20Drag%C3%A3o%20dos%20Davincis.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]50 Idéias Brilhantes[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2050%20Id%C3%A9ias%20Brilhantes.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]51 Plano Espinhoso[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2051%20Plano%20Espinhoso.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]52 A Rainha dos Dia dos Namorados[/B]</title>
+<link>https://archive.org/download/os-davincibles-completo-dublado/Os%20Davincibles%2052%20A%20Rainha%20dos%20Dia%20dos%20Namorados.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
