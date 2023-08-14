@@ -11,11 +11,11 @@
 <fanart>https://i.ibb.co/PF60kkT/sddefault.jpg</fanart>
 <info>Toquinho é um robô que vive ao lado de seu cão chamado Bagunceiro em um mundo feito de sucata.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Mundo Giz - S02E07 - Amor De Bruxa, Biscoito de Tolo e Irresistível[/B]</title>
+<link>https://archive.org/download/mundo-giz-s-02-e-07-amor-de-bruxa-biscoito-de-tolo-e-irresistivel/Mundo%20Giz%20-%20S02E07%20-%20Amor%20de%20Bruxa%2C%20Biscoito%20de%20Tolo%20e%20Irresist%C3%ADvel.mp4</link>
+<thumbnail>https://i.ibb.co/pWzFgkR/Mundo-Giz.webp</thumbnail>
+<fanart>https://i.ibb.co/2FJYyRB/1e8fe57b6b4803abd8067379ac831495.webp</fanart>
+<info>Rui Tabootie, um garoto de 10 anos de idade, descobre um mundo além do quadro negro quando desenha nele com o giz mágico, que o permite atravessar para o Mundo Giz, onde tudo o que desenha se torna real e pode tomar vida.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
