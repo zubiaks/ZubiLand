@@ -78,11 +78,11 @@
 <fanart>https://i.ibb.co/BTvFw1S/MV5-BMm-M3-ZWRk-ZTUt-ZDdm-OC00-MWRj-LTk0-Mm-It-ZGY0-MDgx-NWI5-Mz-A1-Xk-Ey-Xk-Fqc-Gde-QXVy-NTM3-MDMy.jpg</fanart>
 <info>Os irmãos Pablo e Lisa DaVinci exploram o mundo com o Tio Leo em busca de artefatos raros e muita aventura. Mas essas viagens não serão fáceis. Muitas vezes, eles combatem supervilões desleais para atingir seus objetivos.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Mergulha, Olly, Mergulha![/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/GCf2sdD/D-NQ-NP-913621-MLB20814223457-072016-O.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/05%20-%20Mergulha%2C%20Olly%2C%20Mergulha!/3.txt</externallink>
+<fanart>https://i.ibb.co/ZfvV3dj/download.jpg</fanart>
+<info>Com esta série de animação em 3D as crianças vão descobrir e aprender mais acerca do meio ambiente que as rodeia, de uma forma divertida e cativante.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

@@ -71,14 +71,14 @@
 <item><title>[B]Narigota[/B]</title>
 <link>https://archive.org/download/narigota-dublado/Narigota.mp4</link>
 <thumbnail>https://i.ibb.co/dg2ZHDM/c81c09cda76281e77259158b487860f598b6d61762a6940cd67df4fb2c9f54e9-RI-TTW.jpg</thumbnail>
-<fanarthttps://i.ibb.co/mv4hvcx/b100a660e205353f3757fc0d8fe1e62cbba239928e73031d30b662d052aefde3-RI-TTW.jpg></fanart>
+<fanart>https://i.ibb.co/mv4hvcx/b100a660e205353f3757fc0d8fe1e62cbba239928e73031d30b662d052aefde3-RI-TTW.jpg</fanart>
 <info>Narigota, la aventura del agua (conhecida internacionalmente como Gota de Chuva) é uma série animada espanhola transmitida em 2001, que é sobre uma gota de água de mesmo nome, que se aventura com seus amigos, uma nuvem de vapor e um cubo de gelo, para evitar a poluição ambiental causada por um germe maligno chamado Germón.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O Casamento do Urso Caramelo/O Segredo da Ursa Clara[/B]</title>
+<link>https://archive.org/download/o-casamento-do-urso-caramelo-o-segredo-da-ursa-clara/O%20Casamento%20do%20Urso%20Caramelo%20-%20O%20Segredo%20da%20Ursa%20Clara.mp4</link>
+<thumbnail>https://i.ibb.co/d5d2283/capa.webp</thumbnail>
+<fanart>https://i.ibb.co/w0q9ryc/clara-e-caramelo.jpg</fanart>
+<info>Ambos os filmes contam a trajetória do Urso Caramelo e da Ursa Clara,partindo de como eles se conheceram e também como o urso a conquistou finalizando no casamento deles.No segundo filme,podemos observar a rotina deles de casados e também a primeira discussão(mais ele volta para pedir desculpas,ok?).Junte tudo isso com uma boa dose de ternura e temos esses dois filmes fofos e com um segredo muito emocionante no final.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
