@@ -1,48 +1,156 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E01 - Os Fantasminhas[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E01%20-%20Os%20Fantasminhas%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E02 - O Botão do Acordeon[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E02%20-%20O%20Bot%C3%A3o%20do%20Acordeon%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E03 - O Disco Voador[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E03%20-%20O%20Disco%20Voador%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E04 - Os Charabiscoitos[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E04%20-%20Os%20Charabiscoitos%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E05 - A Festa dos Ratos[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E05%20-%20A%20Festa%20dos%20Ratos%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E06 - O Monstro do Lago[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E06%20-%20O%20Monstro%20do%20Lago%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E07 - Bibi[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E07%20-%20Bibi%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S01E08 - A Nevasca[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E08%20-%20A%20Nevasca%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E09 - O Retrato Roubado[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E09%20-%20O%20Retrato%20Roubado%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E10 - Leon[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E10%20-%20Leon%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E11 - Uma Estrela pra Celestine[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E11%20-%20Uma%20Estrela%20pra%20Celestine%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E12 - O Urso Mal[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E12%20-%20O%20Urso%20Mal%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E13 - As Boas Maneiras[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E13%20-%20As%20Boas%20Maneiras%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E14 - O Expresso do Sul[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E14%20-%20O%20Expresso%20do%20Sul%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E15 - O Piano Mecânico[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E15%20-%20O%20Piano%20Mec%C3%A2nico%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E16 - A Sonâmbula[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E16%20-%20A%20Son%C3%A2mbula%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E17 - A Voz da Celestine[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E17%20-%20A%20Voz%20da%20Celestine%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E18 - Durante a Tempestade[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E18%20-%20Durante%20a%20Tempestade%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E19 - A Festa do Primo Bebert[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E19%20-%20A%20Festa%20do%20Primo%20Bebert%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E20 - A Dois é Melhor[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E20%20-%20A%20Dois%20%C3%A9%20Melhor%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E21 - A Rata de Neve[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E21%20-%20A%20Rata%20de%20Neve%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E22 - Onde Está Você, Bolero[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E22%20-%20Onde%20Est%C3%A1%20Voc%C3%AA%2C%20Bolero%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E23 - Salvando a Madame Tulipa[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E23%20-%20Salvando%20a%20Madame%20Tulipa%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E24 - Celestine vai pra Colônia de Férias[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E24%20-%20Celestine%20vai%20pra%20Col%C3%B4nia%20de%20F%C3%A9rias%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E25 - O Simeon Desapareceu[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E25%20-%20O%20Simeon%20Desapareceu%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E26 - O Aniversário da Celestine[/B]</title>
+<link>https://archive.org/download/a-ratinha-e-o-urso-1-temporada-dublada/A%20Ratinha%20e%20o%20Urso%20-%20S01E26%20-%20O%20Anivers%C3%A1rio%20da%20Celestine%20%5BWEB-DL%20TV%20Brasil%5D.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

@@ -1,9 +1,9 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]A Ratinha e o Urso - 1ª temporada[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/8dM013c/MV5-BNm-U2-ZGJl-Nj-At-NWRi-Yy00-MTNl-LThk-YWUt-Ym-I1-Nj-Vj-M2-Yx-ZTA5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MTE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/03%20-%20a%20ratinha%20e%20o%20urso/S1/3.txt</externallink>
+<fanart>https://i.ibb.co/Rpp1qgD/MV5-BMDcw-NTky-M2-It-OWI1-OC00-Yj-Vi-LTg0-NTUt-OTQx-Zj-Iz-Yzkz-Nz-Mz-L2lt-YWdl-Xk-Ey-Xk-Fqc-Gde-QXVy.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
