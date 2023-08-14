@@ -68,7 +68,7 @@
 
 <channel><name>[B][COLOR white]a ratinha e o urso[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Q8ZQP2R/Ernest-Caelestine-La-Collection-Serie-de-TV-920159258-large.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/03%20-%20a%20ratinha%20e%20o%20urso/1.txt</externallink>
 <fanart>https://i.ibb.co/NpHxfcC/download-1.jpg</fanart>
 <info>Ernest é um urso de bom coração dotado de um talento artístico que vive com Célestine, um ratinho órfão que ele acolheu há muito tempo. Juntos, eles embarcarão em todos os tipos de aventuras enquanto se preparam para o inverno.</info></channel>
 
