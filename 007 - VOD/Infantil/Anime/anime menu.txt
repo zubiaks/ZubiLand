@@ -7,9 +7,9 @@
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Filmes Anime[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/hFmdjyX/1e4b498e832ab5247ebf3f0b4dac9648.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/01%20-%20Filmes%20Anime/1.txt</externallink>
+<fanart>https://i.ibb.co/Sx7L4t2/mh-4-25-movies-64483c1f5ec04.png</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Dragon Ball[/COLOR][/B]</name>

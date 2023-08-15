@@ -1,9 +1,9 @@
 <channels>
 
 <channel><name>[B][COLOR white]Dead Space[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/Wxjd2MF/Dead-Space-Box-Art.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/01%20-%20Filmes%20Anime/01%20-%20Dead%20Space/3.txt</externallink>
+<fanart>https://i.ibb.co/LNVQ9vC/PCSIposter2-JPG.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
