@@ -48,11 +48,11 @@
 <fanart>https://i.ibb.co/crWsc3m/download.jpg</fanart>
 <info>Depois que Makoto Mizuhara concorda em testemunhar contra o presidente do conselho estudantil, Katsuhiko Jinnai, por subornar clubes escolares nas recentes eleições do conselho estudantil, Jinnai o persegue na tentativa de silenciar seu autoproclamado rival. De repente, durante a perseguição, o tempo pára para todos – exceto Makoto. Perplexo, ele vaga pelo campus até notar uma luz vinda do porão fechado da escola, onde uma antiga relíquia acabara de ser descoberta.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]El Hazard Magnificent World[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Dk9K67F/MV5-BZjk2-Zj-I4-YWYt-Nm-U4-NC00-Y2-Mx-LWEx-Nzgt-ZGNj-MDgy-M2-Q0-Mm-Vi-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-OTE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/03%20%20-%20El%20Hazard%20Magnificent%20World/eps.txt</externallink>
+<fanart>https://i.ibb.co/7jx5Xq9/image-asset.jpg</fanart>
+<info>A história se concentra em três estudantes do ensino médio, Makoto Mizuhara, Katsuhiko Jinnai e Nanami Jinnai, e o professor de História Masamichi Fujisawa, que são misteriosamente transportados para o fantástico mundo de El-Hazard. Quando chegam, encontram-se no meio de uma guerra entre as nações humanas e a tribo insectóide Bugrom.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
