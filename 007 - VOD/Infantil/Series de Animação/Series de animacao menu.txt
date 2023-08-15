@@ -90,11 +90,11 @@
 <fanart>https://i.ibb.co/dpJpLfS/001.jpg</fanart>
 <info>Casal de gêmeos, Zig & Zag, se aventuram pela floresta conhecendo animais e suas histórias. São 51 animais, para divertir e educar. O clássico desenho francês, passou no Brasil pela TV Cultura, dentro do Glub & Glub nos anos 90.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Ursinhos Voadores[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/p3xmypd/download.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/07%20-%20Ursinhos%20Voadores/3.txt</externallink>
+<fanart>https://i.ibb.co/RhgZX05/hqdefault.jpg</fanart>
+<info>Série infantil que combina aventuras fantásticas com assuntos e situações reais. Em cada episódio, nossos heróis mostram como a coragem, a imaginação e a cooperação podem superar o perigo, resolver conflitos e restaurar a harmonia na floresta onde vivem. Os ursinhos voadores e seus amigos surpreendem com seus diálogos cheios humor e mensagens ecológicas.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

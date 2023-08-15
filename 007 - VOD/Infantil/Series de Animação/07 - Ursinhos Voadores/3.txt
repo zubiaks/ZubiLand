@@ -1,48 +1,78 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]1 A Colheita[/B]</title>
+<link>https://archive.org/download/ursinhosvoadoresdubladocompleto/001%20A%20Colheita.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]2 O Ataque das Serpentes Vermelhas[/B]</title>
+<link>https://archive.org/download/ursinhosvoadoresdubladocompleto/002%20O%20Ataque%20das%20Serpentes%20Vermelhas.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]3 O Festival Do Suco[/B]</title>
+<link>https://archive.org/download/ursinhosvoadoresdubladocompleto/003%20O%20Festival%20Do%20Suco.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]4 A Nuvem Negra[/B]</title>
+<link>https://archive.org/download/ursinhosvoadoresdubladocompleto/004%20A%20Nuvem%20Negra.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]5 Caminhão De Carga[/B]</title>
+<link>https://archive.org/download/ursinhosvoadoresdubladocompleto/005%20Caminh%C3%A3o%20De%20Carga.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]6 O Valor Dos Pássaros[/B]</title>
+<link>https://archive.org/download/ursinhosvoadoresdubladocompleto/006%20O%20Valor%20Dos%20P%C3%A1ssaros.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]7 Uma Festa Do Barulho[/B]</title>
+<link>https://archive.org/download/ursinhosvoadoresdubladocompleto/007%20Uma%20Festa%20Do%20Barulho.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]8 As Armadilhas[/B]</title>
+<link>https://archive.org/download/ursinhosvoadoresdubladocompleto/008%20As%20Armadilhas.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]9 A Flor Proibida[/B]</title>
+<link>https://archive.org/download/ursinhosvoadoresdubladocompleto/009%20A%20Flor%20Proibida.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]10 A Chuva Branca[/B]</title>
+<link>https://archive.org/download/ursinhosvoadoresdubladocompleto/010%20A%20Chuva%20Branca.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]11 O Natal Dos Ursos[/B]</title>
+<link>https://archive.org/download/ursinhosvoadoresdubladocompleto/011%20O%20Natal%20Dos%20Ursos.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]12 Maus Perdedores[/B]</title>
+<link>https://archive.org/download/ursinhosvoadoresdubladocompleto/012%20Maus%20Perdedores.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]13 O Urso Polar[/B]</title>
+<link>https://archive.org/download/ursinhosvoadoresdubladocompleto/013%20O%20Urso%20Polar.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
