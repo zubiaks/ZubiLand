@@ -1,48 +1,168 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]Episódio 1 - Revisitando Super Mario World 2: 'Yoshi's Island'[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%201%20-%20Revisitando%20Super%20Mario%20World%202%20-%20%27Yoshi%27s%20Island%27%20%5B1nB3PEFQFbQ%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/jGhsXtV/hqdefault.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>No primeiro episódio, revisitaremos Super Mario World 2: 'Yoshi's Island' o sucessor de um dos maiores clássicos da era 16 Bits. Apesar de não ser tão conhecido como o primeiro Super Mario World,  Yoshi's Island inovou em gráficos e gameplay e deu o chute inicial para a série de jogos do Yoshi. A questão que fica é: "Será que Mario World 2 conseguiu superar seu irmão mais novo?"</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]Episódio 2 - Conhecendo o SEGA NOMAD[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%202%20-%20Conhecendo%20o%20SEGA%20NOMAD%20%5BMrKOI1K-cDE%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/Gx8H9p3/hqdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Lançado em 1995, o SEGA NOMAD veio para substituir o Game Gear que até então disputava seu espaço com o lendário Game Boy da Nintendo. Neste episódio, conheceremos de forma divertida este memorável Mega Drive portátil que apesar de sua rápida passagem no mundo dos games conseguiu deixar sua marca!</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]Episódio 3 - O Rei Leão no Mega Drive[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%203%20-%20O%20Rei%20Le%C3%A3o%20no%20Mega%20Drive%20%5BHvYDw6M714o%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/ScfS5dQ/OIP.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Em nosso terceiro episódio, iremos revisitar de maneira nostálgica e divertida o clássico jogo do Rei Leão baseado no longa-metragem de sucesso da Disney. Será que o jogo faz jus ao filme? Descubra essa resposta e muito mais neste vídeo!</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]Episódio 4 - Bomberman 64[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%204%20-%20Bomberman%2064%20%5BmwGRvK7mo3U%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/pn68KVW/download.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Neste episódio, voltaremos nos anos 90 em meio a febre dos jogos 3D quando várias franquias clássicas como Mário e Zelda davam seu primeiro passo para o universo tridimensional. Foi nesta época que o icônico Bomberman experimentou a terceira dimensão no clássico Bomberman 64 para o Nintendo 64. Assista este episódio e descubra como o adorado mascote da Hudson Soft se saiu em sua primeira aventura 3D!</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]Episódio 5 - Virtua Fighter 2[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%205%20-%20Virtua%20Fighter%202%20%5BFOkEN7S0OBk%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/C0SrRDG/download-1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Em nosso 5º episódio, voltaremos no tempo quando o clássico dos Arcades Virtua Fighter 2 chegava ao console Sega Saturn. Descobriremos se a sequência do game que revolucionou a indústria e popularizou os jogos de luta 3D, honrou mesmo seu antecessor!</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]Episódio 6 - Tom and Jerry no Super Nintendo[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%206%20-%20Tom%20and%20Jerry%20no%20Super%20Nintendo%20%5BQ3hF_V2hCG0%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/brrWXNX/OIP-1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>No episódio de hoje, revisitaremos o nostálgico Tom and Jerry para o Super Nintendo. Descobriremos se este game foi mesmo um clássico da era 16bit digno de carregar o nome de uma das duplas mais amadas dos desenhos animados.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]Episódio 7 - O Homem-Aranha no PlayStation[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%207%20-%20O%20Homem-Aranha%20no%20PlayStation%20%5BoGWJPTfsvcU%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/MBVJnfw/R.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Em nosso sétimo episódio, revisitaremos o nostálgico Homem-Aranha para o primeiro PlayStation. Venha descobrir se o primeiro jogo 3D do herói aracnídeo da Marvel continua tão bom quanto antigamente!</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]Episódio 8 - Super Mario Land no Game Boy[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%208%20-%20Super%20Mario%20Land%20no%20Game%20Boy%20%5BOOx7W-WMJRw%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/6vrCRvz/OIP-2.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Neste episódio, iremos revisitar a primeira aventura do encanador mais famoso do mundo dos games no clássico Game Boy da Nintendo. A pergunta que fica é: "será que um dos maiores sucessos do primeiro portátil da Nintendo ainda continua em forma após todos esses anos?"</info></item>
+
+<item><title>[B]Episódio 9 - Crazy Taxi no Dreamcast[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%209%20-%20Crazy%20Taxi%20no%20Dreamcast%20%5BxtkZ4VVPnPs%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/JHV515W/download.jpg</thumbnail>
+<fanart></fanart>
+<info>Neste episódio loucaço, voltaremos ao início dos anos 2000 quando o clássico dos arcades, Crazy Taxi chegava ao nostálgico Dreamcast, o último console da SEGA.</info></item>
+
+<item><title>[B]Episódio 10 - Alex Kidd in Miracle World[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2010%20-%20Alex%20Kidd%20in%20Miracle%20World%20%5BRAe8ngmj1o0%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/Hdy0QCX/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+<info>Neste episódio revisitaremos o primeiro clássico do antigo mascote da SEGA, Alex Kidd in Miracle World. Se você nunca zerou este nostálgico game ou tem traumas de Jokempô, este episódio é para você!</info></item>
+
+<item><title>[B]Episódio 11 - Power Rangers: The Movie (Super Nintendo VS Mega Drive)[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2011%20-%20Power%20Rangers%20-%20The%20Movie%20%20%20%28Super%20Nintendo%20VS%20Mega%20Drive%29%20%5BqqjuFSE4rLY%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/tJ4CypT/R.jpg</thumbnail>
+<fanart></fanart>
+<info>Em nosso primeiro duelo de titãs, comparamos as versões do nostálgico jogo "Power Rangers: O filme" para Mega-Drive e Super Nintendo. Descubra qual das duas máquinas de guerra levou o título de melhor jogo!</info></item>
+
+<item><title>[B]Episódio 12 - Paperboy 2 no Super Nintendo[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2012%20-%20Paperboy%202%20no%20Super%20Nintendo%20%5BjRBUHLbUELg%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/0rfpDS9/paperboy-2-12.png</thumbnail>
+<fanart></fanart>
+<info>No episódio de hoje, jogaremos o nostálgico Paperboy 2 no Super Nintendo. Será que este clássico do SNES sobreviveu bem ao teste do tempo?</info></item>
+
+<item><title>[B]Episódio 13 - Sonic CD no SEGA CD[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2013%20-%20Sonic%20CD%20no%20SEGA%20CD%20%5BVaMyP5fa5Vw%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/MNPv74M/OIP.jpg</thumbnail>
+<fanart></fanart>
+<info>No episódio de hoje revisitaremos SONIC CD, o primeiro game em CD-ROM do icônico mascote da SEGA no lendário SEGA CD. Descubra como o ouriço azul se saiu em sua primeira aventura fora dos cartuchos!</info></item>
+
+<item><title>[B]Episódio 14 - Jogos de Futebol[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2014%20-%20Jogos%20de%20Futebol%20%5BCFP2MaPQP5w%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/hLYySQ3/R-1.jpg</thumbnail>
+<fanart></fanart>
+<info>Em clima de Copa do Mundo, voltamos no tempo para rever alguns dos melhores e mais amados jogos de futebol dos anos 90!</info></item>
+
+<item><title>[B]Episódio 15 - Metal Slug no PlayStation[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2015%20-%20Metal%20Slug%20no%20PlayStation%20%5BOeQ2-jxM5fc%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/FK6DfPr/OIP-1.jpg</thumbnail>
+<fanart></fanart>
+<info>No episódio de hoje, jogamos a versão do Playstation do primeiro game da amada franquia Metal Slug.</info></item>
+
+<item><title>[B]Episódio 16 - PilotWings 64[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2016%20-%20PilotWings%2064%20%5B6X6KR58AHbM%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/7XHGZcL/R-2.jpg</thumbnail>
+<fanart></fanart>
+<info>Neste episódio joguei PilotWings64, um dos primeiros jogos do poderoso Nintendo 64, e um dos primeiros games 3D à usar o controle analógico!</info></item>
+
+<item><title>[B]Episódio 17 - Burning Rangers no Sega Saturn[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2017%20-%20Burning%20Rangers%20no%20Sega%20Saturn%20%5BybGKvsABZ9k%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/BBntD5G/maxresdefault-1.jpg</thumbnail>
+<fanart></fanart>
+<info>Joguei Burning Rangers, um dos melhores jogos da Sonic Team no Sega Saturn!</info></item>
+
+<item><title>[B]Episódio 18 - Jogos de Ninja[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2018%20-%20Jogos%20de%20Ninja%20%5BeYT36dbUQKI%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/c1kQYqS/Ninja-Simulator-screenshots-6.jpg</thumbnail>
+<fanart></fanart>
+<info>Joguei alguns dos melhores jogos de ninja de todos os tempos!</info></item>
+
+<item><title>[B]Episódio 19 - Viewtiful Joe no Game Cube[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2019%20-%20Viewtiful%20Joe%20no%20Game%20Cube%20%5BSqaIiiPBxfw%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/Ct8qTVv/OIP.jpg</thumbnail>
+<fanart></fanart>
+<info>No episódio de hoje, joguei um dos melhores e mais pirados jogos de um dos personagens mais icônicos da CAPCOM para o Game Cube e Playstation 2!</info></item>
+
+<item><title>[B]Episódio 20 - Bloody Roar no PlayStation[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2020%20-%20Bloody%20Roar%20no%20PlayStation%20%5BxRZftxwP8Eo%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/SK919sz/R.jpg</thumbnail>
+<fanart></fanart>
+<info>Voltamos nos anos 90 para jogar o animalesco Bloody Roar, um dos jogos de luta mais populares da era PlayStation!</info></item>
+
+<item><title>[B]Episódio 21 - Goof Troop no Super Nintendo[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2021-%20Goof%20Troop%20no%20Super%20Nintendo%20%5BjQZMW42PaD4%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/HFCt7sk/OIP-1.jpg</thumbnail>
+<fanart></fanart>
+<info>Quem não sente saudades de Goof Troop, o jogo do Pateta e seu filho Max no bom e velho Super Nintendo? No episódio de hoje, revisitei esse clássico super nostálgico e a confusão foi literalmente em dobro!</info></item>
+
+<item><title>[B]Episódio 22 - Scooby-Doo Mystery no Mega Drive[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2022%20-%20Scooby-Doo%20Mystery%20no%20Mega%20Drive%20%5B_C9-jUdx9uM%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/X5xQMRz/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+<info>Estamos em Outubro, mês do Halloween, e nada melhor do que jogar o game do Scooby, o cachorro mais amado dos desenhos animados no Mega-Drive!</info></item>
+
+<item><title>[B]Episódio 23: X-Men (SNES vs Mega-Drive)[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2023%20-%20%20X-Men%20%28SNES%20vs%20Mega-Drive%29%20%5Bx0fLsVTVJhE%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/V3LGT5c/maxresdefault-2.jpg</thumbnail>
+<fanart></fanart>
+<info>Neste duelo de titãs, jogaremos dois dos melhores e mais aclamados clássicos da era 16 bits! X-Men: Mutant Apocalypse para o Super Nintendo e X-Men 2: Clone Wars para o Mega-Drive. Quem sairá vencedor deste confronto?</info></item>
+
+<item><title>[B]Episódio 24 - NBA Jam no SEGA- CD[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2024%20-%20NBA%20Jam%20no%20SEGA-%20CD%20%5BSRzSy_wp8w8%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/tP2rX4T/OIP-2.jpg</thumbnail>
+<fanart></fanart>
+<info>Neste episódio insano, voltamos aos anos 90 para jogar NBA Jam,  o jogo de basquete mais pirado de todos os tempos. E o que poderia ser mais louco do que jogar este super clássico no lendário SEGA-CD?</info></item>
+
+<item><title>[B]Episódio 25 - Superman 64[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2025%20-%20Superman%2064%20%5BK2PUyUCUPmQ%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/T8t0WK9/R-1.jpg</thumbnail>
+<fanart></fanart>
+<info>Que tal relembrar um dos piores jogos de todos os tempos? Isso mesmo, neste episódio muito insano joguei o não tão clássico assim,  Superman 64 no Nintendo 64!  Não deixem de conferir!</info></item>
+
+<item><title>[B]Episódio 26 - O exterminador do futuro no Sega CD[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2026%20-%20O%20exterminador%20do%20futuro%20no%20Sega%20CD%20%5Bj6ULA86irX8%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/Z1WB5yG/R-2.jpg</thumbnail>
+<fanart></fanart>
+<info>Direto do futuro, joguei um dos mais aclamados jogos do extinto mas a amado, Sega-CD. Assista ao vídeo e veja como The Terminator ou simplesmente, o Exterminador do Futuro se saiu no primeiro videogame de CD da Sega!</info></item>
+
+<item><title>[B]Episódio 27 - Metal Gear Solid no PlayStation[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2027%20-%20Metal%20Gear%20Solid%20no%20PlayStation%20%5BVeaKWz7e6FE%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/dLdNm1D/OIP-3.jpg</thumbnail>
+<fanart></fanart>
+<info>Relembre o clássico da Konami que redefiniu o gênero Stealth nos games e marcou a história da marca PlayStation!</info></item>
+
+<item><title>[B]Episódio 28 - Jogos do Batman[/B]</title>
+<link>https://archive.org/download/player1show/Epis%C3%B3dio%2028%20-%20Jogos%20do%20Batman%20%5BQHrjWQBNowI%5D.ia.mp4</link>
+<thumbnail>https://i.ibb.co/99nHpVW/R.jpg</thumbnail>
+<fanart></fanart>
+<info>Veja alguns dos melhores jogos retrô do morcegão da DC!</info></item>
