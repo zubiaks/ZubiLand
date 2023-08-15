@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]O Inspetor Clouseau[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/VWFs78y/71t-Lkrpc-FYL-AC-UF894-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/08%20-%20Pantera%20cor%20de%20rosa/O%20Inspetor%20Clouseau/eps.txt</externallink>
+<fanart>https://i.ibb.co/g6Yc9yK/hq720.jpg</fanart>
+<info>Jacques Clouseau é o policial francês fictício dos filmes da série A Pantera Cor-de-Rosa, interpretado por Peter Sellers e Steve Martin. Ele já ganhou condecorações de guerra, mas até trabalhar na "Equipe dos sonhos" era guarda de trânsito.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
