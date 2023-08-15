@@ -36,11 +36,11 @@
 <fanart>https://i.ibb.co/K9mrfhC/download.jpg</fanart>
 <info>Sinopse A história acompanha um príncipe de um pais pequeno e fraco, que tem como objetivo vender o reino para poder se ver livre das suas responsabilidade e viver em paz. Entretanto, seu maior inimigo para realizar esse plano acaba sendo ele mesmo, já que, graças a sua genialidade, acaba sempre realizando grandes feitos, e ganhando ainda mais apoio de seus súditos, tornando impossível abandonar o país.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Cowboy Bebop[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/3SgC8yj/Cowboy-Bebop-TV-Series-548837932-large.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/01%20-%20Cowboy%20Bebop/1.txt</externallink>
+<fanart>https://i.ibb.co/wp5b8HG/download.jpg</fanart>
+<info>Uma equipe incomum de caçadores de recompensas tenta ganhar a vida viajando pelo espaço.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
