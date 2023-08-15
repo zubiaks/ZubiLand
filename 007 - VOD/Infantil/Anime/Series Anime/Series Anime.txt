@@ -60,11 +60,11 @@
 <fanart>https://i.ibb.co/1G4jRXs/captain-harlock-header.jpg</fanart>
 <info>Capitão Harlock é um personagem fictício e protagonista da série de mangá Space Pirate Captain Harlock criada por Leiji Matsumoto. Harlock é o herói romântico arquetípico, um pirata espacial com uma filosofia de vida individualista</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]gunnm[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/WgnY3GL/Gunnm-1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/05%20-%20gunnm/eps.txt</externallink>
+<fanart>https://i.ibb.co/WB0f7Vz/1200x768-gally-heroine-manga-gunnm-yukito-kishiro.webp</fanart>
+<info>Gunnm ou Battle Angel Alita é um mangá cyberpunk criado por Yukito Kishiro e publicado originalmente na revista Business Jump da Shueisha de 1990 a 1995.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
