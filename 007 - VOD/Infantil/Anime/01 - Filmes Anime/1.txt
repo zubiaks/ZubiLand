@@ -6,16 +6,16 @@
 <fanart>https://i.ibb.co/SwDxczp/Best-Ainme-Films-hp.webp</fanart>
 <info></info></channel>
 
+<channel><name>[B][COLOR white]Studio ghibli[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/drcB758/010-A7-A13245-284.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/01%20-%20Filmes%20Anime/03%20-%20Studio%20ghibli/3.txt</externallink>
+<fanart>https://i.ibb.co/f2VfSv1/the-11-best-studio-ghibli-films-of-all-time-r75b.jpg</fanart>
+<info>Studio Ghibli Inc. é estúdio de cinema de animação japonês com sede em Koganei, Tóquio. O estúdio é mais conhecido por seus filmes de animação e também produziu vários curtas, comerciais de televisão e um filme de televisão.</info></channel>
+
 <channel><name>[B][COLOR white]Dead Space[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Wxjd2MF/Dead-Space-Box-Art.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/01%20-%20Filmes%20Anime/01%20-%20Dead%20Space/3.txt</externallink>
 <fanart>https://i.ibb.co/LNVQ9vC/PCSIposter2-JPG.webp</fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
