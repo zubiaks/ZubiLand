@@ -1,9 +1,9 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Ginga Tetsudou no Yoru[/B]</title>
+<link>https://archive.org/download/ginga-tetsudou-no-yoru-legendado-pt-br/%E9%8A%80%E6%B2%B3%E9%89%84%E9%81%93%E3%81%AE%E5%A4%9C%20legendado%20PT-BR.mp4</link>
+<thumbnail>https://i.ibb.co/B4Wc2CR/Night-on-the-Galactic-Railroad.jpg</thumbnail>
+<fanart>https://i.ibb.co/dMppg9H/66c9ceb491c3d59c1c19bf6003b30dc7.jpg</fanart>
+<info>Giovanni é um garoto que vive nos arredores de uma pequena vila rústica. Sua mãe está acamada e seu pai não voltou para casa desde que saiu para trabalhar em um barco de pesca. Pária na escola, Giovanni só tem um amigo: Campanella, filho do prefeito. Durante o Festival das Estrelas da cidade, Giovanni começa a sonhar acordado no topo de uma colina e olha para cima para encontrar um trem com motor a vapor flutuando no ar. Ele embarca no trem apenas para encontrar seu amigo Campanella já lá. E assim, os dois começam sua jornada pelas estrelas, onde se deparam com pessoas incomuns e visitam muitos lugares bonitos e assombrosos.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
