@@ -1,15 +1,15 @@
 <channels>
 
 <channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/k22GVXq/MV5-BNTE5-YTAy-ZDct-Nj-Fh-Yi00-Ym-Jh-LTg4-ZGUt-NDk1-OTE0-ZTY4-NTYw-L2lt-YWdl-Xk-Ey-Xk-Fqc-Gde-QXVy-N.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/01%20-%20Cowboy%20Bebop/Movie/3.txt</externallink>
+<fanart>https://i.ibb.co/02RTfKr/tileburnedin.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Serie[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/kQtDPRP/618c2cb0022b5.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/01%20-%20Cowboy%20Bebop/Serie/eps.txt</externallink>
+<fanart>https://i.ibb.co/sV8mfH3/cowboy-anime-k0g35a4fi-1210x544.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
