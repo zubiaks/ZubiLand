@@ -42,11 +42,11 @@
 <fanart>https://i.ibb.co/wp5b8HG/download.jpg</fanart>
 <info>Uma equipe incomum de caçadores de recompensas tenta ganhar a vida viajando pelo espaço.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]El Hazard[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/5Yd6VQB/a3bb2acebb325247e8c07759d5a99275.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/02%20-%20El%20Hazard/eps.txt</externallink>
+<fanart>https://i.ibb.co/crWsc3m/download.jpg</fanart>
+<info>Depois que Makoto Mizuhara concorda em testemunhar contra o presidente do conselho estudantil, Katsuhiko Jinnai, por subornar clubes escolares nas recentes eleições do conselho estudantil, Jinnai o persegue na tentativa de silenciar seu autoproclamado rival. De repente, durante a perseguição, o tempo pára para todos – exceto Makoto. Perplexo, ele vaga pelo campus até notar uma luz vinda do porão fechado da escola, onde uma antiga relíquia acabara de ser descoberta.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
