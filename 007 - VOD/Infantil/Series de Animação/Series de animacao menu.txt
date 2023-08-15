@@ -96,6 +96,60 @@
 <fanart>https://i.ibb.co/RhgZX05/hqdefault.jpg</fanart>
 <info>Série infantil que combina aventuras fantásticas com assuntos e situações reais. Em cada episódio, nossos heróis mostram como a coragem, a imaginação e a cooperação podem superar o perigo, resolver conflitos e restaurar a harmonia na floresta onde vivem. Os ursinhos voadores e seus amigos surpreendem com seus diálogos cheios humor e mensagens ecológicas.</info></channel>
 
+<channel><name>[B][COLOR white]Pantera cor de Rosa[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/L8dNjcV/pantera-cor-de-rosa-thumb.webp</thumbnail>
+<externallink></externallink>
+<fanart>https://i.ibb.co/g6Yc9yK/hq720.jpg</fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/08%20-%20Pantera%20cor%20de%20rosa/1.txt</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
