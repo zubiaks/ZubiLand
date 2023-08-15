@@ -54,11 +54,11 @@
 <fanart>https://i.ibb.co/7jx5Xq9/image-asset.jpg</fanart>
 <info>A história se concentra em três estudantes do ensino médio, Makoto Mizuhara, Katsuhiko Jinnai e Nanami Jinnai, e o professor de História Masamichi Fujisawa, que são misteriosamente transportados para o fantástico mundo de El-Hazard. Quando chegam, encontram-se no meio de uma guerra entre as nações humanas e a tribo insectóide Bugrom.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Captain Harlock[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Qk2NZ0X/MV5-BMDYz-Zjlm-M2-Ut-NTIw-OC00-NTJl-LWEz-Yz-Mt-Mjg1-ZTg3-MTY3-NDgx-Xk-Ey-Xk-Fqc-Gde-QXVy-NTAy-ODkw-O.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/04%20-%20Captain%20Harlock/eps.txt</externallink>
+<fanart>https://i.ibb.co/1G4jRXs/captain-harlock-header.jpg</fanart>
+<info>Capitão Harlock é um personagem fictício e protagonista da série de mangá Space Pirate Captain Harlock criada por Leiji Matsumoto. Harlock é o herói romântico arquetípico, um pirata espacial com uma filosofia de vida individualista</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
