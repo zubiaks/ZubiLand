@@ -1,48 +1,144 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S03E01 Sakura e o misterioso estudante de transferência[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2047%20br.mp4</link>
+<thumbnail>https://i.ibb.co/8444sKb/Episode-47.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A classe de Sakura recebe um novo aluno transferido, Eriol Hiiragizawa, um garoto da Inglaterra substituindo o lugar de Meiling que retornou a Hong Kong por sua mãe devido a seu motivo desconhecido, e ele começa a encantar Sakura, deixando Syaoran com ciúmes. Após a aula Sakura, Syaoran e Tomoyo vão para o parque enquanto Sakura compra um sorvete e Tomoyo tira sarro de Syaoran depois que ela o vê olhando para Sakura pensando que ele se apaixonou por ela. Syaoran ouve-a irritada e diz-lhe que não está apaixonado. Sakura dá a Tomoyo e Syaoran seu sorvete. Touya aparece e toma seu sorvete, chocando-a. Yukito vê isso e diz a Touya para cortá-lo e ele lhe pediu outro, mas ela gentilmente se recusa. Eles notam Touya olhando ao redor do parque e Sakura perguntou o que é e ele responde que ele tem um aluno de transferência e ela diz que também tem um.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S03E02 Sakura e a Chave da Estrela Desperta[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2048%20br.mp4</link>
+<thumbnail>https://i.ibb.co/hBvRBQd/Episode-48.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A chuva ainda cai sobre Tomoeda. Em sua cozinha, Sakura pensa na noite anterior, quando não conseguiu liberar sua chave para a equipe. Touya desce as escadas e nota que ela está acordada cedo, além de chamá-la de monstro, mas fica visivelmente preocupada quando Sakura não faz nenhuma réplica. Ela pergunta a ele se Yukito iria visitar sua casa naquela noite e ele diz a ela que Yukito não tinha planejado isso, mas que ele provavelmente viria se eles estivessem tendo algo bom para jantar. No quarto de Sakura, Kero pensa na estranha presença que sentiu no dia anterior, esperando que não fosse o que ele pensava que era.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S03E03 Sakura e o Piano Perigoso[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2049%20br.mp4</link>
+<thumbnail>https://i.ibb.co/VSFNg0q/Episode-49.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura é completamente drenada de transformar o cartão Firey sob seu próprio poder e acaba adormecendo e dormindo o dia todo, faltando à escola. Depois da escola, Syaoran e Tomoyo a visitam para se certificar de que ela está bem. Eles perguntam por que ela está tão desgastada e Kero diz a eles que agora que ela é a mestra das Cartas Clow, ela tem que transformar todas elas do controle de Clow Reed para seu controle antes que as cartas percam seu poder.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S03E04 Sakura, Syaoran e o Fio Invisível[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2050%20br.mp4</link>
+<thumbnail>https://i.ibb.co/myMnrRC/Episode-50.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura acorda de manhã cedo e começa a se perguntar por que sente Clow Reed toda vez que algo estranho acontece. Na escola, Rika mostra a todos um ursinho de pelúcia que ela fez e diz a Sakura que se você der um ursinho de pelúcia para a pessoa que você ama com o mesmo nome que você, você será amado em troca. Rika dá um para Mr.Terada, e Sakura decide dar um para Yukito. Depois da escola, ela para em uma loja para comprar coisas para fazer o urso. Na loja, ela se depara com Eriol que está comprando fios.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S03E05 Sakura e o Grande Ursinho de Pelúcia[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2051%20br.mp4</link>
+<thumbnail>https://i.ibb.co/p2zH3y7/Episode-51.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Várias pessoas na escola começaram a fazer seus próprios ursinhos de pelúcia para dar a seus entes queridos. Enquanto Eriol ajuda Sakura a fazer seu urso para Yukito, ele secretamente encanta uma de suas orelhas. Syaoran, que também tem sentimentos por Yukito e fez seu próprio urso, começa a se apaixonar por Sakura também. Yue se aproxima do confuso Syaoran e diz a ele que a razão pela qual ele parece estar apaixonado por Yukito é que ele, tendo descendido de Clow Reed, está realmente reagindo ao imenso poder mágico armazenado dentro dele.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S03E06 Aviso de ovelha de Sakura?![/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2052%20br.mp4</link>
+<thumbnail>https://i.ibb.co/jz6kMVH/Episode-52.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Yue secretamente confidencia a Kerberos que ele recentemente está perdendo sua energia, e que os poderes de Sakura por si só não são suficientes para ajudá-lo a se manter; ele acrescenta que, se seu poder desaparecer, tanto ele quanto seu alter ego Yukito, que está alheio a esse incidente, mas cada vez mais consciente dele, desaparecerão da existência. Touya, que está ciente da situação de Yukito, tenta dizer-lhe a verdade, mas é mais uma vez interrompido por Nakuru, deixando claro que ela está fazendo isso de propósito. Enquanto isso, a atenção de Sakura é atraída para um grande e profundo buraco no meio do parquinho. Ela é capaz de entrar no buraco, embora seus amigos não o sejam, já que ele é selado pela magia de Clow Reed. No fundo do buraco, Sakura está enterrada sob uma pilha de ovelhas empalhadas. No entanto, ela converte a carta Erase para obliterar as ovelhas.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S03E07 Sakura e a bicicleta em pânico[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2053%20br.mp4</link>
+<thumbnail>https://i.ibb.co/y6Sw5pB/Episode-53.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura descobre que as Cartas Clow que ela é incapaz de usar estão começando a perder seu poder, e se tornarão cartas comuns se não forem convertidas em Cartas Sakura. Não querendo deixar isso acontecer, Sakura imprudentemente converte várias cartas ao mesmo tempo. No entanto, ela perde o controle de uma das cartas, o Dash, que entra em pânico e foge, possuindo a bicicleta de Touya que Eriol havia encantado anteriormente enquanto ajudava Sakura a limpar seu quintal. Durante uma perseguição frenética pelo parque, Kero repreende Sakura por suas decisões e comportamentos cada vez mais precipitados, que se mostram problemáticos para suas tentativas de encurralar a moto. Finalmente, Sakura converte as cartas Windy e Loop, permitindo que ela detenha o Dash e o acalme. Sakura resolve transformar todas as Clow Cards em Sakura Cards, mas apenas quando a situação pede. Sakura dorme devido aos seus poderes acabarem. Então Tomoyo de repente grita que chega tarde demais devido a ter um banho carregando sua câmera de vídeo e sua roupa que ela fez para Sakura e começa a gravar uma Sakura dormindo enquanto Kero estava gritando. Eriol os observava de cima com um sorriso no rosto.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S03E08 Sakura e o Calendário de Memórias[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2054%20br.mp4</link>
+<thumbnail>https://i.ibb.co/r3rG7S9/Episode-54.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Fujitaka dá a Sakura o calendário antigo de sua mãe, e aprende sobre seu bisavô materno, Masaki Amamiya. Ela descobre como ele desaprovava o casamento de sua neta com Fujitaka. Na esperança de acertar as coisas, Sakura faz um presente feito à mão e usa o cartão Flor para decorá-lo, junto com uma carta sobre como sua mãe estava feliz.</info></item>
+
+<item><title>[B]S03E09 Sakura e Sakura do País das Maravilhas[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2055%20br.mp4</link>
+<thumbnail>https://i.ibb.co/k2mkqSv/Episode-55.webp</thumbnail>
+<fanart></fanart>
+<info>Enquanto lê Alice no País das Maravilhas, Sakura é sugada para a fantasia do livro devido a outro dos encantos de Eriol, desta vez em uma folha que ele deu a Sakura para usar como um marcador. Lá ela conhece os personagens da história que assumiram as formas de seus amigos e familiares: Eriol é o Gato de Cheshire, Yukito/Yue é o Coelho Branco, Touya é o Chapeleiro Louco, Syaoran é Tweedledum e Tweedledee, Tomoyo é Humpty Dumpty e Kero é a Rainha Vermelha. Durante a aventura, Sakura converte as cartas Big e Little (em tentativas infrutíferas de usá-las a seu favor), e descobre que Syaoran gosta de outra pessoa que não Yukito. No final, ela consegue encontrar a folha encantada flutuando no céu e voa através dela, permitindo que ela escape do livro.</info></item>
+
+<item><title>[B]S03E10 Sakura, Kero e o Doce Encontro[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2056%20br.mp4</link>
+<thumbnail>https://i.ibb.co/GHGNNhV/Episode-56.webp</thumbnail>
+<fanart></fanart>
+<info>A escola de Sakura está hospedando um bazar, e Kero comparece para comer doces, escondido na floresta. Nakuru, por sua vez, traz Spinel Sun e o esconde na mesma floresta enquanto ela frequenta o bazar. Kero conhece Suppie (o nome de estimação que Nakuru lhe deu), mas é completamente alheio à sua verdadeira natureza e faz amizade com ele, forçando-o a comer alguns dos doces. Como resultado, Spinel fica intoxicado pelo açúcar e passa a comer compulsivamente por toda a escola. Kero, que é incapaz de explicar a situação para Sakura, pede que ela use o cartão de sono em todos os clientes, permitindo que ele se livre de Suppie (embora Sakura não o tenha visto e culpe Kero por tudo o que aconteceu).</info></item>
+
+<item><title>[B]S03E11 Sakura, Syaoran e o Elevador[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2057%20br.mp4</link>
+<thumbnail>https://i.ibb.co/DpG3MVV/Episode-57.webp</thumbnail>
+<fanart></fanart>
+<info>Os sentimentos amigáveis de Syaoran por Sakura têm se fortalecido constantemente ao ponto de um amor romântico profundo e forte, embora ele ainda não entenda o porquê, e Sakura permanece alegremente inconsciente disso. Logo Sakura o convida para ir a um festival de ursinhos de pelúcia com ela, Tomoyo e Eriol.</info></item>
+
+<item><title>[B]S03E12 Sakura e Double Trouble[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2058%20br.mp4</link>
+<thumbnail>https://i.ibb.co/P6jFFYC/Episode-58.webp</thumbnail>
+<fanart></fanart>
+<info>Eriol lança um feitiço em Kero e Yue para que eles sejam incapazes de reverter para suas formas emprestadas, para desespero de Sakura, já que é compreensivelmente difícil esconder suas verdadeiras formas por muito tempo. Felizmente, Touya e Fujitaka estão fora para o dia, e Sakura tem a ajuda deles em casa enquanto relembra seu tempo com Clow Reed.</info></item>
+
+<item><title>[B]S03E13 Sakura, Tomoyo e a Armadilha da Bola[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2059%20br.mp4</link>
+<thumbnail>https://i.ibb.co/8Kqyt70/Episode-59.webp</thumbnail>
+<fanart></fanart>
+<info>Sakura cresce em poder para cada Clow Card que ela transforma, enquanto a energia de Yukito/Yue começa a vacilar. Syaoran, enquanto isso, percebe plenamente seu amor por Sakura e se consulta com Tomoyo, que o ajuda a lidar com seu ciúme em relação a Eriol e lhe dá a confiança (apenas nua, embora) para falar o que pensa para a esquecida Sakura. Antes que ele possa fazê-lo, no entanto, tanto ele quanto Sakura sentem a presença de Clow Reed mais uma vez, desta vez na forma de um basquete que os conduz pela escola à noite.</info></item>
+
+<item><title>[B]S03E14 Sakura e um amigo precioso[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2060%20br.mp4</link>
+<thumbnail>https://i.ibb.co/rQHFtRz/Episode-60.webp</thumbnail>
+<fanart></fanart>
+<info>Lembrando-se de sua promessa a Meiling de que ele seria seu "noivo" até encontrar alguém que ele amasse mais, Syaoran liga para ela para dizer que ele está apaixonado por Sakura, embora ele seja pego de surpresa quando Meiling chega em Tomoeda para o dia. Enquanto Meiling passa o dia com seus velhos amigos, o grupo é atacado por um conjunto de estátuas de pinguins encantados no parquinho. Seguindo o conselho de Meiling, Sakura transforma a carta Freeze e a usa para congelar as estátuas, permitindo que ela e Syaoran derrotem os pinguins. Durante o incidente, no entanto, Meiling percebe exatamente por que Syaoran a chamou. Aparentemente aceitando o assunto, Meiling rompe seu "noivado", na realidade, no entanto, ela está com o coração partido e cai em lágrimas ao visitar Tomoyo (seu desejo). Sentindo-se melhor no dia seguinte, Meiling encoraja Syaoran a professar seu amor para Sakura o mais rápido possível, já que Sakura nunca saberia sobre eles de outra forma, antes de sair na manhã seguinte, ela deixa uma mensagem enigmática para Sakura indiretamente afirmando que ela deve prestar atenção aos sentimentos de Syaoran.</info></item>
+
+<item><title>[B]S03E15 Sakura, o cartão e os presentes[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2061%20br.mp4</link>
+<thumbnail>https://i.ibb.co/B67RFbc/Episode-61.webp</thumbnail>
+<fanart></fanart>
+<info>Kero é quase certo que Touya sabe tudo sobre o segredo de Sakura, embora Sakura rejeite suas alegações, dizendo que Touya tiraria sarro dela se ele o fizesse. Touya, enquanto isso, tem certeza de que Nakuru está deliberadamente interrompendo-o enquanto ele tenta dizer a verdade a Yukito sobre por que ele está sempre se sentindo cansado. Os dois fazem planos para comprar um presente de Natal para seu pai, embora Sakura sinta a presença de Clow Reed novamente.</info></item>
+
+<item><title>[B]S03E16 Sakura e a Estranha Fortuna Escrita[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2062%20br.mp4</link>
+<thumbnail>https://i.ibb.co/ZG0jnTp/Episode-62.webp</thumbnail>
+<fanart></fanart>
+<info>Sakura vai a um festival de Ano Novo e percebe que Yukito não está por perto. Touya vai verificá-lo, descobrindo-o dormindo em sua porta que ele não só desabou de fadiga, mas ele também está começando a desaparecer da existência, uma vez que o poder de Sakura, apesar de quão forte se tornou, não é suficiente para sustentar Yue. Mais tarde, no festival, ela recebe uma fortuna de Eriol que ele secretamente fez e encantou, dizendo que ela começará a aprender a "verdade" em seu "primeiro sonho do ano". Naquela noite, Sakura transforma a carta dos sonhos em seu sono e tem um sonho do céu sendo coberto pela escuridão que emana sobre o Santuário de Tsukimine, onde ela vê as silhuetas de Eriol, Spinel Sun e Ruby Moon. Quando Sakura acorda para perceber o que ela fez, ela e Kero começam a suspeitar que eles vão encontrar as três figuras silhuetas muito em breve.</info></item>
+
+<item><title>[B]S03E17 Sakura, a piscina e a onda enorme[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2063%20br.mp4</link>
+<thumbnail>https://i.ibb.co/4P9WtzJ/Episode-63.webp</thumbnail>
+<fanart></fanart>
+<info>Sakura e seus amigos vão passar o dia em um novo parque aquático coberto, Touya, Yukito e Nakuru também estão lá trabalhando. Tomoyo diz a Sakura que Kero encontraria uma maneira de ir com eles. Ele está com a bolsa de maiô de Sakura em seu armário, assustando uma garota do lado de fora do armário. Sakura e seus amigos compram refrigerantes cremosos enquanto são servidos por Yukito e Nakuru. Kero entra sorrateiramente na cafeteria onde Sakura e os outros passam despercebidos. Ele ficou feliz em ver Sakura e Syaoran tem alguns deles e escolhe Sakura em vez de Syaoran sabendo que ele vai notar. Enquanto Sakura e os outros estão falando sobre a piscina de ondas, Kero sobe atrás de Sakura e bebe todo o seu refrigerante creme e vai para o mato. Sakura então continua bebendo seu refrigerante cremoso sem saber que seu copo está vazio enquanto bebe seu canudo. Tomoyo perguntou-lhe o que havia de errado e ela lhe disse que seu refrigerante de creme havia desaparecido. Syaoran pergunta se ela bebeu tudo, e ela responde que não, e estava cheio enquanto eles estavam conversando. Eles ouvem um barulho e veem a cauda de Kero nos arbustos e Sakura verifica. Ela grita seu bordão habitual, "Kero, não!", quase soprando sua capa, Chiharu ficou atordoado imaginando o que era. Enquanto os outros estão na piscina. Sakura, Syaoran e Tomoyo vão onde nenhum povo está e ensinam Kero que estava escondido no pano de banho de Syaoran. Eles sentiram a aura de Clow e a piscina onde os outros estão e onde Eriol faz com que a água suba a níveis perigosos. Quando Rika, que tem problemas para nadar, quase se afoga, Sakura usa a carta Watery transformada para salvá-la, correndo o risco de ser vista usando sua magia por todos. No entanto, parece que Eriol teria voltado as coisas ao normal se Sakura fosse tarde demais, deixando seus motivos obscuros.</info></item>
+
+<item><title>[B]S03E18 Sakura e a aula de esqui nevada[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2064%20br.mp4</link>
+<thumbnail>https://i.ibb.co/w07qd51/Episode-64.webp</thumbnail>
+<fanart></fanart>
+<info>A classe de Sakura vai em uma viagem de campo para as montanhas para aulas de esqui. No lodge, Syaoran admite a Sakura que a pessoa que ele mais cuida não é Yukito, e que sua atração por ele foi na verdade sua reação ao poder de Yue; no entanto, ele ainda não consegue dizer a Sakura que ela é a pessoa por quem ele está apaixonado. No dia seguinte, Sakura sobe a montanha com Eriol quando uma nevasca começa a se formar. No topo da montanha, há uma avalanche que ameaça enterrar a pousada no sopé da montanha onde estão seus colegas de classe. Sakura transforma o cartão do tempo na tentativa de parar a avalanche sem que Eriol veja, mas isso consome tanta energia que ela desmaia. No entanto, Eriol pára a avalanche e salva Sakura, expressando sua relutância em colocá-la em perigo com tanta frequência.</info></item>
+
+<item><title>[B]S03E19 Sakura, Yukito e o Poder de Fuga[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2065%20br.mp4</link>
+<thumbnail>https://i.ibb.co/8K4PRzv/Episode-65.webp</thumbnail>
+<fanart></fanart>
+<info>Sakura, a caminho de casa das compras de supermercado, pára para comer um dos pães de carne que comprou quando fica com fome. Enquanto ela está comendo, ela ouve Touya e Yukito conversando. Touya de repente agarra a mão de Yukito, e parece que ele está machucando seu amigo, o que surpreende Sakura. Ela patina para eles para tentar proteger Yukito, mas rapidamente percebe que não havia perigo real; os dois, junto com vários outros colegas de classe - incluindo Nakuru como diretor - estão filmando uma cena para um filme da escola. Ela pede desculpas por interromper, mas Nakuru pergunta se ela gostaria de estar no filme também.</info></item>
+
+<item><title>[B]S03E20 A pessoa que Sakura mais gosta[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2066%20br.mp4</link>
+<thumbnail>https://i.ibb.co/t3DNC2H/Episode-66.webp</thumbnail>
+<fanart></fanart>
+<info>Depois de ver o filme de Nakuru, Sakura visita a feira do colégio com seus amigos, enquanto Touya conforta Yukito quando ele parece incomodado com o fato de que ele não é humano. Sozinha com Yukito em uma das atrações, Sakura diz a Yukito o quanto ela gosta dele. No entanto, Yukito gentilmente a rejeita, dizendo que seu amor por ele é meramente paternal, bastante semelhante aos seus profundos sentimentos que ela tem por seu pai, e que ele já tem alguém que ele realmente gosta e cuida muito. Sakura, em um raro momento de insight, percebe que aquela pessoa é seu irmão mais velho, Touya.</info></item>
+
+<item><title>[B]S03E21 Sakura, Syaoran e o Santuário de Tsukimine[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2067%20br.mp4</link>
+<thumbnail>https://i.ibb.co/D4fNqKd/Episode-67.webp</thumbnail>
+<fanart></fanart>
+<info>Sakura vai para a escola pela manhã, mas não vê Yukito. Ela percebe que há um festival e pergunta a Syaoran se ele quer ir ao festival no Santuário de Tsukimine. Ele concorda, para a alegria de Sakura. À medida que as aulas continuam, Sakura se sente sonolenta novamente. Syaoran percebe isso e fica preocupado. Enquanto Tomoyo e Sakura caminham para casa, Sakura admite que se sente muito melhor agora e agradece Syaoran e Tomoyo por sua ajuda. Enquanto Syaoran e Sakura caminham até o santuário, Sakura dá a Syaoran seu lenço feito à mão, que Syaoran aceita timidamente. Touya, Yukito (e Eriol) aparecem no santuário (Sakura os convidou); Sakura vai feliz com Yukito.</info></item>
+
+<item><title>[B]S03E22 Sakura, o Passado e Clow Reed[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2068%20br.mp4</link>
+<thumbnail>https://i.ibb.co/89sjZPR/Episode-68.webp</thumbnail>
+<fanart></fanart>
+<info>Sakura usa o Cartão de Retorno e retorna ao passado para que ela possa falar sobre o futuro das Cartas Clow depois que elas foram transformadas. Clow Reed explica tudo o que Sakura quer saber, e tenta responder suas perguntas sem dar muito.</info></item>
+
+<item><title>[B]S03E23 Sakura encontra Clow Reed[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2069%20br.mp4</link>
+<thumbnail>https://i.ibb.co/QpTVp2j/Episode-69.webp</thumbnail>
+<fanart></fanart>
+<info>Eriol revelou sua verdadeira identidade, e ele lança um feitiço sobre toda a cidade, colocando todos para dormir, exceto aqueles com poder mágico. Sakura deve derrotar o feitiço ou todos vão dormir para sempre. É um grande desafio para Sakura, já que Eriol se defende dos ataques de cartas de Sakura facilmente, e seus companheiros Kero e Yue têm que lutar contra Spinel Sun e Ruby Moon.</info></item>
+
+<item><title>[B]S03E24 Sakura e Seus Verdadeiros Sentimentos[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2070%20br.mp4</link>
+<thumbnail>https://i.ibb.co/x140KgB/Episode-70.webp</thumbnail>
+<fanart></fanart>
+<info>Sakura está pensando sobre seus verdadeiros sentimentos românticos em relação a Syaoran. Sakura, Syaoran, Tomoyo, Kero e Yue visitam a casa de Eriol para descobrir a razão por trás de Eriol, que estava dando a Sakura muitos problemas e dificuldades. Ele também revelou que há duas coisas que aconteceram inesperadamente.</info></item>
