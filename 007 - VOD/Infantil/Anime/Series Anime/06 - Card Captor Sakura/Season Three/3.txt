@@ -1,48 +1,67 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S02E01 Sakura e o novo período escolar nevado[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2036%20br.mp4</link>
+<thumbnail>https://i.ibb.co/bmt7n9h/Episode-36.webp</thumbnail>
+<fanart></fanart>
+<info>O novo ano letivo começou e as coisas começam a melhorar quando Yukito dá a Sakura um presente de aniversário, e a Sra. Mizuki acaba sendo a nova professora da sala de casa. Durante a escola, começa a nevar e ainda está nevando no caminho da escola para casa. Depois da escola, Sakura desembrulha o presente e descobre que se trata de um relógio de pulso. Sakura está cozinhando e ouve Touya de volta da escola.</info></item>
+
+<item><title>[B]S02E02 A Voz Perdida de Sakura e Tomoyo[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2037%20br.mp4</link>
+<thumbnail>https://i.ibb.co/zbSLprS/Episode-37.webp</thumbnail>
+<fanart></fanart>
+<info>Tomoyo tem uma competição de canto chegando em breve e está sempre praticando na escola, onde uma luz misteriosa parece estar seguindo por aí. Depois de um dia praticar a liderança de torcida, Sakura decide ir ouvir o treino de Tomoyo depois que ela joga sua fita de torcida no ar também impressionando Chiharu e Naoko que Sakura é enérgica e sua fita de torcida voou bastante longe. No caminho</info></item>
+
+<item><title>[B]S02E03 A divertida aventura de colheita de morango da Sakura[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2038%20br.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S02E04 [/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2039%20br.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S02E05 [/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2040%20br.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S02E06 [/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2041%20br.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S02E07 [/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2042%20br.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S02E08 [/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2043%20br.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S02E09 [/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2044%20br.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]S02E10 [/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2045%20br.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
+
+<item><title>[B]S02E11 [/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2046%20br.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
