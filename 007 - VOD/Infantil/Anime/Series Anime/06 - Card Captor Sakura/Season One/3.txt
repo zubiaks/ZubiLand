@@ -5,11 +5,11 @@
 <fanart></fanart>
 <info>Sakura Kinomoto é uma enérgica aluna da quarta série, mas um dia ela descobre um livro brilhante e acidentalmente libera as Cartas Clow dentro.</info></item>
 
-<item><title>[B]S01E02 [/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S01E02 Amigo Maravilhoso de Sakura[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2002%20br.mp4</link>
+<thumbnail>https://i.ibb.co/JsfdWm2/Episode-2.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura encontra uma grande pilha de carteiras e cadeiras no pátio da escola. Quando ela se vira à noite para investigá-lo, ela encontra um novo Clow Card,</info></item>
 
 <item><title>[B]S01E03 [/B]</title>
 <link></link>
