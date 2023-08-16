@@ -17,23 +17,23 @@
 <fanart></fanart>
 <info>Sakura fica feliz ao ser convidada para o aquário por seu crush, o melhor amigo de seu irmão, Yukito, mas um incidente de estrelar pode arruinar sua tarde perfeita</info></item>
 
-<item><title>[B]S01E04 [/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S01E04 O Domingo Cansativo de Sakura[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2004%20br.mp4</link>
+<thumbnail>https://i.ibb.co/KGv1jtK/Episode-4.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura descobre 2 Clow Cards e as deixa no porão. Quando chega em casa fazendo um serviço, encontra o local coberto de galhos.</info></item>
 
-<item><title>[B]S01E05 [/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S01E05 Sakura, Panda e a loja fofa[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2005%20br.mp4</link>
+<thumbnail>https://i.ibb.co/25bswg2/Episode-5.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura e seus amigos estão animados com a nova loja de brinquedos em sua rota escolar, mas sua proprietária afirma que tudo o que ela vende volta para a ferida.</info></item>
 
-<item><title>[B]S01E06 [/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S01E06 Sakura e Memórias de Sua Mãe[/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2006%20br.mp4</link>
+<thumbnail>https://i.ibb.co/TqYyfFb/Episode-6.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura suspeita que um Clow Card tem algo a ver com a floresta assombrada atrás da escola. Quando ela retorna depois de escurecer, ela vê o fantasma de sua mãe.</info></item>
 
 <item><title>[B]S01E07 [/B]</title>
 <link></link>
