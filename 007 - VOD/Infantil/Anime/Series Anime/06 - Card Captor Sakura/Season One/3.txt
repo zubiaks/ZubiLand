@@ -47,17 +47,17 @@
 <fanart></fanart>
 <info>Um novo rival aparece quando a classe de Sakura recebe um misterioso estudante de transferência de Hong Kong chamado Syaoran Li. Ele está atrás de suas cartas de folga!</info></item>
 
-<item><title>[B]S01E09 [/B]</title>
+<item><title>[B]S01E09 Sakura e o Broche Misterioso[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2009%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/64cqYBp/Episode-9.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Tomoyo e Rika tentam animar Sakura levando-a às compras depois que Syaoran a perturba, mas Rika de repente ataca Sakura quando ela coloca um novo broche.</info></item>
 
-<item><title>[B]S01E10 [/B]</title>
+<item><title>[B]S01E10 Sakura e o Dia das Flores do Esporte[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2010%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/wwzLx47/Episode-10.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>É o Dia do Esporte na escola de Sakura. A mãe de Tomoyo parece conhecer o pai de Sakura, mas seus brilhos dizem que não é um reencontro amigável.</info></item>
 
 <item><title>[B]S01E11 [/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2011%20br.mp4</link>
