@@ -13,55 +13,55 @@
 
 <item><title>[B]S02E03 A divertida aventura de colheita de morango da Sakura[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2038%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/9ZhC7kt/Episode-38.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A turma de Sakura está em uma viagem de campo a uma plantação para colher morangos. Sakura não sabe quais escolher, então Yukito, com quem ela acidentalmente esbarrou enquanto ele estava trabalhando, vem para ajudar. Mais cedo naquele dia, Touya (que também está na plantação) disse a Sakura que ele e Yukito não têm escola.</info></item>
 
-<item><title>[B]S02E04 [/B]</title>
+<item><title>[B]S02E04 Dia da Febre Tonta de Sakura[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2039%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/FD7ssFh/Episode-39.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura está se sentindo mal, mas não quer que ninguém saiba porque ela não quer que seu pai, Fujitaka Kinomoto, perca sua classe especial e porque ela quer terminar um cartaz com seu grupo para que ela vá para a escola,</info></item>
 
-<item><title>[B]S02E05 [/B]</title>
+<item><title>[B]S02E05 Sakura e a Sakura do Sonho[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2040%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/L5vkhjB/Episode-40.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura, Tomoyo, Syaoran e Meiling decidem passar o dia passeando pela cidade. Eles vão por toda a cidade, incluindo o fliperama onde jogam alguns jogos, e os filmes onde as meninas escolhem assistir a um filme de romance. O grupo então parte para a Torre de Tóquio, e Sakura adormece no momento em que entra pelas portas, embora não saiba. No sonho, eles acham estranho quando ninguém mais está lá.</info></item>
 
-<item><title>[B]S02E06 [/B]</title>
+<item><title>[B]S02E06 Sakura, Syaoran e o Mar de Areia[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2041%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/wMR9gpk/Episode-41.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A turma de Sakura está começando a escolher uma peça para o festival de artes que está chegando e sua peça é A Bela Adormecida. Mizuki escolhe os papéis e Sakura é o Príncipe e Syaoran é a Princesa. Os dois estão nervosos em interpretar os papéis principais, e os papéis opostos um do outro. Tomoyo decide que ela quer fazer os figurinos, especialmente o de Sakura. Enquanto está do lado de fora, no recreio, Sakura pergunta a Syaoran se eles querem praticar juntos, então eles decidem praticar no dia seguinte, antes da escola. Enquanto eles estão praticando, eles são atacados pela Carta de Areia que ameaça prendê-los sob a areia. Sakura, com a ajuda de Syaoran, consegue capturá-lo. A carta vai para os dois, mas Sakura dá para Syaoran para fazê-los mesmo.</info></item>
 
-<item><title>[B]S02E07 [/B]</title>
+<item><title>[B]S02E07Sakura e o Blacked Out School Arts Festival [/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2042%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/L1252GR/Episode-42-Sakura-Hugs-Syaoran-After-Seal.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O dia da brincadeira da escola finalmente chegou, e Sakura e Meiling estão prontas para ir, enquanto Syaoran está preocupada em jogar como a princesa. À medida que a peça começa, todos parecem estar se desfazendo muito de suas partes, incluindo Syaoran. As coisas vão muito bem até o clímax da peça, quando de repente toda a sala fica escura. Sakura tenta encontrar pessoas, mas elas não estão em nada além de escuridão. Ela começa a ficar desanimada, mas quando consegue se animar, a Carta Luz, que estava dentro de Sakura desde que ela quebrou o selo, se revela com seu gêmeo, o Cartão Escuro. No entanto, em vez de atacar como outras Clow Cards, a Luz e a Escuridão a parabenizam por sua jornada, bem como sobre um ser misterioso chamado Yue.</info></item>
 
-<item><title>[B]S02E08 [/B]</title>
+<item><title>[B]S02E08 Sakura e Adeus a Meiling[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2043%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/cQ7GRdY/Episode-43.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A mãe de Meiling liga e quer que ela volte para Hong Kong. Meiling fica triste por deixar Syaoran, mas ele age como se não se importasse e ela sai de casa. Sakura a convida para dormir e ela aceita. Os dois falam sobre como ela se sente sobre Syaoran, como se conheceram e até sobre Sakura e Yukito. Naquela noite, Sakura sente uma Carta Clow e ela e Meiling saem para encontrar a Carta. O cartão clonou tudo na cidade. Sakura tenta lacrá-lo, mas ambos os corpos da carta precisam ser lacrados ao mesmo tempo. Sakura e Syaoran tentam usar sinais para atacar ao mesmo tempo, mas não funciona e a Twin Card escapa. Sakura convence Syaoran a trabalhar com Meiling, já que seus anos de treinamento de artes marciais juntos lhes deram a capacidade de sincronizar instantaneamente os movimentos um do outro, permitindo-lhes lutar contra a carta. Os dois trabalham perfeitamente juntos e Sakura sela o cartão. Syaoran revela que acredita no poder de Meiling e gosta que ela esteja por perto. Na semana seguinte, Sakura, Tomoyo e Syaoran se despedem de Meiling.</info></item>
 
-<item><title>[B]S02E09 [/B]</title>
+<item><title>[B]S02E09 Sakura, Kero e o Professor Misterioso[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2044%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/kH3pQTg/Episode-44.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura tem o sonho com a Torre de Tóquio novamente, e a Sra. Mizuki também estava nela. Nesse dia, Sakura está indo assistir a uma competição de tiro com arco em que Yukito e, surpreendentemente, Mizuki estão participando. Os dois são extremamente bons, acertando todos os tiros que fazem. A luta final na competição se resume a Yukito e Mizuki. Parece que a rodada final levará uma eternidade, mas durante a partida Kero sente um estranho poder. Quando ele vê a Sra. Mizuki ele murmura "Yue".</info></item>
 
-<item><title>[B]S02E10 [/B]</title>
+<item><title>[B]S02E10 Sakura e o Cartão Final Clow[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2045%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/xKvBGJd/Episode-45.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O último Clow Card finalmente se revelou como The Earthy. Sakura usa o cartão The Sleep para colocar toda a cidade para dormir. Enquanto Syaoran observa todo mundo, Sakura parte para lutar sua batalha mais difícil até agora, a Carta Terrena é uma das cartas elementais e provará ser seu maior teste até agora. Depois de lutar por um tempo, Kero a ajuda a pensar em um combo que lhe permita selar o último Clow Card. Após a captura, Kero assume sua verdadeira forma agora que seu poder está totalmente restaurado. Naquela noite no templo, há uma pequena celebração sobre a coleção do último Clow Card. Sakura pergunta a Syaoran quem é Yue, e ele explica que Kero e Yue são os Guardiões das Cartas Clow. Cérbero é o 'Selecionador', representando o Sol, e aparecendo na frente do Livro de Clow e Yue é o 'Juiz', representando a Lua e aparecendo nas costas. Sakura afirma que nunca houve uma lua nas costas, e Syaoran se pergunta se isso significa que Yue já tomou forma material como Kero. Tomoyo se pergunta em voz alta, quem será o dono das Clow Cards, já que Syaoran e Sakura têm Clow Cards. Kero responde que eles saberão quando ele (Yue) aparecer. Sakura assina o último Clow Card. De repente, uma energia mística os envolve e Yukito, que ainda está dormindo, e de repente se transforma no segundo guardião das Cartas Clow, Yue.</info></item>
 
-<item><title>[B]S02E11 [/B]</title>
+<item><title>[B]S02E11 Sakura e o Juízo Final[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2046%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/J2gkw0Y/Episode-46.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O Julgamento Final começa, mas Sakura se recusa a lutar contra Yue porque ele é a outra metade de Yukito. Depois de receber muitos ataques e golpes de Yue, Sakura tenta pensar em uma maneira de lutar contra Yue sem machucá-lo. Ela tenta pensar em uma carta que não vai machucá-lo, e pensa na carta de madeira. Como já está sob a jurisdição de Yue, ele pode usá-lo contra ela e o faz.</info></item>
 
