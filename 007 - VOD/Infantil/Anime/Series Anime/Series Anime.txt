@@ -66,11 +66,11 @@
 <fanart>https://i.ibb.co/WB0f7Vz/1200x768-gally-heroine-manga-gunnm-yukito-kishiro.webp</fanart>
 <info>Gunnm ou Battle Angel Alita é um mangá cyberpunk criado por Yukito Kishiro e publicado originalmente na revista Business Jump da Shueisha de 1990 a 1995.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Card Captor Sakura[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/TYJKKsW/a3d51f0142b3376815ddea3b060f5ac4.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/06%20-%20Card%20Captor%20Sakura/1.txt</externallink>
+<fanart>https://i.ibb.co/9VMbxQ9/cardcaptor-sakura-destaque.jpg</fanart>
+<info>Cardcaptor Sakura, abreviado como CCS, conhecido no Brasil como Sakura Card Captors, e em Portugal como Sakura, a Caçadora de Cartas ou apenas Sakura, é uma série de mangá do gênero mahō shōjo criada pelo grupo CLAMP e publicada na revista Nakayoshi, com 12 volumes, de 1996 a 2000.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
