@@ -35,11 +35,11 @@
 <fanart></fanart>
 <info>Sakura suspeita que um Clow Card tem algo a ver com a floresta assombrada atrás da escola. Quando ela retorna depois de escurecer, ela vê o fantasma de sua mãe.</info></item>
 
-<item><title>[B]S01E07 [/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<item><title>[B]S01E07 A primeira tentativa de Sakura como ladrão?![/B]</title>
+<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2007%20br.mp4</link>
+<thumbnail>https://i.ibb.co/4s9rGw9/Episode-7.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura, Tomoyo e Kero investigam um museu e veem um menino tentando danificar uma pintura, alegando que a obra de seu pai foi alterada.</info></item>
 
 <item><title>[B]S01E08 [/B]</title>
 <link></link>
