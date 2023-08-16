@@ -1,17 +1,145 @@
 
-<item><title>[B](OFF)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]S1.E1 ∙ See Saw[/B]</title>
-<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%281%29.mp4</link>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%2823%29.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S1.E2 ∙ Water-Melon Felon[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%281%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E4 ∙ Gulp and Saucer[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%282%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E5 ∙ Map Happy[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%283%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E6 ∙ Smile the Wild[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%284%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E7 ∙ Charge of the Fright Brigade[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%285%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E8 ∙ Film Flam[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%286%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E9 ∙ Gun Fighter Lippy[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%287%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E10 ∙ Hick Hikers[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%288%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E11 ∙ A Thousand and One Frights[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%289%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E13 ∙ Laugh a Loaf[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%2810%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E18 ∙ Witch Crafty[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%2811%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E41 ∙ Flood for a Thought[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%2812%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E42 ∙ Hocus Focus[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%2813%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E44 ∙ Ole Fuddy Duds[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%2814%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E45 ∙ Chow You Feelings[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%2815%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E46 ∙ Easy Doesn't It[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%2816%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E47 ∙ Drop Me a Lion[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%2817%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E48 ∙ Map Sap[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%2818%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E49 ∙ Shark Shock[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%2819%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E50 ∙ No Spooking Allowed[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%2820%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E51 ∙ Me-My-Mine[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%2821%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S1.E52 ∙ Together Mess[/B]</title>
+<link>https://archive.org/download/lippy-hardy/Epis%C3%B3dio%20%2822%29.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+<item><title>[B](OFF)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -23,61 +151,7 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S1.E4 ∙ Gulp and Saucer[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E5 ∙ Map Happy[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E6 ∙ Smile the Wild[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E7 ∙ Charge of the Fright Brigade[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E8 ∙ Film Flam[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E9 ∙ Gun Fighter Lippy[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E10 ∙ Hick Hikers[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E11 ∙ A Thousand and One Frights[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]S1.E12 ∙ Double Trouble[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E13 ∙ Laugh a Loaf[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -102,12 +176,6 @@
 <info></info></item>
 
 <item><title>[B]S1.E17 ∙ Kidnap Trap[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E18 ∙ Witch Crafty[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -245,73 +313,7 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S1.E41 ∙ Flood for a Thought[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E42 ∙ Hocus Focus[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]S1.E43 ∙ Shamrocked[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E44 ∙ Ole Fuddy Duds[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E45 ∙ Chow You Feelings[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E46 ∙ Easy Doesn't It[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E47 ∙ Drop Me a Lion[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E48 ∙ Map Sap[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E49 ∙ Shark Shock[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E50 ∙ No Spooking Allowed[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E51 ∙ Me-My-Mine[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S1.E52 ∙ Together Mess[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
