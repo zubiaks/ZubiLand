@@ -1,45 +1,27 @@
 <channels>
 
 <channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/1M68fvs/Cardcaptor-Sakura-84b37452.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/06%20-%20Card%20Captor%20Sakura/Filmes/3.txt</externallink>
+<fanart>https://i.ibb.co/JF7k0PX/The-Sealed-Card.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Season One[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/ZSpT1w3/download.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/06%20-%20Card%20Captor%20Sakura/Season%20One/3.txt</externallink>
+<fanart>https://i.ibb.co/qRR6MPw/download-1.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Season Two[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/2kNqyYG/cardcaptor-sakura-clear-card-part2-boxart.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/06%20-%20Card%20Captor%20Sakura/Season%20Three/3.txt</externallink>
+<fanart>https://i.ibb.co/ypxmW5K/on-Yivyn-VAytnkmw-800x450-no-Pad.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Season Three[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/xLC0VVn/season-3.jpg</thumbnail>
+<externallink>>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/06%20-%20Card%20Captor%20Sakura/Season%20Two/3.txt</externallink>
+<fanart>https://i.ibb.co/r3hXrfm/Horrible-Subs-Cardcaptor-Sakura-Clear-Card-07-720p-mkv-snapshot-22-23.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
