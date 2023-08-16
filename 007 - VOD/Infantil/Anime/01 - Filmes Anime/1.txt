@@ -1,8 +1,8 @@
 <channels>
 
-<channel><name>[B][COLOR white]Ginga Tetsudou no Yoru[/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Varios[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/9vFxPcP/Bishounen-Oranges.jpg</thumbnail>
-<externallink>Giovanni é um garoto que vive nos arredores de uma pequena vila rústica. Sua mãe está acamada e seu pai não voltou para casa desde que saiu para trabalhar em um barco de pesca. Pária na escola, Giovanni só tem um amigo: Campanella, filho do prefeito. Durante o Festival das Estrelas da cidade, Giovanni começa a sonhar acordado no topo de uma colina e olha para cima para encontrar um trem com motor a vapor flutuando no ar. Ele embarca no trem apenas para encontrar seu amigo Campanella já lá. E assim, os dois começam sua jornada pelas estrelas, onde se deparam com pessoas incomuns e visitam muitos lugares bonitos e assombrosos.</externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/01%20-%20Filmes%20Anime/02%20-%20Varios/3.txt</externallink>
 <fanart>https://i.ibb.co/SwDxczp/Best-Ainme-Films-hp.webp</fanart>
 <info></info></channel>
 

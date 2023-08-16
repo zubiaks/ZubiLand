@@ -6,11 +6,11 @@
 <fanart>https://i.ibb.co/2Ky5Z0Q/maxresdefault.jpg</fanart>
 <info>Goober e os caçadores de fantasmas (Goober and the ghost chasers, no original (em inglês)) foi um desenho produzido pela Hanna-Barbera que foi ao ar pela primeira vez em 8 de setembro de 1973, nos EUA, na Rede ABC. Semelhante ao grande sucesso da Hanna-Barbera, Scooby-Doo, Goober também se trata de um grupo de jovens, resolvendo casos de mistérios assombrosos, acompanhados de um cachorro, Goober. A grande diferença é que muitos dos fantasmas são reais.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Lippy & Hardy[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/kSNhNdV/lippy-o-le-o-2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Cartoons%20Network/Hanna-Barbera/Series/Lippy%20%26%20Hardy/eps.txt</externallink>
+<fanart>https://i.ibb.co/Y7zhtY7/x1080.jpg</fanart>
+<info>Lippy the Lion & Hardy Har Har. Lippy era um leão, andando sempre na companhia de seu amigo Hardy, uma hiena pessimista. A série foi produzida em 1962 por Hanna-Barbera e era um dos segmentos do programa "The Hanna-Barbera New Cartoon Series". Os outros desenhos eram a série com o Crocodilo Wally e a Tartaruga Touché.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
