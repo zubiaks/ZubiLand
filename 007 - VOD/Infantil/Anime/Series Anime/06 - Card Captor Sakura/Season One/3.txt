@@ -59,158 +59,152 @@
 <fanart></fanart>
 <info>É o Dia do Esporte na escola de Sakura. A mãe de Tomoyo parece conhecer o pai de Sakura, mas seus brilhos dizem que não é um reencontro amigável.</info></item>
 
-<item><title>[B]S01E11 [/B]</title>
+<item><title>[B]S01E11 Sakura, Tomoyo e uma mansão[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2011%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/sJLGTRS/Episode-11.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Tomoyo pede ajuda a Sakura para abrir uma caixa especial cheia de lembranças. Kero sente a presença de um cartão Clow.</info></item>
 
-<item><title>[B]S01E12 [/B]</title>
+<item><title>[B]S01E12 O Dia Sem Fim de Sakura[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2012%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/YPxqWMW/Episode-12.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura se atrapalha durante seu teste musical; No dia seguinte, na escola, tudo se repete exatamente da mesma maneira. Syaoran e Sakura percebem que é um Clow Card</info></item>
 
-<item><title>[B]S01E13 [/B]</title>
+<item><title>[B]S01E13 Sakura e o Teste de Força do Elefante[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2013%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/YX7hv6F/Episode-13.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O pinguim desliza no parque uma manhã. Sakura então vai ao zoológico para uma viagem de campo e vê uma coisa estranha após a outra.</info></item>
 
-<item><title>[B]S01E14 [/B]</title>
+<item><title>[B]S01E14 Sakura, Touya e Cinderela[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2014%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/qkMZq2H/Episode-14.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura e Tomoyo visitam o campus de Touya e Yukito para seu festival do ensino médio. Um incidente ocorre durante a peça "Cinderela" em que os dois meninos estão.</info></item>
 
-<item><title>[B]S01E15 [/B]</title>
+<item><title>[B]S01E15 A grande luta de Sakura e Kero[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2015%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/HYRGWbm/Episode-15.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Kero se encontra em outra casa depois de ter uma grande briga com Sakura na noite anterior. Enquanto isso, Sakura espera ansiosamente que Kero retorne.</info></item>
 
-<item><title>[B]S01E16 [/B]</title>
+<item><title>[B]S01E16 Sakura e o Arco-Íris das Memórias[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2016%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Qk7KgX1/Episode-16.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura sai de férias com sua família e se torna rapidamente amiga de um velho na região, que lhe conta uma história sobre seu amado neto.</info></item>
 
-<item><title>[B]S01E17 [/B]</title>
+<item><title>[B]S01E17 O assustador teste de coragem de Sakura[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2017%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/qpFfY9g/Episode-17.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura se diverte participando de todas as atividades divertidas durante sua viagem de classe. Mas na segunda noite, seus amigos começam a desaparecer um a um.</info></item>
 
-<item><title>[B]S01E18 [/B]</title>
+<item><title>[B]S01E18 Sakura, Yukito e o Festival de Verão[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2018%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/VqvdwJJ/Episode-18.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura tem um sonho que consiste em muitos pontos flutuantes e brilhantes ao seu redor. Uma delas pousa na ponta do dedo e começa a brilhar intensamente, e ela acorda. Quando ela abre os olhos, ela é surpreendida por Kero e grita alto, levando Kero a comentar que ela "assustou a vida" dele e a repreende por dormir tantas vezes só porque são suas férias de verão.</info></item>
 
-<item><title>[B]S01E19 [/B]</title>
+<item><title>[B]S01E19 Sakura e a lição de casa das férias de verão[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2019%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/7XPmRCQ/Episode-19.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura vai à biblioteca para terminar seu relatório de livros no último dia de férias de verão, mas o livro que ela precisa continua escorregando por seus dedos!</info></item>
 
-<item><title>[B]S01E20 [/B]</title>
+<item><title>[B]S01E20 Transferência Estudante vs. Sakura[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2020%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Hhf9KmK/Episode-20.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Uma garota chamada Meiling se transfere para a classe de Sakura e afirma estar noiva de Syaoran. Naquela noite, Sakura a vê durante sua busca por um Clow Card.</info></item>
 
-<item><title>[B]S01E21 [/B]</title>
+<item><title>[B]S01E21 Corrida de Maratona Longa de Sakura[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2021%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/HTP12mZ/Episode-21.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Durante uma corrida escolar, Meiling está determinado a vencer com Syaoran, em seu habitual "One-Two Finish" que eles eram conhecidos em sua escola anterior. Durante a corrida, Syaoran e Sakura decolam em alta velocidade depois de ver que Yukito está assistindo. Enquanto eles correm, a carta Loop causa armadilhas Sakura e Syaoran, fazendo com que eles corram em círculos. Depois que eles percebem o que aconteceu, Sakura é capaz de usar a carta Espada para cortar o loop. Syaoran carrega Meiling, que machucou o tornozelo, o resto do caminho até a linha de chegada, acompanhada por Sakura.</info></item>
 
-<item><title>[B]S01E22 [/B]</title>
+<item><title>[B]S01E22 Sakura e seu Pai Bondoso[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2022%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/HBLZnRh/Episode-22.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O pai de Sakura, Fujitaka Kinomoto, tem uma apresentação importante para completar, então Sakura e seu irmão, Touya, decidem ajudar, assumindo todas as tarefas da casa.</info></item>
 
-<item><title>[B]S01E23 [/B]</title>
+<item><title>[B]S01E23 Sakura, Tomoyo, e uma canção maravilhosa[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2023%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/nwzgtmk/Episode-23.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Quando começa um boato de que uma voz é ouvida na sala de aula de música da escola primária, todos estão assumindo que é um fantasma cantando (para desespero de Sakura) e grita durante a aula de música seu professor de música a percebe preocupada e pergunta se há algo errado. Sakura responde com medo que a escola é assustadora à noite e pede desculpas por gritar. Naquela noite, Touya volta para casa com Yukito para dormir, do agrado de Sakura. Quando eles chegam em casa, Sakura pede chá a Yukito, e Touya também pede. Quando eles se sentam e falam sobre o fantasma, para desespero de Sakura mais uma vez, Touya começa sobre alguns dos alunos ouvindo a voz em algum momento às dez horas da noite. Sakura fica assustada, mas então Yukito acrescenta que ouviu que a voz era realmente maravilhosa, então Sakura decide que ela vai verificá-lo em caso de um Clow Card e gravá-lo. Quando eles chegam lá, Sakura está obviamente assustada e pergunta a Tomoyo se ela está com medo. Tomoyo não se assusta, mas fica preocupada em não filmar suas melhores cenas. Então ela recebe uma surpresa de Syaoran e Meiling que chegaram inesperadamente fazendo-a gritar de medo quando Syaoran toca seu ombro e assustá-los também antes de chorar. Durante a discussão, de repente, eles ouvem uma voz vinda da sala de música. Eles decidem conferir. Quando chegam à sala de música. Meiling de repente pula e abre a porta da sala fazendo o Clow Card desaparecer. Embora Sakura reconheça a canção e lembre-se que é a música que Tomoyo cantou para ela e estará fazendo a música para o refrão. Eles a ouvem mais uma vez e a seguem até as escadas. Durante a perseguição, Syaoran e Kero dizem ao resto que o Clow Card é o cartão Song.</info></item>
 
-<item><title>[B]S01E24 [/B]</title>
+<item><title>[B]S01E24 A Pequena Aventura de Sakura[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2024%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/GTShN4k/Episode-24.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Quando Tomoyo chega para medir Sakura para uma nova roupa, Sakura percebe a presença de um cartão Clow entrar na casa. Sakura sai da sala com a varinha de vedação deslacrada e apertada firmemente em suas mãos. Ela abre a porta do quarto vazio de seu pai e entra cautelosamente.</info></item>
 
-<item><title>[B]S01E25 [/B]</title>
+<item><title>[B]S01E25 Duas Sakuras[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2025%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/VMpv2y2/Episode-25.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Ultimamente as pessoas têm culpado Sakura por fazer coisas maldosas em toda a cidade, mas Sakura é inocente. Ela decide perguntar a Kero sobre isso, e ele a ensina a usar as Cartas Clow para adivinhação. É revelado que a outra Sakura sabe que ela é uma Cardcaptor e a outra Sakura está de alguma forma relacionada com as cartas Shadow, Watery e Illusion. O problema começa novamente quando a outra Sakura atrai Touya para a floresta e o coloca em grave perigo. Sakura vai atrás dele, mas se perde na floresta. Agora ela deve encontrar Touya antes que ele se envolva em problemas mais sérios. Sakura encontra a carta Espelho e a captura, mas Touya já está ferida.</info></item>
 
-<item><title>[B]S01E26 [/B]</title>
+<item><title>[B]S01E26 Sakura e a Professora Maravilhosa[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2026%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/vdfJrcn/Episode-26.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura está atrasada para o jantar e prometeu ao pai que estaria em casa até lá. No caminho para casa, Sakura esbarra em uma mulher na rua. Mais tarde naquela noite, Sakura conta a Kero sobre aquela mulher com quem esbarrou. Touya chega com uma sobremesa para ela. Kero acidentalmente diz "Tudo bem!" e Touya o encara.</info></item>
 
-<item><title>[B]S01E27 [/B]</title>
+<item><title>[B]S01E27 Sakura e o Santuário das Memórias[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2027%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/wCdnLfz/Episode-27.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Depois de acordar cedo, Sakura vai para um skate e se lembra do sonho que teve na noite anterior sobre uma figura misteriosa em pé na torre de Tóquio. Ela logo acaba no santuário onde o Maze Card foi capturado e conhece a Sra. Mizuki. Sakura e Yukito continuam a ajudar a Sra. Mizuki a limpar o santuário. Depois da escola, Sakura e seu pai estão juntos e é revelado que Touya conhecia a Sra. Mizuki como ela era uma professora assistente enquanto Touya estava no Ensino Médio. Kero logo é alertado para uma forte presença vinda do santuário. Enquanto no santuário, eles se encontram com Syaoran, que também está procurando o cartão. Kero logo sai para pegar bebidas e Syaoran e Sakura são deixados para conversar. Syaoran mais uma vez avisa Sakura sobre o quão perigosa a Sra. Mizuki pode ser e ambos admitem seu amor por Yukito. Syaoran fica tão envergonhado que foge angustiado e Sakura é engolida por uma sombra escura. Logo será revelado que é obra do Cartão de Retorno e que ela voltou no tempo. Enquanto no passado, Sakura vê uma série de cenas envolvendo seu irmão e a Sra. Mizuki e é revelado que ambos parecem se amar, mas a Sra. Mizuki diz a Touya para não se deter no passado e olhar para frente, já que ela tem que ir para a Inglaterra, mas, quando ela retornar, Touya terá um novo amor em sua vida e tanto ela quanto Touya serão melhores amigos. Sakura logo é devolvida ao presente com a ajuda de Syaoran e o cartão do tempo e Sakura captura o cartão e ele então vai para Syaoran.</info></item>
 
-<item><title>[B]S01E28 [/B]</title>
+<item><title>[B]S01E28 Sakura e as Cartas Encantadas[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2028%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/x1kSzM3/Episode-28.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A última mania na escola são cartões especiais que aparentemente fazem você se destacar no que quiser. Quando Sakura dá uma olhada em uma das cartas, ela percebe que elas se parecem com as Clow Cards. Sakura e Tomoyo param em Twin Bells, onde Sakura tenta comprar um cartão para cozinhar, mas eles não o terão até o dia seguinte. No dia seguinte, na loja, Sakura sente um Clow Card, mas a sensação desaparece de repente. Acontece que Meiling acabou de comprar o Shot Card, um verdadeiro Clow Card. Kero diz que o cartão é extremamente perigoso e ela deve lacrá-lo imediatamente. Sakura diz a Syaoran sobre o perigo e eles saem para encontrar Meiling. Enquanto isso, Meiling acidentalmente ativa o cartão, e Syaoran é ferido. Sakura cria um plano e captura com sucesso o Tiro.</info></item>
 
-<item><title>[B]S01E29 [/B]</title>
+<item><title>[B]S01E29 A Culinária Doce de Sakura[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2029%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/BBY8YC3/Episode-29.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura's e Syaoran's Home Ec.class vão fazer bolos. Sakura encontra Syaoran em uma loja de bolos e juntos eles se encontram com Yukito e conversam sobre fazer bolos, que Yukito adora. Na hora de fazer os bolos, de alguma forma todos nas aulas de culinária acabam fazendo os bolos muito doces. Por conta disso, todos devem refazer seus bolos na semana seguinte. Ao tentar fazer os bolos pela segunda vez, Sakura e Syaoran sentem um Clow Card e o Sweet Card se revela, que foi a causa dos bolos muito doces. Depois de selar a sala, os dois trabalham juntos para capturar o pequeno e rápido cartão antes que os bolos sejam feitos. Syaoran tenta capturá-lo, mas ele pega o saco de farinha fazendo com que a farinha dispare para o ar e se cubra de farinha. Sakura percebe que Sweet odeia coisas ácidas e começa a jogar sal nele, o que temporariamente o imobiliza, e leva a uma captura bem-sucedida. De volta às aulas, todos têm um gostinho de seus novos bolos, e os de todos (exceto o de Meiling por mexer demais na massa, o que decepciona o professor do Home Ec.) ficaram ótimos. Depois da escola, Sakura mostra seu bolo para Yukito, que lhe diz que é um excelente bolo.</info></item>
 
-<item><title>[B]S01E30 [/B]</title>
+<item><title>[B]S01E30 Sakura e o cartão de ferido[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2030%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/hDp5rNb/Episode-30.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Tudo começa com Sakura e Kero perseguindo a carta Dash ativa pela floresta, sem querer deixá-la escapar. Sakura consegue machucá-lo e, no entanto, o cartão de expediente lhes dá o deslize depois de ser confundido com um gato ferido por uma garota na escola de Sakura. Alguns dias se passam e nada de anormal acontece com o Clow Card, que foi muito bem cuidado. Depois de ouvir sobre o problema da garota com a pista, o cartão Dash retribui a gentileza da garota dando-lhe um pouco de seu poder sem que a garota saiba. No entanto, à medida que a garota fica mais rápida, Sakura e Kero ficam mais desconfiados. Na noite anterior ao dia em que a garota mais precisa de Dash, Syaoran descobre o Dash e Sakura é forçada a selá-lo. No entanto, no dia do encontro de pista real, a garota ainda faz a linha de chegada a tempo.</info></item>
 
-<item><title>[B]S01E31 [/B]</title>
+<item><title>[B]S01E31 Sakura e o Livro Sem Nome[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2031%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/F6RYQ8J/Episode-31.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura desce as escadas. Ela está de bom humor nesta manhã ensolarada da escola. Touya pega seu bom humor na mesa da cozinha e bebe seu chá.</info></item>
 
-<item><title>[B]S01E32 [/B]</title>
+<item><title>[B]S01E32 Sakura, Kero e Syaoran[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2032%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/xqcRy1t/Episode-32.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sakura consegue capturar um complicado Clow Card conhecido como Change Card. Antes de capturá-lo, ele troca Kero e Syaoran e os coloca no corpo um do outro. Como eles têm que esperar 24 horas antes de serem trocados de volta, Kero deve retornar à casa de Syaoran, enquanto Syaoran no corpo de Kero deve ficar na casa de Sakura. Os dois tentam manter um perfil discreto para que ninguém perceba, mas seus instintos naturais parecem estar levando a melhor. Para piorar a situação, Syaoran no corpo de Kero é levado na escola e acaba em uma máquina de jogo.</info></item>
 
-<item><title>[B]S01E33 [/B]</title>
+<item><title>[B]S01E33 A Patinação no Gelo Congelante de Sakura[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2033%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/RDtTCX5/Episode-33.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Com o inverno começando, Sakura está preocupada com sua viagem de campo de patinação no gelo, já que ela não pode patinar no gelo. Naquela noite, ela mais uma vez tem o sonho da Torre de Tóquio. No dia seguinte, na pista de patinação no gelo, Tomoyo vai bem na patinação no gelo, mas Sakura, Syaoran e Meiling não podem patinar. Mizuki ajuda Sakura a andar de skate e Syaoran tenta aprender, já que não confia em Mizuki. Depois do almoço, a temperatura cai misteriosamente e todos, exceto Sakura, Syaoran e Mizuki, são subitamente congelados. Acaba sendo obra do cartão Freeze. A carta está escondida sob o gelo, impedindo que eles a capturem. Em seguida, a carta atinge Sakura e faz com que ela desmaie. Syaoran se esquiva dos ataques da carta e tenta acordar Sakura para que ela possa selar a carta.</info></item>
 
-<item><title>[B]S01E34 [/B]</title>
+<item><title>[B]S01E34 Sakura, Yukito e a Lua do Meio-Dia[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2034%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/yXJ9sZ7/Episode-34.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Toda a cidade participa de um rali de quiz onde os competidores correm para vários locais e resolvem quebra-cabeças e enigmas. Sakura consegue fazer parceria com Yukito e eles se saem razoavelmente bem, até chegarem ao quebra-cabeça final e vagarem pela floresta. Meiling se junta a Syaoran e tenta responder à pergunta de Touya, mas ela responde errado. Ela leva o tempo todo e depois do comício tentando descobrir a questão. Ao chegarem à 10ª e última pergunta, Mizuki avisa sobre a lua cheia esta noite. Eles vão na floresta e, de repente, Sakura fica atordoada e começa a cair do penhasco. Yukito corre para Sakura e a cobre enquanto sua perna fica ferida.</info></item>
 
-<item><title>[B]S01E35 [/B]</title>
+<item><title>[B]S01E35 O Natal Maravilhoso de Sakura[/B]</title>
 <link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2035%20br.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/TqgjZx8/Episode-35.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E36 [/B]</title>
-<link>https://archive.org/download/scc-35-brcard-captor-sakura-pt-br-dublado/Card%20Captor%20Sakura%20%28PT-BR%29%20%28Dublado%29/SCC%2036%20br.mp4</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<info>Sakura tem um sonho sobre a Torre de Tóquio, onde uma mulher misteriosa estava olhando para ela. Sakura acorda daquele sonho se perguntando quem era aquela mulher e Mizuki perguntou o que havia de errado. Sakura grita de surpresa e pede desculpas por ter adormecido.</info></item>
