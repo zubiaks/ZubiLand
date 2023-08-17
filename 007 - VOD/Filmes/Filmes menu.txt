@@ -66,10 +66,10 @@
 <fanart>https://i.ibb.co/v3dHTQt/O-Regresso.png</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]filmes historicos[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0BWkFSt/mahabharat-t-None.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/filmes%20historicos/3.txt</externallink>
+<fanart>https://i.ibb.co/QmDcRFk/images-4.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
