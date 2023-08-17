@@ -5,6 +5,12 @@
 <fanart>https://i.ibb.co/PTTb2TP/download.jpg</fanart>
 <info>Três anos após o fechamento do Jurassic World, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar. Não há mais qualquer presença humana no local e os dinossauros vivem livremente. Claire e Owen decidem resgatar os animais e retornam à ilha para a missão. Lá, a dupla encontra novas e aterrorizantes raças de dinossauros gigantes ao descobrir uma conspiração que ameaça todo o planeta.</info></item>
 
+<item><title>[B]O ÚLTIMO GUERREIRO DAS ESTRELAS (1984)[/B]</title>
+<link>https://archive.org/download/o-u-ltimo-guerreiro-das-estrelas-1984-720p/O%20%C3%9ALTIMO%20GUERREIRO%20DAS%20ESTRELAS%20%28%201984%20%29%20720p.mp4</link>
+<thumbnail>https://i.ibb.co/B6tmWDm/rfp-UTj-CZf-OU6z-Od-Rrmjw-SDWan-Au.jpg</thumbnail>
+<fanart>https://i.ibb.co/svS7j9G/maxresdefault-2.jpg</fanart>
+<info>The Last Starfighter (Brasil: O Último Guerreiro das Estrelas /Portugal: O Último Guerreiro do Espaço) é um filme norte-americano, do gênero ficção científica de space opera, dirigido por Nick Castle e produzido pela Universal Studios. O filme conta a história de Alex Rogan (Lance Guest), um adolescente médio recrutado por uma força de defesa alienígena para lutar em uma guerra interestelar. Ele também contou com Robert Preston, Dan O'Herlihy, Catherine Mary Stewart, Norman Neve e Kay E. Kuter.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
