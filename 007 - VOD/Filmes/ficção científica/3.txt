@@ -1,4 +1,10 @@
 
+<item><title>[B]Jurassic World Reino Ameaçado (2018)[/B]</title>
+<link>https://archive.org/download/JurassicWorldGIOVANNI/Jurassic.World.Reino.Amea%C3%A7ado.2018.720p.BluRay.x264.DUBLADO-WWW.BLUDV.TV.mp4</link>
+<thumbnail>https://i.ibb.co/ssJGDGt/unnamed.jpg</thumbnail>
+<fanart>https://i.ibb.co/PTTb2TP/download.jpg</fanart>
+<info>Três anos após o fechamento do Jurassic World, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar. Não há mais qualquer presença humana no local e os dinossauros vivem livremente. Claire e Owen decidem resgatar os animais e retornam à ilha para a missão. Lá, a dupla encontra novas e aterrorizantes raças de dinossauros gigantes ao descobrir uma conspiração que ameaça todo o planeta.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
