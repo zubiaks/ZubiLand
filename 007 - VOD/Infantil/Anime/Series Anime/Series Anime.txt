@@ -78,10 +78,10 @@
 <fanart>https://i.ibb.co/NtxsnFd/download.jpg</fanart>
 <info>Tenchi Muyo! é uma série de anime e mangá sobre um jovem chamado Tenchi Masaki. A história de Tenchi Muyo começa nos bastidores de outro anime, chamado Gall Force, aonde tinhamos um grupo de garotas</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Death Note[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/tmJ49bf/0M6FwNR.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/08%20-%20Death%20Note/1.txt</externallink>
+<fanart>https://i.ibb.co/8dVnqxL/images.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
