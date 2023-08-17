@@ -36,10 +36,10 @@
 <fanart>https://i.ibb.co/GCsNb2Q/2054587898-livros-de-fantasia.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Filme policial[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/D7GwxtB/375462.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/Filme%20policial/3.txt</externallink>
+<fanart>https://i.ibb.co/v4PHXmR/download.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>

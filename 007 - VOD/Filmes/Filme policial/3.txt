@@ -1,4 +1,10 @@
 
+<item><title>[B]Nove Rainhas (2000)[/B]</title>
+<link>https://archive.org/download/2000NoveRainhasDub480pInternetArchive/%282000%29%20Nove%20Rainhas%20%5BDub%5D%20%5B480p%5D_InternetArchive.mp4</link>
+<thumbnail>https://i.ibb.co/z6k0Zz2/nove-rainhas.jpg</thumbnail>
+<fanart>https://i.ibb.co/MCLLdWJ/maxresdefault-1.jpg</fanart>
+<info>Nove Rainhas é a história de Juan e Marcos, dois pequenos vigaristas que formam um time após se encontrarem em uma loja e se envolvem em um negócio de meio milhão de dólares. Quanto mais a fraude e a falsificação aumentam, mais difícil fica de descobrir quem está enganando quem ou quem não é um ladrão.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
