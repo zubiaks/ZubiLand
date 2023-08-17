@@ -60,10 +60,10 @@
 <fanart>https://i.ibb.co/cJdtWY0/top-gun-maverick-0.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Filme de sobrevivência[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/VqPGK0h/images-3.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/Filme%20de%20sobreviv%C3%AAncia/3.txt</externallink>
+<fanart>https://i.ibb.co/v3dHTQt/O-Regresso.png</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>

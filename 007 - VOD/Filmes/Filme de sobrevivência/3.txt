@@ -1,4 +1,10 @@
 
+<item><title>[B]Depois Daquela Montanha (2018)[/B]</title>
+<link>https://archive.org/download/depois-daquela-montanha-2018-720p-dub/Depois%20Daquela%20Montanha%202018%20720p%20DUB.ia.mp4</link>
+<thumbnail>https://i.ibb.co/3M3BFW6/5860902.webp</thumbnail>
+<fanart>https://i.ibb.co/xDcBTy7/Depois-Daquela-Montanha-06.jpg</fanart>
+<info>Em Depois Daquela Montanha, Alex (Kate Winslet) é uma jornalista que está indo para seu próprio casamento, porém ainda nutre muitos receios acerca dessa decisão. Ben (Idris Elba) é um médico neurocirurgião, voltando de um congresso de medicina. Os dois estranhos iriam pegar o mesmo avião, mas quando voo é cancelado, os dois decidem fretar um jatinho, para chegar mais cedo aos seus destinos. Todavia, durante a viagem o piloto sofre um ataque cardíaco e o avião cai em uma região montanhosa coberta por neve. Quase sem esperanças de serem encontrados, por não terem avisado a ninguém de que iriam fretar o jatinho, os dois precisam ganhar forças para tentar sobreviver, mesmo que feridos e perdidos. Paralelo a esta situação desesperadora, um romance começa a surgir entre a jornalista e o médico, além de uma relação de cumplicidade e companheirismo, e nada mais será como antes, diante desta experiência transformadora e extrema.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
