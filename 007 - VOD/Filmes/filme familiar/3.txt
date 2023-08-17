@@ -1,4 +1,10 @@
 
+<item><title>[B]Desafio De Lassie (1949)[/B]</title>
+<link>https://archive.org/download/desafio-de-lassie-1949-dublagem-classica-herbert-richers/Desafio%20de%20Lassie%20%281949%29%20Dublagem%20Cl%C3%A1ssica%20Herbert%20Richers.mp4</link>
+<thumbnail>https://i.ibb.co/mNWrfSp/1-aaa-MV5-BMj-Ew-ODQ2-NDQ0-NF5-BMl5-Ban-Bn-Xk-Ft-ZTYw-NDY5-NTQ5-V1.webp</thumbnail>
+<fanart>https://i.ibb.co/NVsRRSR/c7b727533087b20abfda179385570891.jpg</fanart>
+<info>Challenge to Lassie é um filme de comédia dramática estadunidense dirigido por Richard Thorpe e lançado em 31 de outubro de 1949, pela MGM Studios. Foi o quinto longa-metragem estrelado pela cadela Lassie, personagem fictício criado pelo autor britânico Eric Knight.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>

@@ -11,6 +11,12 @@
 <fanart>https://i.ibb.co/svS7j9G/maxresdefault-2.jpg</fanart>
 <info>The Last Starfighter (Brasil: O Último Guerreiro das Estrelas /Portugal: O Último Guerreiro do Espaço) é um filme norte-americano, do gênero ficção científica de space opera, dirigido por Nick Castle e produzido pela Universal Studios. O filme conta a história de Alex Rogan (Lance Guest), um adolescente médio recrutado por uma força de defesa alienígena para lutar em uma guerra interestelar. Ele também contou com Robert Preston, Dan O'Herlihy, Catherine Mary Stewart, Norman Neve e Kay E. Kuter.</info></item>
 
+<item><title>[B]A Ilha (2005)[/B]</title>
+<link>https://archive.org/download/a-ilha-2005-720p-dublado/A%20Ilha%202005%20720p%20DUBLADO.mp4</link>
+<thumbnail>https://i.ibb.co/RTbGWCN/The-Island.jpg</thumbnail>
+<fanart>https://i.ibb.co/kS3hQW9/7382727ada9778947683f99eb24d4542ce27a544180ad7e626b1345f62dc9034-UY500-UX667-RI-TTW.jpg</fanart>
+<info>No ano de 2019, um mercenário persegue dois clones que fogem de um centro de pesquisa depois de descobrirem qual é o seu verdadeiro destino.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
