@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Primeira Série - Tenchi! Universe[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/DRXCpLX/Universe-Cover.webp</thumbnail>
+<externallinkhttps://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/07%20-%20Tenchi%20Muyo!/Primeira%20S%C3%A9rie%20-%20Tenchi!%20Universe/eps.txt></externallink>
+<fanart>https://i.ibb.co/R3BxKks/download-1.jpg</fanart>
+<info>Tenchi! Universe adapta o arco da primeiras temporada dos OVAs, retirando tudo aquilo que restringia a limitação de indicação da faixa etária da série, como nudez explicita e violência gráfica intensa, prolongando e simplificando a obra, mudando diversas coisas da mitologia e da origem das personagens</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
