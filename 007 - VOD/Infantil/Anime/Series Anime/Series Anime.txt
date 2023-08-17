@@ -72,6 +72,66 @@
 <fanart>https://i.ibb.co/9VMbxQ9/cardcaptor-sakura-destaque.jpg</fanart>
 <info>Cardcaptor Sakura, abreviado como CCS, conhecido no Brasil como Sakura Card Captors, e em Portugal como Sakura, a Caçadora de Cartas ou apenas Sakura, é uma série de mangá do gênero mahō shōjo criada pelo grupo CLAMP e publicada na revista Nakayoshi, com 12 volumes, de 1996 a 2000.</info></channel>
 
+<channel><name>[B][COLOR white]Tenchi Muyo![/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/kmmLsQt/MV5-BYWE0-N2-E5-Zj-Qt-ZDQ1-My00-YTRh-LWFk-Zm-It-Nm-Nm-Yjc3-NDNi-Mj-U4-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjc4-OTQ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/07%20-%20Tenchi%20Muyo!/1.txt</externallink>
+<fanart>https://i.ibb.co/NtxsnFd/download.jpg</fanart>
+<info>Tenchi Muyo! é uma série de anime e mangá sobre um jovem chamado Tenchi Masaki. A história de Tenchi Muyo começa nos bastidores de outro anime, chamado Gall Force, aonde tinhamos um grupo de garotas</info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
