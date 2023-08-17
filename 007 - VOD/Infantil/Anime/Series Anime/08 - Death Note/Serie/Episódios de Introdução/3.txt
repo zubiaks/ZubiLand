@@ -1,60 +1,60 @@
 
 <item><title>[B]01 Renascimento[/B]</title>
-<link></link>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E01%20-%20Rebirth.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]02 Batalha[/B]</title>
-<link></link>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E02%20-%20Confrontation.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]03 Relações[/B]</title>
-<link></link>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E03%20-%20Dealings.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]04 Perseguição[/B]</title>
-<link></link>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E04%20-%20Pursuit.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]05 Diplomacia[/B]</title>
-<link></link>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E05%20-%20Tactics.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]06 Desligamento[/B]</title>
-<link></link>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E06%20-%20Unraveling.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]07 Tentação[/B]</title>
-<link></link>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E07%20-%20Overcast.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]08 Linha de Vista[/B]</title>
-<link></link>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E08%20-%20Glare.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]09 Contato[/B]</title>
-<link></link>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E09%20-%20Encounter.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]10 Dúvida[/B]</title>
-<link></link>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E10%20-%20Doubt.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
