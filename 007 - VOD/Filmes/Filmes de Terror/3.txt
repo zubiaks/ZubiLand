@@ -1,4 +1,10 @@
 
+<item><title>[B]Bethany (2019)[/B]</title>
+<link>https://archive.org/download/bethany-2019-720p-dublado/Bethany%202019%20720p%20DUBLADO.mp4</link>
+<thumbnail>https://i.ibb.co/9YS3h60/bethany-2017-horror-movie-poster.webp</thumbnail>
+<fanart>https://i.ibb.co/wsmtbCb/maxresdefault.jpg</fanart>
+<info>Uma jovem é assombrada por seu amigo imaginário de infância ao voltar para casa.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
