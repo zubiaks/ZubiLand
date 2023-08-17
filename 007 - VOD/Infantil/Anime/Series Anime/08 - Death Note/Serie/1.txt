@@ -1,58 +1,41 @@
 <channels>
 
 <channel><name>[B][COLOR white]Episódios de Introdução[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/7S871BX/death-note-anime-caderno-cke.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/08%20-%20Death%20Note/Serie/Epis%C3%B3dios%20de%20Introdu%C3%A7%C3%A3o/3.txt</externallink>
+<fanart>https://i.ibb.co/TkbXtKS/Death-Note-vol-01.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Saga do Segundo Kira[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/JRt0ZVd/MV5-BNj-Ri-Nm-Nj-Mm-Mt-N2-U2-Yi00-ODgx-LTk3-OTMt-Mm-I1-MTI1-Nj-Yy-ZTEz-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Aw-N.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/08%20-%20Death%20Note/Serie/Saga%20do%20Segundo%20Kira/3.txt</externallink>
+<fanart>https://i.ibb.co/nw4wdmW/97129a46f2418ffe5a67ec64f49a3038.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Saga da Yotsuba (Primeira Parte)[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/3fPqRhq/Death-Note-Characters.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/08%20-%20Death%20Note/Serie/Saga%20da%20Yotsuba%20(Primeira%20Parte)/3.txt</externallink>
+<fanart>https://i.ibb.co/0t4BrwH/AAAABWro-W6c-l-Jw-Q0ke2c-Fu-mg-NM-01v-UETq-At1cne4sjap77-CYXv-ZMPTW2r-P9-La6y-Ez-5bz-Hu-n-Sm-4-X2-Ba.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Saga da Yotsuba (Segunda Parte)[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/4tgsXty/https-pictures-betaseries-com-fonds-poster-1a66b0e43dede0ddec971866ed14b808.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/08%20-%20Death%20Note/Serie/Saga%20da%20Yotsuba%20(Segunda%20Parte)/3.txt</externallink>
+<fanart>https://i.ibb.co/hBqfqQm/1-Orf1j-MK1jf-Z2i-N9-St1-UWuw.png</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Saga de Mello[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/T2M5mdv/81-O44-ST617-S-AC-UF1000-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/08%20-%20Death%20Note/Serie/Saga%20de%20Mello/3.txt</externallink>
+<fanart>https://i.ibb.co/Jzr2JHg/Death-Note-2.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Saga de Near[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/xgpT2ZK/images.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/08%20-%20Death%20Note/Serie/Saga%20de%20Near/3.txt</externallink>
+<fanart>https://i.ibb.co/QFKzqkN/images-1.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
 
 
 </channels>

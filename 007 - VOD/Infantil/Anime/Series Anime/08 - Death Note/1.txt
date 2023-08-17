@@ -1,9 +1,9 @@
 <channels>
 
 <channel><name>[B][COLOR white]Serie[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/pQDPwZ9/033239.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/08%20-%20Death%20Note/Serie/1.txt</externallink>
+<fanart>https://i.ibb.co/cF3XzB1/deathnote-stranger-things.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
