@@ -1,4 +1,10 @@
 
+<item><title>[B]Matador De Aluguel (1989)[/B]</title>
+<link>https://archive.org/download/matador-de-aluguel-1989-720p-dublado/Matador%20de%20Aluguel%20%281989%29/Matador%20de%20Aluguel%20%281989%29%20%20720p%20Dublado.ia.mp4</link>
+<thumbnail>https://i.ibb.co/BKB7phw/362665.webp</thumbnail>
+<fanart>https://i.ibb.co/ZzdqZXn/matador-de-aluguel-t659.jpg</fanart>
+<info>Dalton é contratado para ser segurança em um bar noturno, porém acaba despertando a ira do chefe do crime local.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>

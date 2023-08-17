@@ -54,10 +54,10 @@
 <fanart>https://i.ibb.co/Mpsb1QN/os-15-melhores-filmes-de-suspense-para-ver-na-hbo-max-f.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Filme Ação[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/481VGQG/images-2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/Filme%20A%C3%A7%C3%A3o/3.txt</externallink>
+<fanart>https://i.ibb.co/cJdtWY0/top-gun-maverick-0.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
