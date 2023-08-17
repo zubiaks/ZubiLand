@@ -1,4 +1,10 @@
 
+<item><title>[B]A Lenda Do Tesouro Perdido (2004)[/B]</title>
+<link>https://archive.org/download/a-lenda-do-tesouro-perdido-2004-1080p-dublado/A%20Lenda%20do%20Tesouro%20Perdido%20%282004%29%201080p%20Dublado.mp4</link>
+<thumbnail>https://i.ibb.co/C1PvqQY/20162465.webp</thumbnail>
+<fanart>https://i.ibb.co/s1xc5QX/25125146970175.webp</fanart>
+<info>O historiador e decodificador Ben Gates tem procurado, durante toda a sua vida, um conhecido tesouro que existe desde a criação dos Estados Unidos. Ao participar de uma expedição liderada pelo caçador de tesouros Ian Howe, Gates encontra um navio colonial preso no gelo do Círculo Ártico que tem uma pista ligando o tesouro com a Declaração da Independência. Mas quando Howe o trai, Gates tem que correr para conseguir o documento antes do seu falso colega.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
