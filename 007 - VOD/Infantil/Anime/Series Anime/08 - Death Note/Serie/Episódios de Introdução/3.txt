@@ -1,48 +1,105 @@
 
-<item><title>[B][/B]</title>
+<item><title>[B]01 Renascimento[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]02 Batalha[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]03 Relações[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]04 Perseguição[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]05 Diplomacia[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]06 Desligamento[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]07 Tentação[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]08 Linha de Vista[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
+
+<item><title>[B]09 Contato[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]10 Dúvida[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
