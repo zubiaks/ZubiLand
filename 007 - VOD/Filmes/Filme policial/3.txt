@@ -1,4 +1,10 @@
 
+<item><title>[B]O Homem Da Máfia (2012)[/B]</title>
+<link>https://archive.org/download/o-homem-da-mafia-2012/O%20Homem%20da%20M%C3%A1fia%20%282012%29.ia.mp4</link>
+<thumbnail>https://i.ibb.co/9GDV50J/20301380.jpg</thumbnail>
+<fanart>https://i.ibb.co/37cRn7w/download-2.jpg</fanart>
+<info>Uma gangue decide roubar um jogo de pôquer clandestino da máfia. O assalto causa muitos problemas para os mafiosos, que decidem chamar o eficiente assassino de aluguel Jackie Cogan para descobrir o paradeiro dos assaltantes.</info></item>
+
 <item><title>[B]Nove Rainhas (2000)[/B]</title>
 <link>https://archive.org/download/2000NoveRainhasDub480pInternetArchive/%282000%29%20Nove%20Rainhas%20%5BDub%5D%20%5B480p%5D_InternetArchive.mp4</link>
 <thumbnail>https://i.ibb.co/z6k0Zz2/nove-rainhas.jpg</thumbnail>

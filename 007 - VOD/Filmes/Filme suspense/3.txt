@@ -1,4 +1,16 @@
 
+<item><title>[B]Instinto Selvagem 2 (2006)[/B]</title>
+<link>https://archive.org/download/instinto-selvagem-2-2006-1080-p-dub/Instinto%20Selvagem%202%20%282006%29%201080P%20DUB.mp4</link>
+<thumbnail>https://i.ibb.co/7WkSfhS/21050951-20131018203037217.webp</thumbnail>
+<fanart>https://i.ibb.co/HdRpCJJ/download-3.jpg</fanart>
+<info>Após a misteriosa morte de seu namorado em um acidente de carro, a escritora de suspenses Catherine Tramell, que sobreviveu ao acidente, é encaminhada para ser avaliada pelo conceituado psicólogo criminalista Michael Glass. O psicólogo conclui que Catherine é uma mulher sedutora e perigosa. Apesar disso, ele não resiste aos encantos dela e eles acabam se envolvendo em um intenso jogo de mentiras e sedução.</info></item>
+
+<item><title>[B]A Inquilina (2011)[/B]</title>
+<link>https://archive.org/download/a-inquilina-2011-720p-dublado/A%20Inquilina%20%282011%29%20%20720p%20Dublado.mp4</link>
+<thumbnail>https://i.ibb.co/vhpQTZR/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/r635bCG/6op-P1-Chcx-CXb9-FS7y-En1xyx-IIJC.jpg</fanart>
+<info>A recém-separada Dra. Juliet se muda para um novo apartamento a fim de recomeçar sua vida. Porém, ela começa a perceber estranhas movimentações em sua nova casa e se vê cercada por uma invisível força do mal. Agora Juliet terá que descobrir a origem dessa força se quiser ter sua paz de volta.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
