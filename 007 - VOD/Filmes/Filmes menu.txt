@@ -42,10 +42,10 @@
 <fanart>https://i.ibb.co/v4PHXmR/download.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]filme familiar[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/M7qkJbj/um-poster-de-um-filme-chamado-ralph-quebra-a-internet-900101-22821.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/filme%20familiar/3.txt</externallink>
+<fanart>https://i.ibb.co/C67pt4v/download-1.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
