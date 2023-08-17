@@ -1,4 +1,10 @@
 
+<item><title>[B]Along with the Gods: The Two Worlds (2017)[/B]</title>
+<link>https://archive.org/download/AWTG2PTBRKyungsooBR/AWTG2_PTBR_KyungsooBR.mp4</link>
+<thumbnail>https://i.ibb.co/mtXptsM/Along-With-the-Gods-The-Two-Worlds.jpg</thumbnail>
+<fanart>https://i.ibb.co/yVzGQNt/maxresdefault.jpg</fanart>
+<info>Depois de morrer heroicamente e de forma inesperada, o bombeiro Su-hong é levado para o além por três guardiões. Somente se passar por uma série de provações e provar que era inocente em sua vida, poderá reencarnar.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>

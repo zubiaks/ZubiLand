@@ -24,16 +24,16 @@
 <fanart>https://i.ibb.co/qkVcmT7/melhoresfilmesdeterror2022-1.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]ficção científica[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/WgH8sgw/um-cartaz-de-um-filme-de-ficcao-cientifica-chamado-futuro-928869-938.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/fic%C3%A7%C3%A3o%20cient%C3%ADfica/3.txt</externallink>
+<fanart>https://i.ibb.co/CQQvzCZ/destaque-livros-ficcao-cientifica.jpg</fanart>
+<info>Ficção científica é um gênero da ficção especulativa, que normalmente lida com conceitos ficcionais e imaginativos, relacionados ao futuro, ciência e tecnologia, e seus impactos e/ou consequências em uma determinada sociedade ou em seus indivíduos, desenvolvido no século XIX.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]fantasia[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/YcySQvW/d02e3895697f8d6645fe50632bb51996.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/fantasia/3.txt</externallink>
+<fanart>https://i.ibb.co/GCsNb2Q/2054587898-livros-de-fantasia.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
