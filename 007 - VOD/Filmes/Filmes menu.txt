@@ -72,10 +72,10 @@
 <fanart>https://i.ibb.co/QmDcRFk/images-4.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Filme Aventura[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/nLJBrgQ/ilustracao-para-livro-infantil-capa-para-uma-historia-de-aventura-entre-varias-criancas-917315-1017.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/Filme%20Aventura/3.txt</externallink>
+<fanart>https://i.ibb.co/SdYrmPC/3134ed00da.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
