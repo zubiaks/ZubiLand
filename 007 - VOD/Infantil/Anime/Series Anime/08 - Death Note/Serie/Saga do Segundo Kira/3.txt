@@ -1,48 +1,36 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]11 Colisão[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E11%20-%20Assault.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]12 Amor[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E12%20-%20Love.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]13 Confissão[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E13%20-%20Confession.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]14 Amigos[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E14%20-%20Friend.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]15 Aposta[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E15%20-%20Wager.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]16 Decisão[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E16%20-%20Decision.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

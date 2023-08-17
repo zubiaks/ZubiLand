@@ -1,48 +1,30 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]26 Renovação[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E26%20-%20Renewal.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]27 Abdução[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E27%20-%20Abduction.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]28 Impaciência[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E28%20-%20Impatience.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]29 Pai[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E29%20-%20Father.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]30 Justiça[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E30%20-%20Justice.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

@@ -1,48 +1,36 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]20 Sucessor[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E20%20-%20Makeshift.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]21 Atividade[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E21%20-%20Performance.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]22 Direção[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E22%20-%20Guidance.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]23 Loucura[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E23%20-%20Frenzy.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]24 Ressurreição[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E24%20-%20Revival.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]25 Silêncio[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E25%20-%20Silence.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

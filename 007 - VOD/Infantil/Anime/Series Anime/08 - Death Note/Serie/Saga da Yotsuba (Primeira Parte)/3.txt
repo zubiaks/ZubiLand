@@ -1,48 +1,18 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]17 Execução[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E17%20-%20Execution.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]18 Companheiro[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E18%20-%20Ally.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]19 Matsuda[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E19%20-%20Matsuda.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

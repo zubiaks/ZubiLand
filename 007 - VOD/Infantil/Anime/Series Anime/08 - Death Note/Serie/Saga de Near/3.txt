@@ -1,48 +1,42 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]31 Transferência[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E31%20-%20Transfer.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]32 Seleção[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E32%20-%20Selection.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]33 Desdém[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E33%20-%20Scorn.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]34 Espreita[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E34%20-%20Vigilance.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]35 Sanguinolência[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E35%20-%20Malice.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]36 28/01[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E36%20-%201.28.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]37 Novo Mundo[/B]</title>
+<link>https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E37%20-%20New%20World.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
