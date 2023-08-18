@@ -5,6 +5,36 @@
 <fanart>https://i.ibb.co/LhQnpb8/ab4ae65b85ecd14f6e8866f817f5c9e5353bc9ef480e41a443d6a462a1e2677c-RI-TTW.jpg</fanart>
 <info>Dois policias rivais de Los Angeles são obrigados a se unir quando um chefão das drogas os envolve num crime que não cometeram. Eles acabam presos e a única opção é escapar para trazer o verdadeiro culpado à justiça.</info></item>
 
+<item><title>[B]amizade de ferias[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/02%20-%20Amizade%20De%20F%C3%A9rias%202021.mp4</link>
+<thumbnail>https://i.ibb.co/Mkv3Y39/4132685.jpg</thumbnail>
+<fanart>https://i.ibb.co/JsG7SY9/amizade-de-fe-rias-cri-tica-vacation-friends.webp</fanart>
+<info>Marcus e Emily desfrutam de uma semana incomum sem inibições quando fazem novos amigos durante férias no México. Porém, o casal fica horrorizado quando os novos colegas Ron e Kyla aparecem sem serem convidados para seu casamento.</info></item>
+
+<item><title>[B]The Secret Diary of an Exchange Student (2021)[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Thesecretdiaryofanexchangestudent2021.mp4</link>
+<thumbnail>https://i.ibb.co/X4Yp8Yt/The-Secret-Diary-of-an-Exchange-Student.webp</thumbnail>
+<fanart>https://i.ibb.co/xhLf5Hq/AAAABe8crl-NCv6-Lq-Yc18-Jif-QFv-Pu-6-TAL02-M3q-ALop1-5-E4w-Wcl-Qz-ZH91-T4sn-WOL1-Ypma-Rx2e4sg-AI1y-V.jpg</fanart>
+<info>Duas amigas decidem fazer intercâmbio, mas precisam tentar não se meter em encrencas.</info></item>
+
+<item><title>[B]O Professor Chanfrado (1996)[/B]</title>
+<link>https://archive.org/download/copia-de-paloprado.-96.-trial-bd-1080p.-memoriada-tv.-mini/C%C3%B3pia%20de%20PAloprado.96.TrialBD1080p.MemoriadaTV.Mini.mp4</link>
+<thumbnail>https://i.ibb.co/QP0Ct7R/The-Nutty-Professor.jpg</thumbnail>
+<fanart>https://i.ibb.co/fqQCcnJ/b9f4666de35e39f5bd9c14bcc11d6c405838b61fa72de3d3f66b680081cdcc55-UY500-UX667-RI-TTW.jpg</fanart>
+<info>Sherman Klump é um professor universitário com grandes conhecimentos de genética, mas que sempre foi ridicularizado por ser extremamente gordo. Porém, quando recebe uma atenção especial de uma bela e jovem professora de matemática, ele decide ingerir uma poção ainda em fase de testes, que altera a cadeia de DNA e faz com que se transforme em um bonitão esbelto, Buddy Love. A partir de então, Sherman passa a levar uma vida dupla, pois o experimento tem um efeito que dura pouco tempo.</info></item>
+
+<item><title>[B]Mainstream (2020)[/B]</title>
+<link>https://archive.org/download/mainstream-2021-bluray-720p/Mainstream%202021%20Bluray%20720p.mp4</link>
+<thumbnail>https://i.ibb.co/gJwQjXQ/ems.jpg</thumbnail>
+<fanart>https://i.ibb.co/kKKnMbs/mainstream-1.webp</fanart>
+<info>Uma jovem acha que encontrou seu caminho para a fama na internet quando começa a fazer vídeos no Youtube com um estranho carismático, até que o lado sombrio da celebridade viral ameaça arruiná-los.</info></item>
+
+<item><title>[B]Overboard (1987)[/B]</title>
+<link>https://archive.org/download/1987-um-salto-para-a-felicidade-dub/%5B1987%5D%20Um%20Salto%20Para%20a%20Felicidade%20%5BDUB%5D%20.ia.mp4</link>
+<thumbnail>https://i.ibb.co/hs26Ypb/MV5-BMTQ2-ODA1-MTMx-Ml5-BMl5-Ban-Bn-Xk-Ft-ZTYw-OTgw-Nj-I5-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/2jFYsJ7/p10535-v-h10-aa.jpg</fanart>
+<info>Após maltratar um rude marceneiro, uma milionária esnobe cai de seu iate e acaba perdendo a memória. O sujeito, ao perceber a amnésia da patroa, busca se vingar tentando convencê-la de que é seu marido. Agora, ela viverá uma vida simples e sem luxo.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
