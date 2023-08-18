@@ -108,10 +108,10 @@
 <fanart>https://i.ibb.co/f4wcpW4/image.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Filme Romance[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/j3x28wq/0de172e8922ecb25dfb6af9b293a1659.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/Filme%20Romance/3.txt</externallink>
+<fanart>https://i.ibb.co/ZWrS3Ch/2912051-jpg-r-1280-720-f-jpg-q-x-xxyxx.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>

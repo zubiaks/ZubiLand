@@ -1,4 +1,16 @@
 
+<item><title>[B]Anna Karenina (1935)[/B]</title>
+<link>https://archive.org/download/1935-anna-karenina-dub/%5B1935%5D%20Anna%20Karenina%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/pw1RKmF/MV5-BZDBh-N2-E1-MDIt-ZDUw-Zi00-Zm-Vk-LThm-Mjct-Y2-Jl-Yz-Zk-Zm-E5-MDkw-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Uw-Mz.jpg</thumbnail>
+<fanart>https://i.ibb.co/8P1zrFW/download.jpg</fanart>
+<info>Dama da Corte Imperial russa abandona o gélido marido para viver uma verdadeira paixão com um oficial do exército, no século 19.</info></item>
+
+<item><title>[B]10 Things I Hate About You (1999)[/B]</title>
+<link>https://archive.org/download/1999-10-coisas-que-eu-odeio-em-voce-dub/%5B1999%5D%2010%20Coisas%20que%20Eu%20Odeio%20em%20Voc%C3%AA%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/ftBrq8Q/10-Things-I-Hate-About-You-film.jpg</thumbnail>
+<fanart>https://i.ibb.co/KDFRkZG/scale.jpg</fanart>
+<info>A situação está tensa na casa dos Stratford. Bianca (Larisa Oleynik) não vê a hora de arranjar um namorado, mas seu pai (Larry Miller) não permite que ela saia com garotos. Após muita insistência, o pai toma uma resolução: Bianca pode namorar, desde que sua irmã, Katharina (Julia Stiles), namore também. Só que Katharina é uma verdadeira megera, que não tem amigos na escola nem em lugar algum. Para resolver a questão, Cameron (Joseph Gordon-Levitt), apaixonado por Bianca, resolve contratar o misterioso Patrick Verona (Heath Ledger) para seduzir a futura cunhada.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
