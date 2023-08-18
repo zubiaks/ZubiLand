@@ -1,27 +1,27 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Saga do Detetive Espiritual[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/HTB7fkt/Yu-Yu-Hakusho-Season-One-P.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/09%20-%20Yuyu%20Hakusho/Serie/01%20Saga%20do%20Detetive%20Espiritual/S01.txt</externallink>
+<fanart>https://i.ibb.co/yq5yrwg/yu-yu-hakusho.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Saga do Torneio das Trevas[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/VxqcW7G/8953554-so.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/09%20-%20Yuyu%20Hakusho/Serie/02%20Saga%20do%20Torneio%20das%20Trevas/S02.txt</externallink>
+<fanart>https://i.ibb.co/VHBRNty/download.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Saga do Capítulo Negro[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/hHH0ncV/51jt-Wc-Iv-ML-AC-UF894-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/09%20-%20Yuyu%20Hakusho/Serie/03%20Saga%20do%20Cap%C3%ADtulo%20Negro/S03.txt</externallink>
+<fanart>https://i.ibb.co/BNcV6cM/download-1.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Saga dos Três Reis[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/NSKvnBH/51-Wg1g-K0o-L-AC-UF894-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/09%20-%20Yuyu%20Hakusho/Serie/04%20Saga%20dos%20Tr%C3%AAs%20Reis/S04.txt</externallink>
+<fanart>https://i.ibb.co/mGrDHNw/yyh-01.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
