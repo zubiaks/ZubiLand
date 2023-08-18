@@ -1,9 +1,9 @@
 <channels>
 
 <channel><name>[B][COLOR white]Episódios de Introdução[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/7S871BX/death-note-anime-caderno-cke.webp</thumbnail>
+<thumbnail>https://i.ibb.co/TkbXtKS/Death-Note-vol-01.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/08%20-%20Death%20Note/Serie/Epis%C3%B3dios%20de%20Introdu%C3%A7%C3%A3o/3.txt</externallink>
-<fanart>https://i.ibb.co/TkbXtKS/Death-Note-vol-01.jpg</fanart>
+<fanart>https://i.ibb.co/7S871BX/death-note-anime-caderno-cke.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Saga do Segundo Kira[/COLOR][/B]</name>
