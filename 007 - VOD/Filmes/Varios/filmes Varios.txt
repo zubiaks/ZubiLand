@@ -1,5 +1,11 @@
 Crime
 
+<item><title>[B]the godfather (1972)[/B]</title>
+<link>https://archive.org/download/1972-o-poderoso-chefao-dub/%5B1972%5D%20O%20Poderoso%20Chef%C3%A3o%20%5BDUB%5D.mp4</link>
+<thumbnail>https://i.ibb.co/5245Sj7/MV5-BM2-My-Nj-Yx-Nm-Ut-YTAw-Ni00-MTYx-LWJm-NWYt-Yz-Zl-ODY3-ZTk3-OTFl-Xk-Ey-Xk-Fqc-Gde-QXVy-Nzkw-Mj-Q.jpg</thumbnail>
+<fanart>https://i.ibb.co/r0Rf5q0/the-godfather-h-1972.webp</fanart>
+<info>Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios.</info></item>
+
 <item><title>[B]A Clockwork Orange (1977)[/B]</title>
 <link>https://archive.org/download/a-clockwork-orange-1977-dublado-em-portugues-brasileiro-pt-br/A%20Clockwork%20Orange%20%281977%29%20dublado%20em%20portugu%C3%AAs%20brasileiro%20PT-BR.ia.mp4</link>
 <thumbnail>https://i.ibb.co/zmhFTVR/Movie-poster-A-Clockwork-Orange-Stanley-Kubrick.webp</thumbnail>
@@ -26,6 +32,18 @@ Comedia
 <fanart>https://i.ibb.co/fqQCcnJ/b9f4666de35e39f5bd9c14bcc11d6c405838b61fa72de3d3f66b680081cdcc55-UY500-UX667-RI-TTW.jpg</fanart>
 <info>Sherman Klump é um professor universitário com grandes conhecimentos de genética, mas que sempre foi ridicularizado por ser extremamente gordo. Porém, quando recebe uma atenção especial de uma bela e jovem professora de matemática, ele decide ingerir uma poção ainda em fase de testes, que altera a cadeia de DNA e faz com que se transforme em um bonitão esbelto, Buddy Love. A partir de então, Sherman passa a levar uma vida dupla, pois o experimento tem um efeito que dura pouco tempo.</info></item>
 
+<item><title>[B]Mainstream (2020)[/B]</title>
+<link>https://archive.org/download/mainstream-2021-bluray-720p/Mainstream%202021%20Bluray%20720p.mp4</link>
+<thumbnail>https://i.ibb.co/gJwQjXQ/ems.jpg</thumbnail>
+<fanart>https://i.ibb.co/kKKnMbs/mainstream-1.webp</fanart>
+<info>Uma jovem acha que encontrou seu caminho para a fama na internet quando começa a fazer vídeos no Youtube com um estranho carismático, até que o lado sombrio da celebridade viral ameaça arruiná-los.</info></item>
+
+<item><title>[B]Overboard (1987)[/B]</title>
+<link>https://archive.org/download/1987-um-salto-para-a-felicidade-dub/%5B1987%5D%20Um%20Salto%20Para%20a%20Felicidade%20%5BDUB%5D%20.ia.mp4</link>
+<thumbnail>https://i.ibb.co/hs26Ypb/MV5-BMTQ2-ODA1-MTMx-Ml5-BMl5-Ban-Bn-Xk-Ft-ZTYw-OTgw-Nj-I5-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/2jFYsJ7/p10535-v-h10-aa.jpg</fanart>
+<info>Após maltratar um rude marceneiro, uma milionária esnobe cai de seu iate e acaba perdendo a memória. O sujeito, ao perceber a amnésia da patroa, busca se vingar tentando convencê-la de que é seu marido. Agora, ela viverá uma vida simples e sem luxo.</info></item>
+
 Musical
 
 <item><title>[B]cinderella (2021)[/B]</title>
@@ -34,6 +52,18 @@ Musical
 <fanart>https://i.ibb.co/gd2V1ck/cfd423098535be51dc37f02caa23d077eda63c540c5119486de67187ec4af557-UY500-UX667-RI-TTW.jpg</fanart>
 <info>Cinderella é uma moça determinada que embarca em uma aventura musical para alcançar seus sonhos. Mas ela não está sozinha nessa empreitada, a garota conta com a ajuda de seu Fado Madrinho e de seus ratinhos.</info></item>
 
+<item><title>[B]Popeye, O Filme (1980)[/B]</title>
+<link>https://archive.org/download/popeye-o-filme-1980-vhsrip-1a-dublagem/Popeye%2C%20o%20Filme%20%281980%29%20VHSRip%201%C2%AA%20Dublagem.mp4</link>
+<thumbnail>https://i.ibb.co/ykJ2YWG/20535433.webp</thumbnail>
+<fanart>https://i.ibb.co/yXp6kL0/sddefault.jpg</fanart>
+<info>Procurando seu pai que o deserdou quando era bebê, um marinheiro de nome Popeye viaja para à cidade do porto de Sweethaven. Ele faz amizade com uma variedade de pessoas e se apaixona por Olívia Palito, que já tem um pretendente, o valentão Brutus. Popeye também acha um bebê abandonado, Gugu, que ele cria sozinho. Quando Brutus sequestra Olívia e a criança, Popeye entra em ação, com a ajuda de seu espinafre mágico.</info></item>
+
+<item><title>[B]seven brides for seven brothers (1954)[/B]</title>
+<link>https://archive.org/download/1954-sete-noivas-para-sete-irmaos-1954/%5B1954%5D%20Sete%20Noivas%20Para%20Sete%20Irm%C3%A3os%20%5B1954%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/gDfsNm1/MV5-BMm-Nk-YWU3-Nzkt-Mm-Rh-MS00-Y2-E4-LTkx-Yjgt-NGQz-Yz-Yz-MDQy-MWMx-L2lt-YWdl-L2lt-YWdl-Xk-Ey-Xk-Fq.jpg</thumbnail>
+<fanart>https://i.ibb.co/LNQXGN7/download-1.jpg</fanart>
+<info>Adam (Howard Kell) é um rapaz simples, primogênito de uma família que vive no interior. Ele faz uma viagem à cidade para comprar mantimentos e acaba arranjando uma esposa, a garçonete Milly (Jane Powell). Incentivados pelo casório, os outros seis irmãos de Adam decidem viajar para a cidade em busca de pretendentes. Inspirado pelo mito do Rapto das Sabinas pelos romanos, Adam motiva seus irmãos a sequestrar as moças com quem quem querem se casar.</info></item>
+
 Terror
 
 <item><title>[B]Escape Room 2: Sem Saída[/B]</title>
@@ -41,6 +71,18 @@ Terror
 <thumbnail>https://i.ibb.co/7XjmhwP/DP-6172461-Escape-Room-TOC-Cover-2000x3000-US.jpg</thumbnail>
 <fanart>https://i.ibb.co/bmV3PyH/AAAABQWn1-GUKepi-Dq-Mdtrxhp0-AEUH815-8-TS649c-Fi-JORSj5-Qd-Gv-OSRr-NENF8h-SKF8-Sx94jap-Moj5ah-QHglg.jpg</fanart>
 <info>Sobreviventes de jogos anteriores enfrentam uma nova e mais mortal série de jogos.</info></item>
+
+<item><title>[B]House of Wax (1953)[/B]</title>
+<link>https://archive.org/download/1953-museu-de-cera-dub/%5B1953%5D%20Museu%20De%20Cera%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/1dgKwFC/MV5-BOWRh-MTg1-Nj-Yt-NDA5-MS00-NDJh-LTgz-Zm-Qt-Zm-Y3-Nm-Rj-NTEx-YWE3-Xk-Ey-Xk-Fqc-Gde-QXVy-NTIz-OTk5.jpg</thumbnail>
+<fanart>https://i.ibb.co/GMV5gd4/download.jpg</fanart>
+<info>Henry Jarrod, um artista que produz esculturas históricas em cera, tem sua obra queimada por um ganancioso sócio e quase morre no incêndio. Tempos depois, ele retorna em cadeira de rodas e com sede de vingança para restaurar suas criações em cera.</info></item>
+
+<item><title>[B]Fim Dos Dias (1999)[/B]</title>
+<link>https://archive.org/download/1999-fim-dos-dias-dub/%5B1999%5D%20Fim%20dos%20Dias%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/rMGV1BH/20407383.webp</thumbnail>
+<fanart>https://i.ibb.co/HGG1Kww/maxresdefault.jpg</fanart>
+<info>O milênio se aproxima enquanto uma série de sinais perturbadores sugere que Satanás voltou à Terra e está vagando pelas ruas da cidade de Nova York. Ele precisa encontrar uma mulher que dará à luz seu filho a tempo da chegada do Anticristo. Um ex-policial deve proteger a mulher supostamente escolhida para ser a mãe.</info></item>
 
 Aventura
 
@@ -57,6 +99,12 @@ Acão
 <thumbnail>https://i.ibb.co/BGMQSpr/download.jpg</thumbnail>
 <fanart>https://i.ibb.co/YpbRk0g/maxresdefault.jpg</fanart>
 <info>O devotado homem de família, Ray Cooper, jura fazer justiça contra contra a gananciosa empresa farmacêutica responsável por retirar do mercado um medicamento que poderia ter salvo a vida de sua esposa. Sua busca pela verdade incomoda forças poderosas e coloca Ray e sua filha Rachel em perigo. Logo, sua missão se transforma em uma busca por vingança guiada pelo desejo de proteger a única família que lhe resta.</info></item>
+
+<item><title>[B]3000 Miles to Graceland (2001)[/B]</title>
+<link>https://archive.org/download/3000-milhas/3000%20milhas.mp4</link>
+<thumbnail>https://i.ibb.co/R3VZdXg/MV5-BMTEx-MDA0-NDAy-OTRe-QTJe-QWpw-Z15-Bb-WU2-MDM4-ODg3-OQ-V1-FMjpg-UX1000.jpg</thumbnail>
+<fanart>https://i.ibb.co/LhK2BXF/download-1.jpg</fanart>
+<info>Um grupo de ex-presidiários liderado por Michael e Murphy planeja um assalto a um cassino de Las Vegas. Porém, como o assalto acontecerá em meio à uma convenção de imitadores de Elvis Presley, eles precisam se vestir a caráter para executar o roubo.</info></item>
 
 Familia
 
@@ -86,6 +134,12 @@ Ficção científica
 <fanart>https://i.ibb.co/HYkgMvj/97a3bdc587fe5bc91c167c5a44e853ef11229ce36bde0440169bb932afb99272-UR1920-1080.jpg</fanart>
 <info>No ano de 2154, os mais ricos vivem em uma estação espacial enquanto o resto da população mora em uma Terra arruinada. Um homem assume a missão de tentar trazer igualdade aos mundos polarizados.</info></item>
 
+<item><title>[B]Chappie (2015)[/B]</title>
+<link>https://archive.org/download/elysium-2013-wolverdonfilmes.com/Chappie%20%282015%29%20720p%20Dublado%20-%20Alan_680.mp4</link>
+<thumbnail>https://i.ibb.co/5kXhGbz/DP-2274037-Chappie-2015-1400x2100-US-0.jpg</thumbnail>
+<fanart>https://i.ibb.co/gJtTXbj/MV5-BMTA0-MDg3-Nz-Az-Nzle-QTJe-QWpw-Z15-Bb-WU4-MDgw-OTQw-Nj-Qx-V1.jpg</fanart>
+<info>Em um futuro próximo, policiais humanos são substituídos por robôs ultrarresistentes, dotados de inteligência artificial. Deon, o cientista criador das máquinas, rouba um modelo defeituoso e consegue fazer com que ele tenha a capacidade de sentir e pensar por si próprio. Porém, as autoridades começam a ver Chappie como um perigo para a humanidade e ordem e vão fazer de tudo para garantir que ele seja o último de sua espécie.</info></item>
+
 Thriller 
 
 <item><title>[B]sobreviva ou morra tentando[/B]</title>
@@ -100,20 +154,13 @@ Thriller
 <fanart>https://i.ibb.co/H2wnBxh/download.jpg</fanart>
 <info>Kevin Crumb, um homem com 24 personalidades diferentes, passa a ser perseguido por David Dunn. O jogo de gato e rato entre o homem inquebrável e a Fera é influenciado pela presença de Elijah Price, que manipula seus encontros.</info></item>
 
+<item><title>[B]Payback (1999)[/B]</title>
+<link>https://archive.org/download/1999-o-troco-dub/%5B1999%5D%20O%20Troco%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/ssGnK9f/MV5-BN2-Yx-YTUy-MTIt-Ym-U4-ZS00-OTIz-LWIw-MWQt-MDY3-Nz-Ri-Mm-Iy-MWMx-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-M.jpg</thumbnail>
+<fanart>https://i.ibb.co/PgF0JJ8/t-T8-Vb5kvlk8y-DZQr-OUr6fupx26-D.jpg</fanart>
+<info>Porter (Mel Gibson) e Val Resnick (Gregg Henry) assaltam uma gangue de chineses e roubam 140 mil dólares. Porter se dá por satisfeito, apesar de esperar entre 350 mil e meio milhão de dólares, mas Val não, pois precisava de 130 mil dólares para saldar suas dívidas e ser aceito na "Organização". Assim, com a ajuda de Lynn (Deborah Unger), a esposa de Porter, Val o trai e Porter é baleado e dado como morto. Mas após algum tempo ele reaparece, decidido a receber os 70 mil dólares da sua parte, mesmo que para isto tenha de enfrentar toda a "Organização". Mas existe uma forte possibilidade que ele morra tentando e nesta louca tentativa conta apenas com Rosie (Maria Bello), uma garota de programa bastante exclusiva com quem tinha se envolvido, quando era seu segurança e motorista.</info></item>
 
-
-
-<item><title>[B]Chappie (2015)[/B]</title>
-<link>https://archive.org/download/elysium-2013-wolverdonfilmes.com/Chappie%20%282015%29%20720p%20Dublado%20-%20Alan_680.mp4</link>
-<thumbnail>https://i.ibb.co/5kXhGbz/DP-2274037-Chappie-2015-1400x2100-US-0.jpg</thumbnail>
-<fanart>https://i.ibb.co/gJtTXbj/MV5-BMTA0-MDg3-Nz-Az-Nzle-QTJe-QWpw-Z15-Bb-WU4-MDgw-OTQw-Nj-Qx-V1.jpg</fanart>
-<info>Em um futuro próximo, policiais humanos são substituídos por robôs ultrarresistentes, dotados de inteligência artificial. Deon, o cientista criador das máquinas, rouba um modelo defeituoso e consegue fazer com que ele tenha a capacidade de sentir e pensar por si próprio. Porém, as autoridades começam a ver Chappie como um perigo para a humanidade e ordem e vão fazer de tudo para garantir que ele seja o último de sua espécie.</info></item>
-
-<item><title>[B]Mainstream (2020)[/B]</title>
-<link>https://archive.org/download/mainstream-2021-bluray-720p/Mainstream%202021%20Bluray%20720p.mp4</link>
-<thumbnail>https://i.ibb.co/gJwQjXQ/ems.jpg</thumbnail>
-<fanart>https://i.ibb.co/kKKnMbs/mainstream-1.webp</fanart>
-<info>Uma jovem acha que encontrou seu caminho para a fama na internet quando começa a fazer vídeos no Youtube com um estranho carismático, até que o lado sombrio da celebridade viral ameaça arruiná-los.</info></item>
+Fantasia
 
 <item><title>[B]Dragon Tiger Gate[/B]</title>
 <link>https://archive.org/download/dragon-tiger-gate-hd-dub/Dragon%20Tiger%20Gate%20HD%20DUB.ia.mp4</link>
@@ -121,17 +168,7 @@ Thriller
 <fanart>https://i.ibb.co/ypGmTvG/download.jpg</fanart>
 <info>Dragon Tiger é uma facção das artes marciais fundada por Tiger Wong, Dragon Wong e Turbo Shek. Três jovens que acreditam piamente na justiça e na verdade. Quando eles se apoderam, sem querer, de uma placa dourada, símbolo de uma das maiores organizações criminosas do Oriente, o Lousha Gate, passam a ser alvo de um poder amaldiçoado.</info></item>
 
-<item><title>[B]Popeye, O Filme (1980)[/B]</title>
-<link>https://archive.org/download/popeye-o-filme-1980-vhsrip-1a-dublagem/Popeye%2C%20o%20Filme%20%281980%29%20VHSRip%201%C2%AA%20Dublagem.mp4</link>
-<thumbnail>https://i.ibb.co/ykJ2YWG/20535433.webp</thumbnail>
-<fanart>https://i.ibb.co/yXp6kL0/sddefault.jpg</fanart>
-<info>Procurando seu pai que o deserdou quando era bebê, um marinheiro de nome Popeye viaja para à cidade do porto de Sweethaven. Ele faz amizade com uma variedade de pessoas e se apaixona por Olívia Palito, que já tem um pretendente, o valentão Brutus. Popeye também acha um bebê abandonado, Gugu, que ele cria sozinho. Quando Brutus sequestra Olívia e a criança, Popeye entra em ação, com a ajuda de seu espinafre mágico.</info></item>
-
-<item><title>[B]the godfather (1972)[/B]</title>
-<link>https://archive.org/download/1972-o-poderoso-chefao-dub/%5B1972%5D%20O%20Poderoso%20Chef%C3%A3o%20%5BDUB%5D.mp4</link>
-<thumbnail>https://i.ibb.co/5245Sj7/MV5-BM2-My-Nj-Yx-Nm-Ut-YTAw-Ni00-MTYx-LWJm-NWYt-Yz-Zl-ODY3-ZTk3-OTFl-Xk-Ey-Xk-Fqc-Gde-QXVy-Nzkw-Mj-Q.jpg</thumbnail>
-<fanart>https://i.ibb.co/r0Rf5q0/the-godfather-h-1972.webp</fanart>
-<info>Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios.</info></item>
+Drama
 
 <item><title>[B]joana d'arc (1948)[/B]</title>
 <link>https://archive.org/download/1948-joana-darc-dub_202305/%5B1948%5D%20Joana%20D%27arc%20%5BDUB%5D%20.mp4</link>
@@ -145,36 +182,6 @@ Thriller
 <fanart>https://i.ibb.co/NCKHvvR/download-1.jpg</fanart>
 <info>Quando sua irmã gêmea morre afogada, a artista Kate assume o lugar dela para ficar com seu marido.</info></item>
 
-<item><title>[B]My Darling Clementine (1946)[/B]</title>
-<link>https://archive.org/download/1946-paixao-dos-fortes-dub/%5B1946%5D%20Paix%C3%A3o%20dos%20Fortes%20%5BDUB%5D%20.mp4</link>
-<thumbnail>https://i.ibb.co/ZmQJchk/My-Darling-Clementine-1946-poster.jpg</thumbnail>
-<fanart>https://i.ibb.co/nfX1jPJ/image-w1280.jpg</fanart>
-<info>Baseado na biografia de Wyatt Earp (Henry Fonda), o lendário xerife de Dodge City. Em uma das viagens com seus irmãos carregando gado, ele deixa seu irmão mais novo tomando conta do rebanho enquanto vai ao saloon. Quando volta, encontra o pequeno morto. Decide então aceitar trabalhar no cargo de xerife da cidade, tentando trazer a justiça ao local.</info></item>
-
-<item><title>[B]Anna Karenina (1935)[/B]</title>
-<link>https://archive.org/download/1935-anna-karenina-dub/%5B1935%5D%20Anna%20Karenina%20%5BDUB%5D%20.mp4</link>
-<thumbnail>https://i.ibb.co/pw1RKmF/MV5-BZDBh-N2-E1-MDIt-ZDUw-Zi00-Zm-Vk-LThm-Mjct-Y2-Jl-Yz-Zk-Zm-E5-MDkw-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Uw-Mz.jpg</thumbnail>
-<fanart>https://i.ibb.co/8P1zrFW/download.jpg</fanart>
-<info>Dama da Corte Imperial russa abandona o gélido marido para viver uma verdadeira paixão com um oficial do exército, no século 19.</info></item>
-
-<item><title>[B]Payback (1999)[/B]</title>
-<link>https://archive.org/download/1999-o-troco-dub/%5B1999%5D%20O%20Troco%20%5BDUB%5D%20.mp4</link>
-<thumbnail>https://i.ibb.co/ssGnK9f/MV5-BN2-Yx-YTUy-MTIt-Ym-U4-ZS00-OTIz-LWIw-MWQt-MDY3-Nz-Ri-Mm-Iy-MWMx-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-M.jpg</thumbnail>
-<fanart>https://i.ibb.co/PgF0JJ8/t-T8-Vb5kvlk8y-DZQr-OUr6fupx26-D.jpg</fanart>
-<info>Porter (Mel Gibson) e Val Resnick (Gregg Henry) assaltam uma gangue de chineses e roubam 140 mil dólares. Porter se dá por satisfeito, apesar de esperar entre 350 mil e meio milhão de dólares, mas Val não, pois precisava de 130 mil dólares para saldar suas dívidas e ser aceito na "Organização". Assim, com a ajuda de Lynn (Deborah Unger), a esposa de Porter, Val o trai e Porter é baleado e dado como morto. Mas após algum tempo ele reaparece, decidido a receber os 70 mil dólares da sua parte, mesmo que para isto tenha de enfrentar toda a "Organização". Mas existe uma forte possibilidade que ele morra tentando e nesta louca tentativa conta apenas com Rosie (Maria Bello), uma garota de programa bastante exclusiva com quem tinha se envolvido, quando era seu segurança e motorista.</info></item>
-
-<item><title>[B]10 Things I Hate About You (1999)[/B]</title>
-<link>https://archive.org/download/1999-10-coisas-que-eu-odeio-em-voce-dub/%5B1999%5D%2010%20Coisas%20que%20Eu%20Odeio%20em%20Voc%C3%AA%20%5BDUB%5D%20.mp4</link>
-<thumbnail>https://i.ibb.co/ftBrq8Q/10-Things-I-Hate-About-You-film.jpg</thumbnail>
-<fanart>https://i.ibb.co/KDFRkZG/scale.jpg</fanart>
-<info>A situação está tensa na casa dos Stratford. Bianca (Larisa Oleynik) não vê a hora de arranjar um namorado, mas seu pai (Larry Miller) não permite que ela saia com garotos. Após muita insistência, o pai toma uma resolução: Bianca pode namorar, desde que sua irmã, Katharina (Julia Stiles), namore também. Só que Katharina é uma verdadeira megera, que não tem amigos na escola nem em lugar algum. Para resolver a questão, Cameron (Joseph Gordon-Levitt), apaixonado por Bianca, resolve contratar o misterioso Patrick Verona (Heath Ledger) para seduzir a futura cunhada.</info></item>
-
-<item><title>[B]seven brides for seven brothers (1954)[/B]</title>
-<link>https://archive.org/download/1954-sete-noivas-para-sete-irmaos-1954/%5B1954%5D%20Sete%20Noivas%20Para%20Sete%20Irm%C3%A3os%20%5B1954%5D%20.mp4</link>
-<thumbnail>https://i.ibb.co/gDfsNm1/MV5-BMm-Nk-YWU3-Nzkt-Mm-Rh-MS00-Y2-E4-LTkx-Yjgt-NGQz-Yz-Yz-MDQy-MWMx-L2lt-YWdl-L2lt-YWdl-Xk-Ey-Xk-Fq.jpg</thumbnail>
-<fanart>https://i.ibb.co/LNQXGN7/download-1.jpg</fanart>
-<info>Adam (Howard Kell) é um rapaz simples, primogênito de uma família que vive no interior. Ele faz uma viagem à cidade para comprar mantimentos e acaba arranjando uma esposa, a garçonete Milly (Jane Powell). Incentivados pelo casório, os outros seis irmãos de Adam decidem viajar para a cidade em busca de pretendentes. Inspirado pelo mito do Rapto das Sabinas pelos romanos, Adam motiva seus irmãos a sequestrar as moças com quem quem querem se casar.</info></item>
-
 <item><title>[B]Sexy e Marginal (1972)[/B]</title>
 <link>https://archive.org/download/1972-sexy-e-marginal-dub/%5B1972%5D%20Sexy%20e%20Marginal%20%5BDUB%5D%20.mp4</link>
 <thumbnail>https://i.ibb.co/HgGg2k0/Boxcar-Bertha-sapo.jpg</thumbnail>
@@ -187,29 +194,30 @@ Thriller
 <fanart>https://i.ibb.co/6mb6g7n/MV5-BMGVh-OGIz-ZTYt-NDNl-Yi00-Ym-I1-LWI3-NDkt-ZDhm-Yzgy-OGY0-MWNl-Xk-Ey-Xk-Fqc-Gde-QXVy-OTc5-MDI5-Nj.jpg</fanart>
 <info>Injustamente acusada por um crime que não cometeu, Billie Jean Davy (Helen Slater), uma garota do interior do Texas, foge para não ser capturada pela corrupta polícia local. Com o passar do tempo, sua história se torna conhecida entre os jovens locais, que passam a idolatrá-la.</info></item>
 
-<item><title>[B]Overboard (1987)[/B]</title>
-<link>https://archive.org/download/1987-um-salto-para-a-felicidade-dub/%5B1987%5D%20Um%20Salto%20Para%20a%20Felicidade%20%5BDUB%5D%20.ia.mp4</link>
-<thumbnail>https://i.ibb.co/hs26Ypb/MV5-BMTQ2-ODA1-MTMx-Ml5-BMl5-Ban-Bn-Xk-Ft-ZTYw-OTgw-Nj-I5-V1.jpg</thumbnail>
-<fanart>https://i.ibb.co/2jFYsJ7/p10535-v-h10-aa.jpg</fanart>
-<info>Após maltratar um rude marceneiro, uma milionária esnobe cai de seu iate e acaba perdendo a memória. O sujeito, ao perceber a amnésia da patroa, busca se vingar tentando convencê-la de que é seu marido. Agora, ela viverá uma vida simples e sem luxo.</info></item>
+Faroeste
 
-<item><title>[B]House of Wax (1953)[/B]</title>
-<link>https://archive.org/download/1953-museu-de-cera-dub/%5B1953%5D%20Museu%20De%20Cera%20%5BDUB%5D%20.mp4</link>
-<thumbnail>https://i.ibb.co/1dgKwFC/MV5-BOWRh-MTg1-Nj-Yt-NDA5-MS00-NDJh-LTgz-Zm-Qt-Zm-Y3-Nm-Rj-NTEx-YWE3-Xk-Ey-Xk-Fqc-Gde-QXVy-NTIz-OTk5.jpg</thumbnail>
-<fanart>https://i.ibb.co/GMV5gd4/download.jpg</fanart>
-<info>Henry Jarrod, um artista que produz esculturas históricas em cera, tem sua obra queimada por um ganancioso sócio e quase morre no incêndio. Tempos depois, ele retorna em cadeira de rodas e com sede de vingança para restaurar suas criações em cera.</info></item>
+<item><title>[B]My Darling Clementine (1946)[/B]</title>
+<link>https://archive.org/download/1946-paixao-dos-fortes-dub/%5B1946%5D%20Paix%C3%A3o%20dos%20Fortes%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/ZmQJchk/My-Darling-Clementine-1946-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/nfX1jPJ/image-w1280.jpg</fanart>
+<info>Baseado na biografia de Wyatt Earp (Henry Fonda), o lendário xerife de Dodge City. Em uma das viagens com seus irmãos carregando gado, ele deixa seu irmão mais novo tomando conta do rebanho enquanto vai ao saloon. Quando volta, encontra o pequeno morto. Decide então aceitar trabalhar no cargo de xerife da cidade, tentando trazer a justiça ao local.</info></item>
 
-<item><title>[B]Fim Dos Dias (1999)[/B]</title>
-<link>https://archive.org/download/1999-fim-dos-dias-dub/%5B1999%5D%20Fim%20dos%20Dias%20%5BDUB%5D%20.mp4</link>
-<thumbnail>https://i.ibb.co/rMGV1BH/20407383.webp</thumbnail>
-<fanart>https://i.ibb.co/HGG1Kww/maxresdefault.jpg</fanart>
-<info>O milênio se aproxima enquanto uma série de sinais perturbadores sugere que Satanás voltou à Terra e está vagando pelas ruas da cidade de Nova York. Ele precisa encontrar uma mulher que dará à luz seu filho a tempo da chegada do Anticristo. Um ex-policial deve proteger a mulher supostamente escolhida para ser a mãe.</info></item>
+Romance
 
-<item><title>[B]3000 Miles to Graceland (2001)[/B]</title>
-<link>https://archive.org/download/3000-milhas/3000%20milhas.mp4</link>
-<thumbnail>https://i.ibb.co/R3VZdXg/MV5-BMTEx-MDA0-NDAy-OTRe-QTJe-QWpw-Z15-Bb-WU2-MDM4-ODg3-OQ-V1-FMjpg-UX1000.jpg</thumbnail>
-<fanart>https://i.ibb.co/LhK2BXF/download-1.jpg</fanart>
-<info>Um grupo de ex-presidiários liderado por Michael e Murphy planeja um assalto a um cassino de Las Vegas. Porém, como o assalto acontecerá em meio à uma convenção de imitadores de Elvis Presley, eles precisam se vestir a caráter para executar o roubo.</info></item>
+<item><title>[B]Anna Karenina (1935)[/B]</title>
+<link>https://archive.org/download/1935-anna-karenina-dub/%5B1935%5D%20Anna%20Karenina%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/pw1RKmF/MV5-BZDBh-N2-E1-MDIt-ZDUw-Zi00-Zm-Vk-LThm-Mjct-Y2-Jl-Yz-Zk-Zm-E5-MDkw-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Uw-Mz.jpg</thumbnail>
+<fanart>https://i.ibb.co/8P1zrFW/download.jpg</fanart>
+<info>Dama da Corte Imperial russa abandona o gélido marido para viver uma verdadeira paixão com um oficial do exército, no século 19.</info></item>
+
+<item><title>[B]10 Things I Hate About You (1999)[/B]</title>
+<link>https://archive.org/download/1999-10-coisas-que-eu-odeio-em-voce-dub/%5B1999%5D%2010%20Coisas%20que%20Eu%20Odeio%20em%20Voc%C3%AA%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/ftBrq8Q/10-Things-I-Hate-About-You-film.jpg</thumbnail>
+<fanart>https://i.ibb.co/KDFRkZG/scale.jpg</fanart>
+<info>A situação está tensa na casa dos Stratford. Bianca (Larisa Oleynik) não vê a hora de arranjar um namorado, mas seu pai (Larry Miller) não permite que ela saia com garotos. Após muita insistência, o pai toma uma resolução: Bianca pode namorar, desde que sua irmã, Katharina (Julia Stiles), namore também. Só que Katharina é uma verdadeira megera, que não tem amigos na escola nem em lugar algum. Para resolver a questão, Cameron (Joseph Gordon-Levitt), apaixonado por Bianca, resolve contratar o misterioso Patrick Verona (Heath Ledger) para seduzir a futura cunhada.</info></item>
+
+
+
 
 <item><title>[B][/B]</title>
 <link></link>
