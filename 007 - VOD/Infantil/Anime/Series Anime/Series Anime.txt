@@ -84,10 +84,10 @@
 <fanart>https://i.ibb.co/8dVnqxL/images.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Yuyu Hakusho[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/jL5j8H5/e60626c56bf7437857e0caf7cbc4bf4a.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/09%20-%20Yuyu%20Hakusho/1.txt</externallink>
+<fanart>https://i.ibb.co/Fhh3SS2/https-hypebeast-com-image-2021-11-netflix-yu-yu-hakusho-live-action-december-2023-release-000.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
