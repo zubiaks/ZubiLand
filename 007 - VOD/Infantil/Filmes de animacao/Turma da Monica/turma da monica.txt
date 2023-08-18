@@ -1,58 +1,48 @@
-<channels>
 
-<channel><name>[B][COLOR white]Mônica e a Sereia do Rio[/COLOR][/B]</name>
+<item><title>[B]Mônica e a Sereia do Rio[/B]</title>
+<link>https://archive.org/download/MonicaEASereiaDoRio/M%C3%B4nica%20e%20a%20Sereia%20do%20Rio.mp4</link>
 <thumbnail>https://i.ibb.co/bNhdPXF/M-nica-e-a-Sereia-do-Rio.png</thumbnail>
-<externallink>https://archive.org/download/MonicaEASereiaDoRio/M%C3%B4nica%20e%20a%20Sereia%20do%20Rio.mp4</externallink>
 <fanart>https://i.ibb.co/WzDsm7J/Sereia-do-Rio.webp</fanart>
-<info>Live action/animated feature directed by de Sousa and Khouri, in which Mônica meets a river fairy (Tetê Espíndola) and tells her stories about her and her friends.</info></channel>
+<info>Live action/animated feature directed by de Sousa and Khouri, in which Mônica meets a river fairy (Tetê Espíndola) and tells her stories about her and her friends.</info></item>
 
-<channel><name>[B][COLOR white]As aventuras da Turma da Mônica[/COLOR][/B]</name>
+<item><title>[B]As aventuras da Turma da Mônica[/B]</title>
+<link>https://archive.org/download/AsAventurasDaTurmaDaMonica/As%20aventuras%20da%20Turma%20da%20Monica.mp4</link>
 <thumbnail>https://i.ibb.co/gdZ3nBs/Cartaz-Aventuras-da-Turma-da-M-nica.jpg</thumbnail>
-<externallink>https://archive.org/download/AsAventurasDaTurmaDaMonica/As%20aventuras%20da%20Turma%20da%20Monica.mp4</externallink>
 <fanart>https://i.ibb.co/9pxXY0T/maxresdefault.jpg</fanart>
-<info>As Aventuras da Turma da Mônica é um filme de animação brasileiro de 1982 produzido pela Black & White & Color e distribuído pela Embrafilme</info></channel>
+<info>As Aventuras da Turma da Mônica é um filme de animação brasileiro de 1982 produzido pela Black & White & Color e distribuído pela Embrafilme</info></item>
 
-<channel><name>[B][COLOR white]A Turma Da Mônica Em A Princesa E O Robô[/COLOR][/B]</name>
+<item><title>[B]A Turma Da Mônica Em A Princesa E O Robô[/B]</title>
+<link>https://ia801704.us.archive.org/27/items/a-turma-da-monica-em-a-princesa-e-o-robo/A%20Princesa%20e%20o%20Rob%C3%B4%20%28FILME%20COMPLETO%20em%20HD%29%20_%20Turma%20da%20M%C3%B4nica%20%281080p_24fps_H264-128kbit_AAC%29.ia.mp4</link>
 <thumbnail>https://i.ibb.co/6XD2MHm/A-Princesa-e-o-Rob.jpg</thumbnail>
-<externallink>https://ia801704.us.archive.org/27/items/a-turma-da-monica-em-a-princesa-e-o-robo/A%20Princesa%20e%20o%20Rob%C3%B4%20%28FILME%20COMPLETO%20em%20HD%29%20_%20Turma%20da%20M%C3%B4nica%20%281080p_24fps_H264-128kbit_AAC%29.ia.mp4</externallink>
 <fanart>https://i.ibb.co/8zf8Hb9/maxresdefault-1.jpg</fanart>
-<info>A Princesa e o Robô é um filme de animação brasileiro de 1984 dirigido por Mauricio de Sousa. É o segundo filme lançado para os cinemas baseado em Turma da Mônica, da qual Mauricio é criador.</info></channel>
+<info>A Princesa e o Robô é um filme de animação brasileiro de 1984 dirigido por Mauricio de Sousa. É o segundo filme lançado para os cinemas baseado em Turma da Mônica, da qual Mauricio é criador.</info></item>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
-<externallink></externallink>
 <fanart></fanart>
-<info></info></channel>
+<info></info></item>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
-<externallink></externallink>
 <fanart></fanart>
-<info></info></channel>
+<info></info></item>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
-<externallink></externallink>
 <fanart></fanart>
-<info></info></channel>
+<info></info></item>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
-<externallink></externallink>
 <fanart></fanart>
-<info></info></channel>
+<info></info></item>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<item><title>[B][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
-<externallink></externallink>
 <fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-
-</channels>
+<info></info></item>
