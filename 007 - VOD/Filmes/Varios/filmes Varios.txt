@@ -1,9 +1,4 @@
-
-<item><title>[B]Ate O Ceu (2021)[/B]</title>
-<link>https://archive.org/download/ate-o-ceu-2021-1080p-dublado/Ate%20O%20Ceu%202021%201080p%20Dublado.mp4</link>
-<thumbnail>https://i.ibb.co/jyKMHc1/3527588.webp</thumbnail>
-<fanart>https://i.ibb.co/BGyhRmq/download-6.jpg</fanart>
-<info>Ángel, um mecânico dos subúrbios de Madrid, apaixona-se por Estrella e mergulha no submundo do crime, ficando na mira de um polícia implacável.</info></item>
+Crime
 
 <item><title>[B]A Clockwork Orange (1977)[/B]</title>
 <link>https://archive.org/download/a-clockwork-orange-1977-dublado-em-portugues-brasileiro-pt-br/A%20Clockwork%20Orange%20%281977%29%20dublado%20em%20portugu%C3%AAs%20brasileiro%20PT-BR.ia.mp4</link>
@@ -11,53 +6,13 @@
 <fanart>https://i.ibb.co/9ngWjvX/download.jpg</fanart>
 <info>A Clockwork Orange () é um filme policial distópico de 1971 adaptado, produzido e dirigido por Stanley Kubrick, baseado no romance homônimo de Anthony Burgess de 1962. Ele emprega imagens perturbadoras e violentas para comentar sobre psiquiatria, delinquência juvenil, gangues juvenis e outros assuntos sociais, políticos e econômicos em uma Grã-Bretanha distópica de futuro próximo.</info></item>
 
+Comedia
+
 <item><title>[B]amizade de ferias[/B]</title>
 <link>https://archive.org/download/wii-movies/filmes/02%20-%20Amizade%20De%20F%C3%A9rias%202021.mp4</link>
 <thumbnail>https://i.ibb.co/Mkv3Y39/4132685.jpg</thumbnail>
 <fanart>https://i.ibb.co/JsG7SY9/amizade-de-fe-rias-cri-tica-vacation-friends.webp</fanart>
 <info>Marcus e Emily desfrutam de uma semana incomum sem inibições quando fazem novos amigos durante férias no México. Porém, o casal fica horrorizado quando os novos colegas Ron e Kyla aparecem sem serem convidados para seu casamento.</info></item>
-
-<item><title>[B]cinderella (2021)[/B]</title>
-<link>https://archive.org/download/wii-movies/filmes/Cinderela%202021.mp4</link>
-<thumbnail>https://i.ibb.co/Lz74KHL/MV5-BZTk3-ZTEz-NGUt-ZTcw-Yy00-Nm-Rm-LWFh-MGYt-Zj-A4-NWY1-ZWI4-Mz-My-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-Uy.jpg</thumbnail>
-<fanart>https://i.ibb.co/gd2V1ck/cfd423098535be51dc37f02caa23d077eda63c540c5119486de67187ec4af557-UY500-UX667-RI-TTW.jpg</fanart>
-<info>Cinderella é uma moça determinada que embarca em uma aventura musical para alcançar seus sonhos. Mas ela não está sozinha nessa empreitada, a garota conta com a ajuda de seu Fado Madrinho e de seus ratinhos.</info></item>
-
-<item><title>[B]Escape Room 2: Sem Saída[/B]</title>
-<link>https://archive.org/download/wii-movies/filmes/Escaperoomtournamentofchampions20211.mp4</link>
-<thumbnail>https://i.ibb.co/7XjmhwP/DP-6172461-Escape-Room-TOC-Cover-2000x3000-US.jpg</thumbnail>
-<fanart>https://i.ibb.co/bmV3PyH/AAAABQWn1-GUKepi-Dq-Mdtrxhp0-AEUH815-8-TS649c-Fi-JORSj5-Qd-Gv-OSRr-NENF8h-SKF8-Sx94jap-Moj5ah-QHglg.jpg</fanart>
-<info>Sobreviventes de jogos anteriores enfrentam uma nova e mais mortal série de jogos.</info></item>
-
-<item><title>[B]jungle cruise[/B]</title>
-<link>https://archive.org/download/wii-movies/filmes/Jungle%20Cruise%202021.mp4</link>
-<thumbnail>https://i.ibb.co/3TT1VPm/p-junglecruise-21740-v2-bb7f0ae4.jpg</thumbnail>
-<fanart>https://i.ibb.co/f2pf1X3/1078687-h-029e9d313239.webp</fanart>
-<info>A Dra. Lily Houghton pede a ajuda do sagaz capitão Frank Wolff para levá-la à Amazônia em seu barco em ruínas. Juntos, eles procuram por uma árvore ancestral que detém o poder de curar - uma descoberta que deve mudar o futuro da medicina.</info></item>
-
-<item><title>[B]Justiça em Família[/B]</title>
-<link>https://archive.org/download/wii-movies/filmes/Justi%C3%A7a%20em%20Fam%C3%ADlia%202021.mp4</link>
-<thumbnail>https://i.ibb.co/BGMQSpr/download.jpg</thumbnail>
-<fanart>https://i.ibb.co/YpbRk0g/maxresdefault.jpg</fanart>
-<info>O devotado homem de família, Ray Cooper, jura fazer justiça contra contra a gananciosa empresa farmacêutica responsável por retirar do mercado um medicamento que poderia ter salvo a vida de sua esposa. Sua busca pela verdade incomoda forças poderosas e coloca Ray e sua filha Rachel em perigo. Logo, sua missão se transforma em uma busca por vingança guiada pelo desejo de proteger a única família que lhe resta.</info></item>
-
-<item><title>[B]luccas neto em busca do tesouro 2[/B]</title>
-<link>https://archive.org/download/wii-movies/filmes/Luccas%20Neto%20Em%20%20O%20Mapa%20Do%20Tesouro%202%202021.mp4</link>
-<thumbnail>https://i.ibb.co/SrSX4Yg/4068170.jpg</thumbnail>
-<fanart>https://i.ibb.co/dgKwRsj/4159491.webp</fanart>
-<info>Em O Mapa do Tesouro 2, Luccas Neto e Gi Alparone vão embarcar em uma aventura para encontrar um misterioso baú, longe do território seguro do sítio da avó deles. No meio do caminho, eles conhecem Estela, uma elfa que faz parte de uma família que busca há anos pelo baú, que contém um colar mágico muito poderoso, capaz de acabar com preconceitos e reduzir as desigualdades entre as pessoas, mas que em mãos erradas pode gerar um caos no planeta, desequilibrando a justiça no mundo.</info></item>
-
-<item><title>[B]Chaos Walking: O Ruído[/B]</title>
-<link>https://archive.org/download/wii-movies/filmes/Mundo%20Em%20Caos%202021.mp4</link>
-<thumbnail>https://i.ibb.co/47SqggW/1891925.jpg</thumbnail>
-<fanart>https://i.ibb.co/YcrNBKB/Poster-Mundo-em-Caos.jpg</fanart>
-<info>Todd cresceu com a crença de que as mulheres desapareceram do mundo e os homens foram afetados por um ruído capaz de deixar seus pensamentos audíveis. Ele então descobre um pedaço de silêncio no pântano, onde encontra uma garota chamada Viola. Todd jura protegê-la, mas para isso deve descobrir sua força e desvendar todos os segredos sombrios que seu planeta e sua comunidade guardam.</info></item>
-
-<item><title>[B]sobreviva ou morra tentando[/B]</title>
-<link>https://archive.org/download/wii-movies/filmes/Sobreviva%20Ou%20Morra%20Tentando%202020.mp4</link>
-<thumbnail>https://i.ibb.co/xsZvphT/1566117.webp</thumbnail>
-<fanart>https://i.ibb.co/VDbPz22/download-1.jpg</fanart>
-<info>Zoe é uma jovem de 17 anos cheia de raiva, lidando com a morte de sua mãe. Quando sua escola é invadida por estudantes armados, ela faz de tudo para enfrentar os agressores e salvar seus colegas.</info></item>
 
 <item><title>[B]The Secret Diary of an Exchange Student (2021)[/B]</title>
 <link>https://archive.org/download/wii-movies/filmes/Thesecretdiaryofanexchangestudent2021.mp4</link>
@@ -65,17 +20,79 @@
 <fanart>https://i.ibb.co/xhLf5Hq/AAAABe8crl-NCv6-Lq-Yc18-Jif-QFv-Pu-6-TAL02-M3q-ALop1-5-E4w-Wcl-Qz-ZH91-T4sn-WOL1-Ypma-Rx2e4sg-AI1y-V.jpg</fanart>
 <info>Duas amigas decidem fazer intercâmbio, mas precisam tentar não se meter em encrencas.</info></item>
 
+<item><title>[B]O Professor Chanfrado (1996)[/B]</title>
+<link>https://archive.org/download/copia-de-paloprado.-96.-trial-bd-1080p.-memoriada-tv.-mini/C%C3%B3pia%20de%20PAloprado.96.TrialBD1080p.MemoriadaTV.Mini.mp4</link>
+<thumbnail>https://i.ibb.co/QP0Ct7R/The-Nutty-Professor.jpg</thumbnail>
+<fanart>https://i.ibb.co/fqQCcnJ/b9f4666de35e39f5bd9c14bcc11d6c405838b61fa72de3d3f66b680081cdcc55-UY500-UX667-RI-TTW.jpg</fanart>
+<info>Sherman Klump é um professor universitário com grandes conhecimentos de genética, mas que sempre foi ridicularizado por ser extremamente gordo. Porém, quando recebe uma atenção especial de uma bela e jovem professora de matemática, ele decide ingerir uma poção ainda em fase de testes, que altera a cadeia de DNA e faz com que se transforme em um bonitão esbelto, Buddy Love. A partir de então, Sherman passa a levar uma vida dupla, pois o experimento tem um efeito que dura pouco tempo.</info></item>
+
+Musical
+
+<item><title>[B]cinderella (2021)[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Cinderela%202021.mp4</link>
+<thumbnail>https://i.ibb.co/Lz74KHL/MV5-BZTk3-ZTEz-NGUt-ZTcw-Yy00-Nm-Rm-LWFh-MGYt-Zj-A4-NWY1-ZWI4-Mz-My-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-Uy.jpg</thumbnail>
+<fanart>https://i.ibb.co/gd2V1ck/cfd423098535be51dc37f02caa23d077eda63c540c5119486de67187ec4af557-UY500-UX667-RI-TTW.jpg</fanart>
+<info>Cinderella é uma moça determinada que embarca em uma aventura musical para alcançar seus sonhos. Mas ela não está sozinha nessa empreitada, a garota conta com a ajuda de seu Fado Madrinho e de seus ratinhos.</info></item>
+
+Terror
+
+<item><title>[B]Escape Room 2: Sem Saída[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Escaperoomtournamentofchampions20211.mp4</link>
+<thumbnail>https://i.ibb.co/7XjmhwP/DP-6172461-Escape-Room-TOC-Cover-2000x3000-US.jpg</thumbnail>
+<fanart>https://i.ibb.co/bmV3PyH/AAAABQWn1-GUKepi-Dq-Mdtrxhp0-AEUH815-8-TS649c-Fi-JORSj5-Qd-Gv-OSRr-NENF8h-SKF8-Sx94jap-Moj5ah-QHglg.jpg</fanart>
+<info>Sobreviventes de jogos anteriores enfrentam uma nova e mais mortal série de jogos.</info></item>
+
+Aventura
+
+<item><title>[B]jungle cruise[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Jungle%20Cruise%202021.mp4</link>
+<thumbnail>https://i.ibb.co/3TT1VPm/p-junglecruise-21740-v2-bb7f0ae4.jpg</thumbnail>
+<fanart>https://i.ibb.co/f2pf1X3/1078687-h-029e9d313239.webp</fanart>
+<info>A Dra. Lily Houghton pede a ajuda do sagaz capitão Frank Wolff para levá-la à Amazônia em seu barco em ruínas. Juntos, eles procuram por uma árvore ancestral que detém o poder de curar - uma descoberta que deve mudar o futuro da medicina.</info></item>
+
+Acão
+
+<item><title>[B]Justiça em Família[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Justi%C3%A7a%20em%20Fam%C3%ADlia%202021.mp4</link>
+<thumbnail>https://i.ibb.co/BGMQSpr/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/YpbRk0g/maxresdefault.jpg</fanart>
+<info>O devotado homem de família, Ray Cooper, jura fazer justiça contra contra a gananciosa empresa farmacêutica responsável por retirar do mercado um medicamento que poderia ter salvo a vida de sua esposa. Sua busca pela verdade incomoda forças poderosas e coloca Ray e sua filha Rachel em perigo. Logo, sua missão se transforma em uma busca por vingança guiada pelo desejo de proteger a única família que lhe resta.</info></item>
+
+Familia
+
+<item><title>[B]luccas neto em busca do tesouro 2[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Luccas%20Neto%20Em%20%20O%20Mapa%20Do%20Tesouro%202%202021.mp4</link>
+<thumbnail>https://i.ibb.co/SrSX4Yg/4068170.jpg</thumbnail>
+<fanart>https://i.ibb.co/dgKwRsj/4159491.webp</fanart>
+<info>Em O Mapa do Tesouro 2, Luccas Neto e Gi Alparone vão embarcar em uma aventura para encontrar um misterioso baú, longe do território seguro do sítio da avó deles. No meio do caminho, eles conhecem Estela, uma elfa que faz parte de uma família que busca há anos pelo baú, que contém um colar mágico muito poderoso, capaz de acabar com preconceitos e reduzir as desigualdades entre as pessoas, mas que em mãos erradas pode gerar um caos no planeta, desequilibrando a justiça no mundo.</info></item>
+
+Ficção científica
+
+<item><title>[B]Chaos Walking: O Ruído[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Mundo%20Em%20Caos%202021.mp4</link>
+<thumbnail>https://i.ibb.co/47SqggW/1891925.jpg</thumbnail>
+<fanart>https://i.ibb.co/YcrNBKB/Poster-Mundo-em-Caos.jpg</fanart>
+<info>Todd cresceu com a crença de que as mulheres desapareceram do mundo e os homens foram afetados por um ruído capaz de deixar seus pensamentos audíveis. Ele então descobre um pedaço de silêncio no pântano, onde encontra uma garota chamada Viola. Todd jura protegê-la, mas para isso deve descobrir sua força e desvendar todos os segredos sombrios que seu planeta e sua comunidade guardam.</info></item>
+
 <item><title>[B]Tomorrowland Um Lugar Onde Nada É Impossível (2015) (1080p)[/B]</title>
 <link>https://archive.org/download/tomorrowland-um-lugar-onde-nada-e-impossivel-2015-1080p/Tomorrowland%20-%20Um%20lugar%20onde%20nada%20%C3%A9%20imposs%C3%ADvel%20%282015%2B1080p%29.mp4</link>
 <thumbnail>https://i.ibb.co/C0nPpS1/062270.webp</thumbnail>
 <fanart>https://i.ibb.co/87Ys1rL/scale.jpg</fanart>
 <info>Uma adolescente curiosa e inteligente encontra um broche e é transportada para uma realidade paralela repleta de robôs e invenções futuristas. Com a ajuda de um cientista que já visitou Tomorrowland, ela tenta descobrir os segredos do futuro.</info></item>
 
-<item><title>[B]O Professor Chanfrado (1996)[/B]</title>
-<link>https://archive.org/download/copia-de-paloprado.-96.-trial-bd-1080p.-memoriada-tv.-mini/C%C3%B3pia%20de%20PAloprado.96.TrialBD1080p.MemoriadaTV.Mini.mp4</link>
-<thumbnail>https://i.ibb.co/QP0Ct7R/The-Nutty-Professor.jpg</thumbnail>
-<fanart>https://i.ibb.co/fqQCcnJ/b9f4666de35e39f5bd9c14bcc11d6c405838b61fa72de3d3f66b680081cdcc55-UY500-UX667-RI-TTW.jpg</fanart>
-<info>Sherman Klump é um professor universitário com grandes conhecimentos de genética, mas que sempre foi ridicularizado por ser extremamente gordo. Porém, quando recebe uma atenção especial de uma bela e jovem professora de matemática, ele decide ingerir uma poção ainda em fase de testes, que altera a cadeia de DNA e faz com que se transforme em um bonitão esbelto, Buddy Love. A partir de então, Sherman passa a levar uma vida dupla, pois o experimento tem um efeito que dura pouco tempo.</info></item>
+<item><title>[B]elysium (2013)[/B]</title>
+<link>https://archive.org/download/a-era-do-gelo-as-aventuras-de-buck-2022-web-dl-1080p-dual-5.1_202202/Elysium%20%282013%29%20-%20wolverdonfilmes.com.ia.mp4</link>
+<thumbnail>https://i.ibb.co/K9FX73C/918z-XXTsaj-L-AC-UF894-1000-QL80.jpg</thumbnail>
+<fanart>https://i.ibb.co/HYkgMvj/97a3bdc587fe5bc91c167c5a44e853ef11229ce36bde0440169bb932afb99272-UR1920-1080.jpg</fanart>
+<info>No ano de 2154, os mais ricos vivem em uma estação espacial enquanto o resto da população mora em uma Terra arruinada. Um homem assume a missão de tentar trazer igualdade aos mundos polarizados.</info></item>
+
+Thriller 
+
+<item><title>[B]sobreviva ou morra tentando[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Sobreviva%20Ou%20Morra%20Tentando%202020.mp4</link>
+<thumbnail>https://i.ibb.co/xsZvphT/1566117.webp</thumbnail>
+<fanart>https://i.ibb.co/VDbPz22/download-1.jpg</fanart>
+<info>Zoe é uma jovem de 17 anos cheia de raiva, lidando com a morte de sua mãe. Quando sua escola é invadida por estudantes armados, ela faz de tudo para enfrentar os agressores e salvar seus colegas.</info></item>
 
 <item><title>[B]Glass (2019)[/B]</title>
 <link>https://archive.org/download/o.-corcunda.de.-notre.-dame.-1996.720p.-blu-ray.x-264.-dublado-www.-bludv.-tv/Vidro.2019.1080p.BluRay.x264.DUBLADO-WWW.BLUDV.TV.mp4</link>
@@ -83,11 +100,8 @@
 <fanart>https://i.ibb.co/H2wnBxh/download.jpg</fanart>
 <info>Kevin Crumb, um homem com 24 personalidades diferentes, passa a ser perseguido por David Dunn. O jogo de gato e rato entre o homem inquebrável e a Fera é influenciado pela presença de Elijah Price, que manipula seus encontros.</info></item>
 
-<item><title>[B]elysium (2013)[/B]</title>
-<link>https://archive.org/download/a-era-do-gelo-as-aventuras-de-buck-2022-web-dl-1080p-dual-5.1_202202/Elysium%20%282013%29%20-%20wolverdonfilmes.com.ia.mp4</link>
-<thumbnail>https://i.ibb.co/K9FX73C/918z-XXTsaj-L-AC-UF894-1000-QL80.jpg</thumbnail>
-<fanart>https://i.ibb.co/HYkgMvj/97a3bdc587fe5bc91c167c5a44e853ef11229ce36bde0440169bb932afb99272-UR1920-1080.jpg</fanart>
-<info>No ano de 2154, os mais ricos vivem em uma estação espacial enquanto o resto da população mora em uma Terra arruinada. Um homem assume a missão de tentar trazer igualdade aos mundos polarizados.</info></item>
+
+
 
 <item><title>[B]Chappie (2015)[/B]</title>
 <link>https://archive.org/download/elysium-2013-wolverdonfilmes.com/Chappie%20%282015%29%20720p%20Dublado%20-%20Alan_680.mp4</link>
