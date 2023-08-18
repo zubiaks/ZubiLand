@@ -1,4 +1,10 @@
 
+<item><title>[B]Marte Ataca! (1996)[/B]</title>
+<link>https://archive.org/download/marte-ataca-1996-1080p-dublado/Marte%20Ataca%21%20%281996%29%201080p%20Dublado.mp4</link>
+<thumbnail>https://i.ibb.co/LvGP71R/download-4.jpg</thumbnail>
+<fanart>https://i.ibb.co/QHd90Y2/download-5.jpg</fanart>
+<info>Naves vindas de Marte cercam as principais cidades do mundo e toda a humanidade espera para ver se os visitantes extraterrestres chegaram em missão de paz. O presidente dos Estados Unidos, James Dale, recebe do professor Donald Kessler a garantia de que a missão de Marte é amigável. Mas quando uma troca pacífica termina na aniquilação total do Congresso norte-americano, os militares clamam por uma total retaliação nuclear.</info></item>
+
 <item><title>[B]O Preco Do Amanha (2011)[/B]</title>
 <link>https://archive.org/download/o-preco-do-amanha-2011-1080p-dublado/O%20Preco%20Do%20Amanha%202011%201080p%20DUBLADO.mp4</link>
 <thumbnail>https://i.ibb.co/xfGHPdM/19874732.jpg</thumbnail>
