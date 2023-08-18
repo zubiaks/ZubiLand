@@ -126,7 +126,7 @@
 <info></info></item>
 
 <item><title>[B]Bucky Jibaku-Kun S01E22[/B]</title>
-<link>https://archive.org/download/bucky-jibaku-kun/Bucky_Jibaku-kun_E22.mp4</link>
+<link>https://archive.org/download/bucky-jibaku-kun/Bucky_Jibaku-kun_E22.mp4$nome= SD</link>
 <link>https://ia601402.us.archive.org/21/items/bucky-jibaku-kun-completo-720p/Bucky.Jibaku-kun.E22.BluRay.720p.DUAL-WWW.LAPUMiAFiLMES.COM.mp4$nome= HD</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -134,6 +134,7 @@
 
 <item><title>[B]Bucky Jibaku-Kun S01E23[/B]</title>
 <link>https://archive.org/download/bucky-jibaku-kun/Bucky_Jibaku-kun_E23.mp4$nome= SD</link>
+<link>https://archive.org/download/bucky-jibaku-kun-completo-720p/Bucky.Jibaku-kun.E23.BluRay.720p.DUAL-WWW.LAPUMiAFiLMES.COM.mp4$nome= HD</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -145,13 +146,16 @@
 <info></info></item>
 
 <item><title>[B]Bucky Jibaku-Kun S01E25[/B]</title>
-<link>https://archive.org/download/bucky-jibaku-kun/Bucky_Jibaku-kun_E25.mp4</link>
+<link>https://archive.org/download/bucky-jibaku-kun/Bucky_Jibaku-kun_E25.mp4$nome= SD</link>
+<link>https://archive.org/download/bucky-jibaku-kun-completo-720p/Bucky.Jibaku-kun.E25.BluRay.720p.DUAL-WWW.LAPUMiAFiLMES.COM.mp4$nome= HD</link>
+<link>https://archive.org/download/bucky-jibaku-kun-completo-720p/Bucky.Jibaku-kun.E25.BluRay.720p.DUAL-WWW.LAPUMiAFiLMES.COM.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Bucky Jibaku-Kun S01E26[/B]</title>
-<link>https://archive.org/download/bucky-jibaku-kun/Bucky_Jibaku-kun_E26.mp4</link>
+<link>https://archive.org/download/bucky-jibaku-kun/Bucky_Jibaku-kun_E26.mp4$nome= SD</link>
+<link>https://archive.org/download/bucky-jibaku-kun-completo-720p/Bucky.Jibaku-kun.E26.BluRay.720p.DUAL-WWW.LAPUMiAFiLMES.COM.mp4$nome= HD</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
