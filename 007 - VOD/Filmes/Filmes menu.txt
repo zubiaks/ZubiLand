@@ -90,10 +90,10 @@
 <fanart>https://i.ibb.co/wJt1S62/11214581.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Filme Musical[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/rthRLxv/banditthreat-horror-and-picture-5077dd5e-79c2-4d25-ac19-be18ce56e2a9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/Filme%20Musical/3.txt</externallink>
+<fanart>https://i.ibb.co/kXBZBSP/download.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>

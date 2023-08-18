@@ -5,6 +5,18 @@
 <fanart>https://i.ibb.co/ZzdqZXn/matador-de-aluguel-t659.jpg</fanart>
 <info>Dalton é contratado para ser segurança em um bar noturno, porém acaba despertando a ira do chefe do crime local.</info></item>
 
+<item><title>[B]Justiça em Família[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Justi%C3%A7a%20em%20Fam%C3%ADlia%202021.mp4</link>
+<thumbnail>https://i.ibb.co/BGMQSpr/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/YpbRk0g/maxresdefault.jpg</fanart>
+<info>O devotado homem de família, Ray Cooper, jura fazer justiça contra contra a gananciosa empresa farmacêutica responsável por retirar do mercado um medicamento que poderia ter salvo a vida de sua esposa. Sua busca pela verdade incomoda forças poderosas e coloca Ray e sua filha Rachel em perigo. Logo, sua missão se transforma em uma busca por vingança guiada pelo desejo de proteger a única família que lhe resta.</info></item>
+
+<item><title>[B]3000 Miles to Graceland (2001)[/B]</title>
+<link>https://archive.org/download/3000-milhas/3000%20milhas.mp4</link>
+<thumbnail>https://i.ibb.co/R3VZdXg/MV5-BMTEx-MDA0-NDAy-OTRe-QTJe-QWpw-Z15-Bb-WU2-MDM4-ODg3-OQ-V1-FMjpg-UX1000.jpg</thumbnail>
+<fanart>https://i.ibb.co/LhK2BXF/download-1.jpg</fanart>
+<info>Um grupo de ex-presidiários liderado por Michael e Murphy planeja um assalto a um cassino de Las Vegas. Porém, como o assalto acontecerá em meio à uma convenção de imitadores de Elvis Presley, eles precisam se vestir a caráter para executar o roubo.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>

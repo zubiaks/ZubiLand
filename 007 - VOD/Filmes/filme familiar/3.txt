@@ -5,6 +5,12 @@
 <fanart>https://i.ibb.co/NVsRRSR/c7b727533087b20abfda179385570891.jpg</fanart>
 <info>Challenge to Lassie é um filme de comédia dramática estadunidense dirigido por Richard Thorpe e lançado em 31 de outubro de 1949, pela MGM Studios. Foi o quinto longa-metragem estrelado pela cadela Lassie, personagem fictício criado pelo autor britânico Eric Knight.</info></item>
 
+<item><title>[B]luccas neto em busca do tesouro 2[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Luccas%20Neto%20Em%20%20O%20Mapa%20Do%20Tesouro%202%202021.mp4</link>
+<thumbnail>https://i.ibb.co/SrSX4Yg/4068170.jpg</thumbnail>
+<fanart>https://i.ibb.co/dgKwRsj/4159491.webp</fanart>
+<info>Em O Mapa do Tesouro 2, Luccas Neto e Gi Alparone vão embarcar em uma aventura para encontrar um misterioso baú, longe do território seguro do sítio da avó deles. No meio do caminho, eles conhecem Estela, uma elfa que faz parte de uma família que busca há anos pelo baú, que contém um colar mágico muito poderoso, capaz de acabar com preconceitos e reduzir as desigualdades entre as pessoas, mas que em mãos erradas pode gerar um caos no planeta, desequilibrando a justiça no mundo.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>

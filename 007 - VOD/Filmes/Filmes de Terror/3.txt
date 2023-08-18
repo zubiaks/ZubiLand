@@ -5,6 +5,24 @@
 <fanart>https://i.ibb.co/wsmtbCb/maxresdefault.jpg</fanart>
 <info>Uma jovem é assombrada por seu amigo imaginário de infância ao voltar para casa.</info></item>
 
+<item><title>[B]Escape Room 2: Sem Saída[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Escaperoomtournamentofchampions20211.mp4</link>
+<thumbnail>https://i.ibb.co/7XjmhwP/DP-6172461-Escape-Room-TOC-Cover-2000x3000-US.jpg</thumbnail>
+<fanart>https://i.ibb.co/bmV3PyH/AAAABQWn1-GUKepi-Dq-Mdtrxhp0-AEUH815-8-TS649c-Fi-JORSj5-Qd-Gv-OSRr-NENF8h-SKF8-Sx94jap-Moj5ah-QHglg.jpg</fanart>
+<info>Sobreviventes de jogos anteriores enfrentam uma nova e mais mortal série de jogos.</info></item>
+
+<item><title>[B]House of Wax (1953)[/B]</title>
+<link>https://archive.org/download/1953-museu-de-cera-dub/%5B1953%5D%20Museu%20De%20Cera%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/1dgKwFC/MV5-BOWRh-MTg1-Nj-Yt-NDA5-MS00-NDJh-LTgz-Zm-Qt-Zm-Y3-Nm-Rj-NTEx-YWE3-Xk-Ey-Xk-Fqc-Gde-QXVy-NTIz-OTk5.jpg</thumbnail>
+<fanart>https://i.ibb.co/GMV5gd4/download.jpg</fanart>
+<info>Henry Jarrod, um artista que produz esculturas históricas em cera, tem sua obra queimada por um ganancioso sócio e quase morre no incêndio. Tempos depois, ele retorna em cadeira de rodas e com sede de vingança para restaurar suas criações em cera.</info></item>
+
+<item><title>[B]Fim Dos Dias (1999)[/B]</title>
+<link>https://archive.org/download/1999-fim-dos-dias-dub/%5B1999%5D%20Fim%20dos%20Dias%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/rMGV1BH/20407383.webp</thumbnail>
+<fanart>https://i.ibb.co/HGG1Kww/maxresdefault.jpg</fanart>
+<info>O milênio se aproxima enquanto uma série de sinais perturbadores sugere que Satanás voltou à Terra e está vagando pelas ruas da cidade de Nova York. Ele precisa encontrar uma mulher que dará à luz seu filho a tempo da chegada do Anticristo. Um ex-policial deve proteger a mulher supostamente escolhida para ser a mãe.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>

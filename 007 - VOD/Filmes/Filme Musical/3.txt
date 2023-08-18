@@ -1,4 +1,22 @@
 
+<item><title>[B]cinderella (2021)[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Cinderela%202021.mp4</link>
+<thumbnail>https://i.ibb.co/Lz74KHL/MV5-BZTk3-ZTEz-NGUt-ZTcw-Yy00-Nm-Rm-LWFh-MGYt-Zj-A4-NWY1-ZWI4-Mz-My-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-Uy.jpg</thumbnail>
+<fanart>https://i.ibb.co/gd2V1ck/cfd423098535be51dc37f02caa23d077eda63c540c5119486de67187ec4af557-UY500-UX667-RI-TTW.jpg</fanart>
+<info>Cinderella é uma moça determinada que embarca em uma aventura musical para alcançar seus sonhos. Mas ela não está sozinha nessa empreitada, a garota conta com a ajuda de seu Fado Madrinho e de seus ratinhos.</info></item>
+
+<item><title>[B]Popeye, O Filme (1980)[/B]</title>
+<link>https://archive.org/download/popeye-o-filme-1980-vhsrip-1a-dublagem/Popeye%2C%20o%20Filme%20%281980%29%20VHSRip%201%C2%AA%20Dublagem.mp4</link>
+<thumbnail>https://i.ibb.co/ykJ2YWG/20535433.webp</thumbnail>
+<fanart>https://i.ibb.co/yXp6kL0/sddefault.jpg</fanart>
+<info>Procurando seu pai que o deserdou quando era bebê, um marinheiro de nome Popeye viaja para à cidade do porto de Sweethaven. Ele faz amizade com uma variedade de pessoas e se apaixona por Olívia Palito, que já tem um pretendente, o valentão Brutus. Popeye também acha um bebê abandonado, Gugu, que ele cria sozinho. Quando Brutus sequestra Olívia e a criança, Popeye entra em ação, com a ajuda de seu espinafre mágico.</info></item>
+
+<item><title>[B]seven brides for seven brothers (1954)[/B]</title>
+<link>https://archive.org/download/1954-sete-noivas-para-sete-irmaos-1954/%5B1954%5D%20Sete%20Noivas%20Para%20Sete%20Irm%C3%A3os%20%5B1954%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/gDfsNm1/MV5-BMm-Nk-YWU3-Nzkt-Mm-Rh-MS00-Y2-E4-LTkx-Yjgt-NGQz-Yz-Yz-MDQy-MWMx-L2lt-YWdl-L2lt-YWdl-Xk-Ey-Xk-Fq.jpg</thumbnail>
+<fanart>https://i.ibb.co/LNQXGN7/download-1.jpg</fanart>
+<info>Adam (Howard Kell) é um rapaz simples, primogênito de uma família que vive no interior. Ele faz uma viagem à cidade para comprar mantimentos e acaba arranjando uma esposa, a garçonete Milly (Jane Powell). Incentivados pelo casório, os outros seis irmãos de Adam decidem viajar para a cidade em busca de pretendentes. Inspirado pelo mito do Rapto das Sabinas pelos romanos, Adam motiva seus irmãos a sequestrar as moças com quem quem querem se casar.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>

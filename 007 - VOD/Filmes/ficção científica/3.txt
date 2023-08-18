@@ -29,6 +29,30 @@
 <fanart>https://i.ibb.co/kS3hQW9/7382727ada9778947683f99eb24d4542ce27a544180ad7e626b1345f62dc9034-UY500-UX667-RI-TTW.jpg</fanart>
 <info>No ano de 2019, um mercenário persegue dois clones que fogem de um centro de pesquisa depois de descobrirem qual é o seu verdadeiro destino.</info></item>
 
+<item><title>[B]Chaos Walking: O Ruído[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Mundo%20Em%20Caos%202021.mp4</link>
+<thumbnail>https://i.ibb.co/47SqggW/1891925.jpg</thumbnail>
+<fanart>https://i.ibb.co/YcrNBKB/Poster-Mundo-em-Caos.jpg</fanart>
+<info>Todd cresceu com a crença de que as mulheres desapareceram do mundo e os homens foram afetados por um ruído capaz de deixar seus pensamentos audíveis. Ele então descobre um pedaço de silêncio no pântano, onde encontra uma garota chamada Viola. Todd jura protegê-la, mas para isso deve descobrir sua força e desvendar todos os segredos sombrios que seu planeta e sua comunidade guardam.</info></item>
+
+<item><title>[B]Tomorrowland Um Lugar Onde Nada É Impossível (2015) (1080p)[/B]</title>
+<link>https://archive.org/download/tomorrowland-um-lugar-onde-nada-e-impossivel-2015-1080p/Tomorrowland%20-%20Um%20lugar%20onde%20nada%20%C3%A9%20imposs%C3%ADvel%20%282015%2B1080p%29.mp4</link>
+<thumbnail>https://i.ibb.co/C0nPpS1/062270.webp</thumbnail>
+<fanart>https://i.ibb.co/87Ys1rL/scale.jpg</fanart>
+<info>Uma adolescente curiosa e inteligente encontra um broche e é transportada para uma realidade paralela repleta de robôs e invenções futuristas. Com a ajuda de um cientista que já visitou Tomorrowland, ela tenta descobrir os segredos do futuro.</info></item>
+
+<item><title>[B]elysium (2013)[/B]</title>
+<link>https://archive.org/download/a-era-do-gelo-as-aventuras-de-buck-2022-web-dl-1080p-dual-5.1_202202/Elysium%20%282013%29%20-%20wolverdonfilmes.com.ia.mp4</link>
+<thumbnail>https://i.ibb.co/K9FX73C/918z-XXTsaj-L-AC-UF894-1000-QL80.jpg</thumbnail>
+<fanart>https://i.ibb.co/HYkgMvj/97a3bdc587fe5bc91c167c5a44e853ef11229ce36bde0440169bb932afb99272-UR1920-1080.jpg</fanart>
+<info>No ano de 2154, os mais ricos vivem em uma estação espacial enquanto o resto da população mora em uma Terra arruinada. Um homem assume a missão de tentar trazer igualdade aos mundos polarizados.</info></item>
+
+<item><title>[B]Chappie (2015)[/B]</title>
+<link>https://archive.org/download/elysium-2013-wolverdonfilmes.com/Chappie%20%282015%29%20720p%20Dublado%20-%20Alan_680.mp4</link>
+<thumbnail>https://i.ibb.co/5kXhGbz/DP-2274037-Chappie-2015-1400x2100-US-0.jpg</thumbnail>
+<fanart>https://i.ibb.co/gJtTXbj/MV5-BMTA0-MDg3-Nz-Az-Nzle-QTJe-QWpw-Z15-Bb-WU4-MDgw-OTQw-Nj-Qx-V1.jpg</fanart>
+<info>Em um futuro próximo, policiais humanos são substituídos por robôs ultrarresistentes, dotados de inteligência artificial. Deon, o cientista criador das máquinas, rouba um modelo defeituoso e consegue fazer com que ele tenha a capacidade de sentir e pensar por si próprio. Porém, as autoridades começam a ver Chappie como um perigo para a humanidade e ordem e vão fazer de tudo para garantir que ele seja o último de sua espécie.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>

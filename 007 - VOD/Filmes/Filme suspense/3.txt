@@ -17,6 +17,24 @@
 <fanart>https://i.ibb.co/r635bCG/6op-P1-Chcx-CXb9-FS7y-En1xyx-IIJC.jpg</fanart>
 <info>A recém-separada Dra. Juliet se muda para um novo apartamento a fim de recomeçar sua vida. Porém, ela começa a perceber estranhas movimentações em sua nova casa e se vê cercada por uma invisível força do mal. Agora Juliet terá que descobrir a origem dessa força se quiser ter sua paz de volta.</info></item>
 
+<item><title>[B]sobreviva ou morra tentando[/B]</title>
+<link>https://archive.org/download/wii-movies/filmes/Sobreviva%20Ou%20Morra%20Tentando%202020.mp4</link>
+<thumbnail>https://i.ibb.co/xsZvphT/1566117.webp</thumbnail>
+<fanart>https://i.ibb.co/VDbPz22/download-1.jpg</fanart>
+<info>Zoe é uma jovem de 17 anos cheia de raiva, lidando com a morte de sua mãe. Quando sua escola é invadida por estudantes armados, ela faz de tudo para enfrentar os agressores e salvar seus colegas.</info></item>
+
+<item><title>[B]Glass (2019)[/B]</title>
+<link>https://archive.org/download/o.-corcunda.de.-notre.-dame.-1996.720p.-blu-ray.x-264.-dublado-www.-bludv.-tv/Vidro.2019.1080p.BluRay.x264.DUBLADO-WWW.BLUDV.TV.mp4</link>
+<thumbnail>https://i.ibb.co/qr551pL/unnamed.jpg</thumbnail>
+<fanart>https://i.ibb.co/H2wnBxh/download.jpg</fanart>
+<info>Kevin Crumb, um homem com 24 personalidades diferentes, passa a ser perseguido por David Dunn. O jogo de gato e rato entre o homem inquebrável e a Fera é influenciado pela presença de Elijah Price, que manipula seus encontros.</info></item>
+
+<item><title>[B]Payback (1999)[/B]</title>
+<link>https://archive.org/download/1999-o-troco-dub/%5B1999%5D%20O%20Troco%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/ssGnK9f/MV5-BN2-Yx-YTUy-MTIt-Ym-U4-ZS00-OTIz-LWIw-MWQt-MDY3-Nz-Ri-Mm-Iy-MWMx-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-M.jpg</thumbnail>
+<fanart>https://i.ibb.co/PgF0JJ8/t-T8-Vb5kvlk8y-DZQr-OUr6fupx26-D.jpg</fanart>
+<info>Porter (Mel Gibson) e Val Resnick (Gregg Henry) assaltam uma gangue de chineses e roubam 140 mil dólares. Porter se dá por satisfeito, apesar de esperar entre 350 mil e meio milhão de dólares, mas Val não, pois precisava de 130 mil dólares para saldar suas dívidas e ser aceito na "Organização". Assim, com a ajuda de Lynn (Deborah Unger), a esposa de Porter, Val o trai e Porter é baleado e dado como morto. Mas após algum tempo ele reaparece, decidido a receber os 70 mil dólares da sua parte, mesmo que para isto tenha de enfrentar toda a "Organização". Mas existe uma forte possibilidade que ele morra tentando e nesta louca tentativa conta apenas com Rosie (Maria Bello), uma garota de programa bastante exclusiva com quem tinha se envolvido, quando era seu segurança e motorista.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
