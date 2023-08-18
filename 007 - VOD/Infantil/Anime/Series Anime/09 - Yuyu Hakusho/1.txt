@@ -6,10 +6,10 @@
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Serie[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/D81cC1r/5a178ace09f0fac780b758a7e231db63.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/09%20-%20Yuyu%20Hakusho/Serie/1.txt</externallink>
+<fanart>https://i.ibb.co/sJ61yTq/00-main03.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
