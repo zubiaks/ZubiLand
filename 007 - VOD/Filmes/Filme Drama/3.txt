@@ -1,4 +1,28 @@
 
+<item><title>[B]joana d'arc (1948)[/B]</title>
+<link>https://archive.org/download/1948-joana-darc-dub_202305/%5B1948%5D%20Joana%20D%27arc%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/b7j5q1F/MV5-BYj-M1-ODJl-N2-Qt-MTE4-NC00-Mz-Nh-LTg3-Zj-Yt-YWNk-MWZj-Nm-Jm-Nj-Fk-Xk-Ey-Xk-Fqc-Gde-QXVy-MDI2-ND.jpg</thumbnail>
+<fanart>https://i.ibb.co/RyHDTzq/picingridjoanofarc.webp</fanart>
+<info>No século 15, a França é uma nação derrotada e arruinada após a Guerra dos Cem Anos contra a Inglaterra. Uma jovem fazendeira de catorze anos, Joana D'Arc, afirma ouvir vozes do céu pedindo-lhe para liderar o Exército de Deus.</info></item>
+
+<item><title>[B]a stolen life (1946)[/B]</title>
+<link>https://archive.org/download/1946-uma-vida-roubada-a-stolen-life-dub/%5B1946%5D%20Uma%20Vida%20Roubada%20%28A%20Stolen%20Life%29%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/MnR3ZXy/A-Stolen-life-Theatrical-release-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/NCKHvvR/download-1.jpg</fanart>
+<info>Quando sua irmã gêmea morre afogada, a artista Kate assume o lugar dela para ficar com seu marido.</info></item>
+
+<item><title>[B]Sexy e Marginal (1972)[/B]</title>
+<link>https://archive.org/download/1972-sexy-e-marginal-dub/%5B1972%5D%20Sexy%20e%20Marginal%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/HgGg2k0/Boxcar-Bertha-sapo.jpg</thumbnail>
+<fanart>https://i.ibb.co/zFCMwnJ/img.webp</fanart>
+<info>Durante a época da depressão, Bertha Thompson (Barbara Hershey) viu seu pai ser forçado em pilotar um avião em condições precárias e morrer em um acidente. Mais tarde ela liga a "Big" Bill Shelley (David Carradine), um líder sindical, mas na "caça as bruxas" que c6aracterizou a época do macartismo ele era considerado um comunista. Assim, "Big" Bill é perseguido e logo o casal se vê envolvido em assaltos.</info></item>
+
+<item><title>[B]The Legend of Billie Jean (1985)[/B]</title>
+<link>https://archive.org/download/1985-a-lenda-de-billie-jean-dub/%5B1985%5D%20A%20Lenda%20de%20Billie%20Jean%20%5BDUB%5D%20.mp4</link>
+<thumbnail>https://i.ibb.co/D4Tt5FD/71khvo-Mn68-S-AC-UF894-1000-QL80.jpg</thumbnail>
+<fanart>https://i.ibb.co/6mb6g7n/MV5-BMGVh-OGIz-ZTYt-NDNl-Yi00-Ym-I1-LWI3-NDkt-ZDhm-Yzgy-OGY0-MWNl-Xk-Ey-Xk-Fqc-Gde-QXVy-OTc5-MDI5-Nj.jpg</fanart>
+<info>Injustamente acusada por um crime que não cometeu, Billie Jean Davy (Helen Slater), uma garota do interior do Texas, foge para não ser capturada pela corrupta polícia local. Com o passar do tempo, sua história se torna conhecida entre os jovens locais, que passam a idolatrá-la.</info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
