@@ -114,11 +114,11 @@
 <fanart>https://i.ibb.co/ZWrS3Ch/2912051-jpg-r-1280-720-f-jpg-q-x-xxyxx.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]CINEBIOGRAFIA[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/xq5ZXKj/3313726-rocketman-traz-a-cinebiografia-do-icon-580x0-3.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/CINEBIOGRAFIA/3.txt</externallink>
+<fanart>https://i.ibb.co/SdJ71Lf/cinebiografias-musicos.webp</fanart>
+<info>Um filme biográfico ou cinebiografia, também conhecido no jargão do cinema sob o anglicismo biopic é um filme que dramatiza a vida de uma personalidade real. Na maioria das vezes, relata a vida de um personagem do passado, sem que necessariamente se trate de uma figura de importância histórica</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

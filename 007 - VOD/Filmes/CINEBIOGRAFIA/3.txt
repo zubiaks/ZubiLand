@@ -1,9 +1,9 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Delírios de um Cinemaníaco (2013)[/B]</title>
+<link>https://archive.org/download/DeliriosDeUmCinemaniaco/DeliriosDeUmCinemaniaco-VersaoParaDownload.mp4</link>
+<thumbnail>https://i.ibb.co/LhnS7WQ/MV5-BODc4-MDAy-Njgt-Nz-Nl-MS00-MGU1-LWI0-YWEt-MWRl-ZTRm-ZWQ3-ZGI4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI0-Nzk5-NT.jpg</thumbnail>
+<fanart>https://i.ibb.co/WK4tx5F/download-2.jpg</fanart>
+<info>Esse filme é a cinebiografia de José de Oliveira. um Homem que desde a sua infãncia até a velhice, viu a morte levar seus famíliares e maiores amigos. Mas encontrou no amor por Edna e na paixão pelo cinema, forças pra encarar as mazelas da vida, vivendo em um grande delírio cinematográfico.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
