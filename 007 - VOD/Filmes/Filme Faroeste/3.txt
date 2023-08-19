@@ -5,11 +5,11 @@
 <fanart>https://i.ibb.co/nfX1jPJ/image-w1280.jpg</fanart>
 <info>Baseado na biografia de Wyatt Earp (Henry Fonda), o lendário xerife de Dodge City. Em uma das viagens com seus irmãos carregando gado, ele deixa seu irmão mais novo tomando conta do rebanho enquanto vai ao saloon. Quando volta, encontra o pequeno morto. Decide então aceitar trabalhar no cargo de xerife da cidade, tentando trazer a justiça ao local.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Angel And The Badman (1947)[/B]</title>
+<link>https://archive.org/download/OAnjoEOBandidoangelAndTheBadman1947Legendado/AngelAndTheBadman1947.mp4</link>
+<thumbnail>https://i.ibb.co/QckjHXF/MV5-BYWI1-Nzdh-YTMt-ZGE2-ZS00-Zj-Jj-LThm-ZWQt-Nj-Y4-ODcx-NWM2-Yj-Q3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDQ4.jpg</thumbnail>
+<fanart>https://i.ibb.co/xs34pRc/x480.jpg</fanart>
+<info>Buscando refúgio em uma fazenda no velho oeste, o matador Quirt Evans conhece a filha de um fazendeiro e se apaixona. Aconselhado por sua amada, ele decide abandonar sua vida de pistoleiro e recomeçar a vida ao lado dela.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
