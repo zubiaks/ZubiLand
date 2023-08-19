@@ -11,11 +11,11 @@
 <fanart>https://i.ibb.co/xs34pRc/x480.jpg</fanart>
 <info>Buscando refúgio em uma fazenda no velho oeste, o matador Quirt Evans conhece a filha de um fazendeiro e se apaixona. Aconselhado por sua amada, ele decide abandonar sua vida de pistoleiro e recomeçar a vida ao lado dela.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O BarÃo do Oeste[/B]</title>
+<link>https://i.ibb.co/DbynDYd/download.jpg</link>
+<thumbnail>https://archive.org/download/FilmeOBaroDoOeste-Mclintock1963/Mclintock1963.mp4</thumbnail>
+<fanart>https://i.ibb.co/Hpgh9YB/download-1.jpg</fanart>
+<info>O fazendeiro George Washington McLintock é forçado a lidar com inúmeros problemas pessoais e profissionais. Aparentemente, todo mundo quer um pedaço de sua enorme fazenda, incluindo o governo, nativos-americanos e sua ex-esposa.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
