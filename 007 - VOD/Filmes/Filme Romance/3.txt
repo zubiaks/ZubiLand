@@ -11,11 +11,11 @@
 <fanart>https://i.ibb.co/KDFRkZG/scale.jpg</fanart>
 <info>A situação está tensa na casa dos Stratford. Bianca (Larisa Oleynik) não vê a hora de arranjar um namorado, mas seu pai (Larry Miller) não permite que ela saia com garotos. Após muita insistência, o pai toma uma resolução: Bianca pode namorar, desde que sua irmã, Katharina (Julia Stiles), namore também. Só que Katharina é uma verdadeira megera, que não tem amigos na escola nem em lugar algum. Para resolver a questão, Cameron (Joseph Gordon-Levitt), apaixonado por Bianca, resolve contratar o misterioso Patrick Verona (Heath Ledger) para seduzir a futura cunhada.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Nunca Fui Santa (1999)[/B]</title>
+<link>https://archive.org/download/butimacheerleadernuncafuisantalegendadoptbr/But%20I%27m%20A%20cheerleader%20%28Nunca%20fui%20santa%29%20-%20Legendado%20PT_BR.mp4</link>
+<thumbnail>https://i.ibb.co/8cPq3JZ/21044726-20130927133112827.webp</thumbnail>
+<fanart>https://i.ibb.co/F4hrq80/download.jpg</fanart>
+<info>But I'm a Cheerleader é um filme estadunidense de 1999, uma comédia romântica dirigida por Jamie Babbit. O enredo do filme gira, de forma cómica, em torno da questão da "cura" da homossexualidade da jovem Megan Bloomfield</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
