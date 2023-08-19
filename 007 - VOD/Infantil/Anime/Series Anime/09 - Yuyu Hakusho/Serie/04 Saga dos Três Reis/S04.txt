@@ -1,175 +1,126 @@
 
-<item><title>[B]S04E01 [/B]</title>
+<item><title>[B](OFF)S04E01 O Destino de Yusuke[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E02 [/B]</title>
+<item><title>[B]S04E02 Os Visitantes das Trevas[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E03 [/B]</title>
+<item><title>[B]S04E03 A Despedida[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E04 [/B]</title>
+<item><title>[B]S04E04 O Confronto com o Pai[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E05 [/B]</title>
+<item><title>[B](OFF)S04E05 Lembrança Inesquecível[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E06 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E06 O Segredo do Olho Diabólico[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.100%20-%20O%20Segredo%20do%20Olho%20Diab%C3%B3lico.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.100%20-%20O%20Segredo%20do%20Olho%20Diab%C3%B3lico.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E07 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E07 O Ladrão das Trevas[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.101%20-%20O%20Ladr%C3%A3o%20das%20Trevas.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.101%20-%20O%20Ladr%C3%A3o%20das%20Trevas.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E08 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E08 A Mudança de Kurama Youko[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.102%20-%20A%20Mudan%C3%A7a%20de%20Kurama%20Youko.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.102%20-%20A%20Mudan%C3%A7a%20de%20Kurama%20Youko.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E09 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E09 As Últimas Palavras de Raizen[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.103%20-%20As%20%C3%9Altimas%20Palavras%20de%20Papai.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.103%20-%20As%20%C3%9Altimas%20Palavras%20de%20Papai.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E10 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E10 A Estranha Proposta[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.104%20-%20A%20Estranha%20Proposta.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.104%20-%20A%20Estranha%20Proposta.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E11 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E11 O Início do Novo Torneio[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.105%20-%20O%20In%C3%ADcio%20do%20Novo%20Torneio.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.105%20-%20O%20In%C3%ADcio%20do%20Novo%20Torneio.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E12 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E12 A Luta Entre Pai e Filho[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.106%20-%20A%20Luta%20entre%20Pai%20e%20Filho.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.106%20-%20A%20Luta%20entre%20Pai%20e%20Filho.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E13 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E13 A Luta Violenta[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.107%20-%20A%20Luta%20Violenta.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.107%20-%20A%20Luta%20Violenta.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E14 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E14 Kurama e o Desligamento com o Passado[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.108%20-%20Kurama%20e%20o%20Desligamento%20com%20o%20Passado.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.108%20-%20Kurama%20e%20o%20Desligamento%20com%20o%20Passado.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E15 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E15 A Luta Entre Hiei e Mukuro[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.109%20-%20A%20Luta%20entre%20Hiei%20e%20Mukuro.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.109%20-%20A%20Luta%20entre%20Hiei%20e%20Mukuro.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E16 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E16 A Força Total[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.110%20-%20%20A%20For%C3%A7a%20Total.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.110%20-%20%20A%20For%C3%A7a%20Total.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E17 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E17 A Decisão Final[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.111%20-%20A%20Decis%C3%A3o%20Final.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.111%20-%20A%20Decis%C3%A3o%20Final.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E18 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E19 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E20 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E21 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E22 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E23 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E24 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E25 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E18 Eternamente Yu Yu Hakusho[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.112%20-%20Para%20Sempre%20Yu%20Yu%20Hakusho.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.112%20-%20Para%20Sempre%20Yu%20Yu%20Hakusho.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

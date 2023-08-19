@@ -1,194 +1,194 @@
 
-<item><title>[B]S03E01 [/B]</title>
+<item><title>[B]S03E01 Um Novo Prólogo[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.67%20-%20Um%20Novo%20Pr%C3%B3logo.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.67%20-%20Um%20Novo%20Pr%C3%B3logo.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E02 A Armadilha na Mansão Yojiken[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.68%20-%20A%20Armadilha%20na%20Mans%C3%A3o%20Yodigen.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.68%20-%20A%20Armadilha%20na%20Mans%C3%A3o%20Yodigen.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E03 A Inteligência de Kurama[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.69%20-%20A%20Intelig%C3%AAncia%20de%20Kurama.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.69%20-%20A%20Intelig%C3%AAncia%20de%20Kurama.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E04 Um Novo Enigma[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.70%20-%20Um%20Novo%20Enigma.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.70%20-%20Um%20Novo%20Enigma.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E05 O Terrível Portão das Trevas[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.71%20-%20O%20Terrivel%20Port%C3%A3o%20das%20Trevas.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.71%20-%20O%20Terrivel%20Port%C3%A3o%20das%20Trevas.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E06 Os Sete Inimigos[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.72%20-%20Os%207%20Inimigos.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.72%20-%20Os%207%20Inimigos.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E07 Doutor, o Misterioso Inimigo[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.73%20-%20Doutor%2C%20O%20Misterioso%20Inimigo.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.73%20-%20Doutor%2C%20O%20Misterioso%20Inimigo.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E08 Acabe com o Território[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.74%20-%20Acabe%20com%20o%20Territorio.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.74%20-%20Acabe%20com%20o%20Territorio.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E09 Seaman e a sua Armadilha[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.75%20-%20Seeman%20e%20a%20sua%20Armadilha.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.75%20-%20Seeman%20e%20a%20sua%20Armadilha.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E10 A Ressurreição de Kuwabara! A Volta do Poder[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.76%20-%20A%20Ressurrei%C3%A7%C3%A3o%20de%20Kuwabara%2C%20A%20Volta%20do%20Poder.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.76%20-%20A%20Ressurrei%C3%A7%C3%A3o%20de%20Kuwabara%2C%20A%20Volta%20do%20Poder.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E11 O Passado Negro do Detetive Espiritual[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.77%20-%20O%20Passado%20Negro%20do%20Detetive%20Sobrenatural.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.77%20-%20O%20Passado%20Negro%20do%20Detetive%20Sobrenatural.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E12 O Ataque do Dark Angel[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.78%20-%20o%20Ataque%20de%20Dark%20Angel.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.78%20-%20o%20Ataque%20de%20Dark%20Angel.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E13 A Perseguição de Yusuke[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.79%20-%20A%20Persegui%C3%A7%C3%A3o%20de%20Yusuke.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.79%20-%20A%20Persegui%C3%A7%C3%A3o%20de%20Yusuke.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E14 Hagiri e o Alvo da Morte[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.80%20-%20Haiguri%20e%20o%20Alvo%20da%20Morte.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.80%20-%20Haiguri%20e%20o%20Alvo%20da%20Morte.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E15 Guerra na Caverna[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.81%20-%20Guerra%20na%20Caverna.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.81%20-%20Guerra%20na%20Caverna.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E16 A Ameaça de Game Master[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.82%20-%20A%20Amea%C3%A7a%20de%20GameMaster.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.82%20-%20A%20Amea%C3%A7a%20de%20GameMaster.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E17 A Decisão Firme de Kurama[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.83%20-%20A%20Decis%C3%A3o%20Firme%20de%20Kurama.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.83%20-%20A%20Decis%C3%A3o%20Firme%20de%20Kurama.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E18 O Ódio de Kurama[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.84%20-%20O%20%C3%93dio%20de%20Kurama.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.84%20-%20O%20%C3%93dio%20de%20Kurama.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E19 O Combate do Detetive Sobrenatural[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.85%20-%20O%20Combate%20do%20Detetive%20Sobrenatural.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.85%20-%20O%20Combate%20do%20Detetive%20Sobrenatural.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S03E20 A Dura Batalha de Yusuke[/B]</title>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.86%20-%20A%20Dura%20Batalha%20de%20Yusuke.mp4$nome= MP4</link>
+<link>https://archive.org/download/yu-yu-hakusho-720p/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yuyu%20Hakusho%20Completo%20Bluray%20720p%20Dublado/Yu%20Yu%20Hakusho%20EP.86%20-%20A%20Dura%20Batalha%20de%20Yusuke.mkv$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B](OFF)S03E21 Koenma e o Golpe Secreto Mafuukan[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S03E02 [/B]</title>
+<item><title>[B]S03E22 Sensui e o Golpe Seikoki[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S03E03 [/B]</title>
+<item><title>[B]S03E23 A Morte de Yusuke[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S03E04 [/B]</title>
+<item><title>[B]S03E24 A Vontade do Amigo Continua[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S03E05 [/B]</title>
+<item><title>[B]S03E25 O Patrulhamento[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S03E06 [/B]</title>
+<item><title>[B]S03E26 A Luta Extrema[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S03E07 [/B]</title>
+<item><title>[B]S03E27 A Batalha Violenta[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S03E08 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E09 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E10 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E11 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E12 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E13 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E14 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E15 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E16 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E17 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E18 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E19 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E20 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E21 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E22 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E23 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E24 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E25 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E26 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E27 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E28 [/B]</title>
+<item><title>[B]S03E28 Epílogo: O Amanhã[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
