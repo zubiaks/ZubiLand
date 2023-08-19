@@ -1,51 +1,33 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Season 1[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/fHtKZWD/618-AKWXbln-L-AC-UF1000-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Series%20Animadas/X-Men/S1/eps.txt</externallink>
+<fanart>https://i.ibb.co/tzkqrnW/4fj-FVPi2o-Neq-HRHf-He-Pg-XGx-Ax-Qq.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Season 2[/COLOR][/B]</name>
+<thumbnailhttps://i.ibb.co/6XCLvPR/5021123127554-l.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Series%20Animadas/X-Men/S2/eps.txt</externallink>
+<fanart>>https://i.ibb.co/mtmR62z/download.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Season 3[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/XYmHK0M/81-Hfj7so-RUL-AC-UF894-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Series%20Animadas/X-Men/S3/eps.txt</externallink>
+<fanart>https://i.ibb.co/rdQC46y/s3-episode-15.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Season 4[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/5YJzM1L/42dd58fa6b32a33a970db20539950144.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Series%20Animadas/X-Men/S4/eps.txt</externallink>
+<fanart>https://i.ibb.co/93Zjcxk/xmen-185724.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Season 5[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/pJ7PtBr/513x-RFdwm-CL-AC-UF894-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Series%20Animadas/X-Men/S5/eps.txt</externallink>
+<fanart>https://i.ibb.co/NtyKMXM/images.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
