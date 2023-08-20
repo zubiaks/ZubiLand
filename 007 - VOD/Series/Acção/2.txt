@@ -18,11 +18,11 @@
 <fanart>https://i.ibb.co/qC9SYPf/hqdefault.jpg</fanart>
 <info>Série inspirada na rotina de ações criminais de Marco Aurélio Baroni, que tenta escapar das investigações do delegado Jorge Macedo, conhecido por métodos nada convencionais.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Walker, o Ranger do Texas (1993)[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/DrV5py8/GUEST-f3da2803-4f6c-4061-a7c1-2012ce0477ac.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Ac%C3%A7%C3%A3o/Walker%2C%20o%20Ranger%20do%20Texas%20(1993)/2.txt</externallink>
+<fanart>https://i.ibb.co/rbx6B7w/download.jpg</fanart>
+<info>Walker, Texas Ranger é uma série de televisão americano, criada por Christopher Canaan, Albert S. Ruddy, Leslie Greif e Paul Haggis. A série foi produzida pela rede de TV CBS e transmitida de 1993 a 2001.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
