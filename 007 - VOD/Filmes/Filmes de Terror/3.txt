@@ -47,35 +47,35 @@
 <fanart>https://i.ibb.co/KKYTNrZ/a-arte-do-demonio-um-filme-perturbador-e-longe-da-perfeicao.jpg</fanart>
 <info>Art of the Devil 2 é um filme de terror tailandês de 2005 dirigido por Kongkiat Khomsiri, Art Thamthrakul, Yosapong Polsap, Putipong Saisikaew, Isara Nadee, Pasith Buranajan e Seree Pongniti. Foi lançado pela Five Star Production.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A Maldição De Helena (2012)[/B]</title>
+<link>https://archive.org/download/AMaldicaoDeHelena_201606/A%20Maldi%C3%A7%C3%A3o%20de%20Helena.mp4</link>
+<thumbnail>https://i.ibb.co/X3C54LC/20385367.webp</thumbnail>
+<fanart>https://i.ibb.co/rx8ZJh3/21026086-201308091617079.webp</fanart>
+<info>Divorciada, Sophia se muda para o sul da Itália com a filha Helena para começar uma nova vida. A menina perde seu primeiro dente de leite, e um fantasma passa a assombrar o seu sono. Sophia percebe a presença de algo desconhecido em sua nova casa.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A Possessão de Michael King (2014)[/B]</title>
+<link>https://archive.org/download/APossessoDoMalAPossessoDeMichaelKing/APossessoDoMalaPosessoDeMichaelKing.mp4</link>
+<thumbnail>https://i.ibb.co/7CjwQjY/552330.jpg</thumbnail>
+<fanart>https://i.ibb.co/qFTD5F1/download.jpg</fanart>
+<info>O filme conta a história de documentarista Michael King (Shane Johnson), que nÃ£o acredita em Deus ou no Diabo. Após a morte repentina de sua esposa, Michael decide fazer seu próximo filme sobre a busca pela existência do sobrenatural, tornando-se o centro da experiência â permitindo que demonologistas, necromantes e vários praticantes do ocultismo tentem os mais profundos e sombrios feitiços e rituais que podem sobre ele â na esperança de que quando falharem, ele irá de uma vez por todas, ter a prova de que a religião, o espiritismo e o paranormal não são nada mais do que um mito. Mas algo acontece. Uma força maligna e horripilante assumiu Michael King. E não vai deixá-lo sair assim.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Anarchy Parlor (2015)[/B]</title>
+<link>https://archive.org/download/AnarchyParlorLeg/Anarchy%20Parlor%20Leg.mp4</link>
+<thumbnail>https://i.ibb.co/v3ZvG6N/download-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/YBT7YZg/MV5-BNTc3-YTFh-YWYt-OTZj-Ni00-Yjcx-LTky-MDAt-Zj-Qw-MTQ1-ZDFl-Mjk5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTU2-ODA1-Mz.jpg</fanart>
+<info>Parlor é um filme de terror americano de 2014 e a estreia na direção de Devon Downs e Kenny Gage, que também escreveram o roteiro do filme. Teve sua estreia mundial em 14 de outubro de 2014 no Screamfest Horror Film Festival e foi filmado durante um período de 20 dias em Vilnius, Lituânia.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Atormentados (2005)[/B]</title>
+<link>https://archive.org/download/Atormentados/Atormentados.mp4</link>
+<thumbnail>https://i.ibb.co/1RSS18T/01d71a9d506fc563b4aa9451592e5a29.webp</thumbnail>
+<fanart>https://i.ibb.co/cJY5Vbg/ghost-of-mae-nak-2.jpg</fanart>
+<info>Mak e Nak compram uma casa, mas sua presença desperta um espírito atormentado, que começa a aparecer nos sonhos de Mak. Após um acidente de trânsito que o deixa em coma, Nak tenta entrar em contato com o fantasma e descobre que possui um item que pode ajudar a aliviar a dor da aparição e de seu marido.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Boneco do mal (2016)[/B]</title>
+<link>https://archive.org/download/BonecoDoMallegendado/BonecoDoMal-legendado.mp4</link>
+<thumbnail>https://i.ibb.co/XVrJFjc/567676.webp</thumbnail>
+<fanart>https://i.ibb.co/DMBB7z1/maxresdefault.jpg</fanart>
+<info>Uma babá norte-americana é surpreendida ao descobrir que a criança de sua nova família inglesa é na verdade um boneco de tamanho real. Depois de quebrar várias regras, determinados eventos a fazem acreditar que ele está realmente vivo.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
