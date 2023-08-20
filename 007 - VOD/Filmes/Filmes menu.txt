@@ -120,6 +120,24 @@
 <fanart>https://i.ibb.co/SdJ71Lf/cinebiografias-musicos.webp</fanart>
 <info>Um filme biográfico ou cinebiografia, também conhecido no jargão do cinema sob o anglicismo biopic é um filme que dramatiza a vida de uma personalidade real. Na maioria das vezes, relata a vida de um personagem do passado, sem que necessariamente se trate de uma figura de importância histórica</info></channel>
 
+<channel><name>[B][COLOR white]Filme Religioso[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/ctjfxnY/christian-ardila-9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/Religioso/menu.txt</externallink>
+<fanart>https://i.ibb.co/V3ZTtzm/World-Religions-164107922-c72cce704d4d4521962046df4fa8ce3f.jpg</fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
