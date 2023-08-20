@@ -1,11 +1,5 @@
 <channels>
 
-<channel><name>[B][COLOR white]Kyoju Tokuso Juspion (1985)[/COLOR][/B]</name>
-<thumbnail>https://ibb.co/1npzqKb</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Tokusatsu/1/01%20Jaspion/eps.txt</externallink>
-<fanart>https://i.ibb.co/qNwrzXV/download.jpg</fanart>
-<info>No planeta Edin, um profeta encontra um garoto humano que sobreviveu à queda de uma nave espacial, acidente em que seus pais morreram. O menino é adotado e recebe o nome de Jaspion.</info></channel>
-
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
