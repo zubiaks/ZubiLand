@@ -23,11 +23,11 @@
 <fanart>https://i.ibb.co/HGG1Kww/maxresdefault.jpg</fanart>
 <info>O milênio se aproxima enquanto uma série de sinais perturbadores sugere que Satanás voltou à Terra e está vagando pelas ruas da cidade de Nova York. Ele precisa encontrar uma mulher que dará à luz seu filho a tempo da chegada do Anticristo. Um ex-policial deve proteger a mulher supostamente escolhida para ser a mãe.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Jogos Sangrentos (2006)[/B]</title>
+<link>https://archive.org/download/jogosangrentos/jogosangrentos.mp4</link>
+<thumbnail>https://i.ibb.co/fvnRbVT/0000040-335.jpg</thumbnail>
+<fanart>https://i.ibb.co/7zTTKVq/jogos-sangrentos.jpg</fanart>
+<info>Hope, mãe de uma garotinha de seis anos, volta para casa depois de um encontro agradável e acorda sem a filha e dentro de um caixão na floresta. Perseguida e torturada por seu raptor, precisa sobreviver e descobrir o que houve com a menina.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>

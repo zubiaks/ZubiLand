@@ -5,11 +5,12 @@
 <fanart>https://i.ibb.co/WK4tx5F/download-2.jpg</fanart>
 <info>Esse filme é a cinebiografia de José de Oliveira. um Homem que desde a sua infãncia até a velhice, viu a morte levar seus famíliares e maiores amigos. Mas encontrou no amor por Edna e na paixão pelo cinema, forças pra encarar as mazelas da vida, vivendo em um grande delírio cinematográfico.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O Povo Contra Larry Flynt[/B]</title>
+<link>https://archive.org/download/O.Povo.Contra.Larry.Flynt.Dublado.mkv/O.Povo.Contra.Larry.Flynt.Dublado.mp4$nome= 1</link>
+<link>https://archive.org/download/O.Povo.Contra.Larry.Flynt.Dublado.mkv/O.Povo.Contra.Larry.Flynt.Dublado.mkv$nome= 2</link>
+<thumbnail>https://i.ibb.co/zhJ3LmM/19874376.jpg</thumbnail>
+<fanart>https://i.ibb.co/KyWzcx2/unnamed.jpg</fanart>
+<info>The People vs. Larry Flynt (bra O Povo contra Larry Flint[1]; prt Larry Flynt[2]) é um filme canado-estadunidense de 1996, do gênero drama biográfico, dirigido por Milos Forman. Relata a vida de Larry Flynt, polêmico editor da revista pornográfica Hustler, que enfrentou vários processos na justiça estadunidense.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
