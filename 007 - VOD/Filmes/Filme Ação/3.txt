@@ -17,11 +17,11 @@
 <fanart>https://i.ibb.co/LhK2BXF/download-1.jpg</fanart>
 <info>Um grupo de ex-presidiários liderado por Michael e Murphy planeja um assalto a um cassino de Las Vegas. Porém, como o assalto acontecerá em meio à uma convenção de imitadores de Elvis Presley, eles precisam se vestir a caráter para executar o roubo.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]2 Fast 2 Furious (2003)[/B]</title>
+<link>https://archive.org/download/heliocassio_fsa_hotmail_VF21/V%20%26%20F%202-1.mp4</link>
+<thumbnail>https://i.ibb.co/QJXSRY4/171668-2-fast-2-furious.webp</thumbnail>
+<fanart>https://i.ibb.co/8sm7fWc/download.jpg</fanart>
+<info>O ex-policial Brian O'Conner se muda de Los Angeles para Miami para recomeçar sua vida. Ele acaba se envolvendo em rachas na sua nova cidade com seu amigo Tej e Suki. Suas aventuras terminam quando ele é preso e faz um acordo com agentes do FBI. Brian tem a missão muito perigosa de prender um poderoso chefe do cartel das drogas.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
