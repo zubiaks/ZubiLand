@@ -7,85 +7,85 @@
 <info></info></item>
 
 <item><title>[B]S01E02 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2002-%20A%20Roda.mp4$nome= 1</link>
+<link>$nome= </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E03 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2003-%20Que%20Venha%20o%20Palha%C3%A7o.mp4$nome= 1</link>
+<link>$nome= </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E04 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2004-%20Os%20Fantasmas%20Somos%20N%C3%B3s.ia.mp4$nome= 1</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2004-%20Os%20Fantasmas%20Somos%20N%C3%B3s.mp4$nome= 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E05 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2005-%20A%20V%C3%A9spera%20do%20Natal%20das%20Cavernas.mp4$nome= 1</link>
+<link>$nome= </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E06 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2006-%20A%20Lanchonete%20do%20Koopa.ia.mp4$nome= 1</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2006-%20A%20Lanchonete%20do%20Koopa.mp4$nome= 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E07 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2007-%20Nascido%20para%20Viajar.mp4$nome= 1</link>
+<link>$nome= </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E08 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2008-%20Telefone%20nas%20Cavernas.ia.mp4$nome= 1</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2008-%20Telefone%20nas%20Cavernas.mp4$nome= 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E09 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2009-%20Os%20Esquilos.ia.mp4$nome= 1</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2009-%20Os%20Esquilos.mp4$nome= 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E10 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2010-%20Rock%20TV.mp4$nome= 1</link>
+<link>$nome= </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E11 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2011-%20Ensinando%20a%20Equipe.mp4$nome= 1</link>
+<link>$nome= </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E12 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2012-%20Aprendendo%20um%20Pouco.mp4$nome= 1</link>
+<link>$nome= </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E13 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2013-%20Mam%C3%A3e%20Luigi.ia.mp4$nome= 1</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2013-%20Mam%C3%A3e%20Luigi.mp4$nome= 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
