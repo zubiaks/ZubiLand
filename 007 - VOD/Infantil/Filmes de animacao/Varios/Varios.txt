@@ -80,11 +80,11 @@
 <fanart>https://i.ibb.co/w0q9ryc/clara-e-caramelo.jpg</fanart>
 <info>Ambos os filmes contam a trajetória do Urso Caramelo e da Ursa Clara,partindo de como eles se conheceram e também como o urso a conquistou finalizando no casamento deles.No segundo filme,podemos observar a rotina deles de casados e também a primeira discussão(mais ele volta para pedir desculpas,ok?).Junte tudo isso com uma boa dose de ternura e temos esses dois filmes fofos e com um segredo muito emocionante no final.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A Vida Secreta dos Nossos Bichos (2016)[/B]</title>
+<link>https://archive.org/download/Pets.A.Vida.Secreta.dos.Bichos.2016.1080p.BluRay.x264SPARKSDUALCHARLOTTE.6www.b2sShare.com/Pets.A.Vida.Secreta.dos.Bichos.2016.1080p.BluRay.x264-SPARKS-DUAL-CHARLOTTE.mkv</link>
+<thumbnail>https://i.ibb.co/y6TqWqd/211ed5347a425ba7aed58c8f586c3be189d9ce77.jpg</thumbnail>
+<fanart>https://i.ibb.co/c2gGHv7/maxresdefault-1.jpg</fanart>
+<info>Max, um cão da raça terrier, precisa aprender a conviver com Duke, o novo cão do seu dono. Os dois acabam na carrocinha e agora, juntos nas ruas de Nova York, conhecem um adorável coelho branco, líder de um exército de animais abandonados.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
