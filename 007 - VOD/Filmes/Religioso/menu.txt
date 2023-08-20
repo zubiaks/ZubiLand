@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Cristianismo[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/HPPk9fq/cristianismo.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/Religioso/Cristianismo/3.txt</externallink>
+<fanart>https://i.ibb.co/cCGcvQv/download.jpg</fanart>
+<info>Cristianismo é uma religião monoteísta abraâmica baseada na vida e nos ensinamentos de Jesus de Nazaré. É a maior e mais difundida religião do mundo, com cerca de 2,4 bilhões* de seguidores, representando um terço da população global.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
