@@ -42,11 +42,11 @@
 <fanart>https://i.ibb.co/mN0ZdpR/looney-tunes-characters.webp</fanart>
 <info>Looney Tunes é uma série de curta-metragens de animação americanos, produzida de 1930 a 1969 e distribuída pela Warner Bros.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Tokusatsu[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/56NZGj5/images.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Tokusatsu/Cartoons%20Network.txt</externallink>
+<fanart>https://i.ibb.co/NCwtWWD/Tokusatsu.webp</fanart>
+<info>Tokusatsu é um termo em japonês para filmes ou séries live-action que fazem um uso forte de efeitos especiais. Apesar de ser um termo japonês, hoje em dia, também refere-se as séries que seguem a mesma linha de produção e conceito ao redor do mundo.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

@@ -1,9 +1,15 @@
 <channels>
 
-<channel><name>[B][COLOR white]Series[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/FWcjLG9/3089a49170b6c04ace410f6cb7692b99.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Tokusatsu/1/1.txt</externallink>
-<fanart>https://i.ibb.co/QXf39kk/68b9d9140665865-Y3-Jvc-Cwz-MDAw-LDIz-NDYs-MCwz-Mj-Y.jpg</fanart>
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
