@@ -29,23 +29,23 @@
 <fanart>https://i.ibb.co/7zTTKVq/jogos-sangrentos.jpg</fanart>
 <info>Hope, mãe de uma garotinha de seis anos, volta para casa depois de um encontro agradável e acorda sem a filha e dentro de um caixão na floresta. Perseguida e torturada por seu raptor, precisa sobreviver e descobrir o que houve com a menina.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A Colheita Maldita – Genesis (2011)[/B]</title>
+<link>https://archive.org/download/AColheitaMaldita-Genesis/A%20Colheita%20Maldita%20%E2%80%93%20Genesis%20.mp4</link>
+<thumbnail>https://i.ibb.co/ZVzSKwf/200px-Childrenofthecorn8.jpg</thumbnail>
+<fanart>https://i.ibb.co/HXGdLtZ/download-1.jpg</fanart>
+<info>Tim e Allie sofrem um acidente no deserto e buscam refúgio. Eles passam a noite na casa de um homem misterioso e notam que há uma criança presa no local. Tudo se complica quando os dois tentam libertar o menino.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A arte do demônio (2004)[/B]</title>
+<link>https://archive.org/download/AArteDoDemnio/AArteDoDemnio.mp4</link>
+<thumbnail>https://i.ibb.co/724CcSD/download-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/hKH8JDt/download-3.jpg</fanart>
+<info>Art of the Devil é um filme de terror tailandês de 2004 dirigido por Tanit Jitnukul. Tem duas sequências titulares, Art of the Devil 2 e Art of the Devil 3, mas esses filmes apresentam uma história diferente com novos personagens.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A arte do demônio 2 (2005)[/B]</title>
+<link>https://archive.org/download/AArteDoDemnio2/AArteDoDemonio2.mp4</link>
+<thumbnail>https://i.ibb.co/T2bSyLM/art-of-the-devil-2.webp</thumbnail>
+<fanart>https://i.ibb.co/KKYTNrZ/a-arte-do-demonio-um-filme-perturbador-e-longe-da-perfeicao.jpg</fanart>
+<info>Art of the Devil 2 é um filme de terror tailandês de 2005 dirigido por Kongkiat Khomsiri, Art Thamthrakul, Yosapong Polsap, Putipong Saisikaew, Isara Nadee, Pasith Buranajan e Seree Pongniti. Foi lançado pela Five Star Production.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
