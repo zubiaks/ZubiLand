@@ -1,7 +1,7 @@
 
 <item><title>[B]S01E01 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/supermarioworlddubladoptbr/Ep.%2001-%20Venda%20de%20Fogo.mp4$nome= 1</link>
+<link>$nome= </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -84,90 +84,6 @@
 <info></info></item>
 
 <item><title>[B]S01E13 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E14 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E15 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E16 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E17 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E18 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E19 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E20 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E21 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E22 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E23 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E24 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E25 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>

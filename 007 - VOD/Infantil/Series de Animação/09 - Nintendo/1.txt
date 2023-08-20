@@ -1,6 +1,6 @@
 <channels>
 
-<channel><name>[B][COLOR white](off)Super Mario World[/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Super Mario World[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/qDCGRpH/71-XZ19g-Do0-L-AC-UF894-1000-QL80.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/09%20-%20Nintendo/Super%20Mario%20World/S01.txt</externallink>
 <fanart>https://i.ibb.co/cT83HQR/smw-social-1200x627.jpg</fanart>
