@@ -1,196 +1,147 @@
 
 <item><title>[B]S03E01 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E01%20Badge%20Of%20Honor%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E01%20Badge%20Of%20Honor%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E02 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E02%20Branded%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E02%20Branded%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E03 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E03%20Silk%20Dreams%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E03%20Silk%20Dreams%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E04 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E04%20Mustangs%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E04%20Mustangs%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E05 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E05%20Till%20Death%20Do%20Us%20Part%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E05%20Till%20Death%20Do%20Us%20Part%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E06 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E06%20Rainbow%20Warrior%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E06%20Rainbow%20Warrior%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S03E07 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E08 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S03E07-8 [/B]</title>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E07-08%20The%20Road%20To%20Black%20Bayou%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E07-08%20The%20Road%20To%20Black%20Bayou%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E09 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E09%20Line%20Of%20Fire%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E09%20Line%20Of%20Fire%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E10 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E10%20Payback%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E10%20Payback%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E11 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E11%20Tiger%27s%20Eye%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E11%20Tiger%27s%20Eye%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E12 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E12%20The%20Big%20Bingo%20Bamboozle%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E12%20The%20Big%20Bingo%20Bamboozle%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E13 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E13%20Money%20Train%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E13%20Money%20Train%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E14 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E14%20Mean%20Streets%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E14%20Mean%20Streets%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E15 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E15%20Cowboy%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E15%20Cowboy%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S03E16 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E17 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S03E16-17 [/B]</title>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E16-17%20War%20Zone%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E16-17%20War%20Zone%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E18 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E18%20Trust%20No%20One%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E18%20Trust%20No%20One%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E19 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E19%20Blue%20Movies%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E19%20Blue%20Movies%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E20 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E20%20On%20Sacred%20Ground%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E20%20On%20Sacred%20Ground%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E21 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E21%20Case%20Closed%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E21%20Case%20Closed%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S03E22 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S03E22-23 [/B]</title>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E22-23%20Flashback%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E22-23%20Flashback%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S03E23 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E24 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E25 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E26 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E27 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E28 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S03E24-25 [/B]</title>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E24-25%20Standoff%20TVRip.mp4$nome= MP4</link>
+<link>https://archive.org/download/chuva-na-areia-novela-portuguesa-tvrip_202207/Walker%20-%20Texas%20Ranger%20S03E24-25%20Standoff%20TVRip.mkv$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
