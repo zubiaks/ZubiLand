@@ -12,11 +12,11 @@
 <fanart>https://i.ibb.co/J59XyLF/maxresdefault.jpg</fanart>
 <info>Baseado no popular jogo da Nintendo de mesmo nome. Link e a Princesa Zelda protegem o artefato místico, a Triforce da Sabedoria, de cair nas mãos do malvado feiticeiro Ganon.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<channel><name>[B][COLOR white]Donkey Kong Country - A Série Animada[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/QfKX6XL/https-pictures-betaseries-com-fonds-poster-569aed6c127860104976bbee2d6c9c33.jpg</thumbnail>
 <externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<fanart>https://i.ibb.co/1r845c9/9f3390d21de49f069365109c3561b8efa81bbfa1c7ebea84947efb03371fb620-RI-TTW.jpg</fanart>
+<info>Donkey Kong Country é uma série animada baseada na franquia de video games Donkey Kong. Foi exibida no Brasil pela extinta Fox Kids, na Rede Record, através do Eliana e Alegria e do Desenho Mania e atualmente o desenho é exibido pela TV Diário dentro do programa Turminha Diário que é exibido toda semana.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
