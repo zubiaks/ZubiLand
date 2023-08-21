@@ -1,40 +1,40 @@
 
-<item><title>[B]S02E01 [/B]</title>
+<item><title>[B](OFF)S02E01 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E02 [/B]</title>
+<item><title>[B](OFF)S02E02 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E03 [/B]</title>
+<item><title>[B](OFF)S02E03 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E04 [/B]</title>
+<item><title>[B](OFF)S02E04 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E05 [/B]</title>
+<item><title>[B](OFF)S02E05 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E06 [/B]</title>
+<item><title>[B](OFF)S02E06 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
