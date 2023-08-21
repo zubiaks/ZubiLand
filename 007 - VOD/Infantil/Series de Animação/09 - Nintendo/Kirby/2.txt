@@ -1,51 +1,27 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Season 1[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/SXhpCxV/51-RJEHC5-A9-L-AC-UF894-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/09%20-%20Nintendo/Kirby/S01.txt</externallink>
+<fanart>https://i.ibb.co/ZVhHrsS/1280x720.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Season 2[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/NKZpN2c/MV5-BY2-Ji-MGEy-MTIt-ODEx-YS00-MWQy-LWI5-Ym-Mt-ZDFh-Yz-E0-Nz-Y2-NWJi-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA0-MTM5.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/09%20-%20Nintendo/Kirby/S02.txt</externallink>
+<fanart>https://i.ibb.co/2k4YdPY/1280x720-1.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Season 3[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/947bxsQ/Kirby-240-3744077.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/09%20-%20Nintendo/Kirby/S03.txt</externallink>
+<fanart>https://i.ibb.co/hZpkg7b/Kirby-and-the-Rainbow-Curse.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Season 4[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/zGMjd4Q/tumblr-nkjiri-ZD6-R1qhh173o6-500.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/09%20-%20Nintendo/Kirby/S04.txt</externallink>
+<fanart>https://i.ibb.co/fHvBVkK/download-1.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>

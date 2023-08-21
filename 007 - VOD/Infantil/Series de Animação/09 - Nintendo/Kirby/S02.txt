@@ -48,84 +48,84 @@
 <fanart></fanart>
 <info>King Dedede and Tuff suffer from toothaches and have to see Dr. Yabui and have their teeth drilled.</info></item>
 
-<item><title>[B]S02E08 [/B]</title>
+<item><title>[B](OFF)S02E08 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E09 [/B]</title>
+<item><title>[B](OFF)S02E09 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E10 [/B]</title>
+<item><title>[B](OFF)S02E10 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E11 [/B]</title>
+<item><title>[B](OFF)S02E11 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E12 [/B]</title>
+<item><title>[B](OFF)S02E12 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E13 [/B]</title>
+<item><title>[B](OFF)S02E13 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E14 [/B]</title>
+<item><title>[B](OFF)S02E14 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E15 [/B]</title>
+<item><title>[B](OFF)S02E15 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E16 [/B]</title>
+<item><title>[B](OFF)S02E16 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E17 [/B]</title>
+<item><title>[B](OFF)S02E17 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E18 [/B]</title>
+<item><title>[B](OFF)S02E18 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E19 [/B]</title>
+<item><title>[B](OFF)S02E19 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
