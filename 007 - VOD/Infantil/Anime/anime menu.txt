@@ -30,10 +30,10 @@
 <fanart>https://i.ibb.co/S3PfwSs/images.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Anime Short[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/6FtXKVk/3f1a712cc5853e260e9ccd6c382b99bd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/02%20-%20Anime%20Shorts/3.txt</externallink>
+<fanart>https://i.ibb.co/y4qG0Jf/Short-Anime.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>

@@ -1,9 +1,9 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Cat Shit One[/B]</title>
+<link>https://archive.org/download/MadaoFansub_CatShitOne/%5BMadao%20Fansub%5DCat%20Shit%20One%20-%20epis%C3%B3dio%201.mp4</link>
+<thumbnail>https://i.ibb.co/gjmwvYZ/MV5-BZTFl-Mz-Fl-MTMt-YTRh-MC00-ZTk1-LWI5-ZTAt-MWY5-MTFj-Mj-Yz-Nz-Fi-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-U0-NTUy.jpg</thumbnail>
+<fanart>https://i.ibb.co/HCN4wPK/download.jpg</fanart>
+<info>Botasky e Packy são empreiteiros privados, trabalhando no Oriente Médio, com apoio de uma distante base móvel de helicópteros. Seus trabalhos são como "sniper" e "spotter", o spotter é o líder da equipe (como é o protocolo militar preciso). Sua missão é extrair dois cativos, um aliado e um local. Os personagens são 1. Coelhos (empreiteiros) e 2. Camelos (locais). Os coelhos parecem ter sido escolhidos devido à palavra japonesa para Rabbit is Usagi, que pode ser interpretada como U.S.A. GI. A equipe deve interpretar a situação e decidir se extrai as próprias vítimas ou aguarda mais apoio. As coisas parecem estar se movendo rapidamente em uma direção negativa, então a equipe opta por se separar e fazer a extração por conta própria. Eles se separaram, com Packy indo para uma aldeia para localizar e retirar as vítimas, e Botasky fornecendo vigilância e apoio de atiradores. A luta é rápida e suave, com Packy mostrando muita velocidade e agilidade. O sniping é rápido e suave. As transferências de armas de Packy são perfeitas. Seu tiroteio é controlado e preciso, sem desperdício de spray e despejos de mag pray. O inimigo recebe apoio terrestre, o que complica as coisas, Botasky é localizado e desligado como um franco-atirador, e o resgate parece estar comprometido, até que a equipe recebe seu próprio apoio aéreo.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
