@@ -1,175 +1,70 @@
 
 <item><title>[B]S01E01 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20A%20Revolta%20%28Dublado%29.ia.mp4$nome= 1</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20A%20Revolta%20%28Dublado%29.mp4$nome= 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E02 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20Conex%C3%B5es%20do%20Mundo%20Subterr%C3%A2neo%20%28Dublado%29.ia.mp4$nome= 1</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20Conex%C3%B5es%20do%20Mundo%20Subterr%C3%A2neo%20%28Dublado%29.mp4$nome= 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E03 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20Em%20Busca%20da%20Pir%C3%A2mide%20%28Dublado%29.ia.mp4$nome= 1</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20Em%20Busca%20da%20Pir%C3%A2mide%20%28Dublado%29.mp4$nome= 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E04 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20Link%20e%20o%20Beijo%20%28Dublado%29.mp4$nome= 1</link>
+<link>$nome= </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E05 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20O%20Cavaleiro%20Branco%20%28Dublado%29.ia.mp4$nome= 1</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20O%20Cavaleiro%20Branco%20%28Dublado%29.mp4$nome= 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E06 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20O%20Elo%20Perdido%20%28Dublado%29.ia.mp4$nome= 1</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20O%20Elo%20Perdido%20%28Dublado%29.mp4$nome= 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E07 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20O%20Novo%20Brinquedo%20%28Dublado%29.ia.mp4$nome= 1</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20O%20Novo%20Brinquedo%20%28Dublado%29.mp4$nome= 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E08 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20O%20Unic%C3%B3rnio%20Voador%20%28Dublado%29.ia.mp4$nome= 1</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20O%20Unic%C3%B3rnio%20Voador%20%28Dublado%29.mp4$nome= 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E09 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20Parque%20Aqu%C3%A1tico%20%28Dublado%29.mp4$nome= 1</link>
+<link>$nome= 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S01E10 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E11 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E12 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E13 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E14 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E15 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E16 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E17 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E18 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E19 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E20 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E21 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E22 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E23 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E24 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S01E25 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20Surto%20de%20Gripe%20%28Dublado%29.ia.mp4$nome= 1</link>
+<link>https://archive.org/download/the-legend-of-zelda-o-elo-perdido-dublado/The%20Legend%20of%20Zelda%20-%20Surto%20de%20Gripe%20%28Dublado%29.mp4$nome= 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
