@@ -24,11 +24,11 @@
 <fanart>https://i.ibb.co/TvkgTCB/download.jpg</fanart>
 <info>Ao contrário de seu antecessor, a série abandonou o uso de segmentos live-action, os asseclas de Wart e alter-egos do Rei Koopa, apresentou um elenco inteiramente novo (com as exceções de John Stocker e Harvey Atkin, que reprisaram seus respectivos papéis como Toad e King Koopa), estabeleceu um nível de continuidade nas histórias e introduziu um conjunto de personagens chamados Koopalings, baseado nos mesmos personagens dos jogos Mario, mas com nomes diferentes. Os episódios foram divididos em dois segmentos de cerca de 11 minutos cada, sempre abertos por um cartão de título com imagens do mapa do mundo tiradas de Super Mario Bros 3, e muitas vezes apresentava o uso de power-ups e outros elementos do jogo.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Kirby[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/cTZgtYP/71014-1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/09%20-%20Nintendo/Kirby/2.txt</externallink>
+<fanart>https://i.ibb.co/BZFPDGW/Kirby-Comes-to-Cappy-Town.webp</fanart>
+<info>Kirby: Right Back at Ya!, conhecido no Japão como Kirby of the Stars (星のカービィ Hoshi no Kābī), é uma série de anime adaptada da série de jogos eletrônicos de mesmo título por Masahiro Sakurai. Produzida pelo Studio Sign e dirigida por Sōji Yoshikawa com Mitsuo Kusakabe, a série foi transmitida pela TV Tokyo e Chubu-Nippon Broadcasting, de 6 de outubro de 2001 a 27 de setembro de 2003. Ele segue as aventuras do personagem titular Kirby enquanto ele luta contra monstros para o bem-estar de sua aldeia.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
