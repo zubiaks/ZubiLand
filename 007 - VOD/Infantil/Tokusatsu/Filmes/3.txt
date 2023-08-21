@@ -1,5 +1,5 @@
 
-<item><title>[B][/B]</title>
+<item><title>[B]Uchuu Keiji Gavan: The Movie (Space Cop Gavan: The Movie)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
