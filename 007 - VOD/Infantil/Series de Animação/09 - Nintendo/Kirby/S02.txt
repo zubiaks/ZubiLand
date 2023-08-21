@@ -139,70 +139,70 @@
 <fanart></fanart>
 <info>Os Cappies planejam um divertido Spook Out em Whispy Woods, mas o Rei Dedede usa a oportunidade para se livrar de Kirby, assustando-os.</info></item>
 
-<item><title>[B]S02E21 [/B]</title>
+<item><title>[B]S02E21 Um grito de noite de verão! Parte 2[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2046-%20T%C3%A1ticas%20Horripilantes%20-%20Segunda%20Parte.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2046-%20T%C3%A1ticas%20Horripilantes%20-%20Segunda%20Parte.avi$nome= AVI</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Quando uma tempestade chega, Tiff e Tuff se abrigam em uma casa assombrada projetada por N.M.E. na qual o Rei Dedede prepara uma armadilha para capturar Kirby.</info></item>
+
+<item><title>[B](OFF)S02E22 Come Home, Dear Waddle Dee[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>O Rei Dedede dispara o Waddle Dees e ordena um Robô Empregado Doméstico; mas os Waddle Dees ainda são leais a ele, protegendo seu cofre.</info></item>
+
+<item><title>[B](OFF)S02E23 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E22 [/B]</title>
+<item><title>[B](OFF)S02E24 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E23 [/B]</title>
+<item><title>[B](OFF)S02E25 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E24 [/B]</title>
+<item><title>[B](OFF)S02E26 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E25 [/B]</title>
+<item><title>[B](OFF)S02E27 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E26 [/B]</title>
+<item><title>[B](OFF)S02E28 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E27 [/B]</title>
+<item><title>[B](OFF)S02E29 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S02E28 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S02E29 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S02E30 [/B]</title>
+<item><title>[B](OFF)S02E30 [/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
