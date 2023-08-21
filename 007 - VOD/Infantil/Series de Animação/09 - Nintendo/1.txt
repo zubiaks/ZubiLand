@@ -6,11 +6,11 @@
 <fanart>https://i.ibb.co/cT83HQR/smw-social-1200x627.jpg</fanart>
 <info>Acompanhe a história de Mario, Luigi e da Princesa Cogumelo na Terra dos Dinossauros, onde conhecem Yoshi, um filhote de dinossauro. A turma deve enfrentar o Rei Koopa, que os persegue nesse mundo, causando-os muitos problemas.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]The Legend of Zelda - The Animation[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/cwDJ1Dx/MV5-BMj-Ri-ZTMy-NGYt-NGFm-ZS00-YTNi-LWFm-N2-Qt-ZGE3-Nzg5-Nj-M2-ODQ4-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-Mw-OTY2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/09%20-%20Nintendo/The%20Legend%20of%20Zelda%20-%20The%20Animation/eps.txt</externallink>
+<fanart>https://i.ibb.co/J59XyLF/maxresdefault.jpg</fanart>
+<info>Baseado no popular jogo da Nintendo de mesmo nome. Link e a Princesa Zelda protegem o artefato místico, a Triforce da Sabedoria, de cair nas mãos do malvado feiticeiro Ganon.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
