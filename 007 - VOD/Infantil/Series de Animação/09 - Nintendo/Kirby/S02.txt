@@ -48,96 +48,96 @@
 <fanart></fanart>
 <info>King Dedede and Tuff suffer from toothaches and have to see Dr. Yabui and have their teeth drilled.</info></item>
 
-<item><title>[B](OFF)S02E08 [/B]</title>
+<item><title>[B](OFF)S02E08 Huh?! The Space Garbage Dump[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A spaceship dumps interplanetary trash over Cappy Town and Fire Lion is supposed to incinerate it.</info></item>
 
-<item><title>[B](OFF)S02E09 [/B]</title>
+<item><title>[B](OFF)S02E09 Ultimate Iron Man, Cook Osaka[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The real Chef Shiitake visits and Kirby makes "popcorn" out of King Dedede's monster, Cobgoblin.</info></item>
 
-<item><title>[B](OFF)S02E10 [/B]</title>
+<item><title>[B](OFF)S02E10 The Glorious Pupupu Grand Prix (Part 1)[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>King Dedede baixa um carro de corrida maligno para usar no GP de Cappy Town; Kirby também corre.</info></item>
 
-<item><title>[B](OFF)S02E11 [/B]</title>
+<item><title>[B](OFF)S02E11 The Glorious Pupupu Grand Prix (Part 2)[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O veículo de Kirby é sabotado pelo rei Dedede e o prefeito acaba sendo vitorioso.</info></item>
 
-<item><title>[B](OFF)S02E12 [/B]</title>
+<item><title>[B](OFF)S02E12 Esmague a hora do almoço Dedede-Wide![/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O Rei Dedede usa o Canal DDD e seu jornal pessoal para enquadrar Kirby e propagar mentiras sobre ele.</info></item>
 
-<item><title>[B](OFF)S02E13 [/B]</title>
+<item><title>[B](OFF)S02E13 Leia! The Amazing Million Seller[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O monstro do Rei Dedede é um autor impostor do livro Pappy Pottey que se transforma no Rei Vassoura.</info></item>
 
-<item><title>[B](OFF)S02E14 [/B]</title>
+<item><title>[B](OFF)S02E14 The Forgotten Escargon[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Escargoon engole Erasem em seu sono e acorda e descobre que ninguém mais o reconhece.</info></item>
 
-<item><title>[B](OFF)S02E15 [/B]</title>
+<item><title>[B](OFF)S02E15 Gestão de Monstros[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Knuckle Joe retorna disfarçado como um agente maligno da N.M.E., mas ele é na verdade um caçador de monstros atrás de Masher.</info></item>
 
-<item><title>[B](OFF)S02E16 [/B]</title>
+<item><title>[B](OFF)S02E16 Profecias de Mabel (Parte 1)[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Pesadelos de uma bola de fogo Kirby atormentam o Rei Dedede, então ele baixa Fridgy para refrescar Kirby permanentemente.</info></item>
 
-<item><title>[B](OFF)S02E17 [/B]</title>
+<item><title>[B](OFF)S02E17 Profecias de Mabel (Parte 2)[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Um asteroide gigante está prestes a atingir Cappy Town, mas Tiff tenta pensar em uma maneira de desviá-lo com os canhões do castelo.</info></item>
 
-<item><title>[B](OFF)S02E18 [/B]</title>
+<item><title>[B](OFF)S02E18 Rebelião das Ovelhas[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Amon transforma um rebanho irracional de ovelhas em um rebanho de lobos que buscam vingança em toda a Cidade Cappy.</info></item>
 
-<item><title>[B](OFF)S02E19 [/B]</title>
+<item><title>[B](OFF)S02E19 Guerra dos Bosques[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O amigo de Whispy, Acore, está em perigo até que alguns amigos animais ajudam Kirby e amigos a lutar contra as forças da natureza.</info></item>
 
-<item><title>[B]S02E20 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S02E20 Um grito de noite de verão! Parte 1[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2045-%20T%C3%A1ticas%20Horripilantes%20-%20Primeira%20Parte.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2045-%20T%C3%A1ticas%20Horripilantes%20-%20Primeira%20Parte.avi$nome= AVI</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Os Cappies planejam um divertido Spook Out em Whispy Woods, mas o Rei Dedede usa a oportunidade para se livrar de Kirby, assustando-os.</info></item>
 
 <item><title>[B]S02E21 [/B]</title>
 <link>$nome= MP4</link>
