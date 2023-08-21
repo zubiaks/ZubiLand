@@ -90,11 +90,11 @@
 <fanart>https://i.ibb.co/Fhh3SS2/https-hypebeast-com-image-2021-11-netflix-yu-yu-hakusho-live-action-december-2023-release-000.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Kuuchuu Buranko[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/DLcNDzQ/18386.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/10%20-%20Kuuchuu%20Buranko/eps.txt</externallink>
+<fanart>https://i.ibb.co/M9ZbQ0j/download-1.jpg</fanart>
+<info>O mundo da psicologia está longe de ser estranho para o inusitado Dr. Ichirou Irabu, psiquiatra residente do Hospital Geral de Irabu. Ele e sua charmosa enfermeira Mayumi passam por vários pacientes, cada um sofrendo de uma doença mental que prejudica sua vida cotidiana.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
