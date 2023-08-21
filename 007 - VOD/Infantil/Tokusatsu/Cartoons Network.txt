@@ -6,10 +6,10 @@
 <fanart>https://i.ibb.co/QXf39kk/68b9d9140665865-Y3-Jvc-Cwz-MDAw-LDIz-NDYs-MCwz-Mj-Y.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/yR1ysYv/gavan.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Tokusatsu/Filmes/3.txt</externallink>
+<fanart>https://i.ibb.co/RQ4ZQ0j/spacesquad-destacada.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
