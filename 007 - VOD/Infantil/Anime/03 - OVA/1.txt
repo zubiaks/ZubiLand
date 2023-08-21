@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Kouryuu no Mimi Mina no Shou[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/GJf6wTp/59847.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/03%20-%20OVA/01%20-%20Kouryuu%20no%20Mimi%20Mina%20no%20Shou/3.txt</externallink>
+<fanart>https://i.ibb.co/G35TBSS/download-2.jpg</fanart>
+<info>Natsume Kiroemon, o protagonista, foi o 45º líder da família Natsume, e herdou o "Kiryuu no Mimi", uma ferramenta que deu ao seu portador fácil acesso à riqueza e às mulheres. Como resultado da morte de seu pai, ele deixou o mosteiro italiano onde estava treinando e legitimamente tomou o nome de "Natsume Kiroemon", bem como o poder do Kiryuu no Mimi. Após seu retorno ao Japão, ele se apaixonou fatalmente por Kanako, um dos membros da família rival Mina. No entanto, a mão maligna da família Mina atacou Natsume constantemente e sequestrou Kanako. Agora Natsume desbloqueou o selo, fazendo o poder do Kiryuu aumentar, e ele está atacando a família Mina.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

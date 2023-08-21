@@ -36,10 +36,10 @@
 <fanart>https://i.ibb.co/y4qG0Jf/Short-Anime.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]OVA[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/gj9fhKZ/255583ee634ecda806f779cd5d685442.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/03%20-%20OVA/1.txt</externallink>
+<fanart>https://i.ibb.co/kMG9w6X/910-CF486-8-B8-E-4-E79-95-F8-13-D44-B2373-A7-1080x653.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
