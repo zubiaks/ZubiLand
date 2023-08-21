@@ -1,9 +1,9 @@
 
 <item><title>[B]Uchuu Keiji Gavan: The Movie (Space Cop Gavan: The Movie)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<link>https://archive.org/download/JLYRICSPolicialDoEspacoGavanOFilmeBD1080p/%5BJ-LYRICS%5D%20Policial%20do%20Espaco%20Gavan%20O%20Filme%20BD%201080p.mp4</link>
+<thumbnail>https://i.ibb.co/FqQn08H/gavanthemovie-poster.webp</thumbnail>
+<fanart>https://i.ibb.co/DDPZ7MS/Padrao-1-8.jpg</fanart>
+<info>A trama se passa cerca de três décadas após o Policial do Espaço Gavan derrotar o Império Makku. Cumprindo o sonho de infância de quinze anos de se aventurar no espaço, Geki Jumonji e Toya Okuma se unem numa missão espacial em Marte com Itsuki Kawai, a amiga de infância de ambos, dando-lhes pingentes de boa sorte para que ela possa estar com eles em espírito. No entanto, os dois são rotulados como MIA quando seu ônibus espacial desaparece misteriosamente.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
