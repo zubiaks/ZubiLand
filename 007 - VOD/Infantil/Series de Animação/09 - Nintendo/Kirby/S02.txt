@@ -1,52 +1,52 @@
 
-<item><title>[B](OFF)S02E01 [/B]</title>
+<item><title>[B](OFF)S02E01 "Sword and Blade, Loyal and True" / "Hour of the WolfWrath[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>King Dedede orders WolfWrath, a fire-breathing wolf monster. It paralyzes Meta Knight, and his loyal followers Sword and Blade must now defeat him with Kirby's help.</info></item>
 
-<item><title>[B](OFF)S02E02 [/B]</title>
+<item><title>[B](OFF)S02E02 Whispy Woods in Love[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Whispy's new flower friend, Lovely, is kidnapped by King Dedede and transformed into a monster that Kirby must defeat.</info></item>
 
-<item><title>[B](OFF)S02E03 [/B]</title>
+<item><title>[B](OFF)S02E03 Dedede Factory of Terror[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>King Dedede tricks the Cappies into working at a factory, where they unwittingly assemble parts for the Ice Dragon Robot.</info></item>
 
-<item><title>[B](OFF)S02E04 [/B]</title>
+<item><title>[B](OFF)S02E04 The Hot Shot Chef" / "A Spice Odyssey[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>King Dedede orders a monster chef, Goan, to out-spice Kawasaki; Goan tricks the Cappies into wanting to eat Kirby.</info></item>
 
-<item><title>[B](OFF)S02E05 [/B]</title>
+<item><title>[B](OFF)S02E05 Hatch Me if You Can[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Kirby raises a newborn called Baby Galbo; Baby must choose between Kirby and the evil, much larger Galbo monster.</info></item>
 
-<item><title>[B](OFF)S02E06 [/B]</title>
+<item><title>[B](OFF)S02E06 Viva! Welcome to DedeVegas[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>King Dedede transforms the castle into an amusement park and Kirby retaliates with a karaoke attack.</info></item>
 
-<item><title>[B]S02E07 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S02E07 A Story About Not Being Toothless[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2032-%20Um%20Desastre%20Dent%C3%A1rio.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2032-%20Um%20Desastre%20Dent%C3%A1rio.mp4$nome= AVI</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>King Dedede and Tuff suffer from toothaches and have to see Dr. Yabui and have their teeth drilled.</info></item>
 
 <item><title>[B]S02E08 [/B]</title>
 <link>$nome= MP4</link>
