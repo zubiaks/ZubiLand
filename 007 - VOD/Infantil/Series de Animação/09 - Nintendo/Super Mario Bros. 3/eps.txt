@@ -1,396 +1,173 @@
 
 <item><title>[B]Episode 01[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2001-%20Sneaky%20Lying%20Cheating%20Giant%20Ninja%20Koopas.mp4$nome= Herbert Richers</link>
+<link>https://archive.org/download/supermario3bks/Ep.%2001%20-%20Ninjas%20Gigantes.mp4$nome= BKS</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 02[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2002-%20R%C3%A9pteis%20Amea%C3%A7am%20a%20Casa%20Branca.mp4$nome= Herbert Richers</link>
+<link>https://archive.org/download/supermario3bks/Ep.%2002-%20R%C3%A9pteis%20na%20Casa%20Branca.mp4$nome= BKS</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 03[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2003-%20A%20M%C3%BAmia%20do%20Mario.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 04[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2004-%20A%20Beleza%20de%20Kootie%20Pie.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 05[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2005-%20Elegendo%20a%20Princesa.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 06[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2006-%20Nunca%20Traia%20o%20Rei%20Koopa.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 07[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2007-%20Tempestade%20no%20Reino.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 08[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2008-%20Viagem%20pelo%20Tempo.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 09[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2009-%20Dadzilla.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 10[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2010-%20Encrenca%20com%20a%20Equipe%20de%20Luta%20Livre.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 11[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2011-%20Brigas%20de%20Irm%C3%A3os.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 12[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2012-%20O%20Super%20Bombeiro.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 13[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2013-%20Uma%20Aventura%20M%C3%A1gica.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 14[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2014-%20Aventura%20com%20Bab%C3%A1.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 15[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2015-%20A%20Dan%C3%A7a%20do%20Koopa.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 16[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2016-%20O%20Rock%20da%20Kootie%20Pie.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 17[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2017-%20Os%20Boatos.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 18[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2018-%20A%20Sereia%20Feia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 19[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2019-%20O%20Crime%20Somos%20N%C3%B3s.mp4$nome= Herbert Richers</link>
+<link>https://archive.org/download/supermario3bks/Ep.%2019-%20Crimes%20e%20Mais%20Crimes.mp4$nome= BKS</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 20[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2020-%20Vida%20de%20Cachorro.mp4$nome= Herbert Richers</link>
+<link>https://archive.org/download/supermario3bks/Ep.%2020-%20Vida%20de%20Cachorro.mp4$nome= BKS</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 21[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2021-%20Nem%20Tudo%20que%20Sobe%20Desce.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 22[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2022-%207%20Continentes%20para%207%20Koopas.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 23[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2023-%20Verdadeiras%20Cores.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
+
 <item><title>[B]Episode 24[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2024-%20A%20Reciclagem%20de%20Koopa.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Episode 23-24 (BKS)[/B]</title>
+<link>https://archive.org/download/supermario3bks/Ep.%2023%20e%2024-%20As%20Verdadeiras%20Cores%20-%20A%20Reciclagem%20do%20Koopa.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 25[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2025-%20Amea%C3%A7a%20em%20Veneza.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]Episode 26[/B]</title>
-<link></link>
+<link>https://archive.org/download/supermario3herbertrichers/Ep.%2026-%20Super%20Koopa.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 27[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 28[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 29[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 30[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 31[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 32[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 33[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 34[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 35[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 36[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 37[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 38[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 39[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 40[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 41[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 42[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 43[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 44[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 45[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 46[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode [/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 47[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 48[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode [/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 49[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 50[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 51[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 52[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 53[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 54[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 55[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 56[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 57[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 58[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 59[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 60[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 61[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 62[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 63[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 64[/B]</title>
-<link></link>
+<item><title>[B]Episode 25-26 (BKS)[/B]</title>
+<link>https://archive.org/download/supermario3bks/Ep.%2025%20e%2026-%20A%20Amea%C3%A7a%20%C3%A0%20Veneza%20-%20Super%20Koopa.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

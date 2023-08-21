@@ -18,6 +18,30 @@
 <fanart>https://i.ibb.co/1r845c9/9f3390d21de49f069365109c3561b8efa81bbfa1c7ebea84947efb03371fb620-RI-TTW.jpg</fanart>
 <info>Donkey Kong Country é uma série animada baseada na franquia de video games Donkey Kong. Foi exibida no Brasil pela extinta Fox Kids, na Rede Record, através do Eliana e Alegria e do Desenho Mania e atualmente o desenho é exibido pela TV Diário dentro do programa Turminha Diário que é exibido toda semana.</info></channel>
 
+<channel><name>[B][COLOR white]Super Mario Bros. 3[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/jGKkvs9/MV5-BMz-Qx-Njc5-Mz-U5-OF5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Njcx-ODg4-MDE-V1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/09%20-%20Nintendo/Super%20Mario%20Bros.%203/eps.txt</externallink>
+<fanart>https://i.ibb.co/TvkgTCB/download.jpg</fanart>
+<info>Ao contrário de seu antecessor, a série abandonou o uso de segmentos live-action, os asseclas de Wart e alter-egos do Rei Koopa, apresentou um elenco inteiramente novo (com as exceções de John Stocker e Harvey Atkin, que reprisaram seus respectivos papéis como Toad e King Koopa), estabeleceu um nível de continuidade nas histórias e introduziu um conjunto de personagens chamados Koopalings, baseado nos mesmos personagens dos jogos Mario, mas com nomes diferentes. Os episódios foram divididos em dois segmentos de cerca de 11 minutos cada, sempre abertos por um cartão de título com imagens do mapa do mundo tiradas de Super Mario Bros 3, e muitas vezes apresentava o uso de power-ups e outros elementos do jogo.</info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
+
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
