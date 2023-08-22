@@ -23,11 +23,12 @@
 <fanart>https://i.ibb.co/LC96LL1/Farrapo-Humano.jpg</fanart>
 <info>Cinco anos após o fim da Segunda Guerra Mundial, Reikichi Mayumi, um homem triste e perturbado, encontra um novo emprego, escrever cartas de amor para outras pessoas. Suas ideias sobre o amor e seus princípios pessoais serão testados quando ele se reencontra com Michiko, sua ex-namorada, uma mulher com um passado sombrio marcado pela guerra e a posterior ocupação de seu país por parte das forças militares norte-americanas. Este clássico melodrama marca a estréia da grande atriz japonesa Kinuyo Tanaka na direção.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Grandes Esperancas (1998)[/B]</title>
+<link>https://archive.org/download/GrandesEsperancas1998Dublado/GrandesEsperancas1998Dublado.mp4$nome= MP4</link>
+<link>https://archive.org/download/GrandesEsperancas1998Dublado/GrandesEsperancas1998Dublado.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/0GwrqHy/Great-Expectations.jpg</thumbnail>
+<fanart>https://i.ibb.co/VS4GWM8/download-2.jpg</fanart>
+<info>O filme é uma moderna adaptação de um clássico de Charles Dickens e conta a história de um artista apaixonado por sua bela e fria vizinha.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>

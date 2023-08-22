@@ -42,17 +42,19 @@
 <fanart>https://i.ibb.co/QXDsmL7/download-1.jpg</fanart>
 <info>Harold é enviado ao Planeta Terra com a missão de engravidar uma mulher e ter um filho. Ele faz amizade com Perry Gordon, um mulherengo sem moral, e juntos vão atrás de mulheres, na esperança de encontrar a fêmea ideal.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Ferias Do Barulho (1985)[/B]</title>
+<link>https://archive.org/download/FeriasDoBarulho.HdTvRmz.720p.Dublado.ByRlerois.up.byjhonatan28/Ferias%20do%20Barulho.HdTv-Rmz.720p.Dublado.ByRlerois.up.by.jhonatan28.mp4$nome= MP4</link>
+<link>https://archive.org/download/FeriasDoBarulho.HdTvRmz.720p.Dublado.ByRlerois.up.byjhonatan28/Ferias%20do%20Barulho.HdTv-Rmz.720p.Dublado.ByRlerois.up.by.jhonatan28.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/XsYkZTB/20495996.webp</thumbnail>
+<fanart>https://i.ibb.co/RGXK6yq/mqdefault.jpg</fanart>
+<info>De férias na Flórida, Jack e Ben só pensam em conhecer garotas. Mas como primeira conquista, elegem justamente a esposa de um ladrão de joias que persegue os garotos, assim como o segurança do hotel e um escocês misterioso.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Nova Iorque Fora de Horas (1985)[/B]</title>
+<link>https://archive.org/download/DepoisDeHoras1985Dublado/DepoisDeHoras1985Dublado.mp4$nome= MP4</link>
+<link>https://archive.org/download/DepoisDeHoras1985Dublado/DepoisDeHoras1985Dublado.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/0n01Qmh/500x.jpg</thumbnail>
+<fanart>https://i.ibb.co/j43t0tn/Cine-Clube-Convite11-10-Jul.png</fanart>
+<info>Paul Hackett, um operador de computadores em Manhattan, odeia seu trabalho tanto quanto sua solitária vida particular. Cansado da monotonia, ele decide visitar um café, onde conhece a encantadora Marcy. Mais tarde, Paul decide encontrar Marcy na casa de uma amiga da moça, no SoHo, e precisa enfrentar uma sequência de eventos inesperados, embaraçosos e até perigosos, so ser confundido com um bandido.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
