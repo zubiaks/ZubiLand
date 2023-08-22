@@ -35,11 +35,12 @@
 <fanart>https://i.ibb.co/2jFYsJ7/p10535-v-h10-aa.jpg</fanart>
 <info>Após maltratar um rude marceneiro, uma milionária esnobe cai de seu iate e acaba perdendo a memória. O sujeito, ao perceber a amnésia da patroa, busca se vingar tentando convencê-la de que é seu marido. Agora, ela viverá uma vida simples e sem luxo.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]De Que Planeta Você Veio? (2000)[/B]</title>
+<link>https://archive.org/download/De.Que.Planeta.Voce.Veio.2000.Dual.720p.BluRay.byjhonatan28/De.Que.Planeta.Voce.Veio.%282000%29.Dual.720p.BluRay.by.jhonatan28.mp4$nome= MP4</link>
+<link>https://archive.org/download/De.Que.Planeta.Voce.Veio.2000.Dual.720p.BluRay.byjhonatan28/De.Que.Planeta.Voce.Veio.%282000%29.Dual.720p.BluRay.by.jhonatan28.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/3YmycC8/unnamed.jpg</thumbnail>
+<fanart>https://i.ibb.co/QXDsmL7/download-1.jpg</fanart>
+<info>Harold é enviado ao Planeta Terra com a missão de engravidar uma mulher e ter um filho. Ele faz amizade com Perry Gordon, um mulherengo sem moral, e juntos vão atrás de mulheres, na esperança de encontrar a fêmea ideal.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
