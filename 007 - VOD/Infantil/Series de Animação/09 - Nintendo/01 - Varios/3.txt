@@ -1,8 +1,8 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<item><title>[B]Donkey Kong Saturday Supercade[/B]</title>
+<link>https://archive.org/download/saturdaysupercadedubladoptbr/Saturday%20Supercade-%20El%20Donkey%20Kong%20%28RESTAURADO%29.ia.mp4</link>
+<thumbnail>https://i.ibb.co/844vPzV/Donkey-Kong-29-poster.webp</thumbnail>
+<fanart>https://i.ibb.co/VjxFLQ2/hqdefault.jpg</fanart>
 <info></info></item>
 
 <item><title>[B][/B]</title>

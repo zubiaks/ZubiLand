@@ -1,5 +1,11 @@
 <channels>
 
+<channel><name>[B][COLOR white]Varios[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/c8tXHKv/Mario.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/09%20-%20Nintendo/01%20-%20Varios/3.txt</externallink>
+<fanart>https://i.ibb.co/7W8V8rV/image6-3.jpg</fanart>
+<info></info></channel>
+
 <channel><name>[B][COLOR white]Super Mario World[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/qDCGRpH/71-XZ19g-Do0-L-AC-UF894-1000-QL80.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/09%20-%20Nintendo/Super%20Mario%20World/S01.txt</externallink>
@@ -29,12 +35,6 @@
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/09%20-%20Nintendo/Kirby/2.txt</externallink>
 <fanart>https://i.ibb.co/BZFPDGW/Kirby-Comes-to-Cappy-Town.webp</fanart>
 <info>Kirby: Right Back at Ya!, conhecido no Japão como Kirby of the Stars (星のカービィ Hoshi no Kābī), é uma série de anime adaptada da série de jogos eletrônicos de mesmo título por Masahiro Sakurai. Produzida pelo Studio Sign e dirigida por Sōji Yoshikawa com Mitsuo Kusakabe, a série foi transmitida pela TV Tokyo e Chubu-Nippon Broadcasting, de 6 de outubro de 2001 a 27 de setembro de 2003. Ele segue as aventuras do personagem titular Kirby enquanto ele luta contra monstros para o bem-estar de sua aldeia.</info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
