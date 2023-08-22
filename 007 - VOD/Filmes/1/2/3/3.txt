@@ -46,6 +46,3 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
-
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>

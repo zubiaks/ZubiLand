@@ -38,6 +38,8 @@
 <item><title>[B]De Que Planeta Você Veio? (2000)[/B]</title>
 <link>https://archive.org/download/De.Que.Planeta.Voce.Veio.2000.Dual.720p.BluRay.byjhonatan28/De.Que.Planeta.Voce.Veio.%282000%29.Dual.720p.BluRay.by.jhonatan28.mp4$nome= MP4</link>
 <link>https://archive.org/download/De.Que.Planeta.Voce.Veio.2000.Dual.720p.BluRay.byjhonatan28/De.Que.Planeta.Voce.Veio.%282000%29.Dual.720p.BluRay.by.jhonatan28.mkv$nome= MKV</link>
+<link>https://archive.org/download/De.Que.Planeta.Voce.Veio.2000.Dublado.HDTV.720p.by.jhonatan28_201807/De.Que.Planeta.Voce.Veio.%282000%29.Dublado.HDTV.720p.by.jhonatan28.mp4$nome= 3</link>
+<link>https://archive.org/download/De.Que.Planeta.Voce.Veio.2000.Dublado.HDTV.720p.by.jhonatan28_201807/De.Que.Planeta.Voce.Veio.%282000%29.Dublado.HDTV.720p.by.jhonatan28.mkv$nome= 4</link>
 <thumbnail>https://i.ibb.co/3YmycC8/unnamed.jpg</thumbnail>
 <fanart>https://i.ibb.co/QXDsmL7/download-1.jpg</fanart>
 <info>Harold é enviado ao Planeta Terra com a missão de engravidar uma mulher e ter um filho. Ele faz amizade com Perry Gordon, um mulherengo sem moral, e juntos vão atrás de mulheres, na esperança de encontrar a fêmea ideal.</info></item>

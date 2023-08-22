@@ -35,11 +35,12 @@
 <fanart>https://i.ibb.co/LC96LL1/Farrapo-Humano.jpg</fanart>
 <info>O filme retrata o alcoolismo de forma realista, numa excelente interpretação de Ray Milland como o sujeito que tem crise de abstinência ao se ver privado de beber durante um final de semana, daí a razão do título em inglês: "O fim de semana perdido". As cenas em que o personagem principal tem as crises de delírio são impressionantes. Apesar de filmado em 1945, o filme e seu conteúdo continuam atuais.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Shine Brilhante (1996)[/B]</title>
+<link>https://archive.org/download/ShineBrilhante1996Dublado/ShineBrilhante1996Dublado.mp4$nome= MP4</link>
+<link>https://archive.org/download/ShineBrilhante1996Dublado/ShineBrilhante1996Dublado.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/0Dpy8yF/cinegarimpo-com-br-shine-brilhante-s-b.jpg</thumbnail>
+<fanart>https://i.ibb.co/619NLBH/maxresdefault.jpg</fanart>
+<info>História verídica do menino prodígio David Helfgott, levado ao desequilíbrio mental pela rejeição de seu pai e a pressão para que seus concertos fossem perfeitos, e como ele voltou a dividir seu talento com o mundo graças ao amor de sua mulher.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
