@@ -59,17 +59,17 @@
 <fanart>https://i.ibb.co/6yVzJD8/interstellar-2014-2.jpg</fanart>
 <info>As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Battleship A Batalha Dos Mares (2012)[/B]</title>
+<link>https://archive.org/download/BattleshipABatalhaDosMares.BDRip.Dual/Battleship%20-%20A%20Batalha%20dos%20Mares%20.BDRip.Dual.mp4</link>
+<thumbnail>https://i.ibb.co/tHZ4Qjc/08ab6f9744b515dea2074fb214b0020f199ca7c4c701f43d619316c87e9f2814-RI-TTW.jpg</thumbnail>
+<fanart>https://i.ibb.co/kXpmTbv/0def60c704c555c81b865081e4893b8eb9af29678863561523da0d139a435e1e-UY500-UX667-RI-TTW.jpg</fanart>
+<info>Baseado no famoso jogo Batalha Naval, o filme acompanha a jornada de um navio que se depara com um exército alienígena que tenta conquistar a Terra. Para defender o planeta, a tripulação precisa confiar em uma estratégia única.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Eles Vivem (1988)[/B]</title>
+<link>https://archive.org/download/ElesVivemCompletoDubladoNoVimeo/Eles%20Vivem%20Completo%20Dublado%20no%20Vimeo.mp4</link>
+<thumbnail>https://i.ibb.co/qnVpvk7/eles-vivem.jpg</thumbnail>
+<fanart>https://i.ibb.co/zVnbnSM/download.jpg</fanart>
+<info>John Nada é um homem desempregado que anda pelas ruas da cidade procurando algo para fazer. Um dia, ele encontra um óculos de sol e, por meio deles, consegue enxergar a face verdadeira das pessoas.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
