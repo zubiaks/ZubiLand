@@ -53,11 +53,11 @@
 <fanart>https://i.ibb.co/gJtTXbj/MV5-BMTA0-MDg3-Nz-Az-Nzle-QTJe-QWpw-Z15-Bb-WU4-MDgw-OTQw-Nj-Qx-V1.jpg</fanart>
 <info>Em um futuro próximo, policiais humanos são substituídos por robôs ultrarresistentes, dotados de inteligência artificial. Deon, o cientista criador das máquinas, rouba um modelo defeituoso e consegue fazer com que ele tenha a capacidade de sentir e pensar por si próprio. Porém, as autoridades começam a ver Chappie como um perigo para a humanidade e ordem e vão fazer de tudo para garantir que ele seja o último de sua espécie.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Interstellar (2014)[/B]</title>
+<link>https://archive.org/download/INTRSTLAR/INTRSTLAR.ia.mp4</link>
+<thumbnail>https://i.ibb.co/1srJHsc/g-EU2-Qni-E6-E77-NI6l-CU6-Mxl-NBv-Ix.jpg</thumbnail>
+<fanart>https://i.ibb.co/6yVzJD8/interstellar-2014-2.jpg</fanart>
+<info>As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
