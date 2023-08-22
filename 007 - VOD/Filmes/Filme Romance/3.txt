@@ -17,11 +17,11 @@
 <fanart>https://i.ibb.co/F4hrq80/download.jpg</fanart>
 <info>But I'm a Cheerleader é um filme estadunidense de 1999, uma comédia romântica dirigida por Jamie Babbit. O enredo do filme gira, de forma cómica, em torno da questão da "cura" da homossexualidade da jovem Megan Bloomfield</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Cartas De Amor ( Koibumi, 1953)[/B]</title>
+<link>https://archive.org/download/CartasDeAmorKoibumi1953DeKinuyoTanakaLegendadoEmPortugus/Cartas%20de%20Amor%20%28Koibumi%2C%201953%29%20de%20Kinuyo%20Tanaka%20-%20Legendado%20em%20Portugu%C3%AAs.mp4</link>
+<thumbnail>https://i.ibb.co/M8FLxVC/270055.jpg</thumbnail>
+<fanart>https://i.ibb.co/LC96LL1/Farrapo-Humano.jpg</fanart>
+<info>Cinco anos após o fim da Segunda Guerra Mundial, Reikichi Mayumi, um homem triste e perturbado, encontra um novo emprego, escrever cartas de amor para outras pessoas. Suas ideias sobre o amor e seus princípios pessoais serão testados quando ele se reencontra com Michiko, sua ex-namorada, uma mulher com um passado sombrio marcado pela guerra e a posterior ocupação de seu país por parte das forças militares norte-americanas. Este clássico melodrama marca a estréia da grande atriz japonesa Kinuyo Tanaka na direção.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
