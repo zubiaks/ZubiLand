@@ -56,11 +56,12 @@
 <fanart>https://i.ibb.co/j43t0tn/Cine-Clube-Convite11-10-Jul.png</fanart>
 <info>Paul Hackett, um operador de computadores em Manhattan, odeia seu trabalho tanto quanto sua solitária vida particular. Cansado da monotonia, ele decide visitar um café, onde conhece a encantadora Marcy. Mais tarde, Paul decide encontrar Marcy na casa de uma amiga da moça, no SoHo, e precisa enfrentar uma sequência de eventos inesperados, embaraçosos e até perigosos, so ser confundido com um bandido.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Queridinho Da Vovo (2006)[/B]</title>
+<link>https://archive.org/download/QueridinhoDaVovo2006Dublado/QueridinhoDaVovo2006Dublado.mp4$nome= MP4</link>
+<link>https://archive.org/download/QueridinhoDaVovo2006Dublado/QueridinhoDaVovo2006Dublado.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/kS1QrLV/o-queridinho-da-vovo-t3207.webp</thumbnail>
+<fanart>https://i.ibb.co/pKH5FpH/59d2da8038da638d3e73d65177dd8b9ed67ff1ad086a6029ab24453a52b294d2-UY500-UX667-RI-TTW.jpg</fanart>
+<info>Alex tem 35 anos e ganha a vida testando videogames. Depois que seu colega de quarto gasta todo o dinheiro do aluguel, eles são despejados e Alex vai morar com a avó que divide a casa com duas amigas malucas.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
