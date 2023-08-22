@@ -29,11 +29,11 @@
 <fanart>https://i.ibb.co/LN2QJmN/download-1.jpg</fanart>
 <info>Nova York, fim dos anos 40. Após a morte de seu pai, Sal Paradise, um jovem de 24 anos aspirante a escritor, conhece Dean Moriarty, um ex-detento de 20 anos com moral duvidosa, e sua jovem e bela esposa Marylou. Dean se fascina com a obsessão de Sal em escrever e Sal fica fascinado pela liberdade irrestrita de Dean. Eles passam noites intensas, calibradas com álcool, sonhando com um outro mundo e construindo uma amizade que os levará a pôr o pé na estrada.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Farrapo Humano (1945)[/B]</title>
+<link>https://archive.org/download/Farrapo.Humano.1945.Dub.720p/Farrapo.Humano.1945.Dub.720p.mp4</link>
+<thumbnail>https://i.ibb.co/GtRssXt/The-Lost-Weekend-1945-film.jpg</thumbnail>
+<fanart>https://i.ibb.co/LC96LL1/Farrapo-Humano.jpg</fanart>
+<info>O filme retrata o alcoolismo de forma realista, numa excelente interpretação de Ray Milland como o sujeito que tem crise de abstinência ao se ver privado de beber durante um final de semana, daí a razão do título em inglês: "O fim de semana perdido". As cenas em que o personagem principal tem as crises de delírio são impressionantes. Apesar de filmado em 1945, o filme e seu conteúdo continuam atuais.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
