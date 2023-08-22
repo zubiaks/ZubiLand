@@ -65,11 +65,12 @@
 <fanart>https://i.ibb.co/pKH5FpH/59d2da8038da638d3e73d65177dd8b9ed67ff1ad086a6029ab24453a52b294d2-UY500-UX667-RI-TTW.jpg</fanart>
 <info>Alex tem 35 anos e ganha a vida testando videogames. Depois que seu colega de quarto gasta todo o dinheiro do aluguel, eles são despejados e Alex vai morar com a avó que divide a casa com duas amigas malucas.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Como Enlouquecer Seu Chefe (1999)[/B]</title>
+<link>https://archive.org/download/ComoEnlouquecerSeuChefe1999Dublado/ComoEnlouquecerSeuChefe1999Dublado.mp4$nome= MP4</link>
+<link>https://archive.org/download/ComoEnlouquecerSeuChefe1999Dublado/ComoEnlouquecerSeuChefe1999Dublado.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/wdxySBH/dvd-como-enlouquecer-seu-chefe-de-mike-judge-original-D-NQ-NP-8796-ls-BAkc-J.webp</thumbnail>
+<fanart>https://i.ibb.co/LktPk6j/download-5.jpg</fanart>
+<info>O rabugento Peter Gibbons odeia seu trabalho em uma empresa de software. Sua terapeuta morre no meio de uma sessão de hipnose e o deixa em total estado de satisfação. Ele se recusa a trabalhar hora extra, joga na mesa do escritório e, sem a menor intenção, conquista dois consultores que aceleram a sua promoção. Peter e seus amigos descobrem que a companhia está prestes a fazer cortes e decidem armar um plano de vingança contra a empresa.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
