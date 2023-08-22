@@ -1,175 +1,168 @@
 
-<item><title>[B]S04E01 [/B]</title>
+<item><title>[B]S04E01 Dedede's Monsterpiece[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2077-%20O%20Museu%20do%20Dedede.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2077-%20O%20Museu%20do%20Dedede.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>O rei Dedede abre seu próprio museu de arte, mas ele não gosta das pinturas importadas, então ele ordena um monstro para fazer o seu.</info></item>
+
+<item><title>[B]S04E02 Robô da Mão Direita[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2078-%20Escar-dr%C3%B3ide.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2078-%20Escar-dr%C3%B3ide.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Depois de ser trabalhado no chão muito duro pelo Rei Dedede, Escargoon cria Escar-droid, um robô feito para fazer seus deveres para ele, mas Dedede o usa para ir atrás de Kirby, levando-o a ser constantemente destruído e forçando Escargoon a reconstruí-lo várias vezes.</info></item>
+
+<item><title>[B]S04E03 Bonkers está aqui![/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2079-%20Aprendiz%20de%20Guerreiro.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2079-%20Aprendiz%20de%20Guerreiro.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Depois que o Rei Dedede descobre que Bonkers, um macaco de circo fugitivo, quer treinar com Kirby, ele transforma Bonkers em um monstro.</info></item>
+
+<item><title>[B]S04E04 Tônica! Drink Rhapsody[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2080-%20A%20Po%C3%A7%C3%A3o%20de%20Energia%20%28%C3%81udio%20corrigido%29.ia.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2080-%20A%20Po%C3%A7%C3%A3o%20de%20Energia%20%28%C3%81udio%20corrigido%29.mp4$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>O rei Dedede ordena uma bebida para alimentar a si mesmo e aos Cappies, mas depois de ver os efeitos e suas consequências, Escargoon ordena uma bebida para cocô-los.</info></item>
+
+<item><title>[B]S04E05 Eep! The Untidy Woman[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2081-%20Golpe%20Sujo.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2081-%20Golpe%20Sujo.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Quando o rei Dedede e Escargoon descobrem que a casa do chefe Bookem e Buttercup é um chiqueiro, eles usam essa oportunidade para humilhá-los na televisão pública. Enquanto isso, para não lidar com os próprios hábitos trash de Dedede, N.M.E. envia um monstro cuspidor de lixo para expulsar todo o lixo de Dedede (que ele havia enviado para N.M.E.) para Cappy Town.</info></item>
+
+<item><title>[B]S04E06 Cozinhando problemas[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2082-%20Cozinhando%20Encrenca.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2082-%20Cozinhando%20Encrenca.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Depois que Sir Ebrum prepara uma deliciosa refeição para seus filhos e Kirby, o Rei Dedede começa um concurso de culinária para Male Cappies, e os engana para comprar peças feitas para construir o SlicerDicer.</info></item>
+
+<item><title>[B]S04E07 Ameaça do Professor[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2083-%20O%20Falso%20Professor.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2083-%20O%20Falso%20Professor.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Um novo professor chega a Cappy Town para lecionar na Academia Dedede, mas na verdade ele é um monstro de contrato.</info></item>
+
+<item><title>[B]S04E08 Loucura de Múmias[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2084-%20A%20Revolta%20das%20M%C3%BAmias.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2084-%20A%20Revolta%20das%20M%C3%BAmias.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>O rei Dedede engana o Sr. Curio para abrir um frasco contendo criaturas parecidas com múmias chamadas Mumbies, que correm desenfreadas em Cappy Town antes de atingir Kirby.</info></item>
+
+<item><title>[B](OFF)S04E09 Uma Surpresa Sunsational" / "Um Quebra-Cabeça Sunsational[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>King Dedede compra aparelhos de ar condicionado da N.M.E. para refrescar a cidade quando ela fica muito quente. Mais tarde, um monstro da camada de ozônio aparece.</info></item>
+
+<item><title>[B](OFF)S04E10 Confronto de discípulos! Cook Nagoya[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Um colega do passado de Kawasaki vem visitá-lo, mas descobre que sua culinária é extremamente pobre. Mais tarde, o Rei Dedede realiza um concurso entre Kawasaki e Nagoya, onde o vencedor fica com o restaurante da Kawasaki.</info></item>
+
+<item><title>[B]S04E11 Gestão de Resíduos[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2087-%20Opera%C3%A7%C3%A3o%20Limpeza.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2087-%20Opera%C3%A7%C3%A3o%20Limpeza.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>O rei Dedede contrata um bando de corvos para comer seu lixo, mas depois eles traem e dizem aos corvos para se perderem. Mais tarde, o líder dos corvos é transformado em um monstro, e retorna para se vingar.</info></item>
+
+<item><title>[B]S04E12 Escargon Naked[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2088-%20A%20Concha%20%28TV%20Rip%202%29.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2088-%20A%20Concha%20%28TV%20Rip%202%29.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>O rei Dedede quer ver o que está sob a concha de Escargoon, então ele a abre com seu martelo. Depois que Tiff exige que ele conserte, N.M.E. envia uma concha monstruosa, transformando Escargoon em Maimaigoon.</info></item>
+
+<item><title>[B](OFF)S04E13 Desenho animado geek! Fūmu das Estrelas[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>King Dedede ordena um grupo de anime chamado Otakings da N.M.E., mas eles o recuam e fazem um show de anime sobre Tiff, então Dedede decide por um 1 em 1 quando ele ordena Anige disfarçado de Dis Walney.</info></item>
+
+<item><title>[B]S04E16 Corrida louca! Dedede Race Part 1[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2090-%20Nascido%20para%20ser%20R%C3%A1pido%20-%20Primeira%20Parte.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2090-%20Nascido%20para%20ser%20R%C3%A1pido%20-%20Primeira%20Parte.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S04E02 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E15 Corrida louca! Dedede Race Part 2[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2091-%20Nascido%20para%20ser%20R%C3%A1pido%20-%20Segunda%20Parte.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2091-%20Nascido%20para%20ser%20R%C3%A1pido%20-%20Segunda%20Parte.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Antes que ele possa correr, Gus é sequestrado e trancado na masmorra do Castelo Dedede, forçando Gengu a correr em seu lugar. Quando Gengu (e mais tarde Gus, que eventualmente é libertado e relutantemente se junta à raça) estão lutando, Steppenwolf (revelado ser Melman no final do episódio) intervém.</info></item>
 
-<item><title>[B]S04E03 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E16 Waddle Dees' Cuisine Revolution[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2092-%20Briga%20de%20Famintos.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2092-%20Briga%20de%20Famintos.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Quando o rei Dedede descobre que as refeições de seus Waddle Dees estão lhe custando uma fortuna, ele os faz comer menos, resultando em uma rebelião até que ele ordena um monstro de cozinha.</info></item>
 
-<item><title>[B]S04E04 [/B]</title>
+<item><title>[B](OFF)S04E17 Dia da Apreciação[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O rei Dedede é ciumento porque não tem seu próprio dia de apreciação. Quando Kirby tenta dar-lhe um presente de apreciação (uma melancia que ele comeu pela metade), ele cancela todos os outros dias de apreciação e os substitui por "Dis Days" (dias dedicados a atacar o Cappy the Dis Day também é dedicado) como um meio de vingança, e tenta fazer uma brincadeira cruel com Kirby envolvendo melancias explosivas.</info></item>
 
-<item><title>[B]S04E05 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E18 Criatura Covarde[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2094-%20Criatura%20Covarde.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2094-%20Criatura%20Covarde.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O monstro escapado PhanPhan chega a Cappy Town, e Kirby se torna amigo dele. Mais tarde, o Rei Dedede descobre sobre isso e ordena que um monstro treinador transforme PhanPhan em um monstro real.</info></item>
 
-<item><title>[B]S04E06 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E19 Devil Kirby[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2095-%20O%20Sapo%20Selvagem.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2095-%20O%20Sapo%20Selvagem.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Kirby becomes possessed by a Demon Frog who uses his powers to cause chaos in Cappy Town.</info></item>
 
-<item><title>[B]S04E07 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E20 Warp Star Crisis! Part 1[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2096-%20M%C3%A1quinas%20Voadoras%20-%20Primeira%20Parte.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2096-%20M%C3%A1quinas%20Voadoras%20-%20Primeira%20Parte.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>King Dedede kidnaps Tiff and Kirby is attacked by a gang of Air Riders. Kirby battles them while acquiring many abilities as well.</info></item>
 
-<item><title>[B]S04E08 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E21 Warp Star Crisis! Part 2[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2097-%20M%C3%A1quinas%20Voadoras%20-%20Segunda%20Parte.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2097-%20M%C3%A1quinas%20Voadoras%20-%20Segunda%20Parte.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>N.M.E. is poised and ready to take out Kirby with the Air Ride machines.</info></item>
 
-<item><title>[B]S04E09 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E22 Take Off! Battleship Halberd[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2098-%20O%20Fim%20de%20Cappy%20Town.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2098-%20O%20Fim%20de%20Cappy%20Town.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Meta Knight reveals his secret weapon, Battleship Halberd, and, with the aid of several Cappies, begins the journey to N.M.E.'s fortress.</info></item>
 
-<item><title>[B]S04E10 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E23 Destruction! Nightmare's Great Fortress[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2099-%20Kirby%20Combate.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2099-%20Kirby%20Combate.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Kirby battles Nightmare's powerful Heavy Lobster to protect Halberd, and the Halberd, aided by three friendly Destrayers piloted by past friends, begins its assault.</info></item>
 
-<item><title>[B]S04E11 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S04E24 Fly! Kirby of the Stars[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%20Final%20%28100%29%20-%20Lutar%20at%C3%A9%20o%20Fim.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%20Final%20%28100%29%20-%20Lutar%20at%C3%A9%20o%20Fim.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E12 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E13 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E14 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E15 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E16 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E17 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E18 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E19 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E20 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E21 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E22 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E23 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E24 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S04E25 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<info>Kirby falls asleep in Nightmare's realm and battles him once and for all.</info></item>

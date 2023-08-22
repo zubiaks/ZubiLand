@@ -1,196 +1,175 @@
 
-<item><title>[B]S03E01 [/B]</title>
+<item><title>[B](OFF)S03E01 Cápsulas de chocolate do diabo! (Parte 1)[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Uma mania de doces e brinquedos está varrendo Cappy Town quando a N.M.E. vende uma linha de 3 Color Fighters disfarçados de Chocolate.</info></item>
+
+<item><title>[B](OFF)S03E02 Cápsulas de chocolate do diabo! (Parte 2)[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Kirby enfrenta os raros modelos de lutadores do Rei Dedede em um torneio de batalha.</info></item>
+
+<item><title>[B](OFF)S03E03 Quixano, o Cavaleiro Over-the-top![/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Um cavaleiro louco cai perto de Cappy Town e ataca Kirby, pensando que ele é um monstro.</info></item>
+
+<item><title>[B](OFF)S03E04 Dedede's Certain Love[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Um acidente acontece enquanto o rei Dedede tenta ordenar um monstro que o transforma de ruim em bom.</info></item>
+
+<item><title>[B]S03E05 Scarfy the Selfish Pet[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2056-%20Bichinhos%20do%20Dedede.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2056-%20Bichinhos%20do%20Dedede.avi$nome= avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>O novo animal de estimação do Rei Dedede, Scarfies, entra em um ataque faminto depois que ele os abandona na floresta.</info></item>
+
+<item><title>[B]S03E06 Quem tira sarro de torta vai chorar de torta![/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2057-%20Uma%20Batalha%20Meio%20Assada.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2057-%20Uma%20Batalha%20Meio%20Assada.avi$nome= avi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Quando o Rei Dedede é atingido no rosto com uma torta gigante, toda a cidade entra em uma briga de torta.</info></item>
+
+<item><title>[B]S03E07 O professor monstro te castigará![/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2058-%20Elementar%2C%20Caro%20eNeMeE.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2058-%20Elementar%2C%20Caro%20eNeMeE.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Quando todas as crianças começam a zombar do Rei Dedede pintando quadros bobos dele nas paredes, ele decide começar uma escola para crianças pequenas aprenderem a respeitá-lo.</info></item>
+
+<item><title>[B]S03E08 O Maior Show Acontece! Jantares[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2059-%20Milh%C3%B5es%20por%20uma%20Refei%C3%A7%C3%A3o.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2059-%20Milh%C3%B5es%20por%20uma%20Refei%C3%A7%C3%A3o.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Quando o rei Dedede se cansa das mesmas refeições repetidamente, ele começa um programa de culinária que o leva às casas de Cappy Town para comer suas refeições.</info></item>
+
+<item><title>[B]S03E09 A Espada Preciosa Galaxia![/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2060-%20Em%20Busca%20da%20Espada.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2060-%20Em%20Busca%20da%20Espada.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sirica desce para Cappy Town em sua nave espacial e tenta roubar Galaxia de Meta Knight, a fim de vingar a morte de sua mãe pelas mãos da grande besta, Kirisakin.</info></item>
+
+<item><title>[B]S03E10 Desastre de peso! Snack Junkies[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2061-%20Fan%C3%A1tico%20por%20Boa%20Sa%C3%BAde.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2061-%20Fan%C3%A1tico%20por%20Boa%20Sa%C3%BAde.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Quando o rei Dedede e Kirby engordam por comer muitos lanches, Dedede contrata um instrutor de fitness da N.M.E. para emagrecê-los.</info></item>
+
+<item><title>[B]S03E11 É só adivinhação, mas ainda é adivinhação[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2062-%20Mabel%20Vira%20a%20Mesa.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2062-%20Mabel%20Vira%20a%20Mesa.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Quando Mabel estrela o último programa do Rei Dedede, sua fortuna começa a se tornar realidade.</info></item>
+
+<item><title>[B]S03E12 Algo para espirrar[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2063-%20Alguma%20Coisa%20para%20Espirrar.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2063-%20Alguma%20Coisa%20para%20Espirrar.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Quando todo mundo pega um resfriado antes do ano novo, o rei Dedede tenta pegar um por causa de um boato.</info></item>
+
+<item><title>[B]S03E13 Ano Novo! Kirby Quiz Show[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2064-%20O%20Teste%20de%20Kirby.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2064-%20O%20Teste%20de%20Kirby.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Todo mundo começa o novo ano com um quiz show com clipes de episódios anteriores.</info></item>
+
+<item><title>[B]S03E14 Knuckle Joe em fuga![/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2065-%20A%20Volta%20de%20Joe.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2065-%20A%20Volta%20de%20Joe.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Um Knuckle Joe ferido chega depois de tentar derrotar o revivido Masher, que também veio para derrotá-lo.</info></item>
+
+<item><title>[B]S03E16 O Fator Frio[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2066-%20O%20Fator%20Frio.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2066-%20O%20Fator%20Frio.AVI$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>O inverno chega mais uma vez quando Pengis vagando visita Cappy Town.</info></item>
+
+<item><title>[B]S03E17 O Golpe da Escola[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2067-%20A%20Escola%20Ilegal.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2067-%20A%20Escola%20Ilegal.avi$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>King Dedede contrata alguns punks para culpar Tiff pela má educação em Cappy Town.</info></item>
+
+<item><title>[B]S03E18 Dilema do Parto[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2068-%20Entregas%20Complicadas.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2068-%20Entregas%20Complicadas.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S03E02 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S03E19 Truque ou Trek[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2069-%20Trilha%20na%20Floresta.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2069-%20Trilha%20na%20Floresta.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Durante uma caminhada por Whispy Woods, o rei Dedede e Escargoon incendiaram a floresta.</info></item>
 
-<item><title>[B]S03E03 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S03E20 The Legend of Lord Tokkori[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2070-%20Papagaio%20de%20Pirata.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2070-%20Papagaio%20de%20Pirata.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Depois que os aldeões se cansam de ter Tokkori por perto, eles descobrem que ele é um pássaro real.</info></item>
 
-<item><title>[B]S03E04 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S03E21 Close Up! Observação de Baleias[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2071-%20Baleia%20da%20Pesada.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2071-%20Baleia%20da%20Pesada.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O rei Dedede organiza um cruzeiro de observação de baleias, mas ele realmente quer usá-lo para capturar uma baleia.</info></item>
 
-<item><title>[B]S03E05 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S03E22 Waddle While You Work[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2072-%20Waddle%20Dees%20v%C3%A3o%20ao%20Trabalho.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2072-%20Waddle%20Dees%20v%C3%A3o%20ao%20Trabalho.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Depois que o Serviço de Atendimento ao Cliente exige dinheiro, King Dedede vende todos os seus Waddle Dees para pagar N.M.E. de volta.</info></item>
 
-<item><title>[B]S03E06 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S03E23 Spin the Sushi-Go-Round[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2073-%20Peixe%20Cr%C3%BA%20do%20Dedede.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2073-%20Peixe%20Cr%C3%BA%20do%20Dedede.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O N.M.E. Salesman tem um novo local para almoço, então o Rei Dedede ordena ao Chef Kawasaki que transforme seu restaurante em um sushi bar.</info></item>
 
-<item><title>[B]S03E07 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S03E24 Mothgaber contra-ataca![/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2074-%20Terror%20de%20Lagarta.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2074-%20Terror%20de%20Lagarta.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>N.M.E. dá ao rei Dedede dois gêmeos cativos do Mar do Sul de Postar, a fim de se livrar de Kirby. Enquanto isso, uma lagarta gigante está dando a todos em Cappy Town febre do feno.</info></item>
 
-<item><title>[B]S03E08 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S03E25 Sonho Dino Céu! Parte 1[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2075-%20F%C3%B3sseis%20Vivos%20-%20Primeira%20Parte.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2075-%20F%C3%B3sseis%20Vivos%20-%20Primeira%20Parte.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Depois de descobrir que os dinossauros foram extintos por milhões de anos, o rei Dedede e Escargoon ordenaram que um cientista louco da N.M.E. criasse seus próprios.</info></item>
 
-<item><title>[B]S03E09 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<item><title>[B]S03E26 Sonho Dino Céu! Parte 2[/B]</title>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2076-%20F%C3%B3sseis%20Vivos%20-%20Segunda%20Parte.mp4$nome= MP4</link>
+<link>https://archive.org/download/kirbydubladoptbr/Ep.%2076-%20F%C3%B3sseis%20Vivos%20-%20Segunda%20Parte.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E10 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E11 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E12 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E13 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E14 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E15 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E16 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E17 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E18 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E19 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E20 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E21 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E22 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E23 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E24 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E25 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E26 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E27 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S03E28 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<info>Todos são invadidos por mosquitos científicos depois de escapar do traiçoeiro parque de diversões do Rei Dedede – e suas amostras de DNA são usadas para ajudar o cientista louco a criar os melhores dinossauros.</info></item>

@@ -153,135 +153,30 @@
 <fanart></fanart>
 <info>O Rei Dedede dispara o Waddle Dees e ordena um Robô Empregado Doméstico; mas os Waddle Dees ainda são leais a ele, protegendo seu cofre.</info></item>
 
-<item><title>[B](OFF)S02E23 [/B]</title>
+<item><title>[B](OFF)S02E23 Armadilha Turística[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O Rei Dedede quer fazer um show para os turistas, então ele baixa Flame Feeder destinado a destruir Kirby.</info></item>
 
-<item><title>[B](OFF)S02E24 [/B]</title>
+<item><title>[B](OFF)S02E24 New Animated Series: Dedede of the Stars[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Inspirado no flipbook de Tiff, King Dedede abre um estúdio de animação para produzir um programa de TV estrelado por ele mesmo como o personagem principal e Kirby como o vilão.</info></item>
 
-<item><title>[B](OFF)S02E25 [/B]</title>
+<item><title>[B](OFF)S02E25 Salve! O Cofrinho Amaldiçoado[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O Rei Dedede distribui Bonecas Dedede moldadas à sua semelhança com Cappies de lavagem cerebral, mas o plano sai pela culatra.</info></item>
 
-<item><title>[B](OFF)S02E26 [/B]</title>
+<item><title>[B](OFF)S02E26 Sentimental Kirby[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
-
-<item><title>[B](OFF)S02E27 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B](OFF)S02E28 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B](OFF)S02E29 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B](OFF)S02E30 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S02E31 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S02E32 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S02E33 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S02E34 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S02E35 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S02E36 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S02E37 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S02E38 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S02E39 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S02E40 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]S02E41 [/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<info>É o aniversário de um ano de Kirby de pousar em Cappy Town, mas o Rei Dedede ordena que um monstro destrua Kirby com fogos de artifício.</info></item>
