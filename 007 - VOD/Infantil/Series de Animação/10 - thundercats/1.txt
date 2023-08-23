@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]ThunderCats (1983)[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/MZWR8dz/MV5-BNz-Jk-YWE4-Y2-Qt-NTE4-Yi00-OTVi-LWE3-NDQt-NGJk-OWNl-Mj-Yy-MTdl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMz-Mz-Yx.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/10%20-%20thundercats/ThunderCats%20(1983)/1.txt</externallink>
+<fanart>https://i.ibb.co/G5CN0p7/thundercats.jpg</fanart>
+<info>Uma equipe de gatos humanoides luta contra o mal em seu mundo natal adotivo.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

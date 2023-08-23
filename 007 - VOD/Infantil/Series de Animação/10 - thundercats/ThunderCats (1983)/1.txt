@@ -1,45 +1,27 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]1ª Temporada[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/ZgtF7Hn/TCats-DVD-S1-V1.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/10%20-%20thundercats/ThunderCats%20(1983)/S01.txt</externallink>
+<fanart>https://i.ibb.co/ZGC0xSz/tc-101-0.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]2ª Temporada[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/qjpzrZt/temporada-2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/10%20-%20thundercats/ThunderCats%20(1983)/S02.txt</externallink>
+<fanart>https://i.ibb.co/4sLQW4y/MV5-BMzgz-NGMw-MGEt-Yj-Y0-MS00-Mm-Qx-LTgw-ZWEt-NWFj-Nj-Rj-OGQz-MWRl-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-U1-Nz-E.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]3ª Temporada[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/WDxrLPX/temporada-3.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/10%20-%20thundercats/ThunderCats%20(1983)/S03.txt</externallink>
+<fanart>https://i.ibb.co/2t3T79n/https-pictures-betaseries-com-banners-episodes-70355-4216.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]4ª Temporada[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/3hp25x5/temporada-4.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/10%20-%20thundercats/ThunderCats%20(1983)/S04.txt</externallink>
+<fanart>https://i.ibb.co/zm9bWp6/104118c5b1d1aa56-w.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
