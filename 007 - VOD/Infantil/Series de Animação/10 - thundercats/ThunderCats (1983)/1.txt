@@ -4,25 +4,25 @@
 <thumbnail>https://i.ibb.co/ZgtF7Hn/TCats-DVD-S1-V1.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/10%20-%20thundercats/ThunderCats%20(1983)/S01.txt</externallink>
 <fanart>https://i.ibb.co/ZGC0xSz/tc-101-0.webp</fanart>
-<info></info></channel>
+<info>A primeira metade da primeira Temporada apresentou uma continuidade suave, com os primeiros episódios estabelecendo conceitos em sequência, embora isso tenha se tornado um pouco menos comum em sua segunda metade, que é composta principalmente por aventuras em episódios únicos. O elo da segunda metade foi o conjunto de cinco aventuras, "Unção de Lion-O", em que Lion-O desarmado enfrentou os cada um dos ThunderCats para provar que de fato era o Senhor dos ThunderCats.[4] Embora destinadas a serem vistas consecutivamente (como as aventuras ocorreram um dia após o outro), as cinco partes da mini-série foram exibidas e lançadas em DVD com vários outros episódios entre cada parcela.</info></channel>
 
 <channel><name>[B][COLOR white]2ª Temporada[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/qjpzrZt/temporada-2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/10%20-%20thundercats/ThunderCats%20(1983)/S02.txt</externallink>
 <fanart>https://i.ibb.co/4sLQW4y/MV5-BMzgz-NGMw-MGEt-Yj-Y0-MS00-Mm-Qx-LTgw-ZWEt-NWFj-Nj-Rj-OGQz-MWRl-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-U1-Nz-E.jpg</fanart>
-<info></info></channel>
+<info>Quando a série voltou em 1987, no entanto, foi revelado que o feiticeiro maligno sobreviveu. O episódio "Mumm-Ra Vive!" determinou o padrão o qual seguiria as três temporadas seguintes, cada uma começando com uma minissérie de cinco episódios que estabeleceram novas personagens e conceitos que influenciariam o restante da temporada. No caso de "Mumm-Ra Vive!", esses conceitos incluíam a estreia dos vilões Lunataks, que se tornaram uma terceira facção existente no resto da série, e a nova equipe de ThunderCats estreada em "ThunderCats - Ho!" tendo maior importância, vindo a possuir sede própria, veículos e assim por diante.</info></channel>
 
 <channel><name>[B][COLOR white]3ª Temporada[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/WDxrLPX/temporada-3.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/10%20-%20thundercats/ThunderCats%20(1983)/S03.txt</externallink>
 <fanart>https://i.ibb.co/2t3T79n/https-pictures-betaseries-com-banners-episodes-70355-4216.jpg</fanart>
-<info></info></channel>
+<info>A temporada 1988 começou com "ThunderCubs", minissérie cujo nome foi baseado num episódio em que os ThunderCats são transformados em crianças. Entretanto, a trama principal da temporada gira em torno da reconstrução de Thundera por Mumm-Ra, que planejava tanto recuperar a arma que originalmente causou sua destruição (a Espada de Plun -Darr), como o lendário Tesouro de Thundera. No decorrer da aventura, o tesouro - que contém o Livro dos Presságios, um tomo contendo todos os segredos dos ThunderCats, e muitos outros itens místicos - foi espalhado por toda a Nova Thundera, inaugurando um conceito diferente para a série: uma temporada com um arco de história real.[4]</info></channel>
 
 <channel><name>[B][COLOR white]4ª Temporada[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/3hp25x5/temporada-4.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/10%20-%20thundercats/ThunderCats%20(1983)/S04.txt</externallink>
 <fanart>https://i.ibb.co/zm9bWp6/104118c5b1d1aa56-w.jpg</fanart>
-<info></info></channel>
+<info>No início da temporada, os Thundercats retornaram a Nova Thundera para reconstruir sua sociedade. na minissérie de abertura, "Retorno a Thundera!". Antes de partirem, eles destruíram a pirâmide de Mumm-Ra, o que enfureceu os Antigos Espíritos Do Mal a ponto de eles resolverem trazer Mumm-Ra de volta de seu exílio, instalando-o em uma pirâmide em Nova Thundera. A temporada seguiu um caminho quase que completamente diverso das histórias que tinham acontecido anteriormente, com aventuras ocorridas quase que inteiramente em novos locais selvagens e maravilhosos de Nova Thundera, sendo o antagonismo proveniente, na maior parte, de Mumm-Ra ou de novos vilões. Os Mutantes, Lunataks e Capitão Cracker, todos retornaram para um episódio cada, no entanto. Ao final da série, diversas conclusões são alcançadas:</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

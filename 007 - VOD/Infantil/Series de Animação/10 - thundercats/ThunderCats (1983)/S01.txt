@@ -1,488 +1,488 @@
 
-<item><title>[B]S01E01 [/B]</title>
+<item><title>[B]S01E01 Êxodo[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E02 [/B]</title>
+<item><title>[B]S01E02 Aliança Profana[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E03 [/B]</title>
+<item><title>[B]S01E03 Berbils[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E04 [/B]</title>
+<item><title>[B]S01E04 Os Escravos do Castelo Plun-Dar[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E05 [/B]</title>
+<item><title>[B]S01E05 Pumm-ra[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E06 [/B]</title>
+<item><title>[B]S01E06 O Pirata Mão de Martelo[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E07 [/B]</title>
+<item><title>[B]S01E07 É Questão de Tempo[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E08 [/B]</title>
+<item><title>[B]S01E08 A Torre das Armadilhas[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E09 [/B]</title>
+<item><title>[B]S01E09 O Jardim das Delícias[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E10 [/B]</title>
+<item><title>[B]S01E10 Mandora, a caçadora do mal[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E11 [/B]</title>
+<item><title>[B]S01E11 O Guerreiro Fantasma[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E12 [/B]</title>
+<item><title>[B]S01E12 O Olhar Fatal[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E13 [/B]</title>
+<item><title>[B]S01E13 Senhor da Neves[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E14 [/B]</title>
+<item><title>[B]S01E14 A Espaçonave Enterrada[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E15 [/B]</title>
+<item><title>[B]S01E15 A Cápsula do Tempo[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E16 [/B]</title>
+<item><title>[B]S01E16 As Bolas de Fogo do Castelo Plun-Dar[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E17 [/B]</title>
+<item><title>[B]S01E17 A Espada de Omens[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E18 [/B]</title>
+<item><title>[B]S01E18 Imagem Distorcida[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E19 [/B]</title>
+<item><title>[B]S01E19 Mongor[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E20 [/B]</title>
+<item><title>[B]S01E20 Retorno a Thundera[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E21 [/B]</title>
+<item><title>[B]S01E21 Dr. Dometone[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E22 [/B]</title>
+<item><title>[B]S01E22 Prisão Astral[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E23 [/B]</title>
+<item><title>[B]S01E23 A Rainha de Cristal[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E24 [/B]</title>
+<item><title>[B]S01E24 Safari Joe[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E25 [/B]</title>
+<item><title>[B]S01E25 Snarf Aceita o Desafio[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E26 [/B]</title>
+<item><title>[B]S01E26 O Sexto Sentido[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E27 [/B]</title>
+<item><title>[B]S01E27 O Thunder-Cortador[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E28 [/B]</title>
+<item><title>[B]S01E28 Lobo Feroz[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E29 [/B]</title>
+<item><title>[B]S01E29 Felliner – Parte I[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E30 [/B]</title>
+<item><title>[B]S01E30 Felliner – Parte II[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E31 [/B]</title>
+<item><title>[B]S01E31 Mandora e os Piratas[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E32 [/B]</title>
+<item><title>[B]S01E32 O Retorno do Furão[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E33 [/B]</title>
+<item><title>[B]S01E33 Dimensão da Destruição[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E34 [/B]</title>
+<item><title>[B]S01E34 Rainha de Oito Pernas[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E35 [/B]</title>
+<item><title>[B]S01E35 Espada no Precipício[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E36 [/B]</title>
+<item><title>[B]S01E36 A Harpa do mal de Char-Nin[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E37 [/B]</title>
+<item><title>[B]S01E37 Primeiro dia do Ungido de Lion: Prova de Força[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E38 [/B]</title>
+<item><title>[B]S01E38 O Demolidor[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E39 [/B]</title>
+<item><title>[B]S01E39 Barganha de Simiano[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E40 [/B]</title>
+<item><title>[B]S01E40 Cilada Quase Fatal[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E41 [/B]</title>
+<item><title>[B]S01E41 Os Micrits[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E42 [/B]</title>
+<item><title>[B]S01E42 Segundo dia do Ungido de Lion: Prova de Velocidade[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E43 [/B]</title>
+<item><title>[B]S01E43 O Gigante de Pedra[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E44 [/B]</title>
+<item><title>[B]S01E44 A Rebelião de Chacal[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E45 [/B]</title>
+<item><title>[B]S01E45 Turmagar, o Tuska[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E46 [/B]</title>
+<item><title>[B]S01E46 Terceiro dia do Ungido de Lion: Prova de Agilidade[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E47 [/B]</title>
+<item><title>[B]S01E47 Mumm-ra Berbil[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E48 [/B]</title>
+<item><title>[B]S01E48 Praga Mecânica[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E49 [/B]</title>
+<item><title>[B]S01E49 Encurralados[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E50 [/B]</title>
+<item><title>[B]S01E50 Quarto dia do Ungido de Lion: Prova do Poder da Mente[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E51 [/B]</title>
+<item><title>[B]S01E51 Excalibur[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E52 [/B]</title>
+<item><title>[B]S01E52 Excalibur[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E53 [/B]</title>
+<item><title>[B]S01E53 Bom e Feio[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E54 [/B]</title>
+<item><title>[B]S01E54 O Reator Radioativo[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E55 [/B]</title>
+<item><title>[B]S01E55 Dividir e Conquistar[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E56 [/B]</title>
+<item><title>[B]S01E56 O Mestre dos Sonhos[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E57 [/B]</title>
+<item><title>[B]S01E57 Fora de Alcance[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E58 [/B]</title>
+<item><title>[B]S01E58 A Montanha[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E59 [/B]</title>
+<item><title>[B]S01E59 A Poção do Super-Poder[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E60 [/B]</title>
+<item><title>[B]S01E60 A Própria Imagem[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E61 [/B]</title>
+<item><title>[B]S01E61 Quinto dia do Ungido de Lion: Prova do Demônio[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E62 [/B]</title>
+<item><title>[B]S01E62 Os Gatinhos em Apuros[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E63 [/B]</title>
+<item><title>[B]S01E63 Mumm-rana[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E64 [/B]</title>
+<item><title>[B]S01E64 Personalidades Trocadas[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E65 [/B]</title>
+<item><title>[B]S01E65 Boas Lembranças[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E66 [/B]</title>
+<item><title>[B]S01E66 Os Novos Thunderianos[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E67 [/B]</title>
+<item><title>[B]S01E67 Montanha de Fogo[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E68 [/B]</title>
+<item><title>[B]S01E68 Avalanche[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E69 [/B]</title>
+<item><title>[B]S01E69 A Volta de Hachiman[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E70 [/B]</title>
+<item><title>[B]S01E70 Os Novos Thundercats[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
