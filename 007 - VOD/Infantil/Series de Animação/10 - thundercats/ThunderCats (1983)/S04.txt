@@ -1,7 +1,7 @@
 
 <item><title>[B]S04E01 Retorno a Thundera – Parte I[/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/111%20-%20Retorno%20a%20Thundera%20Parte.mp4$nome= MP4</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/111%20-%20Retorno%20a%20Thundera%20Parte.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>

@@ -35,29 +35,29 @@
 <info></info></item>
 
 <item><title>[B]S03E06 O Totem de Dera[/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/96%20-%20O%20Totem%20de%20Dera%2013.mp4$nome= MP4</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/96%20-%20O%20Totem%20de%20Dera%2013.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E07 A Corrente da Lealdade[/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/97%20-%20A%20Corrente%20da%20Lealdade.mp4$nome= MP4</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/97%20-%20A%20Corrente%20da%20Lealdade.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E08 Canyon de Cristal[/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/98%20-%20O%20Canyon%20de%20Cristal.mp4$nome= MP4</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/98%20-%20O%20Canyon%20de%20Cristal.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E09 O Raio Telepático[/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/99%20-%20O%20Raio%20Telepatico.mp4$nome= MP4</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/99%20-%20O%20Raio%20Telepatico.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -70,8 +70,8 @@
 <info></info></item>
 
 <item><title>[B]S03E11 A Chave de Thundera[/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/101%20-%20A%20Chave%20de%20Thundera.mp4$nome= MP4</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/101%20-%20A%20Chave%20de%20Thundera.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -84,29 +84,29 @@
 <info></info></item>
 
 <item><title>[B]S03E13 A Fórmula[/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/103%20-%20A%20Formula.mp4$nome= MP4</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/103%20-%20A%20Formula.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E14 O Medalhão que Cria Mentiras[/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/104%20-%20O%20Medalh%C3%A3o%20que%20Cria%20Mentiras.mp4$nome= MP4</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/104%20-%20O%20Medalh%C3%A3o%20que%20Cria%20Mentiras.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E15 O Bracelete do Poder[/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/105%20-%20O%20Bracelete%20do%20Poder.mp4$nome= MP4</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/105%20-%20O%20Bracelete%20do%20Poder.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
 <item><title>[B]S03E16 Dando Duro[/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/106%20-%20Dando%20Duro.mp4$nome= MP4</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/106%20-%20Dando%20Duro.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
@@ -119,13 +119,15 @@
 <info></info></item>
 
 <item><title>[B]S03E18 O Dragão de Jade[/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/108%20-%20O%20Dragao%20de%20Jade.mp4$nome= 1</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/108%20-%20O%20Dragao%20de%20Jade.avi$nome= 2</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/90%20-%20O%20Drag%C3%A3o%20de%20Jade.avi$nome= 3</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/90%20-%20O%20Drag%C3%A3o%20de%20Jade.mp4$nome= 4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S03E19 O Dragão de Jade[/B]</title>
+<item><title>[B]S03E19 O Trem do Circo[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
@@ -133,8 +135,8 @@
 <info></info></item>
 
 <item><title>[B]S03E20 O Último Dia[/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/110%20-%20O%20Ultimo%20Dia.mp4$nome= MP4</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/110%20-%20O%20Ultimo%20Dia.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
