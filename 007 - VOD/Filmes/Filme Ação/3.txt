@@ -37,11 +37,12 @@
 <fanart>https://i.ibb.co/VVVcDR6/maxresdefault-1.jpg</fanart>
 <info>18 Bronzemen é um filme de kung fu de Hong Kong de 1976 dirigido por Joseph Kuo. É um dos filmes temáticos de Shaolin, sobre suas batalhas contra a Dinastia Qing. Uma sequência, chamada Return of the 18 Bronzemen, seguiu e foi lançada no mesmo ano.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O Grande Mestre Da Morte (1976)[/B]</title>
+<link>https://archive.org/download/OGrandeMestreDaMorte1976Dublado/OGrandeMestreDaMorte1976Dublado.mp4$nome= MP4</link>
+<link>https://archive.org/download/OGrandeMestreDaMorte1976Dublado/OGrandeMestreDaMorte1976Dublado.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/yf3Xw9d/b148b34231a36faac878323b5c526e54.webp</thumbnail>
+<fanart>https://i.ibb.co/pZm90v0/65455-background.jpg</fanart>
+<info>Ótimas lutas de artes marciais estão nessa produção que conta a história de um jovem encrenqueiro que, certa vez, faz a coisa certa e salva uma jovem, mas deixa o agressor escapar.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
