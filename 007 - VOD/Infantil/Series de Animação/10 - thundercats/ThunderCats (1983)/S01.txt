@@ -1,7 +1,7 @@
 
 <item><title>[B]S01E01 Êxodo[/B]</title>
-<link>$nome= MP4</link>
-<link>$nome= MKV</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/01-%20Epis%C3%B3dio%20%20Exodus.avi$nome= MP4</link>
+<link>https://archive.org/download/96-o-totem-de-dera-13_202106/ThunderCats%20%281985%29/01-%20Epis%C3%B3dio%20%20Exodus.avi$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
