@@ -1,4 +1,28 @@
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B]Tango E Cash Os Vingadores (1989)[/B]</title>
 <link>https://archive.org/download/tango-e-cash-os-vingadores-1989-720p-dublado/Tango%20E%20Cash%20-%20Os%20Vingadores/Tango%20E%20Cash%20-%20Os%20Vingadores%20%281989%29%20720p%20Dublado.mp4</link>
 <thumbnail>https://i.ibb.co/SxMt0Yc/download-3.jpg</thumbnail>
@@ -72,20 +96,9 @@
 <fanart>https://i.ibb.co/LktPk6j/download-5.jpg</fanart>
 <info>O rabugento Peter Gibbons odeia seu trabalho em uma empresa de software. Sua terapeuta morre no meio de uma sessão de hipnose e o deixa em total estado de satisfação. Ele se recusa a trabalhar hora extra, joga na mesa do escritório e, sem a menor intenção, conquista dois consultores que aceleram a sua promoção. Peter e seus amigos descobrem que a companhia está prestes a fazer cortes e decidem armar um plano de vingança contra a empresa.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Uma Escola Muito Doida (1996)[/B]</title>
+<link>https://archive.org/download/Uma.Escola.Muito.Doida.1996.Dublado.HDTV.720p.by.jhonatan28.mkv/Uma.Escola.Muito.Doida.%281996%29.Dublado.HDTV.720p.by.jhonatan28.mp4$nome= MP4</link>
+<link>https://archive.org/download/Uma.Escola.Muito.Doida.1996.Dublado.HDTV.720p.by.jhonatan28.mkv/Uma.Escola.Muito.Doida.%281996%29.Dublado.HDTV.720p.by.jhonatan28.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/HzZPsLm/z-IYTFqcgj-A9z3x-H5-HC9-Htfgp-YSP.jpg</thumbnail>
+<fanart>https://i.ibb.co/tL0KCJR/download.jpg</fanart>
+<info>O professor de ensino médio Richard Clark troca a prestigiosa Academia de Wellington por uma escola numa comunidade de baixa renda. Seu objetivo é servir de inspiração para os estudantes de nota baixa, custe o que custar. Mas quando ele decide ajudar um aluno com problemas de aprendizagem, ele acaba se envolvendo em uma briga de gangues.</info></item>
