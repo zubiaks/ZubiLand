@@ -1,4 +1,28 @@
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B]Anna Karenina (1935)[/B]</title>
 <link>https://archive.org/download/1935-anna-karenina-dub/%5B1935%5D%20Anna%20Karenina%20%5BDUB%5D%20.mp4</link>
 <thumbnail>https://i.ibb.co/pw1RKmF/MV5-BZDBh-N2-E1-MDIt-ZDUw-Zi00-Zm-Vk-LThm-Mjct-Y2-Jl-Yz-Zk-Zm-E5-MDkw-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Uw-Mz.jpg</thumbnail>
@@ -30,32 +54,9 @@
 <fanart>https://i.ibb.co/VS4GWM8/download-2.jpg</fanart>
 <info>O filme é uma moderna adaptação de um clássico de Charles Dickens e conta a história de um artista apaixonado por sua bela e fria vizinha.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]My Sassy Girl (2001)[/B]</title>
+<link>https://archive.org/download/NSKPT010727MySassyGirlPTPT/%5BNSKPT%5D%20010727%20My%20Sassy%20Girl%20%28PT-PT%29.mp4$nome= MP4</link>
+<link>https://archive.org/download/NSKPT010727MySassyGirlPTPT/%5BNSKPT%5D%20010727%20My%20Sassy%20Girl%20%28PT-PT%29.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/1Zy0NGq/MV5-BODdl-MGRh-ZTYt-Mz-Nl-Zi00-Njg3-LWFm-Yj-Mt-NDg4-Zj-E4-Nz-Jj-OGRk-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz-Y.jpg</thumbnail>
+<fanart>https://i.ibb.co/ScLjLJy/MV5-BZDJk-Zjk0-ZGEt-Nzc1-My00-YWI2-LWEz-NGYt-MDRk-YTg2-MTZm-YThm-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-I4-NDY5-OD.jpg</fanart>
+<info>Jovem estudante universitário se envolve com uma mulher que controladora e que o humilha a qualquer oportunidade.</info></item>

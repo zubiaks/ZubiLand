@@ -17,6 +17,24 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Coração Indômito (1950)[/B]</title>
+<link>https://archive.org/download/CoraoIndmito1950/Cora%C3%A7%C3%A3o%20Ind%C3%B4mito%20%281950%29.mp4</link>
+<thumbnail>https://i.ibb.co/jJS5LNc/5bfce3e4bd1a9b169019934d2fe68ff4.webp</thumbnail>
+<fanart>https://i.ibb.co/w4dv9Qn/jennifer-jones.webp</fanart>
+<info>Hazel é uma jovem de natureza livre, assombrada pelas superstições de sua mãe, uma harpista cega de uma pequena cidade da Inglaterra. A história se passa na virada do século XIX para o século XX. Embora Hazel se sinta atraída pelo sádico fazendeiro Jack Redding, ela acaba aceitando se casar o pacífico reverendo Marston. Porém, quando constata que o abismo entre eles é muito grande, Hazel se sente impelida a fazer uma escolha.</info></item>
+
+<item><title>[B]A Canterbury Tale (1944)[/B]</title>
+<link>https://archive.org/download/ACanterburyTale1944/A%20Canterbury%20Tale%20%281944%29.mp4</link>
+<thumbnail>https://i.ibb.co/tz8jBwz/MV5-BNDlh-NDli-OGQt-N2-Ez-YS00-Njg4-LWIz-ODgt-NWIx-NWJj-MDU4-Nzcw-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc1-NTYy-Mj.jpg</thumbnail>
+<fanart>https://i.ibb.co/QNwH9Jd/MV5-BYjgy-MWJk-Yj-Yt-NTNh-Ni00-OTZk-LThl-Mm-Qt-Nm-Yw-M2-Y3-Mz-Bh-Zj-Zj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTk2-Mz.jpg</fanart>
+<info>A Canterbury Tale é um filme britânico dos gêneros comédia, drama e mistério, dirigido por Michael Powell e Emeric Pressburger, estrelando Eric Portman, Sheila Sim, Dennis Price e Sgt. John Sweet.</info></item>
+
 <item><title>[B]joana d'arc (1948)[/B]</title>
 <link>https://archive.org/download/1948-joana-darc-dub_202305/%5B1948%5D%20Joana%20D%27arc%20%5BDUB%5D%20.mp4</link>
 <thumbnail>https://i.ibb.co/b7j5q1F/MV5-BYj-M1-ODJl-N2-Qt-MTE4-NC00-Mz-Nh-LTg3-Zj-Yt-YWNk-MWZj-Nm-Jm-Nj-Fk-Xk-Ey-Xk-Fqc-Gde-QXVy-MDI2-ND.jpg</thumbnail>
