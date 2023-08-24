@@ -1,4 +1,22 @@
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B]joana d'arc (1948)[/B]</title>
 <link>https://archive.org/download/1948-joana-darc-dub_202305/%5B1948%5D%20Joana%20D%27arc%20%5BDUB%5D%20.mp4</link>
 <thumbnail>https://i.ibb.co/b7j5q1F/MV5-BYj-M1-ODJl-N2-Qt-MTE4-NC00-Mz-Nh-LTg3-Zj-Yt-YWNk-MWZj-Nm-Jm-Nj-Fk-Xk-Ey-Xk-Fqc-Gde-QXVy-MDI2-ND.jpg</thumbnail>
@@ -42,26 +60,9 @@
 <fanart>https://i.ibb.co/619NLBH/maxresdefault.jpg</fanart>
 <info>História verídica do menino prodígio David Helfgott, levado ao desequilíbrio mental pela rejeição de seu pai e a pressão para que seus concertos fossem perfeitos, e como ele voltou a dividir seu talento com o mundo graças ao amor de sua mulher.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O Violino Vermelho (1998)[/B]</title>
+<link>https://archive.org/download/OViolinoVermelho1998Dublado/OViolinoVermelho1998Dublado.mp4$nome= MP4</link>
+<link>https://archive.org/download/OViolinoVermelho1998Dublado/OViolinoVermelho1998Dublado.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/3TsRzCq/6476258b2671cef4c71aea7afce86db7e9bb233b6a0b984ac1ea33d1f57b9783-RI-TTW.jpg</thumbnail>
+<fanart>https://i.ibb.co/rFybYF0/ea24f8d4330ab5ab31d180c7ec620467.webp</fanart>
+<info>Em 1681, na Itália, um famoso lutier pinta um violino com o sangue de sua esposa para manter a memória de sua amada viva. O filme acompanha a história do instrumento até os dias de hoje, quando o objeto chama a atenção de um avaliador profissional durante um leilão em Montreal.</info></item>
