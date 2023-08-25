@@ -23,6 +23,42 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Harakiri (1962)[/B]</title>
+<link>https://archive.org/download/Harakiri1962/Harakiri%20%281962%29.mp4</link>
+<thumbnail>https://i.ibb.co/Rhtx2zZ/MV5-BNz-Bk-NGE4-YTIt-NTA3-ZC00-Nm-Uw-LWFk-Mm-It-N2-I5-ZTJh-Yjcy-Nj-Uw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEx-Nz.jpg</thumbnail>
+<fanart>https://i.ibb.co/1fYnmP1/download-2.jpg</fanart>
+<info>Harakiri é um filme de drama japonês de 1962 dirigido por Masaki Kobayashi e escrito por Shinobu Hashimoto, baseado em Ibunronin ki de Yasuhiko Takiguchi. Estrelado por Shima Iwashita, Akira Ishihama e Yoshio Inaba, venceu o Prêmio do Júri do Festival de Cannes.</info></item>
+
+<item><title>[B]Vidas Amargas (1955)[/B]</title>
+<link>https://archive.org/download/VidasAmargas1955/Vidas%20Amargas%20%281955%29.mp4</link>
+<thumbnail>https://i.ibb.co/kK3WyXC/20224764-jpg-c-310-420-x-f-jpg-q-x-xxyxx.jpg</thumbnail>
+<fanart>https://i.ibb.co/yFGf97c/download.jpg</fanart>
+<info>Cal Trask sente que o pai se importa apenas com o irmão, Aron. Quando se aventura em um empreendimento para ganhar a atenção do pai, Carl lida com a distante mãe, dona de um bordel. A tensão só aumenta quando ele se apaixona pela namorada do irmão.</info></item>
+
 <item><title>[B]Sunset Boulevard (1950)[/B]</title>
 <link>https://archive.org/download/SunsetBoulevard1950/Sunset%20Boulevard%20%281950%29.mp4</link>
 <thumbnail>https://i.ibb.co/zN5NHkv/Sunset-Blvd-a9b3f505.jpg</thumbnail>
