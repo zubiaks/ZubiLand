@@ -48,11 +48,11 @@
 <fanart>https://i.ibb.co/tCP2PWd/thor-ragnarok-movie-poster.jpg</fanart>
 <info>Após anos afastado, Thor retorna para casa e descobre que seu pai, Odin, rei de Asgard, está desaparecido. Após encontrá-lo, ele toma conhecimento de sua irmã mais velha, Hela, a poderosa e implacável deusa da morte. Com o auxílio de Loki, ele enfrenta Hela, mas durante a batalha, Thor acaba preso em Sakaar, um planeta do outro lado do universo. Agora, ele precisa correr contra o tempo para voltar a Asgard e impedir o Ragnarok, a destruição de seu mundo.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Doutor Estranho (2016)[/B]</title>
+<link>https://archive.org/download/DoutorEstranho2017BluRay720pDubladoWWW.FILMESNOMEGA.INFO/Doutor%20Estranho%20%282017%29%20BluRay%20%5B720p%5D%20Dublado%20-%20WWW.FILMESNOMEGA.INFO.mp4</link>
+<thumbnail>https://i.ibb.co/cLs14w4/014891-big.jpg</thumbnail>
+<fanart>https://i.ibb.co/1q8nhzD/maxresdefault.jpg</fanart>
+<info>Após sua carreira ser destruída, um brilhante, porém arrogante, cirurgião ganha uma nova chance em sua vida quando um feiticeiro o treina para se tornar o Mago Supremo.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
