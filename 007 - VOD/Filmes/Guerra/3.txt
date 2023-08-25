@@ -1,9 +1,9 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A Guerra De Hart (2002)[/B]</title>
+<link>https://archive.org/download/AGuerraDeHart/A%20Guerra%20de%20Hart.mp4</link>
+<thumbnail>https://i.ibb.co/zJzwPbP/20478936.jpg</thumbnail>
+<fanart>https://i.ibb.co/fH3WVcv/download-3.jpg</fanart>
+<info>O tenente Tommy Hart é um estudante de direito do segundo ano, que está inscrito como ajudante de um oficial na Segunda Guerra Mundial, devido à força política de seu pai. Quando ele é capturado e jogado em um campo de guerra alemão, o coronel William McNamara o designa para defender o tenente Lincoln Scott, um prisioneiro de guerra negro acusado de assassinar um prisioneiro branco.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>

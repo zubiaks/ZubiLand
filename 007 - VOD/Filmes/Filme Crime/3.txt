@@ -11,11 +11,11 @@
 <fanart>https://i.ibb.co/9ngWjvX/download.jpg</fanart>
 <info>A Clockwork Orange () é um filme policial distópico de 1971 adaptado, produzido e dirigido por Stanley Kubrick, baseado no romance homônimo de Anthony Burgess de 1962. Ele emprega imagens perturbadoras e violentas para comentar sobre psiquiatria, delinquência juvenil, gangues juvenis e outros assuntos sociais, políticos e econômicos em uma Grã-Bretanha distópica de futuro próximo.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Dentro Da Noite (1940)[/B]</title>
+<link>https://archive.org/download/DentroDaNoite1940Leg_201904/Dentro%20da%20Noite%201940%20Leg.mp4</link>
+<thumbnail>https://i.ibb.co/44RvdtF/They-Drive-by-Night.jpg</thumbnail>
+<fanart>https://i.ibb.co/47gKTCM/They-drive-by-night-1940-humphrey2.webp</fanart>
+<info>Lana, a mulher do proprietário de uma frota de caminhões, se apaixona por Joe, um empregado do marido. Lana mata o marido para ficar com Joe, mas é rejeitada, pois ele ama outra mulher. Lana então tenta acusar Joe pelo assassinato do marido.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
