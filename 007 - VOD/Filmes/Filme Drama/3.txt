@@ -23,17 +23,17 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Sunset Boulevard (1950)[/B]</title>
+<link>https://archive.org/download/SunsetBoulevard1950/Sunset%20Boulevard%20%281950%29.mp4</link>
+<thumbnail>https://i.ibb.co/zN5NHkv/Sunset-Blvd-a9b3f505.jpg</thumbnail>
+<fanart>https://i.ibb.co/LCKm8J5/download-1.jpg</fanart>
+<info>Uma estrela veterana do cinema mudo se recusa a aceitar que seu reinado acabou. Então ela contrata um jovem roteirista para ajudá-la a reconquistar o sucesso. O escritor acredita que pode manipular a atriz, mas percebe que está redondamente enganado.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O Deserto Vermelho (1964)[/B]</title>
+<link>https://archive.org/download/ODesertoVermelho1964L/O%20Deserto%20Vermelho%20%281964%29%20L.mp4</link>
+<thumbnail>https://i.ibb.co/JkBgWHN/768487.jpg</thumbnail>
+<fanart>https://i.ibb.co/XCwXCQK/still-0-3-790x398.webp</fanart>
+<info>Psicologicamente abatida e insatisfeita, Giuliana envolve-se com Corrado, colega do seu marido. Mas não consegue apaziguar a sua inquietação. “É muito simplista, como alguns o fizeram, dizer que acuso este mundo industrializado, inumano, onde os indivíduos são esmagados até à nevrose. Pelo contrário, a minha intenção foi traduzir a beleza deste mundo onde mesmo as fábricas podem ser muito belas.” (Michelangelo Antonioni)</info></item>
 
 <item><title>[B]Conta Comigo (1986)[/B]</title>
 <link>https://archive.org/download/ContaComigo1986BDrip1080pDublado/Conta%20Comigo%20%5B1986%5D%20-%20BDrip%201080p%20Dublado.mp4</link>

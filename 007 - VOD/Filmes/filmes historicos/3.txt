@@ -17,11 +17,11 @@
 <fanart>https://i.ibb.co/nn90ZX0/download.jpg</fanart>
 <info>A jovem francesa passa a noite com um japonês em Hiroshima, onde ela foi enviada para filmar um filme sobre a paz. Ele a faz lembrar do primeiro homem que ela amou, um soldado alemão da Segunda Guerra Mundial.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A Favorita (2018)[/B]</title>
+<link>https://archive.org/download/AFavorita/A%20Favorita.mp4</link>
+<thumbnail>https://i.ibb.co/fpLg29j/The-Favourite.jpg</thumbnail>
+<fanart>https://i.ibb.co/1X62C0N/download.jpg</fanart>
+<info>Na Inglaterra do século 18, Sarah Churchill, a Duquesa de Marlborough, exerce sua influência na corte como confidente, conselheira e amante secreta da Rainha Ana. Seu posto privilegiado, no entanto, é ameaçado pela chegada de Abigail, nova criada que logo se torna a queridinha da majestade e agarra com unhas e dentes essa oportunidade única.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>

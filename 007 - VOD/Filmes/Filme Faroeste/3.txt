@@ -17,11 +17,11 @@
 <fanart>https://i.ibb.co/Hpgh9YB/download-1.jpg</fanart>
 <info>O fazendeiro George Washington McLintock é forçado a lidar com inúmeros problemas pessoais e profissionais. Aparentemente, todo mundo quer um pedaço de sua enorme fazenda, incluindo o governo, nativos-americanos e sua ex-esposa.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Missouri Breaks (1976)[/B]</title>
+<link>https://archive.org/download/TheMissouriBreaks1976/The%20Missouri%20Breaks%20%281976%29.mp4</link>
+<thumbnail>https://i.ibb.co/tHXR9vf/8c4f6714e3ba91379d5c4588f9b5cafe3ce2551b8590bc24e67d8f225dace7cf-RI-TTW.jpg</thumbnail>
+<fanart>https://i.ibb.co/XDmLDHG/MV5-BMj-A1-ODk1-MDE1-OF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-Nz-Iz-ODI1-NA-V1.jpg</fanart>
+<info>Rico rancheiro contrata um mercenário para caçar um ladrão de cavalos que está ameaçando o fruto do trabalho de sua vida, e sua família. Mas a perseguição, que era pra livrar a região da violência, resulta numa série de eventos brutais e selvagens.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
