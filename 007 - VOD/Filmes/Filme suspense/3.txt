@@ -35,11 +35,11 @@
 <fanart>https://i.ibb.co/PgF0JJ8/t-T8-Vb5kvlk8y-DZQr-OUr6fupx26-D.jpg</fanart>
 <info>Porter (Mel Gibson) e Val Resnick (Gregg Henry) assaltam uma gangue de chineses e roubam 140 mil dólares. Porter se dá por satisfeito, apesar de esperar entre 350 mil e meio milhão de dólares, mas Val não, pois precisava de 130 mil dólares para saldar suas dívidas e ser aceito na "Organização". Assim, com a ajuda de Lynn (Deborah Unger), a esposa de Porter, Val o trai e Porter é baleado e dado como morto. Mas após algum tempo ele reaparece, decidido a receber os 70 mil dólares da sua parte, mesmo que para isto tenha de enfrentar toda a "Organização". Mas existe uma forte possibilidade que ele morra tentando e nesta louca tentativa conta apenas com Rosie (Maria Bello), uma garota de programa bastante exclusiva com quem tinha se envolvido, quando era seu segurança e motorista.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Peeping Tom (1960)[/B]</title>
+<link>https://archive.org/download/PeepingTom1960_201809/Peeping%20Tom%20%281960%29.mp4</link>
+<thumbnail>https://i.ibb.co/XSYmxK2/MV5-BZj-M3-ZTAz-ZDYt-Zm-Fj-ZS00-Ym-Q1-LWJl-OWEt-N2-I4-MDRm-Yz-Y5-Ym-Rl-L2lt-YWdl-Xk-Ey-Xk-Fqc-Gde-QX.jpg</thumbnail>
+<fanart>https://i.ibb.co/LtCgPpP/MV5-BODFk-ZWE5-NWYt-OTNk-Yi00-OWJk-LWEw-NGMt-OWY0-MGIx-ODk3-Mj-Y0-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI3-MDk3-Mz.jpg</fanart>
+<info>Quando criança, Mark Lewis sofria experimentos bizarros do pai cientista e estudante dos efeitos do medo. Agora adulto, com seus pais já mortos, ele vira um psicopata que mata mulheres para gravar suas expressões de terror no momento da morte.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
