@@ -11,11 +11,11 @@
 <fanart>https://i.ibb.co/Y2m4vTJ/saraband-for-dead-lovers-joan-greenwood-stewart-granger-1948-E5-NNC3.jpg</fanart>
 <info>A jovem Sophie Dorothea se casa com o príncipe George Louis, mas está longe de ser um par amoroso. Então ela se apaixona pelo conde sueco Philip Christoph von Königsmark.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Hiroshima Mon Amour (1959)[/B]</title>
+<link>https://archive.org/download/HiroshimaMonAmour1959LEG/Hiroshima%20mon%20amour%20%281959%29%20-%20LEG.mp4</link>
+<thumbnail>https://i.ibb.co/VLJNDBv/MV5-BMz-Y2-NTA1-Mz-Uw-N15-BMl5-Ban-Bn-Xk-Ft-ZTgw-OTc4-NTU4-Mj-E-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/nn90ZX0/download.jpg</fanart>
+<info>A jovem francesa passa a noite com um japonês em Hiroshima, onde ela foi enviada para filmar um filme sobre a paz. Ele a faz lembrar do primeiro homem que ela amou, um soldado alemão da Segunda Guerra Mundial.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
