@@ -17,11 +17,11 @@
 <fanart>https://i.ibb.co/56RKnTV/1460432477-d7ea1d88f97605995135596a34df98bc.png</fanart>
 <info>Pouco antes de entrar na Seishuu High School, a estrela da pista Katsuya Niimi e a campeã de judô Susumu Karasawa veem uma menina chorando enquanto a escola perde um jogo de beisebol. Os garotos decidem se juntar à equipe e melhorá-la para fazê-la sorrir. A garota acaba sendo Yuri Nakao, filha do treinador de beisebol, e eles descobrem que o time de beisebol será fechado se não começar a vencer. A série acompanha os três, bem como o arremessador Eiji Kurahashi, enquanto Niimi e Karasawa aprendem sobre beisebol e o que significa ser um dos nove jogadores de uma equipe, enquanto trabalham juntos durante o ensino médio até chegar a Koushien.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Hadashi No Gen (1983)[/B]</title>
+<link>https://archive.org/download/GenPsDescalosHadashiNoGen1983FilmeCompletoLegendadoPtBr/Gen%20P%C3%A9s%20Descal%C3%A7os%20Hadashi%20no%20Gen%201983%20Filme%20completo%20legendado%20pt%20br.mp4</link>
+<thumbnail>https://i.ibb.co/C9XGwr8/Barefoot-GEn.jpg</thumbnail>
+<fanart>https://i.ibb.co/WkxpBnz/maxresdefault-1.jpg</fanart>
+<info>Barefoot Gen é um filme de drama de guerra de animação para adultos japonês de 1983 vagamente baseado na série de mangá japonesa de mesmo nome de Keiji Nakazawa</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>

@@ -23,6 +23,24 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B]Coração Indômito (1950)[/B]</title>
 <link>https://archive.org/download/CoraoIndmito1950/Cora%C3%A7%C3%A3o%20Ind%C3%B4mito%20%281950%29.mp4</link>
 <thumbnail>https://i.ibb.co/jJS5LNc/5bfce3e4bd1a9b169019934d2fe68ff4.webp</thumbnail>

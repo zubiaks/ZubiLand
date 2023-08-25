@@ -5,11 +5,11 @@
 <fanart>https://i.ibb.co/K5fNHpC/maxresdefault-1.jpg</fanart>
 <info>Os terríveis atentados na Noruega em 22 de Julho de 2011 abalam toda o país. Em meio à dor, um jovem sobrevivente, famílias em luto e a população se unem na busca por justiça e superação.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Saraband (1948)[/B]</title>
+<link>https://archive.org/download/Sarabanda1948Legendado_201809/Sarabanda%20%281948%29%20-%20Legendado.mp4</link>
+<thumbnail>https://i.ibb.co/47S8c2T/Saraband-for-Dead-Lovers-Film-Poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/Y2m4vTJ/saraband-for-dead-lovers-joan-greenwood-stewart-granger-1948-E5-NNC3.jpg</fanart>
+<info>A jovem Sophie Dorothea se casa com o príncipe George Louis, mas está longe de ser um par amoroso. Então ela se apaixona pelo conde sueco Philip Christoph von Königsmark.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
