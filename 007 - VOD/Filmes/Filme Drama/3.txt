@@ -35,11 +35,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Conta Comigo (1986)[/B]</title>
+<link>https://archive.org/download/ContaComigo1986BDrip1080pDublado/Conta%20Comigo%20%5B1986%5D%20-%20BDrip%201080p%20Dublado.mp4</link>
+<thumbnail>https://i.ibb.co/WFwSn0m/20462017.webp</thumbnail>
+<fanart>https://i.ibb.co/3MVsKSQ/maxresdefault-2.jpg</fanart>
+<info>Após um desconhecido ser morto acidentalmente, perto de suas casas, quatro meninos, de Oregon, decidem ver o corpo. No caminho, Gordie Lachance, Vern Tessio, Chris Chambers e Teddy Duchamp encontram um homem em um pântano cheio de sanguessugas. Começando como uma simples brincadeira, a aventura dos garotos evolui para um evento marcante em suas vidas.</info></item>
 
 <item><title>[B]Coração Indômito (1950)[/B]</title>
 <link>https://archive.org/download/CoraoIndmito1950/Cora%C3%A7%C3%A3o%20Ind%C3%B4mito%20%281950%29.mp4</link>

@@ -29,11 +29,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Tempos Modernos (1936)[/B]</title>
+<link>https://archive.org/download/TemposModernos1936/Tempos%20Modernos%20%281936%29.mp4</link>
+<thumbnail>https://i.ibb.co/W3vD3JY/Modern-Times-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/k1G6zDP/fa705070-de2d-11e9-b855-5d075484e0d1tempos-modernos.jpg</fanart>
+<info>O icónico Vagabundo está empregado em uma fábrica, onde as máquinas inevitável e completamente o dominam e vários percalços o levam para a prisão. Entre suas passagens pela prisão, ele conhece e faz amizade com uma garota órfã. Ambos, juntos e separados, tentam lidar com as dificuldades da vida moderna, o Vagabundo trabalhando como garçom e, eventualmente, um artista.</info></item>
 
 <item><title>[B]The Horse's Mouth (1958)[/B]</title>
 <link>https://archive.org/download/TheHorsesMouth1958LEG/The%20Horse%27s%20Mouth%20%281958%29%20-%20LEG.mp4</link>
