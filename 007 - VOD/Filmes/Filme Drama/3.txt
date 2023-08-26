@@ -29,17 +29,17 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Crisântemos Tardios (1939)[/B]</title>
+<link>https://archive.org/download/crisantemostardios1939/Cris%C3%A2ntemos%20Tardios%20%281939%29.mp4</link>
+<thumbnail>https://i.ibb.co/8Xf5x2n/06-o-conto-dos-crisantemos-tardios.jpg</thumbnail>
+<fanart>https://i.ibb.co/qBfQbqM/15-o-conto-dos-crisantemos-tardios-e1488488093855.webp</fanart>
+<info>The Story of the Last Chrysanthemums, também intitulado The Story of the Last Chrysanthemum e The Story of the Late Chrysanthemums, é um filme de drama japonês de 1939 dirigido por Kenji Mizoguchi. Baseado em um conto de Shōfu Muramatsu, segue um onnagata lutando pelo domínio artístico no Japão do final do século XIX</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Man On The Tracks (1957)[/B]</title>
+<link>https://archive.org/download/manonthetracks1957/Man%20on%20the%20Tracks%20%281957%29.mp4</link>
+<thumbnail>https://i.ibb.co/hRkjdK0/283.webp</thumbnail>
+<fanart>https://i.ibb.co/sjKdh5W/man-on-the-track-1200-1200-675-675-crop-000000.jpg</fanart>
+<info>Em 1950, à noite, um trem de passageiros mata um homem nos trilhos. Ele é Orzechowski, engenheiro desde 1914. Segue-se imediatamente um inquérito. O depoimento toma a forma de flashbacks. Tuszka, o mestre da estação, acredita que Orzechowski era um sabotador; pelo menos um da comissão de inquérito concorda. Zapora, o jovem engenheiro no trem que atingiu Orzechowski, dá um testemunho mais complicado sobre o homem morto - de pescoço duro, orgulhoso, imperioso, crítico de Zapora e outros trabalhadores mais jovens. O sinaleiro no cruzamento onde Orzechowski morreu também testemunha. O painel pode chegar à verdade em um mundo onde os trabalhadores se unem, o carvão inferior é um distintivo de honra e a velha ordem é suspeita?</info></item>
 
 <item><title>[B]Perdidos Na Tormenta (1948)[/B]</title>
 <link>https://archive.org/download/PerdidosNaTormenta1948/Perdidos%20na%20Tormenta%20%281948%29.mp4</link>

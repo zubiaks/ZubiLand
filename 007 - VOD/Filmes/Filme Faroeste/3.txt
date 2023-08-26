@@ -1,4 +1,28 @@
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B]My Darling Clementine (1946)[/B]</title>
 <link>https://archive.org/download/1946-paixao-dos-fortes-dub/%5B1946%5D%20Paix%C3%A3o%20dos%20Fortes%20%5BDUB%5D%20.mp4</link>
 <thumbnail>https://i.ibb.co/ZmQJchk/My-Darling-Clementine-1946-poster.jpg</thumbnail>
@@ -23,32 +47,8 @@
 <fanart>https://i.ibb.co/XDmLDHG/MV5-BMj-A1-ODk1-MDE1-OF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-Nz-Iz-ODI1-NA-V1.jpg</fanart>
 <info>Rico rancheiro contrata um mercenário para caçar um ladrão de cavalos que está ameaçando o fruto do trabalho de sua vida, e sua família. Mas a perseguição, que era pra livrar a região da violência, resulta numa série de eventos brutais e selvagens.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Gunsmoke Western (1953)[/B]</title>
+<link>https://archive.org/download/gunsmokewestern1953/Gunsmoke%20%20Western%20%281953%29.mp4</link>
+<thumbnail>https://i.ibb.co/wp68c7Q/Gunsmoke-504603678-mmed.jpg</thumbnail>
+<fanart>https://i.ibb.co/s1d9w1g/Gunsmoke-Still2.jpg</fanart>
+<info>Kittridge é contratado pelos vilões, mas se volta para defender o fazendeiro Saxon após descobrir a verdadeira situação do local. Pouco depois, ele ganha o rancho de Saxon em um jogo de cartas e acaba se apaixonando pela filha do rancheiro.</info></item>

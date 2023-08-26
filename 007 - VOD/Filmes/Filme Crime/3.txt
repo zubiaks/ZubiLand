@@ -1,4 +1,34 @@
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B]the godfather (1972)[/B]</title>
 <link>https://archive.org/download/1972-o-poderoso-chefao-dub/%5B1972%5D%20O%20Poderoso%20Chef%C3%A3o%20%5BDUB%5D.mp4</link>
 <thumbnail>https://i.ibb.co/5245Sj7/MV5-BM2-My-Nj-Yx-Nm-Ut-YTAw-Ni00-MTYx-LWJm-NWYt-Yz-Zl-ODY3-ZTk3-OTFl-Xk-Ey-Xk-Fqc-Gde-QXVy-Nzkw-Mj-Q.jpg</thumbnail>
@@ -23,38 +53,9 @@
 <fanart>https://i.ibb.co/8zfB6Zw/download-1.jpg</fanart>
 <info>Le samouraï é um filme policial noir francês de 1967, dirigido por Jean-Pierre Melville. O filme foi classificado pela Revista Empire em 39º na lista dos "100 Melhores Filmes do Cinema Mundial" em 2010</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Anjos De Cara Suja (1938)[/B]</title>
+<link>https://archive.org/download/anjosdecarasuja1938dublagemclassicaherbertrichers/Anjos%20de%20Cara%20Suja%20%281938%29%20Dublagem%20Cl%C3%A1ssica%20Herbert%20Richers.mp4$nome= MP4</link>
+<link>https://archive.org/download/anjosdecarasuja1938dublagemclassicaherbertrichers/Anjos%20de%20Cara%20Suja%20%281938%29%20Dublagem%20Cl%C3%A1ssica%20Herbert%20Richers.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/SmmcK3p/download-4.jpg</thumbnail>
+<fanart>https://i.ibb.co/WgGcKCn/download-5.jpg</fanart>
+<info>Dois amigos de infância crescem juntos num bairro violento de Nova York e tomam rumos diferentes em suas vidas. Rocky Sullivan vira gângster e Jerry Connolly decide se tornar padre. Anos depois, um reencontro tenso irá testar essa amizade.</info></item>
