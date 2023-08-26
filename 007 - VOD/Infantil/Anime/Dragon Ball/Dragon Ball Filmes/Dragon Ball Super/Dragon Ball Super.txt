@@ -1,21 +1,21 @@
 
+<item><title>[B]Dragon Ball Z: Batalha dos Deuses[/B]</title>
+<link>https://archive.org/download/100000004995941307887903653509648260005888n/10000000_499594130788790_3653509648260005888_n.mp4</link>
+<thumbnail>https://i.ibb.co/nQWg2xz/Dragon-Ball-Z-Battleof-Gods-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/tH6bccg/download-2.jpg</fanart>
+<info>Beerus, o deus da destruição, despertou depois de anos de letargia. Ao escutar que um Super Saiyajin conseguiu vencer Freeza, Beerus vai atrás de Goku e de um suposto Deus Saiyajin. Goku precisa se preparar para enfrentar uma força inimaginável.</info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B]Dragon Ball Super: Broly[/B]</title>
 <link>https://archive.org/download/ragaleravip_gmail_001/001.mp4</link>
 <thumbnail>https://i.ibb.co/cg1gRcF/9782344041123.jpg</thumbnail>
 <fanart>https://i.ibb.co/tJzc2HJ/image-187y.jpg</fanart>
 <info>Apesar da Terra estar em um período de calmaria, Goku se recusa a parar de treinar constantemente. O que ele não imaginava era que seu novo inimigo seria Broly, um poderoso super saiyajin sedento por vingança, que deseja destruir todos que encontrar pela frente.</info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
