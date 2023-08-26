@@ -11,11 +11,12 @@
 <fanart>https://i.ibb.co/dgKwRsj/4159491.webp</fanart>
 <info>Em O Mapa do Tesouro 2, Luccas Neto e Gi Alparone vão embarcar em uma aventura para encontrar um misterioso baú, longe do território seguro do sítio da avó deles. No meio do caminho, eles conhecem Estela, uma elfa que faz parte de uma família que busca há anos pelo baú, que contém um colar mágico muito poderoso, capaz de acabar com preconceitos e reduzir as desigualdades entre as pessoas, mas que em mãos erradas pode gerar um caos no planeta, desequilibrando a justiça no mundo.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Fofão, a nave sem rumo (1989)[/B]</title>
+<link>https://archive.org/download/fofaoanavesemrumoadrianostuart1989/Fof%C3%A3o%2C%20a%20nave%20sem%20rumo%20%28Adriano%20Stuart%2C%201989%29.mp4$nome= MP4</link>
+<link>https://archive.org/download/fofaoanavesemrumoadrianostuart1989/Fof%C3%A3o%2C%20a%20nave%20sem%20rumo%20%28Adriano%20Stuart%2C%201989%29.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/F39xR20/Fof-o-e-a-Nave-sem-Rumo.jpg</thumbnail>
+<fanart>https://i.ibb.co/jTLc3DQ/MV5-BNm-I4-ZWVl-ZGMt-MTRk-MC00-Yj-Qw-LWIx-Ym-Ut-ZDJl-Nzhm-Zjlh-ZGIy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTAw-NDM3.jpg</fanart>
+<info>Fofão e a Nave Sem Rumo é um filme infantil brasileiro de 1989 dirigido por Adriano Stuart. Estrelado por Orival Pessini como Fofão, o filme traz o personagem em uma aventura ao lado de duas crianças em uma viagem espacial após serem sequestrados por seres alienígenas.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>

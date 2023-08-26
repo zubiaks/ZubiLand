@@ -29,6 +29,56 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Minha Noiva É Um Colosso (1959)[/B]</title>
+<link>https://archive.org/download/minhanoivaeumcolosso1959dublagemclassicaloucostello/Minha%20Noiva%20%C3%A9%20um%20Colosso%20%281959%29%20Dublagem%20Cl%C3%A1ssica%20-%20Lou%20Costello.mp4$nome= MP4</link>
+<link>https://archive.org/download/minhanoivaeumcolosso1959dublagemclassicaloucostello/Minha%20Noiva%20%C3%A9%20um%20Colosso%20%281959%29%20Dublagem%20Cl%C3%A1ssica%20-%20Lou%20Costello.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/fY80vH3/4a0a2823452f5c8b916b6d8572b528c8.webp</thumbnail>
+<fanart>https://i.ibb.co/Wtphqn0/sddefault.jpg</fanart>
+<info>Sucateiro metido a inventor cria uma nova máquina, mas a radiação do aparelho acaba por transformar sua namorada numa mulher gigante capaz de abalar a cidade. Agora ele terá que achar uma solução para o incidente o mais rápido possível. Filme inspirado nas neuroses do perigo nuclear da Guerra Fria e único filme do comediante Lou Costello sem o companheiro Bud Abbott. Dublado. Dublagem Clássica da AIC São Paulo.</info></item>
+
+<item><title>[B]Ele Está de Volta (2013)[/B]</title>
+<link>https://archive.org/download/eleestadevolta_201907/Ele%20Est%C3%A1%20de%20Volta%20%28Legendado%29.mp4$nome= Legendado</link>
+<link>https://archive.org/download/eleestadevolta_201907/Ele%20est%C3%A1%20de%20Volta%20%28Dublado%29.mp4$nome= brasileiro</link>
+<thumbnail>https://i.ibb.co/JBTpXCZ/Ele-Esta-de-Volta.jpg</thumbnail>
+<fanart>https://i.ibb.co/1KGNVCP/download.jpg</fanart>
+<info>Berlim, 2011. Adolf Hitler acorda num terreno baldio. Sente uma grande dor de cabeça. O uniforme tresanda a querosene. Olha à sua volta e não encontra Eva Braun. Nem uma cidade em ruínas, nem bombardeiros a riscar os céus. Em vez disso, descobre ruas limpas e organizadas, povoadas de turcos, milhares de turcos. E gente com aparelhos estranhos colados ao ouvido. Começa assim o surpreendente primeiro romance de Timur Vermes, passado na Alemanha de Angela Merkel, 66 anos depois do fim da guerra. Hitler ganha nova vida. Na sociedade espetáculo, dos reality shows e do YouTube, o renascido Führer é visto como uma estrela, que uma televisão sequiosa de novidades acolhe de braços abertos. A Alemanha da crise, do Euro ameaçado, da austeridade, vê nele um palhaço inofensivo. Mas ele é real, assustadoramente real. E, passo a passo, maquiavelicamente, planeia o seu regresso ao poder – por via da televisão. Sátira ferocíssima a uma sociedade mediatizada, narrado num registo arrepiadoramente fiel ao Mein Kampf, tem tanto de romance político como de crítica de costumes. Afinal, a Alemanha de Merkel, dominadora, obcecada pelo poder e pelo sucesso, está pronta para o receber... e ele está de volta.</info></item>
+
 <item><title>[B]Tempos Modernos (1936)[/B]</title>
 <link>https://archive.org/download/TemposModernos1936/Tempos%20Modernos%20%281936%29.mp4</link>
 <thumbnail>https://i.ibb.co/W3vD3JY/Modern-Times-poster.jpg</thumbnail>

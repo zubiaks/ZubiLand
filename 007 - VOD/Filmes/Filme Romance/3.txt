@@ -29,6 +29,24 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Um Amor Na Tarde (1957)[/B]</title>
+<link>https://archive.org/download/umamornatarde1957/Um%20Amor%20na%20Tarde%20%281957%29.mp4</link>
+<thumbnail>https://i.ibb.co/L6rVHZT/Amor-na-Tarde.webp</thumbnail>
+<fanart>https://i.ibb.co/yBv4Xzn/download-1.jpg</fanart>
+<info>Claude Chavasse é um detetive particular que é contratado para investigar as atividades do conquistador Frank Flannagan. Ariane Chavasse, a filha do detetive, acaba se apaixonando pelo sedutor herói.</info></item>
+
+<item><title>[B]Núpcias de Escândalo (1940)[/B]</title>
+<link>https://archive.org/download/nupciasdoescandalo1940/N%C3%BApcias%20do%20Esc%C3%A2ndalo%20%281940%29.mp4</link>
+<thumbnail>https://i.ibb.co/RDtRRDb/640px-The-Philadelphia-Story-1940.jpg</thumbnail>
+<fanart>https://i.ibb.co/ZLs9f1D/catwalk-yourself-Katherine-Hepburn2.jpg</fanart>
+<info>Uma herdeira entediada, destinada a se casar com um executivo chato, vê seus planos de casamento frustrados com a chegada de seu ex-marido playboy. E família então gradualmente começa a perceber a importância da integridade e dos verdadeiros valores.</info></item>
+
 <item><title>[B]Alfie (1966)[/B]</title>
 <link>https://archive.org/download/Alfie1966/Alfie%20%281966%29.mp4</link>
 <thumbnail>https://i.ibb.co/LYqR8w2/download-4.jpg</thumbnail>

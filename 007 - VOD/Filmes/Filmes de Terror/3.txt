@@ -77,11 +77,12 @@
 <fanart>https://i.ibb.co/DMBB7z1/maxresdefault.jpg</fanart>
 <info>Uma babá norte-americana é surpreendida ao descobrir que a criança de sua nova família inglesa é na verdade um boneco de tamanho real. Depois de quebrar várias regras, determinados eventos a fazem acreditar que ele está realmente vivo.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Brightburn: O Filho do Mal (2019)[/B]</title>
+<link>https://archive.org/download/brightburn.filho.das.trevas.2019.1080p.bluray.6ch..x264.dualwww.bludv.tv/Brightburn.Filho.das.Trevas.2019.1080p.Bluray.6CH..x264.DUAL-WWW.BLUDV.TV.mp4$nome= MP4</link>
+<link>https://archive.org/download/brightburn.filho.das.trevas.2019.1080p.bluray.6ch..x264.dualwww.bludv.tv/Brightburn.Filho.das.Trevas.2019.1080p.Bluray.6CH..x264.DUAL-WWW.BLUDV.TV.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/FzKt9hR/download-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/3kcdC7V/brightburn.png</fanart>
+<info>As orações de um casal são aparentemente respondidas quando um objeto cai na Terra, carregando uma forma de vida que se parece com um menino. À medida que os anos passam e o alienígena descobre suas origens, ele passa a usar seus poderes misteriosos de maneira sinistra e destrutiva, transformando todos ao seu redor em presa.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
