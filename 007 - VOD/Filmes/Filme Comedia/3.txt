@@ -59,11 +59,13 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Ordinário, Marche! (1941)[/B]</title>
+<link>https://archive.org/download/ordinariomarche1941dvdripdublado/Ordin%C3%A1rio%2C%20Marche%21%20%281941%29%20DVDRip%20Dublado.mp4$nome= MP4</link>
+<link>https://archive.org/download/ordinariomarche1941dvdripdublado/Ordin%C3%A1rio%2C%20Marche%21%20%281941%29%20DVDRip%20Dublado.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/YhSQDCK/download-3.jpg</thumbnail>
+<fanart>https://i.ibb.co/tD6D6vf/download-4.jpg</fanart>
+<info>Dois camelôs, Slicker Smith e Herbie Brown vivem fugindo de um policial. Numa das fugas pelas ruas de Nova York, refugiam-se por acaso num centro de alistamento militar, de onde saem como soldados.
+Paralelamente, desenvolve-se a história de um playboy, Randolph Parker III, e de seu motorista, Bob Martin, lotados também no mesmo batalhão. Ainda no exército, encontra-se Judy Gray, uma garota que serve de pivô de uma série de trapalhadas.</info></item>
 
 <item><title>[B]Minha Noiva É Um Colosso (1959)[/B]</title>
 <link>https://archive.org/download/minhanoivaeumcolosso1959dublagemclassicaloucostello/Minha%20Noiva%20%C3%A9%20um%20Colosso%20%281959%29%20Dublagem%20Cl%C3%A1ssica%20-%20Lou%20Costello.mp4$nome= MP4</link>
