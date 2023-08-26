@@ -1,11 +1,5 @@
 <channels>
 
-<channel><name>[B][COLOR white]the Flash (1990)[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/Sy6kzyt/MV5-BMTQ2-MTc0-MTAt-N2-Vl-Yi00-N2-Zk-LTlh-Nm-Ut-Mjcy-ZDg0-Yz-Ni-Yj-Ey-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-U3-MT.jpg</thumbnail>
-<externallink>https://github.com/zubiaks/ZubiLand/blob/main/007%20-%20VOD/Marvel/Series/the%20Flash%20(1990)/3.txt</externallink>
-<fanart>https://i.ibb.co/smKYjZp/5518445.webp</fanart>
-<info>Acidentalmente, um funcionário da Polícia Científica foi banhado por produtos químicos em seu laboratório e, a partir daí, começou a se locomover em uma velocidade altíssima.</info></channel>
-
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
