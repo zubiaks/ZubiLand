@@ -23,6 +23,24 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Alfie (1966)[/B]</title>
+<link>https://archive.org/download/Alfie1966/Alfie%20%281966%29.mp4</link>
+<thumbnail>https://i.ibb.co/LYqR8w2/download-4.jpg</thumbnail>
+<fanart>https://i.ibb.co/xXw7p0c/alfie-h-1966.jpg</fanart>
+<info>Um homem charmoso, elegante e muito sedutor consegue conquistar as mulheres com muita facilidade. Mas sua vida muda completamente quando uma de suas namoradas fica grávida.</info></item>
+
+<item><title>[B]A Última Vez Que Vi Paris (1954)[/B]</title>
+<link>https://archive.org/download/AltimaVezQueViParis1954/A%20%C3%9Altima%20Vez%20Que%20Vi%20Paris%20%281954%29.mp4</link>
+<thumbnail>https://i.ibb.co/nPczq01/download-3.jpg</thumbnail>
+<fanart>https://i.ibb.co/M741ykX/maxresdefault.jpg</fanart>
+<info>Charles é um escritor que volta a Paris para reencontrar a filha, criada pela cunhada, Marion. Lá ele relembra Helen, o grande amor da sua vida, que ele conheceu em Paris quando a 2.a Guerra Mundial terminou na Europa. Charles recorda que trabalhava como jornalista no "Star and Stripes", tendo logo se apaixonado por Helen e em pouco tempo estavam casados.</info></item>
+
 <item><title>[B]Anna Karenina (1935)[/B]</title>
 <link>https://archive.org/download/1935-anna-karenina-dub/%5B1935%5D%20Anna%20Karenina%20%5BDUB%5D%20.mp4</link>
 <thumbnail>https://i.ibb.co/pw1RKmF/MV5-BZDBh-N2-E1-MDIt-ZDUw-Zi00-Zm-Vk-LThm-Mjct-Y2-Jl-Yz-Zk-Zm-E5-MDkw-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Uw-Mz.jpg</thumbnail>

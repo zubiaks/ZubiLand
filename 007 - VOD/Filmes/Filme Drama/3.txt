@@ -41,11 +41,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Perdidos Na Tormenta (1948)[/B]</title>
+<link>https://archive.org/download/PerdidosNaTormenta1948/Perdidos%20na%20Tormenta%20%281948%29.mp4</link>
+<thumbnail>https://i.ibb.co/1fcM1VL/1b33c81e5bd198d54e76a32f5058acd8-Xrkr47-N.webp</thumbnail>
+<fanart>https://i.ibb.co/3TqPDXx/download-2.jpg</fanart>
+<info>O pequeno Karel, de apenas 9 anos de idade, é um sobrevivente de Auschwitz que passou vários dias vagando sozinho até finalmente encontrar abrigo em um campo de refugiados. O que ele não imagina é que, longe dali, sua mãe também está em uma busca alucinante para descobrir o paradeiro do filho, que também não vai desistir de encontrá-la e vai contar com a ajuda de um jovem soldado americano.</info></item>
 
 <item><title>[B]Harakiri (1962)[/B]</title>
 <link>https://archive.org/download/Harakiri1962/Harakiri%20%281962%29.mp4</link>
