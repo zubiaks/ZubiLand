@@ -42,11 +42,11 @@
 <fanart>https://i.ibb.co/kMG9w6X/910-CF486-8-B8-E-4-E79-95-F8-13-D44-B2373-A7-1080x653.webp</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Yu Gi Oh[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/jhnyrJp/AAAABUX2-KYwwhnf-Pw-UIGOPB6-DKz-f2ti-WG2-I1y-E0swf9-FQihf-Cj-OYZg0e-Ki-Wdt-Ex-O4-N0kjwk-AWu-TFhu1e-L.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/04%20-%20Yu%20Gi%20Oh/1.txt</externallink>
+<fanart>https://i.ibb.co/gFZkjcX/Yu-Gi-Oh-vol-01.jpg</fanart>
+<info>O Yu-Gi-Oh! Trading Card Game é um jogo de cartas colecionáveis ​​desenvolvido e publicado pela Konami. É baseado no jogo fictício de Duel Monsters criado pelo artista de mangá Kazuki Takahashi, que aparece em partes da franquia de mangá Yu-Gi-Oh!</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

@@ -1,9 +1,9 @@
 <channels>
 
 <channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/YccD1C5/Yugioh.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/04%20-%20Yu%20Gi%20Oh/Filmes/3.txt</externallink>
+<fanart>https://i.ibb.co/cc2Q0PD/yu-gi-oh-tcg-legend-of-blue-eyes-white-dragon-artwork.webp</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
