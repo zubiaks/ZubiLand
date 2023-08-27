@@ -12,7 +12,8 @@
 <info>Dragon Tiger é uma facção das artes marciais fundada por Tiger Wong, Dragon Wong e Turbo Shek. Três jovens que acreditam piamente na justiça e na verdade. Quando eles se apoderam, sem querer, de uma placa dourada, símbolo de uma das maiores organizações criminosas do Oriente, o Lousha Gate, passam a ser alvo de um poder amaldiçoado.</info></item>
 
 <item><title>[B]A Chave Mágica (1995)[/B]</title>
-<link>https://archive.org/download/achavemagicaglobo/A%20Chave%20M%C3%A1gica%20-%20Copia%20%281%29%20SEM%20IDIOMA.mp4</link>
+<link>https://archive.org/download/achavemagicaglobo/A%20Chave%20M%C3%A1gica%20-%20Copia%20%281%29%20SEM%20IDIOMA.mp4$nome= MP4</link>
+<link>https://archive.org/download/achavemagicaglobo/A%20Chave%20M%C3%A1gica%20-%20Copia%20%281%29%20SEM%20IDIOMA.mkv$nome= MKV</link>
 <thumbnail>https://i.ibb.co/JBtsWNy/e-KIK4-I3-Kiocb8e2-SG0-Mcm-PIf4bo.jpg</thumbnail>
 <fanart>https://i.ibb.co/rvRd3kM/topo-a-chave-magica.jpg</fanart>
 <info>Em seu nono aniversário, um garoto ganha vários presentes. Dois deles a princípio parecem ser os mais sem importância: um pequeno armário usado e um índio de plástico. Isso até o índio ser guardado no armário e ganhar vida.</info></item>

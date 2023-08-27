@@ -29,11 +29,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Seven Samurai (1954)[/B]</title>
+<link>https://archive.org/download/sevensamurai1954_201912/Seven%20Samurai%20%281954%29.mp4</link>
+<thumbnail>https://i.ibb.co/q59N3kk/download-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/TK5xDWg/download-3.jpg</fanart>
+<info>Um samurai atende a um pedido de proteção contra bandidos à uma vila japonesa. Ele convida outros seis samurais para ajudá-lo a ensinar às pessoas a como se defenderem sozinhas. O povoado da vila fornece comida aos soldados. A grande batalha acontece quando 40 bandidos atacam a vila.</info></item>
 
 <item><title>[B]Matador De Aluguel (1989)[/B]</title>
 <link>https://archive.org/download/matador-de-aluguel-1989-720p-dublado/Matador%20de%20Aluguel%20%281989%29/Matador%20de%20Aluguel%20%281989%29%20%20720p%20Dublado.ia.mp4</link>
