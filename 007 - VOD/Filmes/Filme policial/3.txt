@@ -29,11 +29,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Amei Um Assassino (1948)[/B]</title>
+<link>https://archive.org/download/ameiumassassino1948_202002/Amei%20Um%20Assassino%20%281948%29.mp4</link>
+<thumbnail>https://i.ibb.co/1qdbV0v/c4412a6282109f5c8a098b2414b24617.webp</thumbnail>
+<fanart>https://i.ibb.co/Cvp4hJy/1-6.jpg</fanart>
+<info>Bill Saunders, perturbado ex-soldado, mata um homem em uma briga em um pub de Londres do pós-guerra. Fugido, ele se esconde no apartamento da solitária enfermeira Jane Wharton. Mais tarde, apesar das dúvidas sobre sua natureza violenta, Jane se envolve com Bill, e resolve lhe ajudar. Ela lhe arruma um emprego, dirigindo um caminhão de suprimentos médicos. Mas o gângster Harry Carter, que testemunhou o assassinato, quer usar os talentos do Bill para o crime.</info></item>
 
 <item><title>[B]Millennium OS HOMENS QUE NÃO AMAVAM AS MULHERES[/B]</title>
 <link>https://archive.org/download/millennium-iii-a-rainha-do-castelo-de-ar-2009-1080p-dublado/Trilogia%20Millennium/Millennium-%20Os%20Homens%20que%20N%C3%A3o%20Amavam%20as%20mulheres%20DUBLADO.ia.mp4</link>

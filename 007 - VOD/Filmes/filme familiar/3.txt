@@ -18,11 +18,12 @@
 <fanart>https://i.ibb.co/jTLc3DQ/MV5-BNm-I4-ZWVl-ZGMt-MTRk-MC00-Yj-Qw-LWIx-Ym-Ut-ZDJl-Nzhm-Zjlh-ZGIy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTAw-NDM3.jpg</fanart>
 <info>Fofão e a Nave Sem Rumo é um filme infantil brasileiro de 1989 dirigido por Adriano Stuart. Estrelado por Orival Pessini como Fofão, o filme traz o personagem em uma aventura ao lado de duas crianças em uma viagem espacial após serem sequestrados por seres alienígenas.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O Gênio Do Videogame (1989)[/B]</title>
+<link>https://archive.org/download/ogeniodovideogame1989720pdublado/O%20G%C3%AAnio%20do%20Videogame%201989%20720p%20DUBLADO.mp4$nome= MP4</link>
+<link>https://archive.org/download/ogeniodovideogame1989720pdublado/O%20G%C3%AAnio%20do%20Videogame%201989%20720p%20DUBLADO.mkv$nome= MKV</link>
+<thumbnail>https://i.ibb.co/Zx8p695/t-GZAM5-Xa7x-YOPd-Iri4-Xn-Q7-TRsat.jpg</thumbnail>
+<fanart>https://i.ibb.co/72HQcsX/the-wizard-poster-5.jpg</fanart>
+<info>Jimmy sofre de um transtorno mental, mas tem uma habilidade inata para jogos. Quando ele é colocado em uma instituição, seu irmão foge com ele para a Califórnia, onde entram em um grande torneio de videogame.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>

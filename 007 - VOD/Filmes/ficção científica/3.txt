@@ -41,11 +41,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A Mosca Da Cabeça Branca (1958)[/B]</title>
+<link>https://archive.org/download/amoscadacabecabranca1958/A%20Mosca%20da%20Cabe%C3%A7a%20Branca%20%281958%29.mp4</link>
+<thumbnail>https://i.ibb.co/wCNLz2C/c-Kn-CGCcghw-K7-P3-Ps0jc6v-La-Uy-HI.jpg</thumbnail>
+<fanart>https://i.ibb.co/fkqZ2DT/download-1.jpg</fanart>
+<info>Um cientista está desenvolvendo um aparelho de teletransporte e decide testar o experimento. Entretanto, ele não percebe que uma mosca está ao seu lado dentro do aparelho, o que pode causar surpreendentes resultados.</info></item>
 
 <item><title>[B]Marte Ataca! (1996)[/B]</title>
 <link>https://archive.org/download/marte-ataca-1996-1080p-dublado/Marte%20Ataca%21%20%281996%29%201080p%20Dublado.mp4</link>

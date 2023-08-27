@@ -64,11 +64,11 @@ Sendo os únicos cientistas pesquisadores financiados pela Igreja Católica, est
 <fanart>https://i.ibb.co/tHnkb0z/sars-img-banner.jpg</fanart>
 <info>O projeto “SONS DO ARCO RIBEIRINHO SUL” está integrado no OUT.FEST – Festival Internacional de Música Exploratória do Barreiro, e pretende, através de uma abordagem artística baseada no Som, contribuir para a preservação e a consciencialização do património material e imaterial, ecológico e urbano do Sapal de Coina, Mata da Machada e Frente Ribeirinha do Barreiro.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]O Triunfo Da Vontade (1935)[/B]</title>
+<link>https://archive.org/compress/documentariootriunfodavontade1935pretoebranco/formats=MPEG4&file=/documentariootriunfodavontade1935pretoebranco.zip</link>
+<thumbnail>https://i.ibb.co/qkZ4FWW/20312454.webp</thumbnail>
+<fanart>https://i.ibb.co/p4CT4CT/leni.jpg</fanart>
+<info>O infame filme de propaganda do comício do partido nazista em Nuremberg, na Alemanha.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>
