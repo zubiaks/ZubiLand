@@ -29,6 +29,30 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Forces Occultes (1943)[/B]</title>
+<link>https://archive.org/download/forcasocultas/for%C3%A7as%20ocultas.mp4</link>
+<thumbnail>https://i.ibb.co/7QqG6zd/MV5-BNWFm-MDE5-OGYt-Mjky-OC00-Yj-Y1-LTlj-Yj-Mt-Nj-Y1-Zm-Ey-YTA1-ZTRm-L2lt-YWdl-L2lt-YWdl-Xk-Ey-Xk-Fq.jpg</thumbnail>
+<fanart>https://i.ibb.co/sjfgFb6/hqdefault.webp</fanart>
+<info>Um político francês na década de 1930 é arrastado para uma enorme conspiração maçônica.</info></item>
+
 <item><title>[B]Crisântemos Tardios (1939)[/B]</title>
 <link>https://archive.org/download/crisantemostardios1939/Cris%C3%A2ntemos%20Tardios%20%281939%29.mp4</link>
 <thumbnail>https://i.ibb.co/8Xf5x2n/06-o-conto-dos-crisantemos-tardios.jpg</thumbnail>
