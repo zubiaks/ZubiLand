@@ -47,11 +47,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Kiss Me Deadly (1955)[/B]</title>
+<link>https://archive.org/download/kiss-me-deadly-1955/Kiss%20Me%20Deadly%20%281955%29.mp4</link>
+<thumbnail>https://i.ibb.co/Dgt2Nwn/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/jDRcWm7/download-1.jpg</fanart>
+<info>Mike Hammer é surpreendido em uma estrada por Christina, uma mulher vestindo apenas um sobretudo. Ele dá carona à abalada jovem, mas eles acabam perseguidos, agredidos e jogados de um penhasco. No entanto, Mike sobrevive e decide investigar o crime.</info></item>
 
 <item><title>[B]Pickup On South Street (1953)[/B]</title>
 <link>https://archive.org/download/pickup-on-south-street-1953/Pickup%20on%20South%20Street%20%281953%29.mp4$nome= 1</link>

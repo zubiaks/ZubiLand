@@ -29,11 +29,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Der Blaue Engel (1930)[/B]</title>
+<link>https://archive.org/download/der-blaue-engel-1930/Der%20Blaue%20Engel%20%281930%29.mp4</link>
+<thumbnail>https://i.ibb.co/kBjRKS6/Der-Blaue-Engel-plakat.webp</thumbnail>
+<fanart>https://i.ibb.co/6W4WT6b/Marlene-Dietrich-in-The-Blue-Angel.png</fanart>
+<info>Alunos de ensino médio trocando figurinhas durante a aula. É com este cenário que começa a lenta, porém crescente, degradação da vida do professor de artes e ciência, Immanuel Rath. Quando este descobre serem as figurinhas fotos de mulheres semi-nuas conseguidas na casa de espetáculos Anjo Azul, que seus alunos frequentam, Rath vai lá tirar satisfações com os garotos, e acaba conhecendo a cantora de cabaré Lola Lola.</info></item>
 
 <item><title>[B]Laura (1944)[/B]</title>
 <link>https://archive.org/download/laura-1944/Laura%20%281944%29.mp4$nome= 1</link>
