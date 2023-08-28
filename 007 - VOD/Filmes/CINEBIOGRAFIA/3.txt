@@ -1,4 +1,52 @@
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Alexander Nevsky (1938)[/B]</title>
+<link>https://archive.org/download/alexander-nevsky-1938/Alexander%20Nevsky%20%281938%29.mp4</link>
+<thumbnail>https://i.ibb.co/h1yF59m/Alexander-Nevsky-Poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/7y8mNc1/download-1.jpg</fanart>
+<info>Rússia, primeira metade do século XIII. Em um momento difícil da sua história o país é invadido em uma frente pelos cavaleiros teutônicos e por outra frente pelos tártaros. Como resultado, a pátria é saqueada e a moral da população fica bem baixa. Finalmente, o deprimido e instável príncipe Alexander Yaroslavich Nevsky (Nikolai Cherkasov) é chamado para liderar seu povo na luta contra os opressores. Curiosidade: O ditador Joseph Stalin queria que Alexandre Nevsky fosse produzido como propaganda para alertar os cidadãos russos do perigo de uma invasão alemã. Entretanto, quando foi lançado nos cinemas o filme foi rejeitado inicialmente, devido à proximidade da assinatura de um acordo de não-agressão entre Rússia e Alemanha. Porém, após a invasão alemã ao território russo em 1941 Stalin ordenou que Alexandre Nevsky fosse exibido em todo cinema russo, na intenção de inspirar a população local a resistir à invasão.</info></item>
+
 <item><title>[B]Delírios de um Cinemaníaco (2013)[/B]</title>
 <link>https://archive.org/download/DeliriosDeUmCinemaniaco/DeliriosDeUmCinemaniaco-VersaoParaDownload.mp4</link>
 <thumbnail>https://i.ibb.co/LhnS7WQ/MV5-BODc4-MDAy-Njgt-Nz-Nl-MS00-MGU1-LWI0-YWEt-MWRl-ZTRm-ZWQ3-ZGI4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI0-Nzk5-NT.jpg</thumbnail>
@@ -12,38 +60,14 @@
 <fanart>https://i.ibb.co/KyWzcx2/unnamed.jpg</fanart>
 <info>The People vs. Larry Flynt (bra O Povo contra Larry Flint[1]; prt Larry Flynt[2]) é um filme canado-estadunidense de 1996, do gênero drama biográfico, dirigido por Milos Forman. Relata a vida de Larry Flynt, polêmico editor da revista pornográfica Hustler, que enfrentou vários processos na justiça estadunidense.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Ivan The Terrible, Part I (1944)[/B]</title>
+<link>https://archive.org/download/ivan-the-terrible-part-i-1944/Ivan%20The%20Terrible%2C%20Part%20I%20%281944%29.mp4</link>
+<thumbnail>https://i.ibb.co/vPLRbCw/MV5-BMTcx-NDMy-NTM5-Nl5-BMl5-Ban-Bn-Xk-Ft-ZTYw-Mj-Mz-NDk4-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/YWFWkh9/ivan-the-terrible-part-i-1200-1200-675-675-crop-000000.jpg</fanart>
+<info>Em 1547, Ivan IV (1530-1584), arquiduque de Moscou, se auto-proclama o Czar de Rússia e se prepara para retomar territórios russos perdidos. Superando uma série de dificuldades e intrigas, Ivan consegue manipular as pessoas destramente e consolidar seu poder.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Ivan the Terrible, Part II: The Boyars' Plot (1958)[/B]</title>
+<link>https://archive.org/download/ivan-the-terrible-part-ii-1958/Ivan%2C%20The%20Terrible%20Part%20II%20%281958%29.mp4</link>
+<thumbnail>https://i.ibb.co/CVqScGq/MV5-BMj-A1-Mz-Mw-Mz-E4-OF5-BMl5-Ban-Bn-Xk-Ft-ZTYw-Nz-Y3-MTE5-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/f99cb5F/ivan-the-terrible-pt-2-01.jpg</fanart>
+<info>Após sua esposa morrer envenenada, Ivan (Nikolai Tcherkassov) encontra-se sozinho na luta pela unificação da Rússia. Enquanto tenta expulsar os invasores, o czar precisa ainda escapar das constantes tentativas de assassinato tramadas pelos inimigos, entre os quais está Efrosinia (Serafima Birman), tia de Ivan, que sonha com o poder nas mãos do filho Vladimir (Pavel Kadochnikov). O filme foi proibido por Stalin na URSS até 1958.</info></item>

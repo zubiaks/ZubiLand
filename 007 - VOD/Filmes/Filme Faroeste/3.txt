@@ -23,6 +23,25 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Vengeance Valley (1951)[/B]</title>
+<link>https://archive.org/download/vengeance-valley-1951_202005/Vengeance%20Valley%20%281951%29.mp4$nome= 1</link>
+<link>https://archive.org/download/vengeance-valley-1951_202005/Vengeance%20Valley%20%281951%29.m4v$nome= 2</link>
+<thumbnail>https://i.ibb.co/Pz6Hf0v/MV5-BMj-A2-Mj-Q4-MTMx-N15-BMl5-Ban-Bn-Xk-Ft-ZTYw-MDY2-Njk5-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/BZ5C48X/maxresdefault.jpg</fanart>
+<info>Esta é a história de uma triste realidade entre Lee Strobie (Robert Walker), o filho mal caráter de um fazendeiro, e seu irmão adotivo, o honesto Owen Daybright (Burt Lancaster). Lee enganou sua fiel esposa Jen (Joanne Dru) com uma moça da cidade (Sally Forrest) e teve um filho ilegítimo como resultado. Owen por ajudar a amante do irmão, é perseguido por engano pela família da moça para vingar a honra.</info></item>
+
 <item><title>[B]My Darling Clementine (1946)[/B]</title>
 <link>https://archive.org/download/1946-paixao-dos-fortes-dub/%5B1946%5D%20Paix%C3%A3o%20dos%20Fortes%20%5BDUB%5D%20.mp4</link>
 <thumbnail>https://i.ibb.co/ZmQJchk/My-Darling-Clementine-1946-poster.jpg</thumbnail>

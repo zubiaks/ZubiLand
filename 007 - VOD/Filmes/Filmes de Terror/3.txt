@@ -113,17 +113,19 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Suspiria (1977)[/B]</title>
+<link>https://archive.org/download/suspiria-1977/Suspiria%20%281977%29.mp4$nome= 1</link>
+<link>https://archive.org/download/suspiria-1977/Suspiria%20%281977%29.m4v$nome= 2</link>
+<thumbnail>https://i.ibb.co/NxfWssV/MV5-BZGRj-Njlj-OGEt-Zj-Fm-Mi00-Yz-U1-LWIx-OWYt-ZTQz-ODMz-NDQz-Mz-Y1-Xk-Ey-Xk-Fqc-Gde-QXVy-NDE5-MTU2.jpg</thumbnail>
+<fanart>https://i.ibb.co/FVc0BnY/1344941.jpg</fanart>
+<info>Com base em Suspiro das Profundezes (Suspiria de Profundis), obra de Thomas De Quincey, Argento cria um conto de fadas incomum, com poucas mas inesquecíveis mortes e um elemento fantasioso que oprime e perturba personagens e espectadores. Um filme que por muitos motivos fez escola e, mesmo que não seja uma obra-prima, tem uma importância conceitual muito grande para o gênero terror, principalmente para diretores que não estão apenas preocupados em gerar o medo puro e simples, mas em também criar, através da beleza, uma porta de entrada para o macabro sobrenatural.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Beast From Haunted Cave (1959)[/B]</title>
+<link>https://archive.org/download/beast-from-haunted-cave-1959/Beast%20From%20Haunted%20Cave%20%281959%29.mp4$nome= 1</link>
+<link>https://archive.org/download/beast-from-haunted-cave-1959/Beast%20From%20Haunted%20Cave%20%281959%29.m4v$nome= 2</link>
+<thumbnail>https://i.ibb.co/x3zsvj8/MV5-BMTQ2-MTgy-MTM2-N15-BMl5-Ban-Bn-Xk-Ft-ZTcw-Nzk3-MTcx-MQ-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/SQyKBtz/sddefault.jpg</fanart>
+<info>Um grupo de ladrões de ouro realiza um ousado assalto numa pequena cidade e se esconde numa cabana em meio à floresta nevada. Parecia o crime perfeito, mas o grupo começa a ser perseguido por um terrível monstro em forma de aranha cujo sono eles despertaram acidentalmente.</info></item>
 
 <item><title>[B]Bethany (2019)[/B]</title>
 <link>https://archive.org/download/bethany-2019-720p-dublado/Bethany%202019%20720p%20DUBLADO.mp4</link>

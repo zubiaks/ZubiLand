@@ -35,11 +35,12 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Laura (1944)[/B]</title>
+<link>https://archive.org/download/laura-1944/Laura%20%281944%29.mp4$nome= 1</link>
+<link>https://archive.org/download/laura-1944/Laura%20%281944%29.m4v$nome= 2</link>
+<thumbnail>https://i.ibb.co/6v9w40L/Laura-1944-film-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/FJhK633/EB20020120-REVIEWS08201200301-AR.jpg</fanart>
+<info>Indicado em 5 categorias do Oscar, este filme que esbanja estilo toma rumos inesperados com a introdução de novos suspeitos, novas provas e revelações inesperadas. Um rico jornalista de língua afiada (Clifton Webb) envolve-se profundamente com a carreira de uma bela jovem chamada Laura (Gene Tierney). Mas tal envolvimento acaba levando à possessividade e pouco antes do casamento da moça com um playboy (Vincent Price), ela é encontrada assassinada. Impressionado por seu retrato e pelas descrições apaixonadas de seus admiradores, o detetive encarregado do caso (Dana Andrews) percebe que ele, também, está estranhamente influenciado pelos encantos de Laura.</info></item>
 
 <item><title>[B]Tigres Selvagens (2006)[/B]</title>
 <link>https://archive.org/download/tigres-selvagens-2006/Wild%20Tigers%20I%20Have%20Known%20%E2%80%93%20Filmes%20Gays.mp4</link>

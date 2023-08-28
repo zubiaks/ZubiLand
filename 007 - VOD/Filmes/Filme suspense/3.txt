@@ -1,4 +1,64 @@
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Scream Of Fear (1961)[/B]</title>
+<link>https://archive.org/download/scream-of-fear-1961/Scream%20of%20Fear%20%281961%29.mp4</link>
+<thumbnail>https://i.ibb.co/SBB2D2s/MV5-BM2-M3-MWZk-N2-Mt-YTFl-YS00-M2-Ez-LWFm-Nzkt-Nm-My-MGNm-MGQ1-N2-Nm-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-I4-Mj.jpg</thumbnail>
+<fanart>https://i.ibb.co/YDGVQd7/p6050-v-h10-ab.jpg</fanart>
+<info>Taste of Fear é um filme de suspense britânico de 1961 dirigido por Seth Holt. O filme é estrelado por Susan Strasberg, Ronald Lewis, Ann Todd e Christopher Lee em um papel coadjuvante. Foi lançado nos Estados Unidos como Scream of Fear.</info></item>
+
 <item><title>[B]Ate O Ceu (2021)[/B]</title>
 <link>https://archive.org/download/ate-o-ceu-2021-1080p-dublado/Ate%20O%20Ceu%202021%201080p%20Dublado.mp4</link>
 <thumbnail>https://i.ibb.co/jyKMHc1/3527588.webp</thumbnail>
@@ -41,44 +101,9 @@
 <fanart>https://i.ibb.co/LtCgPpP/MV5-BODFk-ZWE5-NWYt-OTNk-Yi00-OWJk-LWEw-NGMt-OWY0-MGIx-ODk3-Mj-Y0-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI3-MDk3-Mz.jpg</fanart>
 <info>Quando criança, Mark Lewis sofria experimentos bizarros do pai cientista e estudante dos efeitos do medo. Agora adulto, com seus pais já mortos, ele vira um psicopata que mata mulheres para gravar suas expressões de terror no momento da morte.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Shock Corridor (1963)[/B]</title>
+<link>https://archive.org/download/shock-corridor-1963/Shock%20Corridor%20%281963%29.mp4$nome= 1</link>
+<link>https://archive.org/download/shock-corridor-1963/Shock%20Corridor%20%281963%29.m4v$nome= 2</link>
+<thumbnail>https://i.ibb.co/X4CJkDP/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/NSJhh6d/download-2.jpg</fanart>
+<info>Abordando os diferentes nuances que tangem os conceitos de loucura, Samuel Fuller tenta aqui criar uma história atraente sobre um jornalista dominado pela ganância e derrotado por ela. ‘Paixões Que Alucinam’ é uma obra impactante, não ausente de generalizações superficiais, que consegue dar um olhar mais atento aos diferentes tipos de arquétipos dos acometidos por diferentes transtornos mentais.</info></item>

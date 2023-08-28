@@ -35,11 +35,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]It Came From Outer Space (1953)[/B]</title>
+<link>https://archive.org/download/it-came-from-outer-space-1953/It%20Came%20from%20Outer%20Space%20%281953%29.mp4</link>
+<thumbnail>https://i.ibb.co/NtmvLmh/MV5-BOTUz-Nz-M0-Mz-Qx-MV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-NTM5-NDI1-MDE-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/GM2NgJ6/p3974-v-h9-af.jpg</fanart>
+<info>John Putnam e sua namorada Ellen vivem em uma pequena cidade dos Estados Unidos. Certa noite, enquanto espiavam as estrelas através de um telescópio, veem uma grande bola de fogo caindo perto de sua casa. Ao investigar o que era, John acaba se deparando com uma nave alienígena e tenta alertar o povo de sua cidade, mas até que eles acreditem pode ser tarde demais.</info></item>
 
 <item><title>[B]A Mosca Da Cabeça Branca (1958)[/B]</title>
 <link>https://archive.org/download/amoscadacabecabranca1958/A%20Mosca%20da%20Cabe%C3%A7a%20Branca%20%281958%29.mp4</link>

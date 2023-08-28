@@ -29,11 +29,12 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Lady Vanishes (1938)[/B]</title>
+<link>https://archive.org/download/the-lady-vanishes-1938/The%20Lady%20Vanishes%20%281938%29.mp4$nome= 1</link>
+<link>https://archive.org/download/the-lady-vanishes-1938/The%20Lady%20Vanishes%20%281938%29.m4v$nome= 2</link>
+<thumbnail>https://i.ibb.co/Dffznr4/MV5-BNjk3-Yz-Fj-YTkt-OGY0-ZS00-Y2-Ew-LTk2-NTct-YTI1-Nzc2-OWNi-N2-I4-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-M0-MTUw.jpg</thumbnail>
+<fanart>https://i.ibb.co/Ypx32Kh/MV5-BMTg2-MTA3-Nj-Q3-OF5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Mj-Ax-MDY0-Mj-E-V1.jpg</fanart>
+<info>Em um pequeno recanto da Europa os passageiros de um trem ficam retidos em virtude de uma nevasca e são obrigados a pernoitar em uma pequena estalagem. Lá uma rica jovem conhece uma velha governanta e ambas combinam de se encontrarem no dia seguinte no trem. Entretanto, logo após o início da viagem a governanta desaparece e ninguém, por motivos diversos, afirma ter visto a pessoa desaparecida. Ela persiste em suas investigações e acaba convencendo um musicólogo, com quem ela tinha se desentendido na véspera.</info></item>
 
 <item><title>[B]Um Amor Na Tarde (1957)[/B]</title>
 <link>https://archive.org/download/umamornatarde1957/Um%20Amor%20na%20Tarde%20%281957%29.mp4</link>

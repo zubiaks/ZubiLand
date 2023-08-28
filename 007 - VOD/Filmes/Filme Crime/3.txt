@@ -29,6 +29,44 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Pickup On South Street (1953)[/B]</title>
+<link>https://archive.org/download/pickup-on-south-street-1953/Pickup%20on%20South%20Street%20%281953%29.mp4$nome= 1</link>
+<link>https://archive.org/download/pickup-on-south-street-1953/Pickup%20on%20South%20Street%20%281953%29.m4v$nome= 2</link>
+<thumbnail>https://i.ibb.co/G9fMPrG/Pickup-on-South-Street-1953-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/Bc74P2k/download-1.jpg</fanart>
+<info>Nos Estados Unidos, campanhas patrióticas e anticomunistas (como o macartismo, a famosa caça as bruxas) colocavam vários artistas em uma famigerada lista negra. O então relativamente novo Samuel Fuller, com 41 anos e em seu sexto filme como diretor, ousou fazer uma obra-prima noir sobre o tema, com teor crítico, sem maniqueísmos e sem apelar para patriotadas. O fascinante Anjo do Mal (Pickup on South Street), de 1953.</info></item>
+
+<item><title>[B]Charlie Chan In Shanghai (1935)[/B]</title>
+<link>https://archive.org/download/charlie-chan-in-shanghai-1935/Charlie%20Chan%20in%20Shanghai%20%281935%29.mp4$nome= MP4</link>
+<link>https://archive.org/download/charlie-chan-in-shanghai-1935/Charlie%20Chan%20in%20Shanghai%20%281935%29.m4v$nome= 2</link>
+<thumbnail>https://i.ibb.co/R9fy7vC/MV5-BYThl-Mm-I0-Mz-Qt-OWE1-OS00-ZTQ2-LTgy-ODIt-YWVi-ZWI1-Yj-Bj-ZTNl-Xk-Ey-Xk-Fqc-Gde-QXVy-Mzg2-Mz-E2.jpg</thumbnail>
+<fanart>https://i.ibb.co/gJ50Mhk/MV5-BNj-Mw-Mz-Fl-OWUt-NTQz-My00-OTUy-LThk-OTEt-Nzhl-Mjhk-MTc3-Mz-Ux-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Y4-Mj-I.jpg</fanart>
+<info>Quando um funcionário proeminente é assassinado em um banquete em homenagem a Charle Chan, o detetive e o filho Lee se unem para expor uma rede de contrabando de ópio.</info></item>
+
 <item><title>[B]the godfather (1972)[/B]</title>
 <link>https://archive.org/download/1972-o-poderoso-chefao-dub/%5B1972%5D%20O%20Poderoso%20Chef%C3%A3o%20%5BDUB%5D.mp4</link>
 <thumbnail>https://i.ibb.co/5245Sj7/MV5-BM2-My-Nj-Yx-Nm-Ut-YTAw-Ni00-MTYx-LWJm-NWYt-Yz-Zl-ODY3-ZTk3-OTFl-Xk-Ey-Xk-Fqc-Gde-QXVy-Nzkw-Mj-Q.jpg</thumbnail>
