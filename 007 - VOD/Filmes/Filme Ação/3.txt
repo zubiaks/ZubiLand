@@ -47,11 +47,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Last Of The Mohicans (1920)[/B]</title>
+<link>https://archive.org/download/the-last-of-the-mohicans-1920/The%20Last%20of%20the%20Mohicans%20%281920%29.mp4</link>
+<thumbnail>https://i.ibb.co/qr6qDX9/MV5-BMTQ0-MDY3-OWEt-Nz-Nl-MC00-Mjcx-LTg2-Zm-Ut-Yjg2-ZTVm-Mzll-Nz-E3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTY5-Nzc4.jpg</thumbnail>
+<fanart>https://i.ibb.co/rfRDr9q/download-2.jpg</fanart>
+<info>No verão de 1757, Chief Great Serpent (Chingachgook no romance, mas esse nome não é usado neste filme) diz ao último corajoso moicano sobrevivente, Uncas, para alertar os ingleses em Fort Edward da ameaça dos Hurons aliados aos franceses.</info></item>
 
 <item><title>[B]Beneath The 12 Mile Reef (1953)[/B]</title>
 <link>https://archive.org/download/beneath-the-12-mile-reef-1953_202005/Beneath%20the%2012-Mile%20Reef%20%281953%29.mp4</link>
