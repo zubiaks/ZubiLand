@@ -53,11 +53,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Ercole Al Centro Della Terra (1961)[/B]</title>
+<link>https://archive.org/download/ercole-al-centro-della-terra-1961/Ercole%20Al%20Centro%20Della%20Terra%20%281961%29.mp4</link>
+<thumbnail>https://i.ibb.co/R7GTpnh/Hercules-at-the-Center-of-the-Earth-761233060-large.jpg</thumbnail>
+<fanart>https://i.ibb.co/sP6Sxgn/download-2.jpg</fanart>
+<info>Hércules precisa lutar contra um monstro de pedra, recuperar uma maçã dourada da árvore de Hespérides e enfrentar horrores de Hades para salvar sua amada das garras do perverso Lyco (Christopher Lee).</info></item>
 
 <item><title>[B]The Mark Of Zorro (1920)[/B]</title>
 <link>https://archive.org/download/the-mark-of-zorro-1920/The%20Mark%20Of%20Zorro%20%281920%29.mp4</link>
