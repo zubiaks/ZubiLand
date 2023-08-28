@@ -29,6 +29,30 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Forbidden Planet (1956)[/B]</title>
+<link>https://archive.org/download/forbidden-planet-1956/Forbidden%20Planet%20%281956%29.mp4</link>
+<thumbnail>https://i.ibb.co/dk8NK7K/MV5-BMTg1-Nz-Q5-Mz-U3-Nl5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Njky-OTc5-MTE-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/nDyj13B/forbidden-planet-1200-1200-675-675-crop-000000.jpg</fanart>
+<info>Uma expedição liderada pelo Comandante John J. Adams (Leslie Nielsen) viaja rumo a um planeta distante para descobrir o que aconteceu com os cientistas que foram para lá iniciar uma colônia. Apenas um é encontrado: O arrogante Dr. Morbius (Walter Pidgeon), que vive em companhia da filha, Altaira (Anne Francis) e de um prestativo robô.</info></item>
+
+<item><title>[B]On The Beach (1959)[/B]</title>
+<link>https://archive.org/download/on-the-beach-1959/On%20the%20Beach%20%281959%29.mp4</link>
+<thumbnail>https://i.ibb.co/Dff10S6/MV5-BMTMy-NTIz-MDEy-MV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-ODQw-OTc2-NA-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/H77TRFB/8b411e6e0190134e5d9d24eb197c3d0e3267a3d5.webp</fanart>
+<info>Em 1964 alguém, em algum lugar, apertou o botão e começou Terceira Guerra Mundial. A Austrália sobreviveu à guerra, temporariamente. A radiação está vindo e o fim é inevitável. Um submarino americano sob o comando do capitão Dwight Towers (Gregory Peck) encontra na Austrália um lugar onde sua tripulação pode provisoriamente viver, mas o tempo é curto e para Dwight não resta quase nada, pois já perdeu sua mulher e filhos no Holocausto. Dentro deste contexto o capitão Towers conhece Moira Davidson (Ava Gardner) e ambos se apaixonam.</info></item>
+
 <item><title>[B]The Monolith Monsters (1957)[/B]</title>
 <link>https://archive.org/download/the-monolith-monsters-1957/The%20Monolith%20Monsters%20%281957%29.mp4</link>
 <thumbnail>https://i.ibb.co/1G3pgS7/51g-ZZg-Vt-LQL-AC-UF894-1000-QL80.jpg</thumbnail>

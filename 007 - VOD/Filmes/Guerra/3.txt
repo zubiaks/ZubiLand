@@ -41,6 +41,36 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Roma, Città Aperta (1945)[/B]</title>
+<link>https://archive.org/download/roma-citta-aperta-1945/Roma%2C%20Citt%C3%A0%20Aperta%20%281945%29.mp4</link>
+<thumbnail>https://i.ibb.co/pWMVgdw/roma-cidade-aberta-e1429460510946.webp</thumbnail>
+<fanart>https://i.ibb.co/ys1TJW4/download.jpg</fanart>
+<info>Roma, 1944. Um dos líderes da Resistência, Giorgio Manfredi (Marcello Pagliero), é procurado pelos nazistas. Giorgio planeja entregar um milhão de liras para seus compatriotas. Ele se esconde no apartamento de Francesco (Francesco Grandjacquet) e pede ajuda à noiva de Francesco, Pina (Anna Magnani), que está grávida. Giorgio planeja deixar um padre católico, Don Pietro (Aldo Fabrizi), fazer a entrega do dinheiro. Quando o prédio é cercado, Francesco é preso pelos alemães e levado para um caminhão. Gritando, Pina corre em sua direção e é metralhada no meio da rua. Giorgio foge para o apartamento de sua amante, Marina (Maria Michi), sem imaginar que este seria o maior erro da sua vida.</info></item>
+
+<item><title>[B]The Bedford Incident (1965)[/B]</title>
+<link>https://archive.org/download/the-bedford-incident-1965_202006/The%20Bedford%20Incident%20%281965%29.mp4</link>
+<thumbnail>https://i.ibb.co/x84sq47/MV5-BZGM5-Yj-Aw-Y2-Mt-M2-Vi-ZS00-Yzlh-LWFh-MTQt-Yzg2-YWU2-Yz-Vj-Mz-Fm-L2lt-YWdl-Xk-Ey-Xk-Fqc-Gde-QXV.jpg</thumbnail>
+<fanart>https://i.ibb.co/d21DGNw/maxresdefault.jpg</fanart>
+<info>A caça de submarinos russos durante a Guerra Fria, uma missão de rotina da Marinha americana, acompanhada por um experiente jornalista, acaba se transformando em um acidente nuclear capaz de iniciar um conflito mundial sem precedentes.</info></item>
+
 <item><title>[B]The Cruel Sea (1953)[/B]</title>
 <link>https://archive.org/download/the-cruel-sea-1953/The%20Cruel%20Sea%20%281953%29.mp4</link>
 <thumbnail>https://i.ibb.co/BfKbCnx/MV5-BMTQx-Mz-Q3-ODI1-OF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-Mz-M5-MTM1-Mg-V1.jpg</thumbnail>

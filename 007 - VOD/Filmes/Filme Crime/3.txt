@@ -41,11 +41,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Les Diaboliques (1955)[/B]</title>
+<link>https://archive.org/download/les-diaboliques-1955/Les%20Diaboliques%20%281955%29.mp4</link>
+<thumbnail>https://i.ibb.co/RQ4z12w/MV5-BYzkx-Yj-A0-YTYt-Yz-U4-NS00-Mjgz-LWI3-Yj-Qt-Mm-Mz-Mz-E4-Nz-A1-Ym-Q3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA0-M.jpg</thumbnail>
+<fanart>https://i.ibb.co/4P5qzt5/MV5-BN2-Iw-MThl-NWUt-Mj-Ix-YS00-MTFl-LWJh-Mz-It-Mjlm-Zj-Fk-NTQy-NWQ2-Xk-Ey-Xk-Fqc-Gde-QXVy-Njgw-NDk3.jpg</fanart>
+<info>Christina é uma rica herdeira, proprietária e professora de um colégio, cuja administração acha-se a cargo de seu marido, Michel. Ele dirige o colégio com mãos de ferro, bate na mulher, a humilha, serve comida estragada no refeitório, é odiado por todos, professores e alunos, além de ser amante de Nicole, uma das professoras. Nicole procura Christina e lhe diz que ele só se casou com ela pelo seu dinheiro e que torce para que ela sofra infarto e, assim, ele possa herdar toda a sua fortuna. Em seguida, sugere um plano para, juntas, assassiná-lo.</info></item>
 
 <item><title>[B]Kiss Me Deadly (1955)[/B]</title>
 <link>https://archive.org/download/kiss-me-deadly-1955/Kiss%20Me%20Deadly%20%281955%29.mp4</link>

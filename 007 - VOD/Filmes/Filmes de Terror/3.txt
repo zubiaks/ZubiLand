@@ -101,11 +101,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Haunting (1963)[/B]</title>
+<link>https://archive.org/download/the-haunting-1963/The%20Haunting%20%281963%29.mp4</link>
+<thumbnail>https://i.ibb.co/vczQVQm/p226-p-v8-ad.jpg</thumbnail>
+<fanart>https://i.ibb.co/DwNGFvL/download-2.jpg</fanart>
+<info>O Dr. Markway (Richard Johnson) faz uma pesquisa para provar a existência de fantasmas e, com isso, se interessa pela Hill House, uma mansão com 90 anos localizada na Nova Inglaterra e que tem em sua história mortes, violência e loucura. Junto com ele estão Luke Sanderson (Russ Tamblyn), um cético que está para herdar a casa, a misteriosa e clarividente Theodora (Claire Bloom) e a insegura e carente Eleanor Lance (Julie Harris), cujos dons psíquicos a transformam no instrumento de ligação com os espíritos da velha mansão. Gradativamente fica óbvio que eles encontraram algo muito maior e aterrorizante do que poderiam imaginar.</info></item>
 
 <item><title>[B]Eraserhead (1977)[/B]</title>
 <link>https://archive.org/download/eraserhead-1977/Eraserhead%20%281977%29.mp4</link>

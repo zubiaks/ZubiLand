@@ -35,6 +35,66 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Una Nuvola Di Polvere… Un Grido Di Morte… Arriva Sartana (1970)[/B]</title>
+<link>https://archive.org/download/una-nuvola-di-polvere...-un-grido-di-morte...-arriva-sartana-1970/Una%20Nuvola%20Di%20Polvere%E2%80%A6%20Un%20Grido%20Di%20Morte%E2%80%A6%20Arriva%20Sartana%20%281970%29.mp4</link>
+<thumbnail>https://i.ibb.co/gbYw6Gf/Una-nuvola-di-polvere-un-grido-di-morte-arriva-Sartana-102277140-large.jpg</thumbnail>
+<fanart>https://i.ibb.co/j8qbyMj/download-1.jpg</fanart>
+<info>Sartana mais uma vez está à espreita. Desta vez, trata-se de um verdadeiro caso de mistério em pleno velho oeste. Uma boa quantidade de ouro junto com 2 milhões de dólares em dinheiro desapareceu e parece estar escondido em algum lugar. E todos, incluindo o delegado, o xerife, militares e seus irmãos, esposas, amantes e amigos, verdadeiros e falsos agentes federais e até apaches. Todos estão em busca do ouro. Agora só resta a Sartana decifrar as pistas deixadas por cada um para que o maior mistério do velho oeste o transforme definitivamente na lenda que todos nós conhecemos. Quinto e último filme da série "Sartana" oficial.</info></item>
+
+<item><title>[B]C'è Sartana... Vendi La Pistola e Comprati La Bara! (1970)[/B]</title>
+<link>https://archive.org/download/ce-sartana-vendi-la-pistola-e-comprati-la-bara-1970/Ce%20Sartana%20Vendi%20La%20Pistola%20e%20Comprati%20La%20Bara%20%281970%29.mp4</link>
+<thumbnail>https://i.ibb.co/cctKjsC/C-Sartana-vendilapistolaecompratilabara.jpg</thumbnail>
+<fanart>https://i.ibb.co/zNy6nVH/CESartana-Vendi-La-Pistola-t.jpg</fanart>
+<info>Numa violenta cidade do Velho Oeste, diversos bandidos, mercenários e aventureiros tentam se apossar de uma grande quantia em ouro. Entre eles está o pistoleiro Sartana (George Hilton) e seus oponentes, um banqueiro corrupto (Piero Lulli), um louco bandito mexicano (Nello Pazzafini) e dois irmãos psicóticos, interpretados pela dupla Rick Boyd e Luciano Rossi. Um excêntrico personagem chamado Sabata também disputa o tesouro, com seus hábitos estranho de vestir-se de branco e beber chá o tempo todo.</info></item>
+
+<item><title>[B]Se Incontri Sartana Prega Per La Tua Morte (1968)[/B]</title>
+<link>https://archive.org/download/se-incontri-sartana-prega-per-la-tua-morte-1968/Se%20Incontri%20Sartana%20Prega%20Per%20La%20Tua%20Morte%20%281968%29.mp4</link>
+<thumbnail>https://i.ibb.co/5GY5z27/MV5-BYj-Bm-YWI0-MDIt-ODkx-Yi00-ODA2-LTgy-MGQt-Yjcy-Y2-Zk-NTJl-NDBl-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-I4-Mj-A5.jpg</thumbnail>
+<fanart>https://i.ibb.co/BTFkFV0/22733187798.jpg</fanart>
+<info>Tudo começa com o violento roubo a uma diligência, quando um cofre repleto de ouro é roubado e os passageiros são massacrados pelos bandidos. Após uma série de traições e tiroteios, o fruto do roubo acaba nas mãos do assassino Lasky. Mas o anti-herói Sartana começa a investigar o crime e segue a pista dos seus autores.</info></item>
+
+<item><title>[B]Sono Sartana Il, Vostro Becchino (1969)[/B]</title>
+<link>https://archive.org/download/sono-sartana-il-vostro-becchino-1969/Sono%20Sartana%20Il%20Vostro%20Becchino%20%281969%29.mp4</link>
+<thumbnail>https://i.ibb.co/RCSJ59f/MV5-BMTZh-OTVm-Nj-At-OWJm-MC00-ZTY5-LWEy-Nj-Mt-MDEy-OTli-ZDJi-Yz-A1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-Mz.jpg</thumbnail>
+<fanart>https://i.ibb.co/9sKM27N/images-1.webp</fanart>
+<info>O banco mais seguro do Oeste é assaltado e tudo leva a crer que foi Sartana. É prometida uma recompensa a quem o entregar vivo ou morto, e os mais famosos matadores saem em busca de Sartana. É então que, desconhecendo o roubo, Sartana tem de começar uma busca aos verdadeiros culpados. Nessa cidade, as pistas o conduzem às pessoas mais influentes do povo. Conseguirá Sartana provar sua inocência e punir os verdadeiros culpados?</info></item>
+
+<item><title>[B]Buon Funerale, Amigos!... Paga Sartana (1970)[/B]</title>
+<link>https://archive.org/download/buon-funerale-amigos-paga-sartana-1970/Buon%20Funerale%20Amigos%20Paga%20Sartana%20%281970%29.mp4</link>
+<thumbnail>https://i.ibb.co/Bt3gbT0/MV5-BNm-Fl-Yz-Mz-ZGUt-ZGQ5-Yy00-ODVm-LWEw-ODgt-Nm-Q2-MTgx-ODQ0-Zj-Ex-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-M.jpg</thumbnail>
+<fanart>https://i.ibb.co/qrNWdxQ/MV5-BZWU0-NGY4-YWUt-MWY5-Ny00-NDAw-LWI3-ZDYt-Yz-E5-ZTI4-ZGNi-Nj-Fl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-Mz.jpg</fanart>
+<info>Sartana investiga a morte violenta dos proprietários de uma mina de ouro, mas a chegada de uma misteriosa mulher, que se diz herdeira dos proprietários assassinados, complica a situação.</info></item>
+
 <item><title>[B]Vengeance Valley (1951)[/B]</title>
 <link>https://archive.org/download/vengeance-valley-1951_202005/Vengeance%20Valley%20%281951%29.mp4$nome= 1</link>
 <link>https://archive.org/download/vengeance-valley-1951_202005/Vengeance%20Valley%20%281951%29.m4v$nome= 2</link>

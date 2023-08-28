@@ -41,6 +41,36 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]He Who Gets Slapped (1924)[/B]</title>
+<link>https://archive.org/download/he-who-gets-slapped-1924_202006/He%20Who%20Gets%20Slapped%20%281924%29.mp4</link>
+<thumbnail>https://i.ibb.co/st9nCj5/MV5-BYm-Rj-NDU1-Zjct-Mm-Fk-Yy00-NGYz-LTk0-Zm-Et-Mz-A5-Mzgx-YTU5-Nz-U2-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Q5-Nz.jpg</thumbnail>
+<fanart>https://i.ibb.co/NtnPmk9/download-3.jpg</fanart>
+<info>O filme conta a história de um gênio científico que é humilhado pela esposa. Para expressar sua dor, ele se torna um palhaço de circo. Lá, aparentemente, ele encontra uma chance de renovação. Mas será que ele conseguirá encontrar a felicidade?</info></item>
+
+<item><title>[B]Greed (1924)[/B]</title>
+<link>https://archive.org/download/greed-1924/Greed%20%281924%29.mp4</link>
+<thumbnail>https://i.ibb.co/m574pHW/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/C8JYGqh/download-1.jpg</fanart>
+<info>O filme mostra a transformação do caráter de três pessoas. Após um bom tempo trabalhando em uma mina, McTeague se muda para a Califórnia, onde passa a trabalhar ilegalmente como dentista, e conhece e se casa com Trina, prima de seu amigo Marcus, também interessado nela. Trina ganha um grande prêmio na loteria e, aos poucos, vai sendo dominada pela avareza, o que desperta o caráter violento de McTeague, e a inveja de Marcus.</info></item>
+
 <item><title>[B]El Espíritu de la Colmena (1973)[/B]</title>
 <link>https://archive.org/download/the-spirit-of-the-beehive-1973/The%20Spirit%20of%20the%20Beehive%20%281973%29.mp4</link>
 <thumbnail>https://i.ibb.co/9tH1zHh/El-espairitu-de-la-colmena-174012559-large.jpg</thumbnail>
