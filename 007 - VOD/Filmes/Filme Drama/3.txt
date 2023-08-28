@@ -41,23 +41,23 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Rebecca (1940)[/B]</title>
+<link>https://archive.org/download/rebecca-1940_202006/Rebecca%20%281940%29.mp4</link>
+<thumbnail>https://i.ibb.co/pWtNW6V/Rebecca-1939-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/vhfyMGd/download.jpg</fanart>
+<info>Uma jovem de origem humilde (Joan Fontaine) se casa com um riquíssimo nobre inglês (Laurence Olivier), que ainda vive atormentado por lembranças de sua falecida esposa. Após o casamento e já morando na mansão do marido, ela vai gradativamente descobrindo surpreendentes segredos sobre o passado dele.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Hud (1963)[/B]</title>
+<link>https://archive.org/download/hud-1963/Hud%20%281963%29.mp4</link>
+<thumbnail>https://i.ibb.co/1QjDfYj/p1927-v-v11-aj.jpg</thumbnail>
+<fanart>https://i.ibb.co/gRwVF26/download.jpg</fanart>
+<info>Hud Bannon (Paul Newman) é um jovem implacável que mancha tudo e todos os que ele toca. Hud representa a encarnação perfeita da juventude alienada, pronto para brigar sem levar em conta as consequências. Há um amargo conflito entre o insensível Hud e seu severo e cheio de princípios pai, Homer. Lon, seu sobrinho (Brandon De Wilde), admira os truques e trapaças de Hud, embora logo se perceba que a amoralidade imprudente de Hud não o sustentaria. No mundo dos ganhadores e perdedores Hud é um vencedor. Ele é um trapaceiro, mas, ele explica: "Eu sempre digo que a lei deveria ser interpretada de maneira indulgente".</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Intruder (1962)[/B]</title>
+<link>https://archive.org/download/the-intruder-1962/The%20Intruder%20%281962%29.mp4</link>
+<thumbnail>https://i.ibb.co/8xr817K/MV5-BOWU5-NGNk-NTEt-NTBi-Ni00-Yj-Zj-LThm-Ym-Mt-MWVl-N2-Nm-YWU3-OTMz-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc5-Nj-Ez.jpg</thumbnail>
+<fanart>https://i.ibb.co/mN9g4sv/download-3.jpg</fanart>
+<info>Um carismático "reformador social" reúne a população branca de uma cidade do sul para se opor à integração escolar, mas logo se vê em uma situação que não pode controlar.</info></item>
 
 <item><title>[B]He Who Gets Slapped (1924)[/B]</title>
 <link>https://archive.org/download/he-who-gets-slapped-1924_202006/He%20Who%20Gets%20Slapped%20%281924%29.mp4</link>

@@ -47,6 +47,30 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Tillie's Punctured Romance (1914)[/B]</title>
+<link>https://archive.org/download/tillies-punctured-romance-1914/Tillie%27s%20Punctured%20Romance%20%281914%29.mp4</link>
+<thumbnail>https://i.ibb.co/LzGkkRs/MV5-BMDZj-OWQ4-NWMt-OTA1-Yy00-Zjli-LTk2-ZWQt-Ym-I3-ZDg2-OTA5-MTVk-Xk-Ey-Xk-Fqc-Gde-QXVy-MDgy-Nj-A5-M.jpg</thumbnail>
+<fanart>https://i.ibb.co/cyYDzzx/maxresdefault.jpg</fanart>
+<info>Chaplin interpreta Charlie, um mulherengo que conhece Tillie após ter brigado com sua namorada Mabel. Quando ele vê o pai de Tillie sacando grande quantidade de dinheiro no banco, ele a convence a fugir com ele.Na cidade ele reencontra Mabel e, de comum acordo, eles embebedam Tillie em um restaurante, pegam o dinheiro dela, e fogem juntos. Tillie acaba sendo presa, pois está sem dinheiro para pagar a despesa do restaurante.</info></item>
+
+<item><title>[B]The Front Page (1931)[/B]</title>
+<link>https://archive.org/download/the-front-page-1931/The%20Front%20Page%20%281931%29.mp4</link>
+<thumbnail>https://i.ibb.co/KD18676/The-Front-Page-1931-film-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/wgf5tPL/mqdefault.jpg</fanart>
+<info>Um consagrado e boêmio repórter investigativo decide se casar – e, por conseguinte, abandonar o Jornalismo – justamente quando as conseqüências tragicômicas da condenação à morte por enforcamento de um anarquista levam-no a vivenciar aquele que pode ser o maior furo de sua carreira. Assim sendo, ele se verá mergulhado numa torrente de eventos e personagens que o farão questionar o que é mesmo relevante para sua vida: a bonomia da vida marital ou a sujeira e a correria de sua profissão.</info></item>
+
+<item><title>[B]Sabrina (1954)[/B]</title>
+<link>https://archive.org/download/sabrina-1954/Sabrina%20%281954%29.mp4</link>
+<thumbnail>https://i.ibb.co/0JbNSsN/Sabrina-1954-film-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/sQ122Qp/maxresdefault.jpg</fanart>
+<info>Dois irmãos pertencem à uma poderosa família, sendo um deles (Humphrey Bogart) é um empresário incansável e o outro (William Holden) é um playboy incorrigível. Mas quando a filha do motorista (Audrey Hepburn) retorna de viagem, após passar dois anos em Paris, o playboy se modifica e, como ela sempre foi apaixonada por ele, tudo seria muito fácil de acontecer. Mas se os dois se casarem um poderosa fusão deve ser prejudicada, assim o irmão empresário decide intervir e também acaba se apaixonando por ela.</info></item>
+
 <item><title>[B]The Little Shop Of Horrors (1960)[/B]</title>
 <link>https://archive.org/download/the-little-shop-of-horrors-1960/The%20Little%20Shop%20of%20Horrors%20%281960%29.mp4</link>
 <thumbnail>https://i.ibb.co/pKTkB32/MV5-BNTdm-Mzgw-MTgt-Nz-Q3-Zi00-Y2-Mz-LWI2-Mm-Qt-Zm-Mz-Ym-Iw-OGI0-Yz-Rl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEw-OD.jpg</thumbnail>

@@ -29,17 +29,17 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]And Then There Were None (1945)[/B]</title>
+<link>https://archive.org/download/and-then-there-were-none-1945/And%20Then%20There%20Were%20None%20%281945%29.mp4</link>
+<thumbnail>https://i.ibb.co/D4ZJS7S/MV5-BNDQw-ODU5-OWYt-NDcy-Ni00-MDQ1-LThi-OGMt-ZDkw-NWJi-M2-Y3-MDg0-Xk-Ey-Xk-Fqc-Gde-QXVy-MDI2-NDg0-NQ.jpg</thumbnail>
+<fanart>https://i.ibb.co/0t0SXHR/maxresdefault.jpg</fanart>
+<info>Dez pessoas são convidadas para um fim de semana em um castelo na costa inglesa, por um misterioso senhor. Eles não sabem porque estão lá e no jantar, todos são acusados de assassinato. Indignados e sem saber do que os outros são capazes, tudo fica confuso até que de repente um deles morre misteriosamente, iniciando uma sequência.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Witness For The Prosecution (1957)[/B]</title>
+<link>https://archive.org/download/witness-for-the-prosecution-1957/Witness%20for%20the%20Prosecution%20%281957%29.mp4</link>
+<thumbnail>https://i.ibb.co/D4ZJS7S/MV5-BNDQw-ODU5-OWYt-NDcy-Ni00-MDQ1-LThi-OGMt-ZDkw-NWJi-M2-Y3-MDg0-Xk-Ey-Xk-Fqc-Gde-QXVy-MDI2-NDg0-NQ.jpg</thumbnail>
+<fanart>https://i.ibb.co/SQzQBM4/download-1.jpg</fanart>
+<info>Quando Leonard Vole (Tyrone Power) é preso sob a acusação de ter assassinado uma rica viúva de meia-idade, Sir Wilfrid Robarts (Charles Laughton), um veterano e astuto advogado, concorda em defendê-lo. Sir Wilfrid está se recuperando de um ataque do coração quase fatal e "supostamente" está em uma dieta, que o proíbe de ingerir bebidas alcoólicas e de se envolver em casos complicados. Mas a atração pelas cortes criminais é algo muito forte para ele, especialmente quando o caso é bem difícil. O único álibi de Vole é o testemunho da sua esposa, Christine Vole (Marlene Dietrich), uma mulher fria e calculista. A tarefa de Sir Wilfrid fica praticamente impossível quando Christine Vole concorda em ser testemunha, não da defesa, mas da acusação.</info></item>
 
 <item><title>[B]Les Diaboliques (1955)[/B]</title>
 <link>https://archive.org/download/les-diaboliques-1955/Les%20Diaboliques%20%281955%29.mp4</link>

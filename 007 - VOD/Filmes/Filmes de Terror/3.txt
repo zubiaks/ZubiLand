@@ -83,23 +83,23 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Golem (1920)[/B]</title>
+<link>https://archive.org/download/the-golem-1920/The%20Golem%20%281920%29.mp4</link>
+<thumbnail>https://i.ibb.co/cTpm9P4/MV5-BMTcy-ODkz-NTQ5-OF5-BMl5-Ban-Bn-Xk-Ft-ZTYw-ODA0-NDg5-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/L9rgvC3/DG9.jpg</fanart>
+<info>O Golem, mito de uma lenda judaica, é um ser de barro que ganha vida quando um mago usa a mágica de um antigo livro da Cabala. O monstro de barro, interpretado pelo próprio diretor Paul Wegener, foi criado para proteger os judeus dos ataques antisemitas. Paul Wegener já tinha levado duas vezes o mito do Golem para o cinema. Esta terceira versão é sem dúvida a mais bela, brilhantemente iluminada e fotografada pelo célebre fotógrafo do expressionismo alemão Karl Freund.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Vargtimmen (1968)[/B]</title>
+<link>https://archive.org/download/vargtimmen-1968/Hour%20Of%20The%20Wolf%20%281968%29.mp4</link>
+<thumbnail>https://i.ibb.co/6y1vNrv/Vargtimmen.jpg</thumbnail>
+<fanart>https://i.ibb.co/WWCHQYL/download-4.jpg</fanart>
+<info>Um pintor e sua esposa vão morar em uma ilha afastada de tudo e conhecem um misterioso grupo de pessoas que passam a trazer angústias ainda maiores à vida do casal, que já estava atormentado pelos pesadelos do pintor e por conflitos psicológicos. Durante a hora do lobo, entre a meia-noite e a aurora, ele conta para sua esposa suas memórias mais dolorosas, e começa a questionar a própria lucidez.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Stepford Wives (1975)[/B]</title>
+<link>https://archive.org/download/the-stepford-wives-1975/The%20Stepford%20Wives%20%281975%29.mp4</link>
+<thumbnail>https://i.ibb.co/TP2GHm7/Stepfordwivesposter.jpg</thumbnail>
+<fanart>https://i.ibb.co/tKB2L7F/Stepford-Wives75poster-1.jpg</fanart>
+<info>Joanna Eberhart se muda com o marido Walter e seus filhos para a tranqüila Stepford, localizada em Connecticut. Aos poucos Joanna deduz que algo está errado, pois a maioria das donas de casa são dóceis criaturas que só falam trivialidades e vivem apenas para seus maridos. Com uma amiga, Bobbie Markowe, Joanna investiga este estranho comportamento. Quando Bobbie também passa a ser muito polida, Joanna descobre que os maridos do local estão todos envolvidos em uma estranha conspiração.</info></item>
 
 <item><title>[B]The Haunting (1963)[/B]</title>
 <link>https://archive.org/download/the-haunting-1963/The%20Haunting%20%281963%29.mp4</link>

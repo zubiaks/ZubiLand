@@ -59,11 +59,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Professionals (1966)[/B]</title>
+<link>https://archive.org/download/the-professionals-1966/The%20Professionals%20%281966%29.mp4</link>
+<thumbnail>https://i.ibb.co/MpXLVnq/MV5-BMTY0-OWNi-ZTQt-ZGY4-MS00-Ym-Jl-LTg4-Yz-Et-Mm-E3-YTVk-MDM3-ODRl-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc1-NTYy.jpg</thumbnail>
+<fanart>https://i.ibb.co/pQGYnwj/download.jpg</fanart>
+<info>Em 1917 um rico rancheiro, J.W. Grant (Ralph Bellamy), contrata três mercenários, Henry "Rico" Farden (Lee Marvin), Hans Ehrengard (Robert Ryan) e Jacob Sharp (Woody Strode), para resgatar sua esposa Maria (Claudia Cardinale), que foi ao México e acabou sendo pega por Jesus Raza (Jack Palance) e seu bando. Para esta missão o líder do trio, Rico, decide que seriam um grupo melhor se Grant concordasse em contratar um quarto homem, que fosse especialista em explosivos. Grant rapidamente concorda e logo Bill Dolworth (Burt Lancaster) se junta a eles. Os quatro então partem para o México na esperança de cumprir o contrato, o que fará com que cada um ganhe US$ 10 mil. No entanto algo não faz sentido, pois conhecem Raza e não imaginam ele sequestrando um mulher para receber um resgate de US$ 100 mil em ouro.</info></item>
 
 <item><title>[B]Una Nuvola Di Polvere… Un Grido Di Morte… Arriva Sartana (1970)[/B]</title>
 <link>https://archive.org/download/una-nuvola-di-polvere...-un-grido-di-morte...-arriva-sartana-1970/Una%20Nuvola%20Di%20Polvere%E2%80%A6%20Un%20Grido%20Di%20Morte%E2%80%A6%20Arriva%20Sartana%20%281970%29.mp4</link>
