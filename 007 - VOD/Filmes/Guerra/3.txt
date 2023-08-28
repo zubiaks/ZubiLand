@@ -1,4 +1,58 @@
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]The Cruel Sea (1953)[/B]</title>
+<link>https://archive.org/download/the-cruel-sea-1953/The%20Cruel%20Sea%20%281953%29.mp4</link>
+<thumbnail>https://i.ibb.co/BfKbCnx/MV5-BMTQx-Mz-Q3-ODI1-OF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-Mz-M5-MTM1-Mg-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/Lz5c4nX/MV5-BMDQx-Mj-M3-Ym-Qt-OWU3-NC00-MDE0-LThl-YWUt-Mj-Zl-MTIx-Yj-Jl-YTY4-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Qz-NDI.jpg</fanart>
+<info>Durante a Segunda Guerra Mundial, o Capitão Ericson, depois de ser convocado para o serviço, assume o comando do HMS Compass Rose, uma corveta da classe Flor da marinha britânica, a fim de proteger comboios em mar aberto. O primeiro problema a que o Capitão enfrenta é a falta de experiência da maior parte da sua tripulação, no entanto, graças aos seus esforços e sua capacidade de comando, o navio conseguiu atravessar várias vezes o Oceano Atlântico, sem quaisquer problemas, permitindo com isso que a tripulação e os oficiais ganhem mais experiência e se tornam um grande grupo de Marinheiros. Após três anos de serviço na escolta de comboios, o navio é torpedeado por um submarino Alemão U-boats, que causam a morte da maioria dos membros da tripulação. Depois assume o comando de uma nova unidade, o HMS Saltash Castelo, Capitão Ericson acompanhará o comboios no mar, mas desta vez, enfrenta um novo ataque por um submarino alemão, terão a melhor chance de vingar a sua antiga tripulação.</info></item>
+
+<item><title>[B]Hell And High Water (1954)[/B]</title>
+<link>https://archive.org/download/hell-and-high-water-1954/Hell%20and%20High%20Water%20%281954%29.mp4</link>
+<thumbnail>https://i.ibb.co/d0Tqt1F/MV5-BNDVl-M2-M5-NTkt-OTVi-NC00-ZTA5-LWE3-Yz-At-ZDYx-ZTVi-NTI2-NWE2-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Qz-NDI3.jpg</thumbnail>
+<fanart>https://i.ibb.co/4J84hgz/MV5-BNGYy-Mz-Ez-OGQt-ZDg1-NS00-Mjgw-LWE4-Zm-Et-ODg2-ZTMw-N2-U2-Mj-Vi-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Uy-NDk.jpg</fanart>
+<info>Um cientista e sua equipe rumam ao Ártico em um submarino, em busca de provas de um iminente ataque comunista que poderia culminar na Terceira Guerra Mundial.</info></item>
+
 <item><title>[B]A Guerra De Hart (2002)[/B]</title>
 <link>https://archive.org/download/AGuerraDeHart/A%20Guerra%20de%20Hart.mp4</link>
 <thumbnail>https://i.ibb.co/zJzwPbP/20478936.jpg</thumbnail>
@@ -11,38 +65,8 @@
 <fanart>https://i.ibb.co/3zDMmtK/Cn-NLxwm-XYAAK1c-L.jpg</fanart>
 <info>Carve Her Name with Pride é um filme de drama de guerra britânico de 1958 baseado no livro de mesmo nome de R. J. Minney.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Spy In Black (1939)[/B]</title>
+<link>https://archive.org/download/the-spy-in-black-1939/The%20Spy%20in%20Black%20%281939%29.mp4</link>
+<thumbnail>https://i.ibb.co/tXbYcHQ/51-Nfakaaa-GL-AC-UF894-1000-QL80.jpg</thumbnail>
+<fanart>https://i.ibb.co/cc9rXd8/p4584-v-h10-ac.jpg</fanart>
+<info>Um submarino alemão é enviado para as Ilhas Orkney em 1917 para afundar a frota britânica. Quando um capitão de U-Boat alemão é enviado em uma missão de espionagem ao norte da Escócia durante a Primeira Guerra Mundial, ele encontra mais do que esperava com seu contato, a professora da escola local.</info></item>

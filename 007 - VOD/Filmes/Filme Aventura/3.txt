@@ -41,6 +41,36 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]The Mark Of Zorro (1920)[/B]</title>
+<link>https://archive.org/download/the-mark-of-zorro-1920/The%20Mark%20Of%20Zorro%20%281920%29.mp4</link>
+<thumbnail>https://i.ibb.co/56bz1vp/MV5-BNTli-Mzlm-Ym-Ut-YWRm-Yi00-Yz-Jj-LWEw-ZDct-Zjgx-Mj-Fm-Mm-E4-Zj-Ri-Xk-Ey-Xk-Fqc-Gde-QXVy-MDMx-Mj.jpg</thumbnail>
+<fanart>https://i.ibb.co/gzQ1N1Y/MV5-BOGJh-Zjhh-Y2-Ut-OTVk-MS00-MWUy-LThl-Zj-Yt-OTY5-OTFj-NWYx-Yj-Fi-Xk-Ey-Xk-Fqc-Gde-QXVy-MDMx-Mj-Qw.jpg</fanart>
+<info>Na Califórnia espanhola, o opressor governo colonial é confrontado por uma herói mascarado chamado Zorro - que ninguém sabe se tratar de Don Diego Vega (Douglas Fairbanks). Visto pela população como o único capaz de salvá-los, Zorro deverá lutar contra a tirania do Capitão Ramon. Sem a máscara, a capa e a espada, Don Diego ainda disputa com Ramon o amor da donzela Lolita.</info></item>
+
+<item><title>[B]The Most Dangerous Game (1932)[/B]</title>
+<link>https://archive.org/download/the-most-dangerous-game-1932/The%20Most%20Dangerous%20Game%20%281932%29.mp4</link>
+<thumbnail>https://i.ibb.co/CJsQ3vH/MV5-BNz-U4-Mj-Yx-Mj-I1-N15-BMl5-Ban-Bn-Xk-Ft-ZTgw-Njk1-NTAw-Mj-E-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/yVMkZsH/image-asset.jpg</fanart>
+<info>O Conde Zaroff (Leslie Banks) é um nobre russo insano, que costuma ter humanos como presa quando caça em sua remota ilha. Ele se "abastece" provocando naufrágios, ao alterar as sinalizações que avisam onde estão os perigosos recifes de corais. O único sobrevivente de um destes naufrágios, Robert "Bob" Rainsford (Joel McCrea) é um famoso caçador que, quando descobre como Zaroff se "diverte", se revolta. O conde lhe propõe que os dois cacem os passageiros do próximo navio, mas diante da recusa o nobre decide simultaneamente caçar Bob e Eve Trowbridge (Fay Wray), uma outra hóspede.</info></item>
+
 <item><title>[B]A Lenda Do Tesouro Perdido (2004)[/B]</title>
 <link>https://archive.org/download/a-lenda-do-tesouro-perdido-2004-1080p-dublado/A%20Lenda%20do%20Tesouro%20Perdido%20%282004%29%201080p%20Dublado.mp4</link>
 <thumbnail>https://i.ibb.co/C1PvqQY/20162465.webp</thumbnail>

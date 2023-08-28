@@ -29,6 +29,42 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]El Espíritu de la Colmena (1973)[/B]</title>
+<link>https://archive.org/download/the-spirit-of-the-beehive-1973/The%20Spirit%20of%20the%20Beehive%20%281973%29.mp4</link>
+<thumbnail>https://i.ibb.co/9tH1zHh/El-espairitu-de-la-colmena-174012559-large.jpg</thumbnail>
+<fanart>https://i.ibb.co/Tv5KyrW/5d7814e460e5441ca5be8c81ea2aa42052d9b523cae0d3b083b51a669ee6d675-RI-TTW-SX720-FMjpg.jpg</fanart>
+<info>Numa pequena cidade de Castela, no pós-guerra, em meados dos anos quarenta, Isabel (Isabel Tellería) e Ana (Ana Torrent), duas irmãs de oito e seis anos, respetivamente, assistem ao filme Frankenstein num domingo. A garotinha fica tão impressionada com a visão do filme que continua fazendo perguntas para sua irmã mais velha, que garante que o monstro está vivo e escondido perto da cidade.</info></item>
+
+<item><title>[B]The Sheik (1921)[/B]</title>
+<link>https://archive.org/download/the-sheik-1921/The%20Sheik%20%281921%29.mp4</link>
+<thumbnail>https://i.ibb.co/fCWcrd7/MV5-BMzlm-MWYw-OTIt-ZDQz-OC00-ZDNl-LWEy-N2-Qt-OTM3-Yjg2-ZDMz-Zm-Jl-Xk-Ey-Xk-Fqc-Gde-QXVy-Mzg1-ODEw-N.jpg</thumbnail>
+<fanart>https://i.ibb.co/gRdVZTL/MV5-BNzgz-MDcx-ODMx-NV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Mz-Qy-Nz-M2-Mz-E-V1.jpg</fanart>
+<info>O Sheik Ahmed (Rodolfo Valentino) apaixona-se pela socialite britânica Diana (Agnes Ayres), e a seqüestra, levando-a para sua tenda em um deserto. Desesperada, Diana tenta escapar de suas mãos, mas acaba se envolvendo com este homem perigoso.</info></item>
+
+<item><title>[B]The Son Of The Sheik (1926)[/B]</title>
+<link>https://archive.org/download/the-son-of-the-sheik-1926/The%20Son%20of%20the%20Sheik%20%281926%29.mp4</link>
+<thumbnail>https://i.ibb.co/GJQ9LKs/MV5-BNz-Y0-MWQw-Nj-Qt-Mzg1-YS00-ZWQz-LTlh-MWMt-NTU2-ZTUx-ZDZl-NTRl-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc0-Mz-Mz.jpg</thumbnail>
+<fanart>https://i.ibb.co/tx3cPts/download-1.jpg</fanart>
+<info>Filme seqüência do lendário sucesso de Rudolph Valentino "The Sheik". Neste filme, Valentino interpreta tanto, o Xeique como seu filho Ahmed. Parecido com o pai, o Ahmed é passional, ciumento e facilmente irritadiço. Logo, quando uma dançarina, a quem ele ama, de repente desaparece, Ahmed está seguro que ela abandonou e o traiu. Mas, na verdade, ela foi seqüestrada Ahmed, magoado e amargo, jura vingança, e quando avista a dançarina, a arrebata e a leva para o deserto. Embora ela suplique por liberdade, e tenta explicar o acontecido, ele não a escuta.</info></item>
+
+<item><title>[B]The Seventh Seal (1957)[/B]</title>
+<link>https://archive.org/download/the-seventh-seal-1957/The%20Seventh%20Seal%20%281957%29.mp4</link>
+<thumbnail>https://i.ibb.co/xMsm899/Seventh-Seal-poster.webp</thumbnail>
+<fanart>https://i.ibb.co/mXGDgbG/u2-YXz-Sie-Is-DUZnh-Ppoyt-NJi-Twyt.jpg</fanart>
+<info>Após dez anos, um cavaleiro retorna das Cruzadas e encontra o país devastado pela Peste Negra. Sua fé em Deus é sensivelmente abalada e, enquanto reflete sobre o significado da vida, a Morte surge à sua frente querendo levá-lo, pois chegou sua hora. Objetivando ganhar tempo, convida-a para um jogo de xadrez que decidirá se ele parte com ela ou não. Tudo depende da sua vitória no jogo e a Morte concorda com o desafio, já que não perde nunca.</info></item>
+
 <item><title>[B]Der Blaue Engel (1930)[/B]</title>
 <link>https://archive.org/download/der-blaue-engel-1930/Der%20Blaue%20Engel%20%281930%29.mp4</link>
 <thumbnail>https://i.ibb.co/kBjRKS6/Der-Blaue-Engel-plakat.webp</thumbnail>

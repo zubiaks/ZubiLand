@@ -29,11 +29,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Monolith Monsters (1957)[/B]</title>
+<link>https://archive.org/download/the-monolith-monsters-1957/The%20Monolith%20Monsters%20%281957%29.mp4</link>
+<thumbnail>https://i.ibb.co/1G3pgS7/51g-ZZg-Vt-LQL-AC-UF894-1000-QL80.jpg</thumbnail>
+<fanart>https://i.ibb.co/ByfnXbB/maxresdefault.jpg</fanart>
+<info>The Monolith Monsters é um filme estadunidense, de 1957, em preto e branco, do gênero Ficção Científica, dirigido por John Sherwood, roteirizado por Norman Jolley, Robert M. Fresco e Jack Arnold, música de Irving Gertz, Henry Mancini e Herman Stein.</info></item>
 
 <item><title>[B]It Came From Outer Space (1953)[/B]</title>
 <link>https://archive.org/download/it-came-from-outer-space-1953/It%20Came%20from%20Outer%20Space%20%281953%29.mp4</link>

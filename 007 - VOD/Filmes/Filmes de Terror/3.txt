@@ -107,11 +107,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Eraserhead (1977)[/B]</title>
+<link>https://archive.org/download/eraserhead-1977/Eraserhead%20%281977%29.mp4</link>
+<thumbnail>https://i.ibb.co/zGcm7h0/MV5-BMDEx-Yzg5-Yj-Qt-Mz-E0-Yy00-OWJj-LThi-ZTct-MWI5-Mzhj-M2-Rm-Nj-A4-L2lt-YWdl-Xk-Ey-Xk-Fqc-Gde-QXVy.jpg</thumbnail>
+<fanart>https://i.ibb.co/RYtKp9T/download.jpg</fanart>
+<info>Ao chegar em casa Henry é avisado por sua vizinha de que foi chamado para um jantar na casa de sua ex namorada. Após uma refeição bizarra com uma família ainda mais estranha Henry é informado que sua ex engravidou dele e teve o filho com poucas semanas de gestação; ele é então obrigado a casar-se e levar a mulher e a criança para viverem em seu apartamento.</info></item>
 
 <item><title>[B]Suspiria (1977)[/B]</title>
 <link>https://archive.org/download/suspiria-1977/Suspiria%20%281977%29.mp4$nome= 1</link>

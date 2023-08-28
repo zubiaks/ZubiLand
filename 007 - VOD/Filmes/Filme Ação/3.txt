@@ -29,6 +29,42 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Beneath The 12 Mile Reef (1953)[/B]</title>
+<link>https://archive.org/download/beneath-the-12-mile-reef-1953_202005/Beneath%20the%2012-Mile%20Reef%20%281953%29.mp4</link>
+<thumbnail>https://i.ibb.co/vwGVjcH/6adbaede4bfe26e9fb26115bba41995bd9a9756e798be7b6a0dd5fe6a21dccb2-RI-TTW.jpg</thumbnail>
+<fanart>https://i.ibb.co/gFn0LGk/MV5-BMz-Y3-Zj-Qy-ZDEt-Mz-Ex-Zi00-Yz-My-LTg0-Mj-It-NTYw-N2-Fm-Mz-Iw-Yz-Nl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTcy.jpg</fanart>
+<info>Mergulhador grego, que sobrevive da pesca de esponjas, decide explorar a região dominada pelos ingleses, provocando a ira dos pescadores do local. A situação se complica quando ele se apaixona pela filha de um de seus adversários.</info></item>
+
+<item><title>[B]Blood On The Sun (1945)[/B]</title>
+<link>https://archive.org/download/blood-on-the-sun-1945/Blood%20on%20the%20Sun%20%281945%29.mp4</link>
+<thumbnail>https://i.ibb.co/P9XWCQZ/MV5-BZTdh-NGQ2-Yz-Qt-Nm-Nj-NC00-NDAz-LTlk-ZWMt-ODQ3-Y2-M3-MDhi-MWU2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMx-MTY0.jpg</thumbnail>
+<fanart>https://i.ibb.co/K2wqcGc/maxresdefault.jpg</fanart>
+<info>Nick Condon, jornalista americano em Tóquio, publica um violento artigo sobre a política expansionista japonesa revelando a existência do "plano Tanaka", um projecto desenvolvido por um grupo de militares sob as ordens do coronel Tojo, visando estabelecer a hegemonia do Japão sobre o Extremo Oriente.</info></item>
+
 <item><title>[B]Seven Samurai (1954)[/B]</title>
 <link>https://archive.org/download/sevensamurai1954_201912/Seven%20Samurai%20%281954%29.mp4</link>
 <thumbnail>https://i.ibb.co/q59N3kk/download-2.jpg</thumbnail>

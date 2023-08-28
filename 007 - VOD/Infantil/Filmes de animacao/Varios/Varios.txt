@@ -86,11 +86,12 @@
 <fanart>https://i.ibb.co/c2gGHv7/maxresdefault-1.jpg</fanart>
 <info>Max, um cão da raça terrier, precisa aprender a conviver com Duke, o novo cão do seu dono. Os dois acabam na carrocinha e agora, juntos nas ruas de Nova York, conhecem um adorável coelho branco, líder de um exército de animais abandonados.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Boy and the World (2013)[/B]</title>
+<link>https://archive.org/download/the.-boy.and.the.-world.-o.-menino.e.o.-mundo.-2013.-webrip.x-264.-hori-zon-art-subs/The.Boy.and.the.World.%5BO.Menino.e.o.Mundo%5D.2013.WEBRip.x264.HORiZON-ArtSubs.mp4$nome= 1</link>
+<link>https://archive.org/download/the.-boy.and.the.-world.-o.-menino.e.o.-mundo.-2013.-webrip.x-264.-hori-zon-art-subs/The.Boy.and.the.World.%5BO.Menino.e.o.Mundo%5D.2013.WEBRip.x264.HORiZON-ArtSubs.mkv$nome= 2</link>
+<thumbnail>https://i.ibb.co/2tKZfKn/p10225007-p-v8-ae.jpg</thumbnail>
+<fanart>https://i.ibb.co/9VZNYXR/boy-and-the-world-the1.jpg</fanart>
+<info>Um garotinho parte em uma busca aventureira em busca de seu pai.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>

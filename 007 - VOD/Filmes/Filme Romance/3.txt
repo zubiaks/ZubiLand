@@ -29,6 +29,30 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Les Enfants Du Paradis (1945)[/B]</title>
+<link>https://archive.org/download/les-enfants-du-paradis-1945/Les%20Enfants%20du%20Paradis%20%281945%29.mp4</link>
+<thumbnail>https://i.ibb.co/ws5jb4G/MV5-BZj-Vj-YTAz-Yjct-ZTZk-Ni00-Nm-Nh-LWJk-Y2-Ut-Nj-Ey-OWQ5-NTI0-Mm-Ez-Xk-Ey-Xk-Fqc-Gde-QXVy-NDE5-MTU.jpg</thumbnail>
+<fanart>https://i.ibb.co/QJRhYsK/Childrenofparadise.png</fanart>
+<info>Paris, 1828. No meio da multidão do Boulevard do Crime, encontram-se atores e malabaristas. Aqui começa o amor frustrado de Garance com o mímico Baptiste Deburau. Apaixonado, ele não consegue se declarar, pois o espírito livre da mulher o intimida. Ao mesmo tempo, a filha do diretor do teatro, Nathalie, nutre um amor secreto pelo mímico e o jovem ator Frédérick Lemaître começa um relacionamento com Garance, que também ama Baptiste em segredo.</info></item>
+
+<item><title>[B]O Último Chá Do General Yen (1932)[/B]</title>
+<link>https://archive.org/download/o-ultimo-cha-do-general-yen-1932/O%20%C3%9Altimo%20Ch%C3%A1%20Do%20General%20Yen%20%281932%29.ia.mp4</link>
+<thumbnail>https://i.ibb.co/vH52g4Q/download-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/D1kT9Tz/The-Bitter-Tea-of-General-Yen-1933-poster.jpg</fanart>
+<info>Um senhor da guerra chinês e um missionário cristão engajado se apaixonam.</info></item>
+
+<item><title>[B]She Done Him Wrong (1933)[/B]</title>
+<link>https://archive.org/download/she-done-him-wrong-1933/She%20Done%20Him%20Wrong%20%281933%29.mp4</link>
+<thumbnail>https://i.ibb.co/jwKbXjD/p5505-p-v8-ac.jpg</thumbnail>
+<fanart>https://i.ibb.co/JRBKnnr/MV5-BMTUz-NDE1-NTU3-OV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Nj-Q3-Njc5-MDI-V1.jpg</fanart>
+<info>Lou (Mae West) é cantora e dona de um cabaré em Nova York que mora no andar de cima do seu estabelecimento cercada de criados e de uma enorme coleção de diamantes. Ela costuma se envolver com homens criminosos dos arredores, e acaba sendo perseguida por dois empresários, ao mesmo tempo em que seu noivo sai da prisão. Ele sai da cadeia e espera reencontrar sua amada, só que ele não sabe que Lou não vem sendo o que se pode chamar de fiel.</info></item>
+
 <item><title>[B]The Lady Vanishes (1938)[/B]</title>
 <link>https://archive.org/download/the-lady-vanishes-1938/The%20Lady%20Vanishes%20%281938%29.mp4$nome= 1</link>
 <link>https://archive.org/download/the-lady-vanishes-1938/The%20Lady%20Vanishes%20%281938%29.m4v$nome= 2</link>

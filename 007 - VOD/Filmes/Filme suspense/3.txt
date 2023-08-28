@@ -47,11 +47,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]prova de vida (2000)[/B]</title>
+<link>https://archive.org/download/provadevida/IMG_3228.mp4</link>
+<thumbnail>https://i.ibb.co/y5wxzgW/f911563abae2e416c0e96c626341a99cba9e3510f50cb9c35b320cac6f7245cf-RI-TTW.jpg</thumbnail>
+<fanart>https://i.ibb.co/QK2yZdN/15426-34430-28889.webp</fanart>
+<info>Neste drama romântico, Peter Bowman é um engenheiro americano que está um em país latino-americano e é capturado por forças anti-governamentais. Quando os rebeldes descobrem sua identidade, eles exigem 6 milhões de dólares como recompensa. No entanto, o seu patrão nos Estados Unidos não irá fornecer o resgate. A mulher de Pedro, Alice, é forçada a lidar com o problema por conta própria e contrata os serviços do negociador Terry Thorne.</info></item>
 
 <item><title>[B]Scream Of Fear (1961)[/B]</title>
 <link>https://archive.org/download/scream-of-fear-1961/Scream%20of%20Fear%20%281961%29.mp4</link>

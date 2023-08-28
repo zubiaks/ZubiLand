@@ -47,17 +47,17 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Little Shop Of Horrors (1960)[/B]</title>
+<link>https://archive.org/download/the-little-shop-of-horrors-1960/The%20Little%20Shop%20of%20Horrors%20%281960%29.mp4</link>
+<thumbnail>https://i.ibb.co/pKTkB32/MV5-BNTdm-Mzgw-MTgt-Nz-Q3-Zi00-Y2-Mz-LWI2-Mm-Qt-Zm-Mz-Ym-Iw-OGI0-Yz-Rl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEw-OD.jpg</thumbnail>
+<fanart>https://i.ibb.co/MfZQ5NL/download-2.jpg</fanart>
+<info>Uma das primeiras comédias de humor negro já feitas e tornou-se um clássico do cinema. O filme conta a história de Seymour Krelboin (Jonathan Haze) que trabalha numa floricultura nos arredores de Skid Row e que está apaixonado por sua colega de serviço, Audrey (Jackie Joseph). Seymour adquire uma nova planta e dá a ela o nome de Audrey II, depois do amor de sua vida. Só que a planta precisa de carne e sangue humano para sobreviver, levando o desesperado Seymour a uma frenética busca para lhe encontrar comida.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]admiradora secreta (1985)[/B]</title>
+<link>https://archive.org/download/admiradorasecreta/IMG_3229.mp4</link>
+<thumbnail>https://i.ibb.co/nbTHW5M/19961371.webp</thumbnail>
+<fanart>https://i.ibb.co/xCbRS2j/maxresdefault.jpg</fanart>
+<info>Michael Ryan (C. Thomas Howell) é apaixonado por Deborah Ann (Kelly Preston) desde que se entende por gente, e não percebe que sua melhor amiga, Toni Williams (Lori Loughlin), nutre um amor secreto por ele. Michael escreve uma carta anônima a Deborah Ann, e os dois logo começam um relacionamento, enquanto Toni, enciumada, observa tudo de longe. A carta é encontrada pelos pais de Deborah Ann, levantando entre os vizinhos suspeitas e acusações de promiscuidade.</info></item>
 
 <item><title>[B]Ordinário, Marche! (1941)[/B]</title>
 <link>https://archive.org/download/ordinariomarche1941dvdripdublado/Ordin%C3%A1rio%2C%20Marche%21%20%281941%29%20DVDRip%20Dublado.mp4$nome= MP4</link>
