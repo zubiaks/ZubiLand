@@ -53,11 +53,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Day Of The Outlaw (1959)[/B]</title>
+<link>https://archive.org/download/day-of-the-outlaw-1959/Day%20of%20the%20Outlaw%20%281959%29.mp4</link>
+<thumbnail>https://i.ibb.co/Dtdd5f0/MV5-BY2-Q1-Yzdl-Zj-Qt-Mz-Ex-ZS00-Mj-Rh-LWIw-MGMt-YWU4-Nzc0-OWM1-NDdj-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc1-NTYy.jpg</thumbnail>
+<fanart>https://i.ibb.co/dk6XSkK/MV5-BMj-Rm-Njcy-N2-Mt-NTcy-Ni00-MGZm-LWE0-MDMt-Mj-Rj-YTY4-OTFj-Nj-Zj-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-Q1-Njg.jpg</fanart>
+<info>Fugindo com o saque de um assalto milionário, o implacável Jack Bruhn e seu bando de renegados dominam um remoto povoado do Oeste que está ilhado pela nevasca. Entre os moradores tomados como reféns está o rancheiro Blaise Starrett, que resolve usar de astúcia para enfrentar o bando de assassinos e salvar a cidade - e a mulher que ama.</info></item>
 
 <item><title>[B]The Professionals (1966)[/B]</title>
 <link>https://archive.org/download/the-professionals-1966/The%20Professionals%20%281966%29.mp4</link>

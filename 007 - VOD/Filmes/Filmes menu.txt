@@ -132,10 +132,10 @@
 <fanart>https://i.ibb.co/MnnhxzH/winter-war-robot-soldiers-fan-art-hd-wallpaper-preview.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Curtas[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/JRVZjzv/Formato-A3-com-novos-logos-scaled.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/Curtas/3.txt</externallink>
+<fanart>https://i.ibb.co/3TDRqZ7/images.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>

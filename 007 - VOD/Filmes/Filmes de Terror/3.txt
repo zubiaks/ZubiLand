@@ -59,17 +59,17 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Matka Joanna Od Aniolow (1961)[/B]</title>
+<link>https://archive.org/download/matka-joanna-od-aniolow-1961/Matka%20Joanna%20od%20aniolow%20%281961%29.mp4</link>
+<thumbnail>https://i.ibb.co/SB6fF05/Mother-Joan-of-the-Angels-Film-Poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/4s5n1kN/MV5-BOTQx-Njhk-YTEt-Mz-Ew-Mi00-Nzky-LTk5-Zj-Yt-Yzg5-Zj-Yy-Nj-M1-NDVk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA2-ODMz.jpg</fanart>
+<info>Passado no século XVII. Um convento numa pequena cidade está a ser visitado por altos oficiais católicos que tentam exorcizar a freira supostamente possuída por demônios. Um sacerdote foi queimado por se ter deixado tentar pelas freiras, principalmente a Madre Superiora que traz a histeria colectiva ao grupo. Entretanto chega ao local um jovem sacerdote que vem ajudar no exorcismo. O seu primeiro encontro com a líder do Convento, a Madre Joana dos Anjos, deixa-lhe marcas, e demonstra que não vai ser uma trabalho fácil...</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Lady In A Cage (1964)[/B]</title>
+<link>https://archive.org/download/lady-in-a-cage-1964/Lady%20in%20a%20Cage%20%281964%29.mp4</link>
+<thumbnail>https://i.ibb.co/FV5gxt2/MV5-BZGM2-ZDQ5-ZTkt-Nm-Rj-OC00-Nm-M0-LTg2-Nz-Ut-MWVm-Mz-Nm-ZDE3-NDll-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-I4-Mj.jpg</thumbnail>
+<fanart>https://i.ibb.co/Xy3xwjh/download-1.jpg</fanart>
+<info>Sozinha em um quente final de semana, uma viúva (de Havilland) fica acidentalmente presa no elevador de onde mora, por falta de energia. Seu mundo meticuloso e bem-organizado se encrenca assim como o elevador, parado a quase três metros de altura, tornando-se uma câmara de tortura claustrofóbica, uma verdadeira jaula. Sem poder escapar, a situação fica desesperadora, quando a campainha de emergência atrai a atenção de um vagabundo bêbado(Jeff Corey), uma prostituta (Ann Sothern) e também de um trio de jovens deliqüentes (chefiado por Caan), que embarcam numa orgia de vandalismo e sádica brutalidade, culminando com a morte.</info></item>
 
 <item><title>[B]Satan's Triangle (1975)[/B]</title>
 <link>https://archive.org/download/satans-triangle-1975/Satan%27s%20Triangle%20%281975%29.mp4</link>

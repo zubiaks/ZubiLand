@@ -41,11 +41,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The 36th Chamber Of Shaolin (1978)[/B]</title>
+<link>https://archive.org/download/the-36th-chamber-of-shaolin-1978/The%2036th%20Chamber%20Of%20Shaolin%20%281978%29.mp4</link>
+<thumbnail>https://i.ibb.co/Y2j8rVH/MV5-BYj-Yy-NDc2-OTYt-N2-Q0-Mi00-M2-M3-LWE0-Y2-Ut-YWY0-ODBl-YWZk-NTFm-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc5-Nj-E.jpg</thumbnail>
+<fanart>https://i.ibb.co/92sHpY5/download.jpg</fanart>
+<info>Os inimigos da disnatia Ching, liderados por Ho Kuang-Han, estão secretamente intalados em Canton, disfarçados de mestres de artes-marciais.Durante um brutal ataque da dinastia Manchu,Lui consegue escapar e se concentrar em aprender artes-marciais buscando vingança.Em pouco tempo ele aprende mortais técnicos de golpes com seus punhos, pés e armas diversas (espadas, lanças e bastões).Com seu treinamento completo, Lui parte para a vingança contra a dinastia Manchu.</info></item>
 
 <item><title>[B]The Last Of The Mohicans (1920)[/B]</title>
 <link>https://archive.org/download/the-last-of-the-mohicans-1920/The%20Last%20of%20the%20Mohicans%20%281920%29.mp4</link>

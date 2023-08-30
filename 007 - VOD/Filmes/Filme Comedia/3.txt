@@ -41,6 +41,42 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Henry Fool (1997)[/B]</title>
+<link>https://archive.org/download/henry-fool-1997/Henry%20Fool%20%281997%29.mp4</link>
+<thumbnail>https://i.ibb.co/M1YFmXz/MV5-BYz-U2-Zj-U3-Yzkt-Nz-Mz-Ny00-MWE0-LThi-Zj-Mt-Mm-My-Ym-Ex-Nzdl-M2-E3-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Uz.jpg</thumbnail>
+<fanart>https://i.ibb.co/VMFvmgF/MV5-BMDM3-Mz-E1-OTQt-NThi-ZC00-ZDg3-LWE5-YTQt-ZDcx-Zm-Ri-Zj-Yx-Yj-I0-Xk-Ey-Xk-Fqc-Gde-QXVy-NTI2-ODA2.jpg</fanart>
+<info>Simon Grim (James Urbaniak) é um lixeiro que tem fama de ser retardado mental. Ele vive com sua mãe Mary (Maria Porter) e a irmã Fay (Parker Posey), uma ninfomaníaca. Um dia surge em sua vida Henry Fool (Thomas Jay Ryan), que o incentiva a escrever suas idéias. Fool não tem emprego e está escrevendo suas confissões, as quais diz que irão revolucionar o planeta. Simon escreve polêmicos poemas, que são aclamados por alguns e considerados pornográficos por outros. Já instalado na casa dos Grim, Henry serve de mentor para Simon, ajudando-o também a divulgar o trabalho do pupilo.</info></item>
+
 <item><title>[B]Trust (1990)[/B]</title>
 <link>https://archive.org/download/trust-1990/Trust%20%281990%29.mp4</link>
 <thumbnail>https://i.ibb.co/2qKD1x6/MV5-BNTQx-Mj-M2-Mj-Q0-OF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-Mz-Yz-Mz-Yy-OQ-V1.jpg</thumbnail>

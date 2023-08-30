@@ -41,11 +41,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Rear Window (1954)[/B]</title>
+<link>https://archive.org/download/rear-window-1954_202007/Rear%20Window%20%281954%29.mp4</link>
+<thumbnail>https://i.ibb.co/KWypCzR/MV5-BNGUx-YWM3-M2-Mt-MGM3-Mi00-Zm-Ri-LWE0-NGQt-Zj-E5-ODI2-OTJh-NTU0-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-Mz.jpg</thumbnail>
+<fanart>https://i.ibb.co/sgWXHXg/p8118-v-h8-ag.jpg</fanart>
+<info>Em Greenwich Village, Nova York, L.B. Jeffries (James Stewart), um fotógrafo profissional, está confinado em seu apartamento por ter quebrado a perna enquanto trabalhava. Como não tem muitas opções de lazer, vasculha a vida dos seus vizinhos com um binóculo, quando vê alguns acontecimentos que o fazem suspeitar que um assassinato foi cometido.</info></item>
 
 <item><title>[B]prova de vida (2000)[/B]</title>
 <link>https://archive.org/download/provadevida/IMG_3228.mp4</link>

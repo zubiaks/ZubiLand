@@ -29,6 +29,54 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Crying Freeman (1995)[/B]</title>
+<link>https://archive.org/download/crying-freeman-1995/Crying%20Freeman%20%281995%29.mp4</link>
+<thumbnail>https://i.ibb.co/BZR7P2c/57b40bfd9f33c4de53d1e748eb008281eabe0617159ebfe008604b3a8c188fae-RI-TTW.jpg</thumbnail>
+<fanart>https://i.ibb.co/dbfYMqd/crying-freeman.jpg</fanart>
+<info>Emu, uma reservada e solitária mulher, testemunha um assassinato enquanto pintava nas colinas de São Francisco. Estranhamente, sente-se atraída pelo bonito e misterioso assassino, que apresenta como YO. Ele faz parte do mundo dos Dragões, que nomearam Freeman e recondicionaram sua mente a responder a um sinal hipnótico que o transforma numa máquina assassina. Sabendo que será eliminada por ter testemunhado o crime, Emu espera seu assassino pacificamente, e quando ele surge em sua casa no meio da noite, ela lhe pede um favor: que ele se torne seu amante antes de matá-la.</info></item>
+
+<item><title>[B]Tirez Sur Le Pianiste (1960)[/B]</title>
+<link>https://archive.org/download/tirez-sur-le-pianiste-1960/Tirez%20Sur%20Le%20Pianiste%20%281960%29.mp4</link>
+<thumbnail>https://i.ibb.co/tzGQghG/download-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/zVkKrSz/programme-tirez-sur-le-pianiste-nb-826-489.jpg</fanart>
+<info>Após perder a esposa, o célebre pianista Edouard Saroyan abandona a carreira e passa a tocar em um bar, onde acaba reencontrando um de seus irmãos, que está envolvido com a máfia.</info></item>
+
+<item><title>[B]Simple Men (1992)[/B]</title>
+<link>https://archive.org/download/simple-men-1992_202007/Simple%20Men%20%281992%29.mp4</link>
+<thumbnail>https://i.ibb.co/pdJ8C2W/MV5-BMTU5-MDg2-OTk2-M15-BMl5-Ban-Bn-Xk-Ft-ZTcw-MDY3-NDQy-MQ-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/QjfHh4v/image-w1280.jpg</fanart>
+<info>Bill e Dennis são irmãos muitos diferentes, mas com um simples desejo: encontrar o pai. Enquanto Bill é rebelde e foragido da polícia como o pai, Dennis é tímido e observador. Ambos tem dificuldade com as mulheres: Bill quer odiá-las e Dennis quer descobri-las. Na jornada à procura do pai, encontram os tipos mais estranhos: uma solitária dona de bar, uma jovem epiléptica com um grande segredo, um ex-marido psicótico, um xerife amargurado, uma freira violenta e outros mais estranhos.</info></item>
+
+<item><title>[B]The Lodger: A Story Of The London Fog (1927)[/B]</title>
+<link>https://archive.org/download/the-lodger-a-story-of-the-london-fog-1927/The%20Lodger%3A%20A%20Story%20of%20the%20London%20Fog%20%281927%29.mp4</link>
+<thumbnail>https://i.ibb.co/3frBDjp/41-Mo-EF3-RIi-L-AC-UF894-1000-QL80.jpg</thumbnail>
+<fanart>https://i.ibb.co/rZ8Z4BV/lodger-t.jpg</fanart>
+<info>Um serial killer inicia uma série de assassinatos em Londres, tendo como elemento comum o fato de suas vítimas serem todas mulheres loiras. Um novo hóspede, Jonathan Drew (Ivor Novello) chega ao hotel do casal Bounting (Marie Ault e Arthur Chesney), em Bloomsbury e aluga um quarto. O homem tem estranhos hábitos, como o de sair em noites nevoentas. A filha dos Bounting, Daisy (June), também loira, está noiva de Joe Chandler (Malcolm Keen), um detetive. Quando Joe encontra Jonathan, logo fica enciumado deste flertar com Daisy e o prende, acusando-o de ser o temível Jack, o Estripador.</info></item>
+
+<item><title>[B]Rope (1948)[/B]</title>
+<link>https://archive.org/download/rope-1948/Rope%20%281948%29.mp4</link>
+<thumbnail>https://i.ibb.co/kmVBswR/MV5-BYWFj-MDNl-Yz-It-Y2-Vl-MS00-ZTRk-LWJj-YTEt-Yj-I5-Nm-Fl-MGE3-Mz-Q2-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc1-NTY.jpg</thumbnail>
+<fanart>https://i.ibb.co/BckhqzJ/rope-1948-1108x0-c-default.jpg</fanart>
+<info>Dois amigos (Farley Granger e John Dall) caçadores de aventura estrangulam seu colega de classe e organizam uma festa para a família e amigos da vítima, servindo refeições em uma mesa que na verdade é um baú que guarda o cadáver dele. Quando a conversa do jantar gira em torno do assassinato perfeito, o ex-professor (James Stewart) fica cada vez mais desconfiado que seus alunos converteram suas teorias intelectuais em uma realidade brutal.</info></item>
+
 <item><title>[B]And Then There Were None (1945)[/B]</title>
 <link>https://archive.org/download/and-then-there-were-none-1945/And%20Then%20There%20Were%20None%20%281945%29.mp4</link>
 <thumbnail>https://i.ibb.co/D4ZJS7S/MV5-BNDQw-ODU5-OWYt-NDcy-Ni00-MDQ1-LThi-OGMt-ZDkw-NWJi-M2-Y3-MDg0-Xk-Ey-Xk-Fqc-Gde-QXVy-MDI2-NDg0-NQ.jpg</thumbnail>

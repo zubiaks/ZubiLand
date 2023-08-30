@@ -53,11 +53,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Snake Pit (1948)[/B]</title>
+<link>https://archive.org/download/the-snake-pit-1948/The%20Snake%20Pit%20%281948%29.mp4</link>
+<thumbnail>https://i.ibb.co/PNJspYy/MV5-BNjc5-ODU3-Yz-It-N2-Jm-ZS00-Zm-Y2-LWFm-NGIt-Yz-Bh-Yz-A0-NWI2-Mz-Iw-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Uw-M.jpg</thumbnail>
+<fanart>https://i.ibb.co/xF9BS4p/download.jpg</fanart>
+<info>Uma crônica detalhada da estadia de uma mulher em uma instituição mental. Virginia Cunningham se encontra em um asilo de loucos... E não consegue se lembrar de como chegou lá. Em flashback, seu marido Robert relata seu namoro, casamento e seus sintomas em desenvolvimento. O pessoal do asilo não é demonizado, mas o medo, a ignorância e os preconceitos mantêm a Virgínia em um estado de miséria, enquanto o Dr. Mark Kik luta para encontrar a raiz de seu problema. Mas uma recaída leva Virgínia de volta para a angustiante 'Cova da Serpente' ...</info></item>
 
 <item><title>[B]Les Quatre Cents Coups (1959)[/B]</title>
 <link>https://archive.org/download/les-quatre-cents-coups-1959/005.%20The%20400%20Blows%20%281959%29.mp4</link>

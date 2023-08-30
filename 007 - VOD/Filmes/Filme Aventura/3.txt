@@ -53,6 +53,36 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B]Mysterious Island (1961)[/B]</title>
+<link>https://archive.org/download/mysterious-island-1961_202008/Mysterious%20Island%20%281961%29.mp4</link>
+<thumbnail>https://i.ibb.co/nMyXt50/MV5-BNDky-Njhi-Nm-It-Mm-Yy-Yi00-YWVj-LTk2-Mm-Ut-YTJm-NTE3-ZTM3-M2-Vj-Xk-Ey-Xk-Fqc-Gde-QXVy-Mzg1-ODEw.jpg</thumbnail>
+<fanart>https://i.ibb.co/By4PNMZ/download.jpg</fanart>
+<info>Inspirado no popular romance de Jules Verne, o filme conta a história de um grupo de soldados da guerra civil americana que, após uma desastrosa viagem de balão, acaba indo parar numa ilha do Pacífico, onde se deparam com monstruosos animais e com o famoso capitão Nemo.</info></item>
+
+<item><title>[B]Sinbad And The Eye Of The Tiger (1977)[/B]</title>
+<link>https://archive.org/download/sinbad-and-the-eye-of-the-tiger-1977/Sinbad%20and%20the%20Eye%20of%20the%20Tiger%20%281977%29.mp4</link>
+<thumbnail>https://i.ibb.co/yN8PjmN/MV5-BOTI2-Mz-U4-Nj-M4-NV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-NTkw-Nz-Yz-NTE-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/k1KDgYz/download.jpg</fanart>
+<info>Simbad, corajoso marinheiro e Príncipe de Bagdá, sai em direção a Charnak, com intenção de pedir ao Príncipe Kassim, para se casar com sua irmã, Farah, mas Simbad, descobre que Kassim, está possuído por um feitiço de sua maligna madrasta, Zenobia. Para quebrar a magia, Simbad, tem que sair em uma jornada nunca antes realizada. Esperando por eles nesta perigosa viagem estão uma variedade de bestas que vão além da mais delirante imaginação. Entre as criaturas estão o Minoton, um colosso de bronze; um gigante troglodita; um tigre com dentes de sabre; e um babuíno "quase humano".</info></item>
+
+<item><title>[B]Ben Hur, A Tale Of The Christ (1925)[/B]</title>
+<link>https://archive.org/download/ben-hur-a-tale-of-the-christ-1925/Ben-Hur%20A%20Tale%20of%20the%20Christ%20%281925%29.mp4</link>
+<thumbnail>https://i.ibb.co/qJJZcmZ/Ben-Hur-A-Tale-of-the-Christ.webp</thumbnail>
+<fanart>https://i.ibb.co/HTNhtkF/download-3.jpg</fanart>
+<info>Os amigos de infância Judah Ben-Hur e Messala encontram-se novamente quando adultos. Messala é um oficial romano e Ben-Hur é um israelita conquistado. Um mal-entendido durante um desfile romano faz com que Ben-Hur seja escravizado pelo agora ex-amigo e veja sua família humilhada. Este é apenas o começo da épica jornada de Ben-Hur em busca da vingança.</info></item>
+
+<item><title>[B]Jason And The Argonauts (1963)[/B]</title>
+<link>https://archive.org/download/jason-and-the-argonauts-1963/Jason%20and%20the%20Argonauts%20%281963%29.mp4</link>
+<thumbnail>https://i.ibb.co/5csSNJT/MV5-BOTc1-Mjcy-Nz-E0-NV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Mjk1-ODYz-NTE-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/mXGyL5X/MV5-BOTA2-Mjk1-NTUz-N15-BMl5-Ban-Bn-Xk-Ft-ZTgw-ODg4-Mj-Mx-NTM-V1.jpg</fanart>
+<info>O filme conta a história do lendário herói grego Jasão (Todd Armstrong) que liderou um time de aventureiros em uma perigosa busca pelo lendário velo de ouro.</info></item>
+
+<item><title>[B]Downhill (1927)[/B]</title>
+<link>https://archive.org/download/downhill-1927/Downhill%20%281927%29.mp4</link>
+<thumbnail>https://i.ibb.co/RYh1KBF/Downhill1.jpg</thumbnail>
+<fanart>https://i.ibb.co/HPKZ0ts/downhill-1.jpg</fanart>
+<info>O estudante Roddy Berwick é expulso da escola pública quando assume a culpa por um roubo ocorrido a um amigo. Expulso de casa pelos pais, o rapaz foge para Paris, e sua vida desmorona em uma série de desventuras.</info></item>
+
 <item><title>[B]Ercole Al Centro Della Terra (1961)[/B]</title>
 <link>https://archive.org/download/ercole-al-centro-della-terra-1961/Ercole%20Al%20Centro%20Della%20Terra%20%281961%29.mp4</link>
 <thumbnail>https://i.ibb.co/R7GTpnh/Hercules-at-the-Center-of-the-Earth-761233060-large.jpg</thumbnail>
