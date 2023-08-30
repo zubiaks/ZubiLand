@@ -53,11 +53,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Lie Huo Qing Chun (1982)[/B]</title>
+<link>https://archive.org/download/lie-huo-qing-chun-1982/Lie%20Huo%20Qing%20Chun%20%281982%29.mp4</link>
+<thumbnail>https://i.ibb.co/rdw293q/MV5-BZGZk-Nzkx-Zjgt-Njg0-Yy00-Zj-U5-LTli-OWEt-Nj-Jm-Nm-E2-Mj-M5-ODQ0-Xk-Ey-Xk-Fqc-Gde-QXVy-ODMy-OTYy.jpg</thumbnail>
+<fanart>https://i.ibb.co/8bRJK6P/MV5-BMGFj-M2-E1-Nj-At-NTY2-Ni00-ODNj-LWJh-Y2-Mt-MTVi-ODY5-ZTZk-Nz-Uz-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Uy-NDk.jpg</fanart>
+<info>Um grupo de jovens amantes em Hong Kong, fascinados pelo espírito livre que ocupam seus apáticos dias tentam encontrar um sentido para suas existências e sonham com uma vida em outro lugar. Mas sua realidade infelizmente é um ambiente estático e algo cruel se esconde nas penumbras do passado, que pode ameaçar seus despreocupados planos.</info></item>
 
 <item><title>[B]Kentucky (1938)[/B]</title>
 <link>https://archive.org/download/kentucky-1938/Kentucky%20%281938%29.mp4</link>

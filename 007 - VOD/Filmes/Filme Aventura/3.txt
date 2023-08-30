@@ -41,17 +41,17 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Golden Voyage Of Sinbad (1973)[/B]</title>
+<link>https://archive.org/download/the-golden-voyage-of-sinbad-1973/The%20Golden%20Voyage%20Of%20Sinbad%20%281973%29.mp4</link>
+<thumbnail>https://i.ibb.co/q1QP5tD/MV5-BYz-Uz-YWIw-Mjgt-NGYw-Ni00-MWUw-LThl-NTkt-Mm-E5-Nzc0-MGU4-ZWQx-Xk-Ey-Xk-Fqc-Gde-QXVy-NDUx-Njc5-N.jpg</thumbnail>
+<fanart>https://i.ibb.co/3RVMHrp/download.jpg</fanart>
+<info>Esta é uma espetacular aventura passada nas misteriosas terras antigas, habitadas por incríveis criaturas! Simbad (John Phillip Law) - Príncipe de Bagdá e lendário marinheiro - acha um intrigante mapa e sai em busca da desconhecida ilha de Lemuria, levando a bela escrava Margiana (Caroline Muron) e o Grão Vizir de Marabia. O Príncipe Koura (Tom Baker), um maligno feiticeiro que tenta obter o controle de Marabia com a manipulação de espíritos do mal, segue-os para impedir o sucesso de Simbad. Mas o marinheiro encontra Lemuria a despeito dos terríveis feitiços lançados por Koura em seu caminho. Em Lemuria, Simbad e sua corajosa tripulção lutam contra uma estátua de seis espadas, um centauro de um olho só e um Grifo, fabuloso animal com cabeça de águia e garras de leão. Finalmente Simbad confronta-se a Koura, num duelo de vida e morte!</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]20 Million Miles To Earth (1957)[/B]</title>
+<link>https://archive.org/download/20-million-miles-to-earth-1957_202008/20%20Million%20Miles%20to%20Earth%20%281957%29.mp4</link>
+<thumbnail>https://i.ibb.co/X7K7wtP/MV5-BZDQ5-OGZm-MTUt-Nz-Bh-ZS00-M2-Yz-LTk3-YWEt-MDhj-MWU3-Zj-U0-Mz-Zm-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Qz-NDI.jpg</thumbnail>
+<fanart>https://i.ibb.co/MZw57pN/20-Million-Miles-to-Earth.jpg</fanart>
+<info>Quando uma espaçonave americana cai na costa da Sicília, o time de resgate descobre que a tripulação trouxe consigo uma massa gelatinosa que logo se transforma em uma estranha criatura bípede que rapidamente aumenta de tamanho. Ao atingir sete metros, a criatura invade Roma e antes de ser destruída procura refúgio no Coliseu.</info></item>
 
 <item><title>[B]Mysterious Island (1961)[/B]</title>
 <link>https://archive.org/download/mysterious-island-1961_202008/Mysterious%20Island%20%281961%29.mp4</link>

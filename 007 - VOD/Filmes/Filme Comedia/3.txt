@@ -65,11 +65,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Book Of Life (1998)[/B]</title>
+<link>https://archive.org/download/the-book-of-life-1998/The%20Book%20of%20Life%20%281998%29.mp4</link>
+<thumbnail>https://i.ibb.co/1R8wPcm/MV5-BMj-A2-Mj-Y3-OTE2-MF5-BMl5-Ban-Bn-Xk-Ft-ZTYw-NTM2-Nz-E5-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/x3Zt0FX/MV5-BZjlj-OTE4-NWUt-MGFh-MS00-Mz-Iz-LWI0-Yj-Yt-Mz-Zj-MTNh-MWMx-N2-Nl-Xk-Ey-Xk-Fqc-Gde-QXVy-Njk0-MDA5.jpg</fanart>
+<info>Londres, 31 de dezembro de 1999. Jesus Cristo (Martin Donovan) está de volta à Terra, para iniciar o apocalipse. Juntamente com Madalena (P.J. Harvey), ele pega um notebook onde está o livro da vida, do qual precisa abrir os três selos finais. Porém Jesus está em dúvida se deve realmente seguir a profecia bíblica, já que não gosta da idéia de ter que julgar as pessoas no juízo final.</info></item>
 
 <item><title>[B]Henry Fool (1997)[/B]</title>
 <link>https://archive.org/download/henry-fool-1997/Henry%20Fool%20%281997%29.mp4</link>

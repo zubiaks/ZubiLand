@@ -41,11 +41,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Scarface (1932)[/B]</title>
+<link>https://archive.org/download/scarface-1932/Scarface%20%281932%29.mp4</link>
+<thumbnail>https://i.ibb.co/hFYxcNJ/MV5-BMTg5-NTYy-OTY4-NV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-MTI2-NTY0-MQ-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/1XYxrGf/13b669-6c514d7e76764553adcd011e024e3310-mv2.webp</fanart>
+<info>Big Louis Costillo, o último dos gângters à moda antiga, desaparece, e seu guarda-costas Tony Camonte é levado em custódia. Como o corpo nunca apareceu, a polícia acaba soltando Tony, embora haja grandes suspeitas que Johnny Loro pagou a ele para acabar com Big Louis. Aos poucos, Tony vai montando seu Império, trazendo preocupações a Johnny.</info></item>
 
 <item><title>[B]Crying Freeman (1995)[/B]</title>
 <link>https://archive.org/download/crying-freeman-1995/Crying%20Freeman%20%281995%29.mp4</link>
