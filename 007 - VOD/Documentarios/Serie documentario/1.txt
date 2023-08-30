@@ -36,11 +36,11 @@
 <fanart>https://i.ibb.co/CW0PZFq/3-Face-2x-100-min.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Europa - A Última Batalha[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Documentarios/Serie%20documentario/Europa%20-%20A%20%C3%9Altima%20Batalha/3.txt</thumbnail>
+<externallink>https://i.ibb.co/LNCRm0Z/download.jpg</externallink>
+<fanart>https://i.ibb.co/8cny7b0/DBSZz-A58oiy3fn-ZT3o4-OZRZ6-QXf-J-GLJx-ANm-YFOQMK8.webp</fanart>
+<info>Esta série te levará a uma linha do tempo épica que o transportará de volta no tempo e o conduzirá na jornada pela Revolução Bolchevique, as tentativas comunistas de dominar a Alemanha; hiperinflação durante a República de Weimar, desemprego e miséria generalizados, ascensão de Adolf Hitler ao poder, Primeira e Segunda Guerra Mundial – até o mundo moderno. Apresenta os verdadeiros eventos históricos que levaram a essa catástrofe mundial, conhecida como a segunda guerra mundial, bem como as consequências. Porém, esteja avisado, sua visão de mundo nunca será a mesma. A VERDADE NÃO TEME INVESTIGAÇÃO. Pense por si mesmo, encontre a verdade!</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

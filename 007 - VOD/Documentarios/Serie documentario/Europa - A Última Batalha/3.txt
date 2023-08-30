@@ -1,48 +1,60 @@
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Parte 1[/B]</title>
+<link>https://archive.org/download/europa-a-ultima-batalha/Cap%C3%ADtulo%2001.%20%20Europa%20-%20A%20%C3%9Altima%20Batalha.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A verdade sobre: A estrutura econômica global; as raízes históricas do sionismo e do comunismo e a Revolução Bolchevique e Holodomor. [1:14:58 min.]</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Parte 2[/B]</title>
+<link>https://archive.org/download/europa-a-ultima-batalha/Cap%C3%ADtulo%2002.%20Europa%20-%20A%20%C3%9Altima%20Batalha.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A verdade sobre: A Primeira Guerra Mundial, Declaração de Balfour, Escola de Frankfurt e o Marxismo Cultural (feminismo / degenerescência / correção Política), República de Weimar e a estratégia evolucionária de grupos judaicos. [1:02:26 min]</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Parte 3[/B]</title>
+<link>https://archive.org/download/europa-a-ultima-batalha/Cap%C3%ADtulo%2003.%20Europa%20-%20A%20%C3%9Altima%20Batalha.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A verdade sobre a ascensão de Hitler, o Terceiro Reich, Renascimento Socialista Econômico, Cultural e Espiritual Nacional Hitler vs Rothschild. [39:34 min.]</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Parte 4[/B]</title>
+<link>https://archive.org/download/europa-a-ultima-batalha/Cap%C3%ADtulo%2004.%20Europa%20-%20A%20%C3%9Altima%20Batalha.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Quarta parte conta a verdade sobre: judeia declara guerra; terrorismo anti-alemão e guerra; migração Judaica do Terceiro Reich, Acordo de Transferência e Plano de Madagascar; a solução final; a luta de Hitler pela paz e as ofertas de paz da Alemanha; o início da Segunda Guerra Mundial; infiltração Comunista desenraizada Internacional. [1:48:27 h.]</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Parte 5[/B]</title>
+<link>https://archive.org/download/europa-a-ultima-batalha/Cap%C3%ADtulo%2005.%20Europa%20-%20A%20%C3%9Altima%20Batalha.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A verdade sobre as raízes do globalismo, multiculturalismo e genocídio branco, os planos Kalergi, Kaufman, Morgenthau e Hooton para o genocídio europeu, supremacia Judaica vs Racialismo Alemão, o mito do racismo alemão e os soldados judeus de Hitler. [53:05 min.]</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Parte 6[/B]</title>
+<link>https://archive.org/download/europa-a-ultima-batalha/Cap%C3%ADtulo%2006.%20Europa%20-%20A%20%C3%9Altima%20Batalha.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A VERDADE sobre:   Operação Barbarossa, a libertação da Rússia, Pearl Harbor, fome de Churchill em Bengala, os brutais atentados terroristas nas cidades alemãs e a tempestade em Dresden. [59:41 min.]</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Parte 7[/B]</title>
+<link>https://archive.org/download/europa-a-ultima-batalha/Cap%C3%ADtulo%2007.%20Europa%20-%20A%20%C3%9Altima%20Batalha.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A verdade sobre: O Massacre de Katyn, a violação da Europa, os Campos de extermínio de Eisenhower, o genocídio da Alemanha, os últimos dias do Terceiro Reich e o “Plano A”, terrorismo judaico-sionista de genocídio de 6 milhões de alemães. [01:08:20 h.]</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
+<item><title>[B]Parte 8[/B]</title>
+<link>https://archive.org/download/europa-a-ultima-batalha/Cap%C3%ADtulo%2008.%20Europa%20-%20A%20%C3%9Altima%20Batalha.ia.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A verdade sobre o Holocausto [expulsão vs extermínio], a origem da figura dos “seis milhões”, a propaganda negra aliada, a ficção de atrocidades e a guerra psicológica, os Campos de Trabalho e Internamento, as câmaras de gás, o sabão e os abajures e o Relatório da Cruz Vermelha Internacional e números da população judaica. [02:04:57 h.]</info></item>
+
+<item><title>[B]Parte 9[/B]</title>
+<link>https://archive.org/download/europa-a-ultima-batalha/Cap%C3%ADtulo%2009.%20Europa%20-%20A%20%C3%9Altima%20Batalha.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>A verdade sobre: As consequências da Segunda Guerra Mundial; A destruição da Europa e da civilização ocidental; O Projeto Grande Israel e a Guerra Sionista ao Terror; A Grande Substituição Demográfica e a Invasão da Europa; A Nova Ordem Mundial e o Fim Satânico. [01:55:55 h.]</info></item>
+
+<item><title>[B]Parte 10[/B]</title>
+<link>https://archive.org/download/europa-a-ultima-batalha/Cap%C3%ADtulo%2010.%20Europa%20-%20A%20%C3%9Altima%20Batalha.ia.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>A Revolução Nacionalista e o Despertar; Créditos. [35:26 min.]</info></item>
