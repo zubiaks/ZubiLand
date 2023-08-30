@@ -41,6 +41,36 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Les Quatre Cents Coups (1959)[/B]</title>
+<link>https://archive.org/download/les-quatre-cents-coups-1959/005.%20The%20400%20Blows%20%281959%29.mp4</link>
+<thumbnail>https://i.ibb.co/vsfyVJ3/Les-quatre-cents-coups.jpg</thumbnail>
+<fanart>https://i.ibb.co/2qhf757/0849000.webp</fanart>
+<info>O filme narra a história do jovem parisiense Antoine Doinel, um garoto de 14 anos que se rebela contra o autoritarismo na escola e o desprezo dos pais Gilberte e Julien Doinel. Rejeitado, Doinel passa a faltar as aulas para freqüentar cinemas ou brincar com os amigos, principalmente René. Com o passar do tempo, as censuras o direcionarão, vivenciará descobertas e cometerá delitos em busca de atenção.</info></item>
+
+<item><title>[B]Kozijat Rog (1972)[/B]</title>
+<link>https://archive.org/download/kozijat-rog-1972/Kozijat%20Rog%20%281972%29.mp4</link>
+<thumbnail>https://i.ibb.co/604Z2k7/MV5-BNTAy-ZTM3-Nz-Qt-ZGI2-Yy00-YWMy-LTgw-YTIt-OTcw-Yj-Zj-Zj-Rj-Mjlj-Xk-Ey-Xk-Fqc-Gde-QXVy-Mzg1-OTY0.jpg</thumbnail>
+<fanart>https://i.ibb.co/qjRRBh7/MV5-BZDdj-ODU3-Nzgt-Mj-M2-MS00-ZWVk-LThl-MDAt-OWI3-OWQz-YWQ3-ZThm-Xk-Ey-Xk-Fqc-Gde-QXVy-Mzg1-OTY0-Nj.jpg</fanart>
+<info>Bulgária, século 17. Uma família é violentamente atingida por uma tragédia causada por turcos otomanos invasores. O pai e sua pequena filha são obrigados a fugir para as montanhas, onde ele a educa rigidamente como se fosse um menino. Um afiado chifre de cabra será o instrumento de sua vingança.</info></item>
+
 <item><title>[B]Rebecca (1940)[/B]</title>
 <link>https://archive.org/download/rebecca-1940_202006/Rebecca%20%281940%29.mp4</link>
 <thumbnail>https://i.ibb.co/pWtNW6V/Rebecca-1939-poster.jpg</thumbnail>

@@ -41,17 +41,17 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Trust (1990)[/B]</title>
+<link>https://archive.org/download/trust-1990/Trust%20%281990%29.mp4</link>
+<thumbnail>https://i.ibb.co/2qKD1x6/MV5-BNTQx-Mj-M2-Mj-Q0-OF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-Mz-Yz-Mz-Yy-OQ-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/YNRFc65/MV5-BMm-Uy-ZTNh-Ym-Ut-ZWJm-Ny00-MWMx-LThh-ZTIt-Ym-Yw-NTIx-ZTE4-OGRk-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Yx-OTg2.jpg</fanart>
+<info>Maria (Adrienne Shelly) é uma jovem rebelde e liberada que provoca um enfarte fulminante em seu pai ao lhe contar que está grávida do namorado. Matthew (Martin Donovan) é um engenheiro eletrônico, bastante instável que, literalmente, anda com uma granada de mão no bolso do casaco. Expulsa de casa pela mãe e abandonada pelo namorado, Maria esbarra em Matthew que acabara de perder o emprego. Desta forma, começa um relacionamento complicado, cheio de dúvidas e desconfiança. </info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Unbelievable Truth (1989)[/B]</title>
+<link>https://archive.org/download/the-unbelievable-truth-1989/The%20Unbelievable%20Truth%20%281989%29%201080.mp4</link>
+<thumbnail>https://i.ibb.co/WzKVdXw/p51382-p-v8-aa.jpg</thumbnail>
+<fanart>https://i.ibb.co/1nTDc7k/p51382-v-h10-aa.jpg</fanart>
+<info>Após cumprir pena por assassinato, Josh Hutton (Robert Burke) está de volta à sua cidade natal, onde conhece a deprimida jovem Audry Hugo (Adrienne Shelly). Ninguém lembra exatamente o crime que Josh cometeu, mas todos o encaram com desconfiança, principalmente Vic Hugo (Chris Cooke), pai de Audry e dono da oficina mecânica em que o ex-presidiário agora trabalha.</info></item>
 
 <item><title>[B]Tillie's Punctured Romance (1914)[/B]</title>
 <link>https://archive.org/download/tillies-punctured-romance-1914/Tillie%27s%20Punctured%20Romance%20%281914%29.mp4</link>

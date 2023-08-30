@@ -71,17 +71,17 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Satan's Triangle (1975)[/B]</title>
+<link>https://archive.org/download/satans-triangle-1975/Satan%27s%20Triangle%20%281975%29.mp4</link>
+<thumbnail>https://i.ibb.co/vL8bHFx/MV5-BNTQ3-Nm-Jj-ZGIt-OGQy-NS00-ODll-LTlh-Ym-It-OGZl-MDY2-Mm-Qw-NDhl-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-U0-Nzkw.jpg</thumbnail>
+<fanart>https://i.ibb.co/zRCrj6V/maxresdefault.jpg</fanart>
+<info>Um estranho acontecimento na região do Triângulo das Bermudas mata os tripulantes de um veleiro, deixando apenas uma sobrevivente (Kim Novak). Quando dois homens da guarda costeira americana chegam para investigar o ocorrido, a mulher começa a relatar os acontecimentos macabros que vivenciou. Mal sabem eles que o terror ainda não terminou.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Les Yeux Sans Visage (1960)[/B]</title>
+<link>https://archive.org/download/les-yeux-sans-visage-1960/Les%20Yeux%20Sans%20Visage%20%281960%29.mp4</link>
+<thumbnail>https://i.ibb.co/VH2yW36/p10378-p-v8-aa.jpg</thumbnail>
+<fanart>https://i.ibb.co/f0NnTY2/les-yeux-sans-visage-georges-franju.jpg</fanart>
+<info>Os Olhos Sem Rosto conta a história de um cientista (louco, perceberemos à medida que o filme se desenrola) que deseja realizar uma operação para restituir a pele do rosto de sua filha, Christiane, deformada por um acidente de carro em que ele fora o responsável. Para isso, ele manda raptar jovens moças de olhos claros, para remover o tecido de seus rostos e transplantá-los para o da filha. A filha permanece presa, como uma enferma, usando uma máscara de boneca (uma linda máscara, que dá ao filme e à jovem atriz uma atmosfera cativante de melancolia), esperando o dia em que ficará livre, sem saber que as meninas usadas na operação morrem quando têm a pele de seus rostos retirada.</info></item>
 
 <item><title>[B]The Golem (1920)[/B]</title>
 <link>https://archive.org/download/the-golem-1920/The%20Golem%20%281920%29.mp4</link>

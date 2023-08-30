@@ -35,6 +35,36 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Kentucky (1938)[/B]</title>
+<link>https://archive.org/download/kentucky-1938/Kentucky%20%281938%29.mp4</link>
+<thumbnail>https://i.ibb.co/mFvyvFM/MV5-BMGJi-OGMx-ZDgt-Mj-Bm-ZS00-Nzk0-LThl-Njkt-OGFj-ZDU2-MDYz-OGI5-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc0-Mz-Mz-N.jpg</thumbnail>
+<fanart>https://i.ibb.co/7j2Yfgw/p2411-v-h8-aa.jpg</fanart>
+<info>A trama acontece no mundo das corridas de cavalo e gira em torno de Jack Dillon (Richard Greene) e Sally Goodwin (Loretta Young). O casal de apaixonados precisa lidar com o passado de suas famílias. Um passado de rivalidade que é ferrenhamente mantido por Peter Goodwin (Walter Brennan), tio de Sally.</info></item>
+
 <item><title>[B]Les Enfants Du Paradis (1945)[/B]</title>
 <link>https://archive.org/download/les-enfants-du-paradis-1945/Les%20Enfants%20du%20Paradis%20%281945%29.mp4</link>
 <thumbnail>https://i.ibb.co/ws5jb4G/MV5-BZj-Vj-YTAz-Yjct-ZTZk-Ni00-Nm-Nh-LWJk-Y2-Ut-Nj-Ey-OWQ5-NTI0-Mm-Ez-Xk-Ey-Xk-Fqc-Gde-QXVy-NDE5-MTU.jpg</thumbnail>
