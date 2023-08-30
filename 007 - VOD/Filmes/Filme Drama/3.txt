@@ -47,11 +47,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Ned Rifle (2014)[/B]</title>
+<link>https://archive.org/download/ned-rifle-2014/Ned%20Rifle%20%282014%29.mp4</link>
+<thumbnail>https://i.ibb.co/PrDYgsM/p11650922-p-v8-aa.jpg</thumbnail>
+<fanart>https://i.ibb.co/ryNMGwZ/p11650922-v-h6-aa.jpg</fanart>
+<info>No filme seguimos Ned (Liam Aiken), o filho de Henry e Fay, que planeia matar o pai após este destruir a vida da mãe mas que é distraído por uma sexy mulher (Aubrey Plaza ). O novo filme de Hal Hartley que completa a trilogia iniciada com Henry Fool (1998) e continuada com Fay Grim (2006).</info></item>
 
 <item><title>[B]The Snake Pit (1948)[/B]</title>
 <link>https://archive.org/download/the-snake-pit-1948/The%20Snake%20Pit%20%281948%29.mp4</link>
