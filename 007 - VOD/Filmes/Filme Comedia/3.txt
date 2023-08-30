@@ -59,11 +59,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]No Such Thing (2001)[/B]</title>
+<link>https://archive.org/download/no-such-thing-2001/No%20Such%20Thing%20%282001%29.mp4</link>
+<thumbnail>https://i.ibb.co/FXKJrXv/p29717-p-v10-aa.jpg</thumbnail>
+<fanart>https://i.ibb.co/qJWQ3KC/MV5-BNTM0-NTQ3-ZDUt-Ym-Ix-MC00-NTRj-LTk0-Nz-Ut-YWIw-Zj-Jh-Y2-U5-M2-Zm-Xk-Ey-Xk-Fqc-Gde-QWxia-WFtb250.jpg</fanart>
+<info>Decepcionado com a evolução humana, o Monstro (Robert John Burke) resolve por se refugiar em um lugar isolado e matar a todos que resolvam cruzar seu caminho. É quando uma equipe de reportagem é enviada por uma emissora de televisão para investigá-lo e acaba desaparecendo misteriosamente. Um dos integrantes desta equipe é o noivo de Beatrice (Sarah Polley), que também trabalha na emissora e convence sua chefe a enviá-la para a Islândia, lar do Monstro, a fim de descobrir o que aconteceu.</info></item>
 
 <item><title>[B]The Book Of Life (1998)[/B]</title>
 <link>https://archive.org/download/the-book-of-life-1998/The%20Book%20of%20Life%20%281998%29.mp4</link>

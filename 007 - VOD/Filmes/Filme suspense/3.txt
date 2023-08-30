@@ -23,6 +23,18 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B]Misery (1990)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
@@ -40,6 +52,24 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
+
+<item><title>[B]Misery (1990)[/B]</title>
+<link>https://archive.org/download/misery-1990/Misery%20%281990%29.mp4</link>
+<thumbnail>https://i.ibb.co/RTc1Tm6/Miseryfilm.webp</thumbnail>
+<fanart>https://i.ibb.co/DrTCngw/maxresdefault.jpg</fanart>
+<info>O escritor Paul Sheldon (James Caan) sofre um acidente e acaba sendo salvo por uma enfermeira (Kathy Bates), que é fã de suas obras. Para que ele se recupere ela o leva para sua casa. Durate a sua estadia, a enfermeira descobre, ao ler os textos do próximo livro do escritor, que sua personagem preferida será morta. Isso faz com que ela fique furiosa e Paul, sem poder andar, está vulnerável às possíveis loucuras de sua fã doentia.</info></item>
+
+<item><title>[B]Vertigo (1958)[/B]</title>
+<link>https://archive.org/download/vertigo-1958/Vertigo%20%281958%29.mp4</link>
+<thumbnail>https://i.ibb.co/BVb7DK5/91-Bc-DXh2ld-L-AC-UF894-1000-QL80.jpg</thumbnail>
+<fanart>https://i.ibb.co/vhYvcX3/MBDVERT-EC010.webp</fanart>
+<info>Scottie (James Stewart), um ex-detetive de polícia de São Francisco, se aposenta após um acidente derivado de sua vertigem, durante uma perseguição. Depois de anos afastado, Scott é contratado por Gavin Elster (Tom Helmore) para vigiar sua mulher Madeleine (Kim Novak), que possui tendências suicidas e estranhos episódios de esquecimento. Só que tudo se complica quando a situação se mostra infinitamente mais complexa do que parecia ser à primeira vista.</info></item>
+
+<item><title>[B]Secret Agent (1936)[/B]</title>
+<link>https://archive.org/download/secret-agent-1936/Secret%20Agent%20%281936%29.mp4</link>
+<thumbnail>https://i.ibb.co/xJgjM0X/MV5-BNjc5-ODdk-Mm-Et-Njc4-Mi00-NTRj-LThj-NTAt-OGY5-Mm-U4-Yz-U0-Njg3-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc1-NTYy.jpg</thumbnail>
+<fanart>https://i.ibb.co/bgdJcqt/MV5-BMzkz-Nj-Ez-NDMy-Ml5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Nz-Iz-NTQ1-Mj-E-V1.jpg</fanart>
+<info>Durante a Segunda Guerra, soldado britânico descobre que uma agência do governo forjou sua morte e trocou seu nome. Agora ele será enviado para uma operação especial: viajar para a Suíça e matar um agente alemão. Para levar a cabo a missão, ele é ajudado por uma agente novata e um assassino profissional.</info></item>
 
 <item><title>[B]Rear Window (1954)[/B]</title>
 <link>https://archive.org/download/rear-window-1954_202007/Rear%20Window%20%281954%29.mp4</link>

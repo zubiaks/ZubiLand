@@ -89,11 +89,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Flordelis Basta Uma Palavra Para Mudar (2009)[/B]</title>
+<link>https://archive.org/download/flordelis-basta-uma-palavra-para-mudar-o-filme/Flordelis%20-%20Basta%20Uma%20Palavra%20Para%20Mudar%20-%20O%20FILME%20%28FILME%20COMPLETO%29%20-%20YouTube.mp4</link>
+<thumbnail>https://i.ibb.co/pL6hQbR/MV5-BYTM1-M2-Fh-Mm-Qt-ZGYx-Yy00-Nz-Uy-LTkw-Mz-At-ZDBm-Yjdk-MGNm-Mj-E2-Xk-Ey-Xk-Fqc-Gde-QXVy-NDEy-Nj.jpg</thumbnail>
+<fanart>https://i.ibb.co/fDywtx0/image.webp</fanart>
+<info>Convivendo com a violência numa comunidade carioca, Flordelis se depara com a desesperança das mães dos jovens recrutados pelo crime. A moça encontra na fé evangélica uma forma de resgatá-los da marginalidade.</info></item>
 
 <item><title>[B]O Padre e a Moça (1966)[/B]</title>
 <link>https://archive.org/download/o-padre-e-a-moca-1966/O%20Padre%20e%20a%20Mo%C3%A7a%20%281966%29.mp4</link>

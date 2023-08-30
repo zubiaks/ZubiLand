@@ -23,6 +23,12 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B]The Web (1947)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
@@ -34,6 +40,30 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
+
+<item><title>[B]Cry Of The City (1948)[/B]</title>
+<link>https://archive.org/download/cry-of-the-city-1948_202008/Cry%20of%20the%20City%20%281948%29.mp4</link>
+<thumbnail>https://i.ibb.co/s1rKZpq/MV5-BZTQ1-OWM1-Mj-It-YTE3-NS00-Mjg2-LTg1-Nzkt-N2-My-M2-E1-ZWVi-Yz-Q4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMx-MTY0.jpg</thumbnail>
+<fanart>https://i.ibb.co/qdJK7Bq/MV5-BYz-Rk-Nz-Vj-ZTAt-Mm-Ri-My00-OTY3-LWI0-Yzct-Nm-I5-OWJl-MTcw-Y2-M4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA1-NDM.jpg</fanart>
+<info>Nova York. Os detetives da polícia Collins (Fred Clark) e Candella (Victor Mature) observam um trapaceiro insignificante, Martin Rome (Richard Conte), que matou um policial, receber a extrema unção, pois acabou sendo baleado. No entanto Martin se recupera e planeja enganar Collins e Candella, pois só assim irá escapar do seu destino, que é a pena de morte. Rome recebe duas visitas no hospital: Teena Riconti (Debra Paget), sua namorada e a única mulher que realmente amou, que foi secretamente visitá-lo, e Niles (Berry Kroeger), um advogado corrupto que tenta fazer Rome assinar uma confissão dizendo que participou de um grande roubo de jóias, pois confessando ou não ele irá para a cadeira elétrica e em troca Teena receberia 10 mil dólares para começar a vida em outro lugar. Rome se recusa a assinar e Niles ameaça incriminar Teena como seu cúmplice. Preocupado que Candella, que foi seu amigo de infância, possa encontrar Teena, Rome foge da prisão e vai ao escritório de Niles para aparentemente aceitar a oferta, mas na verdade planeja deixar o país com Teena.</info></item>
+
+<item><title>[B]Somewhere In The Night (1946)[/B]</title>
+<link>https://archive.org/download/somewhere-in-the-night-1946/Somewhere%20In%20The%20Night%20%281946%29.mp4</link>
+<thumbnail>https://i.ibb.co/WG6CSWm/MV5-BNDkz-Yj-Zk-Nz-Et-NGUw-My00-OWUw-LTli-MTct-Zjc0-Mz-Rh-ZWRk-MTI5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTY5-Nzc4.jpg</thumbnail>
+<fanart>https://i.ibb.co/mbKTkCV/MV5-BMDU5-OGY5-ZTMt-MThm-Yy00-Ym-Zm-LWFm-ZTMt-Zm-Vh-ZDM2-YTAz-NGM5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI3-MDk3-M.jpg</fanart>
+<info>Durante a Segunda Guerra Mundial, um soldado é atingido por uma granada que deforma seu rosto e o deixa com amnésia. Algum tempo depois, ele se recupera e descobre que seu nome é George Taylor e ele é dispensado do exército. Ele encontra uma carta escrita por um homem chamado Larry Cravat que seria seu amigo e ele vai para Los Angeles para procurar Larry Cravat para encontrar sua identidade. Ele vai a um banco, um hotel, um banho turco e uma boate seguindo as indicações. Ele é espancado por Hubert, o capanga de Anzelmo que o deixa na porta da frente da cantora Christy Smith, que trabalha em uma boate. George conta sua história para ela e Christy decide ajudá-lo. Ela liga para seu chefe e amigo, Mel Phillips, que agenda um almoço com seu amigo, o tenente da polícia Donald Kendall e Christy. Eles descobrem que Larry Cravat era um investigador particular que de alguma forma recebeu US $ 2.000.000 há três anos da Alemanha de um nazista que foi morto imediatamente. Então George recebe uma dica para ir ao Terminal Dock, onde ele conhece …</info></item>
+
+<item><title>[B]The Web (1947)[/B]</title>
+<link>https://archive.org/download/the-web-1947/The%20Web%20%281947%29.mp4</link>
+<thumbnail>https://i.ibb.co/CwLyysw/MV5-BNWE5-Mj-M5-Nzkt-Yz-Vj-OC00-NWI3-LTk1-Mm-Et-Yz-Mz-YWM5-NDli-MTM2-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc0-Mz-M.jpg</thumbnail>
+<fanart>https://i.ibb.co/THq816d/download.jpg</fanart>
+<info>Um advogado que atua como guarda-costas mata um homem em defesa da vida de seu chefe. Posteriormente, ele acredita que a vítima foi configurada para ser assassinada.</info></item>
+
+<item><title>[B]Jamaica Inn (1939)[/B]</title>
+<link>https://archive.org/download/jamaica-inn-1939/Jamaica%20Inn%20%281939%29.mp4</link>
+<thumbnail>https://i.ibb.co/F7dcNKK/MV5-BY2-U4-OGVh-OGUt-MWQz-YS00-OGMx-LThi-ZGQt-ODUz-NDkx-YTI4-NGZh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMx-MTY0-OT.jpg</thumbnail>
+<fanart>https://i.ibb.co/mbnq90q/hqdefault.jpg</fanart>
+<info>Mary (Maureen O'Hara) é uma jovem que muda-se para a estalagem dos tios, e descobre que lá vive uma gangue de piratas. A partir desse momento ela passa a temer pela sua própria vida.</info></item>
 
 <item><title>[B]Sabotage (1936)[/B]</title>
 <link>https://archive.org/download/sabotage-1936/Sabotage%20%281936%29.mp4</link>
