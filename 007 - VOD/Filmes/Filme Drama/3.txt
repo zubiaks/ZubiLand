@@ -41,11 +41,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Pather Panchali (1955)[/B]</title>
+<link>https://archive.org/download/pather-panchali-1955_202009/Pather%20Panchali%20%281955%29.mp4</link>
+<thumbnail>https://i.ibb.co/4F5yTjx/Pather-Panchali-964622442-mmed.jpg</thumbnail>
+<fanart>https://i.ibb.co/wMKT6SL/download.jpg</fanart>
+<info>No início do século 20, Abul é um menino pertencente a uma pobre família brâmane de um vilarejo na Índia. Seu pai, poeta e sacerdote, é forçado a deixar seus entes queridos em busca de trabalho. Uma das obras-prima do cinema mundial, inédita no Brasil e nas Américas. Este filme foi a estréia espetacular de Satyati Ray. Recuperada a finais dos anos 90, pois um incêndio destruiu os negativos originais, esta é a primeira fita, que deu origem a Trilogia de Apu. Nela se narra a comovente história de uma família de Bengali perseguida pela má sorte. O pai, Harihara, é um sacerdote mundano, curandeiro, sonhador e poeta. Sabajaya, a mãe trabalha para alimentar a uma família, que recebe com alegria e esperança a chegada de um novo filho, Apu.</info></item>
 
 <item><title>[B]Ned Rifle (2014)[/B]</title>
 <link>https://archive.org/download/ned-rifle-2014/Ned%20Rifle%20%282014%29.mp4</link>

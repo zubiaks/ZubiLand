@@ -41,6 +41,42 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B]First Men In The Moon (1964)[/B]</title>
+<link>https://archive.org/download/first-men-in-the-moon-1964_202009/First%20Men%20in%20the%20Moon%20%281964%29.mp4</link>
+<thumbnail>https://i.ibb.co/HXb07tF/MV5-BMTA3-Njg1-Njcz-NTVe-QTJe-QWpw-Z15-Bb-WU4-MDYz-NDkx-NDUx-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/3zr6mkZ/First-Men-In-The-Moon-Poster.webp</fanart>
+<info>Uma tripulação de astronautas composta por americanos, ingleses e russos finalmente chegam à Lua, mas lá irão encontrar algo totalmente diferente do esperado: uma bandeira britânica e uma declaração, datada do século anterior, mencionando a Rainha Vitória. Imediatamente, cientistas passam a buscar quem teria ido para o satélite terrestre antes deles e, com isso, acharão o velho Bedford, cheio de histórias.</info></item>
+
+<item><title>[B]Earth Vs The Flying Saucers (1956)[/B]</title>
+<link>https://archive.org/download/earth-vs-the-flying-saucers-1956_202009/Earth%20vs%20The%20Flying%20Saucers%20%281956%29.mp4</link>
+<thumbnail>https://i.ibb.co/pjNzPr8/Earth-vs-the-Flying-Saucers-DVD.jpg</thumbnail>
+<fanart>https://i.ibb.co/FhtHm8K/download.jpg</fanart>
+<info>O Dr. Russell Marvin (Hugh Marlowe) trabalha para a operação Skyhook, um projeto do governo que envia foguetes ao espaço para testar vôos futuros no espaço. Quando os foguetes começam a desaparecer misteriosamente, o Dr. Marvin começa uma investigação, juntamente com a sua mulher e assistente, Carol (Joan Taylor) e descobre que os foguetes têm sido interceptados por um exército de alienígenas que dão um ultimato a humanidade: lealdade ou morte! Ao passo que os alienígenas começam a atacar cidades, incluindo um inesquecível ataque a Washington, D.C., o Dr. Marvin e sua mulher precisam encontrar uma maneira de parar os invasores antes que seja tarde demais.</info></item>
+
+<item><title>[B]It Came From Beneath The Sea (1955)[/B]</title>
+<link>https://archive.org/download/it-came-from-beneath-the-sea-1955/It%20Came%20From%20Beneath%20The%20Sea%20%281955%29.mp4</link>
+<thumbnail>https://i.ibb.co/pR6YN6x/MV5-BMj-Iw-Mz-I0-NDI2-NV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Nj-U5-Mz-U5-MTE-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/YhMW6Rs/It-Came-From-Beneath-The-Sea-poster.jpg</fanart>
+<info>Um polvo gigante radioativo comete o erro de atacar o submarino do capitão da marinha Pete Mathews fazendo com que o bravo comandante persiga a criatura monstruosa por todo o oceano Pacífico antes que ele ataque outra pessoa. Enquanto os militares correm para criar uma arma que possa penetrar o cérebro do polvo mutante e destruí-lo de uma vez por todas, o monstro acaba descobrindo como sobreviver em terra, causando a maior confusão na ponte Golden Gate e depois no Embarcadouro. Agora os moradores aterrorizados de São Francisco vão ter que lutar por suas vidas.</info></item>
+
+<item><title>[B]The Beast From 20, 000 Fathoms (1953)[/B]</title>
+<link>https://archive.org/download/the-beast-from-20-000-fathoms-1953/The%20Beast%20From%2020%2C000%20Fathoms%20%281953%29.mp4</link>
+<thumbnail>https://i.ibb.co/892Fjqt/The-beast-from-20000-fathoms-poster.webp</thumbnail>
+<fanart>https://i.ibb.co/6Dw5fXK/thebeastfrom20000fathoms1953-68257.jpg</fanart>
+<info>Como resultado de um teste nuclear no Ártico, um carnívoro dinossauro desperta e segue em direção à costa Norte-Americana. Testemunha de sua existência, o desacreditado Professor Tom Nesbitt tenta convencer o paleontólogo Thurgood Elson dos perigos que a criatura pode trazer ao país. Não demorará muito para a criatura surgir em Manhattan...</info></item>
+
+<item><title>[B]This Island Earth (1955)[/B]</title>
+<link>https://archive.org/download/this-island-earth-1955/This%20Island%20Earth%20%281955%29.mp4</link>
+<thumbnail>https://i.ibb.co/PhQzxn0/MV5-BMDIz-YWI3-MWMt-NTQ3-OC00-Y2-Q5-LThj-ODEt-ZTgx-MWMy-NDgw-Nz-Zj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-Mz.jpg</thumbnail>
+<fanart>https://i.ibb.co/qBJmyb4/download-2.jpg</fanart>
+<info>Estranhos fenômenos começam a acontecer com o físico nuclear Cal Meacham. Neste meio tempo Cal aceita trabalhar em um projeto ultra-secreto, entretanto, ele desconfia que algo estranho, de fato, está acontecendo. Lá ele conhece a cientista Ruth Adams e junto dela tenta fugir. Na fuga conhece a pessoa que o contratou, Exeter. Mas a descoberta mais fantástica ainda está por vir, quando ambos ficam sabendo que Exeter, na realidade, é habitante do planeta Metaluna. Exeter quer a ajuda dos cientistas para descobrir uma nova forma de energia para salvar Metaluna dos ataques dos aliens do Planeta Zagon.</info></item>
+
+<item><title>[B]The Day The Earth Stood Still (1951)[/B]</title>
+<link>https://archive.org/download/the-day-the-earth-stood-still-1951/The%20Day%20The%20Earth%20Stood%20Still%20%281951%29.mp4</link>
+<thumbnail>https://i.ibb.co/sqhc7qw/download-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/HGT0gLk/MV5-BZWM5-Nj-Ji-NDkt-OWFk-NC00-NDVh-LTli-ZGQt-ZTRi-Nj-Qx-OGRh-OTEw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTUz-MTg2-O.jpg</fanart>
+<info>O alienígena Klaatu chega à Terra acompanhado pelo seu fiel robô Gort, após viajar 200 milhões de milhas pelo espaço. O objetivo é deixar uma mensagem de paz a todas as lideranças do planeta. Porém, no momento em que desembarca da sua espaçonave em Washington, ele é recebido como uma grande ameaça. Acuado, Klaatu - que tem aparência igual à dos terráqueos - resolve conviver durante algum tempo com uma típica família de classe média, para decidir se vale a pena ou não salvar o nosso planeta.</info></item>
+
 <item><title>[B]Forbidden Planet (1956)[/B]</title>
 <link>https://archive.org/download/forbidden-planet-1956/Forbidden%20Planet%20%281956%29.mp4</link>
 <thumbnail>https://i.ibb.co/dk8NK7K/MV5-BMTg1-Nz-Q5-Mz-U3-Nl5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Njky-OTc5-MTE-V1.jpg</thumbnail>

@@ -29,11 +29,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Mighty Joe Young (1949)[/B]</title>
+<link>https://archive.org/download/mighty-joe-young-1949_202009/Mighty%20Joe%20Young%20%281949%29.mp4</link>
+<thumbnail>https://i.ibb.co/ydr6Jyn/MV5-BYTkw-YTM1-Y2-Qt-MWUw-NC00-YTg5-LWI5-M2-Qt-MGM0-MDM1-Yjcz-NDY5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMx-MTY0-O.jpg</thumbnail>
+<fanart>https://i.ibb.co/7RKjfhV/MV5-BMGM4-MWE4-MGMt-ODQ0-NC00-NDM0-LWFj-Y2-Yt-ZWRm-N2-Ey-NDRk-NDkw-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-U1-Nz-E3.jpg</fanart>
+<info>Um gorila brincalhão e inteligente, e sua melhor amiga, Jill Young, cresceram juntos nas montanhas da África central. Quando a pacífica existência de Joe é abalada por caçadores ilegais, Jill e um zoológo resgatam seu inocente amigo e o transferem para uma área de preservação na Califórnia. Mas a segurança de Joe dura pouco: um implacável caçador faz de tudo para capturá-lo.</info></item>
 
 <item><title>[B]Along with the Gods: The Two Worlds (2017)[/B]</title>
 <link>https://archive.org/download/AWTG2PTBRKyungsooBR/AWTG2_PTBR_KyungsooBR.mp4</link>

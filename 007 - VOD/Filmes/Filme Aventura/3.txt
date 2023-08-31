@@ -41,6 +41,36 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]One Million Years B. C. (1966)[/B]</title>
+<link>https://archive.org/download/one-million-years-b.-c.-1966/One%20Million%20Years%20B.C.%20%281966%29.mp4</link>
+<thumbnail>https://i.ibb.co/LgZJznx/MV5-BM2-E1-N2-Y1-NGUt-Zm-Ez-MS00-ZTc2-LTk0-Mz-At-Mz-Mw-ZDI3-NTQz-Yz-Zk-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-U5-O.jpg</thumbnail>
+<fanart>https://i.ibb.co/ZJFDMx7/7325533-master-1.jpg</fanart>
+<info>Tumak, um homem das cavernas, vive em uma tribo onde a força é fundamental para a sobrevivência. Sem muitos recursos e totalmente desprovidos de sentimentos, utilizam armadilhas e a própria brutalidade para caçar, além de constantemente disputarem a liderança do grupo entre si. Em seu meio, não há espaço para os mais fracos, que são deixados para morrer sem nenhuma piedade. Os laços entre familiares são completamente inexistentes. Em uma noite, após de desentender com o pai, que é o líder da tribo, Tumak é expulso do lugar em que vive e se vê obrigado a vagar sozinho em meio ao desconhecido, enfrentando diversos perigos. Depois de alguns dias andando sem destino, fraco e ferido, o rapaz é resgatado por uma outra tribo totalmente oposta ao seu povo.</info></item>
+
+<item><title>[B]The 3 Worlds Of Gulliver (1960)[/B]</title>
+<link>https://archive.org/download/the-3-worlds-of-gulliver-1960/The%203%20Worlds%20of%20Gulliver%201960.mp4</link>
+<thumbnail>https://i.ibb.co/RgZNY4K/MV5-BMz-M1-Mj-Zh-NDYt-YTc4-ZS00-ZGZi-LThh-Zj-Mt-YWVh-Nz-U2-Mjcw-Mjcx-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-A4-ODc.jpg</thumbnail>
+<fanart>https://i.ibb.co/2t1L7h4/download-1.jpg</fanart>
+<info>Sobrevivente de naufrágio vai parar numa ilha habitada por pessoas minúsculas e depois foge dessa mesma ilha para outra, onde as coisas se invertem, agora ele é minúsculo perante ao povo desta nova ilha. Boa versão do livro de Jonathan Swift, com efeitos visuais do especialista Ray Harryhausen e música do grande Bernard Herrmann.</info></item>
+
+<item><title>[B]The 7th Voyage Of Sinbad (1958)[/B]</title>
+<link>https://archive.org/download/the-7th-voyage-of-sinbad-1958/The%207th%20Voyage%20Of%20Sinbad%20%281958%29.mp4</link>
+<thumbnail>https://i.ibb.co/sy2sSp1/61-PUF-6k0-ML-AC-UF894-1000-QL80.jpg</thumbnail>
+<fanart>https://i.ibb.co/Xj73F68/download.jpg</fanart>
+<info>O lendário Simbad sai em uma perigosa jornada pela misteriosa ilha de Colossus, mas se envolve em problemas quando um diabólico feiticeiro joga um feitiço em sua princesa amada. Para encontrar um meio de salvá-la, Simbad vai enfrentar uma incrível coleção de monstros místicos como o Ciclope devorador de homens, um exército de esqueletos, o Roc, um feroz pássaro de duas cabeças e um dragão que expele fogo.</info></item>
+
 <item><title>[B]The Golden Voyage Of Sinbad (1973)[/B]</title>
 <link>https://archive.org/download/the-golden-voyage-of-sinbad-1973/The%20Golden%20Voyage%20Of%20Sinbad%20%281973%29.mp4</link>
 <thumbnail>https://i.ibb.co/q1QP5tD/MV5-BYz-Uz-YWIw-Mjgt-NGYw-Ni00-MWUw-LThl-NTkt-Mm-E5-Nzc0-MGU4-ZWQx-Xk-Ey-Xk-Fqc-Gde-QXVy-NDUx-Njc5-N.jpg</thumbnail>
