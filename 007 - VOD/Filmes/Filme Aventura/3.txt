@@ -47,11 +47,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]The Valley Of Gwangi (1969)[/B]</title>
+<link>https://archive.org/download/the-valley-of-gwangi-1969/The%20Valley%20of%20Gwangi%20%281969%29.mp4</link>
+<thumbnail>https://i.ibb.co/Bwm6NW2/MV5-BMTgy-MDIx-NTQw-MF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-Nzkx-OTQy-MQ-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/RC085T1/download.jpg</fanart>
+<info>Numa época sem CGI, os efeitos dos monstros eram obtidos pela trabalhosa técnica “stop motion”, que teve no especialista Ray Harryhausen (1920-2013) o grande e eterno mestre. O Vale Proibido (The Valley of Gwangi, 1969), dirigido por James O´Connolly, é um daqueles típicos filmes da nostálgica “Sessão da Tarde” da TV Globo, uma aventura misturando elementos de western, fantasia, horror e ficção científica. A história é ambientada na virada do século 19 para 20, num vale proibido no México, onde dinossauros esquecidos pelo tempo viviam tranquilamente, até que os homens descobrissem essa região perdida e decidissem capturar um tiranossauro para exibição num circo.</info></item>
 
 <item><title>[B]One Million Years B. C. (1966)[/B]</title>
 <link>https://archive.org/download/one-million-years-b.-c.-1966/One%20Million%20Years%20B.C.%20%281966%29.mp4</link>
