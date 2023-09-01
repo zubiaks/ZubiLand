@@ -53,11 +53,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Stormy Weather (1943)[/B]</title>
+<link>https://archive.org/download/stormy-weather-1943/Stormy%20Weather%20%281943%29.mp4</link>
+<thumbnail>https://i.ibb.co/3RfrfNC/download-2.jpg</thumbnail>
+<fanart>https://i.ibb.co/tPVkyWb/Stormy-Weather-Robinson-Horne-and-Calloway.jpg</fanart>
+<info>Em sua casa, Bill conta a seus sobrinhos como começou sua carreira como bailarino. Assim, retorna aos anos nos quais licenciou-se como soldado da banda de seu regimento, no final da Primeira Guerra, de seus trabalhos humildes como garçom, e seus primeiros êxitos em números musicais. Filme integramente interpretado por atores negros, rodado durante a Segunda Guerra. A leve trama serve como uma perfeita armação para integrar luxuosos números musicais, como o do bolo, o número africano com sapateados sobre os tambores com guerreiros zulus; brilha especialmente o último, que dá título ao filme. Há um magnífico sentido de humor, que interveem famosos personagens do mundo do espetáculo interpretando a si mesmos, como Cab Calloway. Foi o último filme de Bill Robinson. Números de sapateados inimagináveis. Obra-prima musical inigualável.</info></item>
 
 <item><title>[B]Some Like It Hot (1959)[/B]</title>
 <link>https://archive.org/download/some-like-it-hot-1959/Some%20Like%20It%20Hot%20%281959%29.mp4</link>

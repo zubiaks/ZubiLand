@@ -35,6 +35,36 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Imitation Of Life (1934)[/B]</title>
+<link>https://archive.org/download/imitation-of-life-1934/Imitation%20of%20Life%20%281934%29.mp4</link>
+<thumbnail>https://i.ibb.co/s5ygDzx/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/PMgdG2G/download-1.jpg</fanart>
+<info>A branca Beatrice e a negra Delilah são duas grandes amigas nos EUA dos anos 30, quando a discriminação racial ainda era um grave problema social. As duas enfrentam o preconceito e os problemas que têm com suas respectivas filhas, principalmente com Peola, filha de cor clara da negra Delilah.</info></item>
+
 <item><title>[B]Stachka (1925)[/B]</title>
 <link>https://archive.org/download/stachka-1925/Stachka%20%281925%29.mp4</link>
 <thumbnail>https://i.ibb.co/GVrBzrn/Strike-1925-original-poster.jpg</thumbnail>
