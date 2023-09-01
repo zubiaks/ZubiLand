@@ -41,6 +41,36 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]October (1928)[/B]</title>
+<link>https://archive.org/download/october-1928/October%20%281928%29.mp4</link>
+<thumbnail>https://i.ibb.co/ynZJNcR/MV5-BOTNm-Nj-Qx-Yjgt-ODNm-Yi00-ZGEz-LTk3-Nm-Yt-NDI2-ZDI0-ZDI5-Yz-Y4-Xk-Ey-Xk-Fqc-Gde-QXVy-Mzg1-ODEw.jpg</thumbnail>
+<fanart>https://i.ibb.co/3zP8jWv/download.jpg</fanart>
+<info>Em tom de documentário, acontecimentos em Petrogrado são encenados desde o fim da monarquia, em fevereiro de 1917, até o fim do governo provisório em novembro do mesmo ano. Lênin volta em abril. Em julho, os contra-revolucionários mandam prendê-lo. Em outubro, os Bolsheviks estão prontos para atacar: os dez dias que abalaram o mundo.</info></item>
+
+<item><title>[B]Battleship Potemkin (1925)[/B]</title>
+<link>https://archive.org/download/battleship-potemkin-1925/Battleship%20Potemkin%20%281925%29.mp4</link>
+<thumbnail>https://i.ibb.co/JnRjg1f/123132.jpg</thumbnail>
+<fanart>https://i.ibb.co/m4smYQK/battleship-potemkin-007.webp</fanart>
+<info>Em 1905, na Rússia czarista, aconteceu um levante que pressagiou a Revolução de 1917. Tudo começou no navio de guerra Potemkin quando os marinheiros estavam cansados de serem maltratados, sendo que até carne estragada lhes era dada com o médico de bordo insistindo que ela era perfeitamente comestível. Alguns marinheiros se recusam em comer esta carne, então os oficiais do navio ordenam a execução deles. A tensão aumenta e, gradativamente, a situação sai cada vez mais do controle. Logo depois dos gatilhos serem apertados Vakulinchuk (Aleksandr Antonov), um marinheiro, grita para os soldados e pede para eles pensarem e decidirem se estão com os oficiais ou com os marinheiros. Os soldados hesitam e então abaixam suas armas. Louco de ódio, um oficial tenta agarrar um dos rifles e provoca uma revolta no navio, na qual o marinheiro é morto. Mas isto seria apenas o início de uma grande tragédia.</info></item>
+
 <item><title>[B]Romola (1924)[/B]</title>
 <link>https://archive.org/download/romola-1924/Romola%20%281924%29.mp4</link>
 <thumbnail>https://i.ibb.co/N2Qs5yV/MV5-BNm-Fj-Nm-Zk-Nz-Yt-Yz-Yx-Zi00-Mm-Fj-LTll-Mz-At-Mj-Ez-ZTgz-MWZl-NGQ4-Xk-Ey-Xk-Fqc-Gde-QXVy-Mzg1-O.jpg</thumbnail>

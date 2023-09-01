@@ -41,11 +41,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Tarzan, The Ape Man (1932)[/B]</title>
+<link>https://archive.org/download/tarzan-the-ape-man-1932/Tarzan%20The%20Ape%20Man%20%281932%29.mp4</link>
+<thumbnail>https://i.ibb.co/S6KTc3Q/MV5-BNTVl-MDAw-MDQt-MTEz-MC00-Yjhl-LWEy-YTct-Nj-Mz-N2-M0-NGI0-MTEw-Xk-Ey-Xk-Fqc-Gde-QXVy-NDE5-MTU2-M.jpg</thumbnail>
+<fanart>https://i.ibb.co/fvBnpqx/download.jpg</fanart>
+<info>James Parker (C. Aubrey Smith) e Harry Holt (Neil Hamilton) encontram-se numa expedição, na África, à procura de um cemitério de elefantes onde pretendem encontrar bastante marfim, o suficiente para se tornarem ricos. A bela e jovem filha de Parker, Jane (Maureen O'Sullivan), chega, de surpresa, ávida para vivenciar o exotismo do Continente Negro, e se junta ao grupo. Harry sente-se atraído pela jovem mas, quando o safári é emboscado por nativos hostis, ela termina sendo sequestrada por Tarzan (Johnny Weissmuller), que a leva para sua casa no alto de uma árvore. Lá, ela se apaixona pelo Homem das Selvas.</info></item>
 
 <item><title>[B]The Valley Of Gwangi (1969)[/B]</title>
 <link>https://archive.org/download/the-valley-of-gwangi-1969/The%20Valley%20of%20Gwangi%20%281969%29.mp4</link>

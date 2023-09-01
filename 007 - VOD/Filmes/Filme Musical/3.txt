@@ -35,6 +35,36 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Some Like It Hot (1959)[/B]</title>
+<link>https://archive.org/download/some-like-it-hot-1959/Some%20Like%20It%20Hot%20%281959%29.mp4</link>
+<thumbnail>https://i.ibb.co/NZ8mY1s/Some-Like-It-Hot-1959-poster.png</thumbnail>
+<fanart>https://i.ibb.co/6DLZXCQ/some-like-it-hot.jpg</fanart>
+<info>Chicago, 1929. Joe (Tony Curtis) e Jerry (Jack Lemmon) são músicos desempregados, que estão desesperados por trabalho. Eles acidentalmente testemunham o Massacre do Dia de São Valentim, assistindo o criminoso Spats Colombo (George Raft) e seu cúmplice aniquilarem Toothpick Charlie (George E. Stone) e sua gangue. Forçados a apressadamente deixarem a cidade, Joe e Jerry pegam o primeiro trabalho que podem arrumar: tocar na banda de garotas da Sweet Sue (Joan Shawlee) e suas Sincopadoras. Em trajes femininos, os dois se juntam ao resto da banda em um trem que vai para Miami, Flórida. Diante desta situação, Joe adota o nome de Josephine e Jerry torna-se Daphne. De repente eles vêem Sugar Kane (Marilyn Monroe), a vocalista da banda de Sweet Sue. Jerry se apaixona na hora, mas Joe o lembra que ele não pode se fazer notar. Porém, após chegarem a Miami, um milionário (Joe E. Brown) se apaixona por Daphne e Joe resolve se fazer passar por um milionário para tentar conquistar Sugar, tudo isto em meio à uma reunião dos Amigos da Ópera Italiana, uma convenção de criminosos que traz à cidade Spats Colombo e sua gangue.</info></item>
+
 <item><title>[B]Mamma Mia (2008)[/B]</title>
 <link>https://archive.org/download/mammamia2008_202007/lucasfirmoup.rf.gd.mp4$nome= 1</link>
 <link>https://archive.org/download/mammamia2008_202007/lucasfirmoup.rf.gd.mkv$nome= MKV</link>

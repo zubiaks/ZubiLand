@@ -35,11 +35,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Stachka (1925)[/B]</title>
+<link>https://archive.org/download/stachka-1925/Stachka%20%281925%29.mp4</link>
+<thumbnail>https://i.ibb.co/GVrBzrn/Strike-1925-original-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/yXyRJYn/0-VAn-F5-Xh7p23-J0sw-M.jpg</fanart>
+<info>Em 1912, durante o governo do Czar, a greve dos operários de uma fábrica é brutalmente reprimida pela polícia. Propaganda do regime soviético ao denunciar as barbáries do governo anterior.</info></item>
 
 <item><title>[B]Pather Panchali (1955)[/B]</title>
 <link>https://archive.org/download/pather-panchali-1955_202009/Pather%20Panchali%20%281955%29.mp4</link>

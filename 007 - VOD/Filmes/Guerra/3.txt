@@ -47,17 +47,17 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]All Quiet On The Western Front (1930)[/B]</title>
+<link>https://archive.org/download/all-quiet-on-the-western-front-1930/All%20Quiet%20on%20the%20Western%20Front%20%281930%29.mp4</link>
+<thumbnail>https://i.ibb.co/djZgz5Y/p593-p-v8-al.jpg</thumbnail>
+<fanart>https://i.ibb.co/rpknYn1/maxresdefault.jpg</fanart>
+<info>Sete estudantes patriotas alemães apresentam-se como voluntários para o serviço militar em plena Primeira Guerra Mundial. Baseado no conto homônimo de Erich Maria Remarque, ''Sem Novidade no Front'' é um filme pacifista, considerado o maior filme anti-guerra de todos os tempos, que mostra a loucura e futilidade da guerra. Mesmo muitos anos após o seu lançamento, continua sendo um tema atual e dominante nos países que sofreram e sofrem com a guerra. Vencedor dos Oscars de melhor filme e direção.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]La Grande Illusion (1937)[/B]</title>
+<link>https://archive.org/download/la-grande-illusion-1937/La%20Grande%20Illusion%20%281937%29.mp4</link>
+<thumbnail>https://i.ibb.co/YTsHvr1/LA-GRANDE-ILLUSION1.jpg</thumbnail>
+<fanart>https://i.ibb.co/TkYSPfL/grand-illusion-750x400.jpg</fanart>
+<info>Durante a Primeira Guerra Mundial, num campo de prisioneiros na fronteira franco-alemã, as dificuldades levam homens antes inimigos a se unirem. Os gestos de solidariedade prevalecem sobre o conceito de nacionalidade e razões políticas. As ligações entre os dois oficiais inimigos parecem mais fortes que as de soldados de um mesmo exército.</info></item>
 
 <item><title>[B]Roma, Città Aperta (1945)[/B]</title>
 <link>https://archive.org/download/roma-citta-aperta-1945/Roma%2C%20Citt%C3%A0%20Aperta%20%281945%29.mp4</link>
