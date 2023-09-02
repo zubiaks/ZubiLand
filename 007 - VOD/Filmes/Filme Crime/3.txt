@@ -59,11 +59,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Anatomy Of A Murder (1959)[/B]</title>
+<link>https://archive.org/download/anatomy-of-a-murder-1959/Anatomy%20Of%20A%20Murder%20%281959%29.mp4</link>
+<thumbnail>https://i.ibb.co/TM5NYwH/Anatomy-of-a-Murder-352019595-large.jpg</thumbnail>
+<fanart>https://i.ibb.co/p3fKZYj/download-2.jpg</fanart>
+<info>No Michigan, Paul Biegler (James Stewart) é um advogado que é auxiliado por um alcoólatra, Parnell McCarthy (Arthur O'Connell). Após ter recusado inicialmente, ele decide aceitar a defesa de Frederick Manion (Ben Gazzara), um tenente do exército acusado de assassinato. O réu alega que a vítima violentou Laura Manion (Lee Remick), sua mulher, mas seu oponente é Claude Dancer (George C. Scott), um conceituado promotor que afirma que a alegação do réu é falsa e que Laura, que tem uma reputação de promíscua, estava realmente tendo um caso com o bartender assassinado, sendo que durante um acesso de cíúme Frederick teria intencionalmente cometido o crime.</info></item>
 
 <item><title>[B]A Soldier's Story (1984)[/B]</title>
 <link>https://archive.org/download/a-soldiers-story-1984/A%20Soldiers%20Story%20%281984%29.mp4</link>

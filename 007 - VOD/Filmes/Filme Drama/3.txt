@@ -47,11 +47,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Ladri Di Biciclette (1948)[/B]</title>
+<link>https://archive.org/download/ladri-di-biciclette-1948/Ladri%20di%20Biciclette%20%281948%29.mp4</link>
+<thumbnail>https://i.ibb.co/1snq0VM/MV5-BNm-I1-ODdj-ODct-MDlm-MC00-ZWVi-LWI5-Mz-Yt-Yz-Rh-NDdj-Ym-M3-Mz-Fj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMx-ODk.jpg</thumbnail>
+<fanart>https://i.ibb.co/FzSxQTz/download-3.jpg</fanart>
+<info>A história se passa logo após a Segunda Grande Guerra, com a Itália destruída e o povo passando necessidade. Ricci (Lamberto Maggiorani) consegue um emprego após muita espera. Só que esse emprego, de colador cartazes na rua, lhe pedia como obrigação uma bicicleta. Ricci e sua mulher Maria (Lianella Carell) conseguem um dinheiro para uma, possibilitando que ele realize o seu trabalho. Há também o menino Bruno (Enzo Staiola), filho do casal. Fascinado por bicicletas, o menino cai de cabeça com o pai na busca pela bicicleta que lhes foi roubada, quando Ricci trabalhava apenas em seu primeiro dia.</info></item>
 
 <item><title>[B]Sounder (1972)[/B]</title>
 <link>https://archive.org/download/sounder-1972/Sounder%20%281972%29.mp4</link>

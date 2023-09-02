@@ -35,6 +35,37 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Reação Em Cadeia (1996)[/B]</title>
+<link>https://archive.org/download/reacao-em-cadeia-xvid-dual-audio-bdrip-1/Rea%C3%A7%C3%A3o%20Em%20Cadeia%20Xvid%20Dual%20%C3%81udio%20Bdrip-1.mp4$nome= 1</link>
+<link>https://archive.org/download/reacao-em-cadeia-xvid-dual-audio-bdrip-1/Rea%C3%A7%C3%A3o%20Em%20Cadeia%20Xvid%20Dual%20%C3%81udio%20Bdrip-1.mkv$nome= 2</link>
+<thumbnail>https://i.ibb.co/JyP2mh8/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/qFqX9vq/download-1.jpg</fanart>
+<info>A descoberta de um combustível potente e não poluente desperta o interesse de criminosos, e a jovem dupla de pesquisadores envolvida no projeto acaba sendo acusada de assassinato e espionagem.</info></item>
+
 <item><title>[B]Blackmail (1929)[/B]</title>
 <link>https://archive.org/download/blackmail-1929/Blackmail%20%281929%29.ia.mp4</link>
 <thumbnail>https://i.ibb.co/z57HkjG/MV5-BOGNh-Mzc3-ZWMt-Mjc5-ZS00-YWM4-LTgz-YTct-Yjgx-OGY5-YTdj-Zj-Yz-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc1-NTYy-Mj.jpg</thumbnail>

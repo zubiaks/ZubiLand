@@ -53,11 +53,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Mystics in Bali (1981)[/B]</title>
+<link>https://archive.org/download/mystics.in.-bali.-1981.-dvdrip.x-264.-eng-ac-3/Mystics.in.Bali.1981.DVDrip.x264.ENG-AC3.ia.mp4</link>
+<thumbnail>https://i.ibb.co/0FnXDnS/MV5-BMj-Az-ODE3-ODA2-MV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-NTY4-OTI4-ODE-V1-FMjpg-UX1000.jpg</thumbnail>
+<fanart>https://i.ibb.co/n7yVkQH/image-w1280.webp</fanart>
+<info>Uma escritora americana, Catherine Kean (Ilona Agathe Bastian), está em Bali (uma ilha localizada na Indonésia) para pesquisar informações sobre a antiga, estranha, misteriosa e poderosa magia negra “leák”, com o objetivo de escrever um livro sobre o assunto . Ela é auxiliada pelo namorado Mahendra (Yos Santo), nativo da região, e consegue um contato noturno e sinistro com uma feiticeira, uma rainha leák (interpretada por Sophia WD quando velha, e por Cinthya Dewi quando jovem).</info></item>
 
 <item><title>[B]Matka Joanna Od Aniolow (1961)[/B]</title>
 <link>https://archive.org/download/matka-joanna-od-aniolow-1961/Matka%20Joanna%20od%20aniolow%20%281961%29.mp4</link>

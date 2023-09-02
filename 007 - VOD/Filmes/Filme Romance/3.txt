@@ -41,11 +41,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Subarashiki Nichiyobi (1947)[/B]</title>
+<link>https://archive.org/download/subarashiki-nichiyobi-1947/Subarashiki%20nichiyobi%20%281947%29.mp4</link>
+<thumbnail>https://i.ibb.co/QDS0DvH/Subarashiki-nichiyobi-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/vsd9J6q/1-b0g-j8-Xi-GPa-ST5-W2-WERTpg.jpg</fanart>
+<info>Logo após a II guerra, um jovem casal de namorados passam um domingo juntos tentando que este seja um doa inesquecível. Cheios de sonhos e ilusões, apesar de ter tudo contra eles, tentam ser felizes. Pese os problemas econômicos e os contratempos vividos, pese as preocupações próprias da era nuclear, as explosões atômicas em Hiroshima e Nagasaki, o amor deles dá a possibilidade de iludirem-se com um futuro melhor.</info></item>
 
 <item><title>[B]Next Time We Love (1936)[/B]</title>
 <link>https://archive.org/download/next-time-we-love-1936/Next%20Time%20We%20Love%20%281936%29.mp4</link>
