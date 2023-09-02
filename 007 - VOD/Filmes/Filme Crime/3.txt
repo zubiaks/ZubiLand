@@ -23,7 +23,13 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]The Web (1947)[/B]</title>
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -40,6 +46,36 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]A Soldier's Story (1984)[/B]</title>
+<link>https://archive.org/download/a-soldiers-story-1984/A%20Soldiers%20Story%20%281984%29.mp4</link>
+<thumbnail>https://i.ibb.co/dGM7ThT/MV5-BMTM4-Nj-Yy-NDEz-NF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-OTIx-NTY0-NA-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/Y49zPgf/download-6.jpg</fanart>
+<info>Davenport (Howard E. Rollins Jr.) é um orgulhoso advogado que está tentando desvendar o assassinato de um sargento negro no fim da Segunda Guerra Mundial. Entrevistando a tropa, ele descobre que o sargento era um homem que renagava as origens. Teria sido o assassino mais um racista ou um negro amargurado com as constantes ofensas? Baseado na peça teatral de Charles Fuller, indicado ao Oscar em três categorias, incluindo Melhor Filme.</info></item>
+
+<item><title>[B]Shaft (1971)[/B]</title>
+<link>https://archive.org/download/shaft-1971/Shaft%20%281971%29.mp4</link>
+<thumbnail>https://i.ibb.co/3yBX66b/MV5-BMGY2-MDFl-MTAt-ODU3-NS00-MDkx-LThi-MTIt-MTBl-MDli-Nm-Mw-OGQx-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-I4-Mj-A5.jpg</thumbnail>
+<fanart>https://i.ibb.co/QNgkY60/download-5.jpg</fanart>
+<info>O detetive negro John Shaft é contratado por um senhor do crime para localizar e recuperar sua filha sequestrada. Seus meios e seu caráter tendem a espalhar terror pelo Harlem durante o trabalho.</info></item>
 
 <item><title>[B]Cry Of The City (1948)[/B]</title>
 <link>https://archive.org/download/cry-of-the-city-1948_202008/Cry%20of%20the%20City%20%281948%29.mp4</link>

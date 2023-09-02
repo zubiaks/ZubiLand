@@ -41,17 +41,17 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Prova D' Orchestra (1978)[/B]</title>
+<link>https://archive.org/download/prova-d-orchestra-1978/Prova%20d%27Orchestra%20%281978%29.mp4</link>
+<thumbnail>https://i.ibb.co/C18Y2rz/Orchestra-Rehearsal-Film-Poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/31HjR37/images.jpg</fanart>
+<info>Numa capela romana, agora um oratório, músico, chegam para um ensaio, Eles são avisados que estão sendo gravados por uma rede de TV. Então o maestro alemão chega, impondo ordem aos gritos. Durante um breve intervalo o maestro concede uma entrevista aos jornalista. Quando volta , encontra sua orquestra em estado de revolta. Será o fim? 0 que os trará de volta à música? Ensaio de orquestra é a homenagem do mestre Federico Fellinni à arte da música, uma das paixões de sua vida. Fundamental tanto para músicos como para cinéfilos, o filme traz a última das muitas trilhas sonoras que o genial Nino Rota compôs para Fellini.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Carmen Jones (1954)[/B]</title>
+<link>https://archive.org/download/carmen-jones-1954/Carmen%20Jones%20%281954%29.mp4</link>
+<thumbnail>https://i.ibb.co/0jdhgXd/MV5-BMTFm-NTc0-NDgt-YTgw-Ni00-MDQw-LWE0-ZGEt-ZWVl-ZDU0-ZDEy-ZWMw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMx-MTY0-OTQ.jpg</thumbnail>
+<fanart>https://i.ibb.co/QJqtynq/AFI20-8720-CARMENJONES-Social-Assets-Announce.jpg</fanart>
+<info>Em uma base militar existem civis que trabalham em esforço de guerra. Carmen Jones (Dorothy Dandridge) é empregada de uma fábrica de pára-quedas, sendo desejada por todos os homens. Ela deseja Joe (Harry Belafonte), que irá brevemente para uma escola de pilotos e, além disto, está comprometido com a virginal Cindy Lou (Olga James). Em virtude de Carmen ter participado de uma briga, Joe recebe a ordem de levá-la ao juiz. Ele protesta por ser sua folga (além disto pretendia se casar naquele dia), mas nada adianta. No caminho é seduzido por Carmen, que foge enquanto ele vai para a prisão por um mês. Neste período Carmen é assediada por um lutador de boxe em ascensão, mas ela decide esperar seu amado. Quando ele reaparece parece que tudo vai entrar nos eixos, mas ele mata seu superior em uma briga e isto os obriga a fugir para Chicago. Entretanto tudo se complica quando o casal começa a ficar sem dinheiro.</info></item>
 
 <item><title>[B]Stormy Weather (1943)[/B]</title>
 <link>https://archive.org/download/stormy-weather-1943/Stormy%20Weather%20%281943%29.mp4</link>

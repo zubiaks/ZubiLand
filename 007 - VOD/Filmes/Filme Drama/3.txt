@@ -53,11 +53,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Sounder (1972)[/B]</title>
+<link>https://archive.org/download/sounder-1972/Sounder%20%281972%29.mp4</link>
+<thumbnail>https://i.ibb.co/4MBt6CJ/download-3.jpg</thumbnail>
+<fanart>https://i.ibb.co/kHpQrZF/download-4.jpg</fanart>
+<info>Em 1933, os Morgans, uma amável e unida família de negros arrendatários que vivem na Louisiana, enfrentam uma crise familiar: o patriarca, Nathan Lee Morgan (Paul Winfield), é condenado por um crime insignificante e vai preso. Depois de um certo tempo, sua esposa envia o filho mais velho, com 11 anos, para visitá-lo. A viagem é como uma odisséia para o garoto, que passa algum tempo com um dedicado professor negro.Indicado á 4 Oscar's 1973(melhor filme, roteiro, atriz e ator)</info></item>
 
 <item><title>[B]Imitation Of Life (1934)[/B]</title>
 <link>https://archive.org/download/imitation-of-life-1934/Imitation%20of%20Life%20%281934%29.mp4</link>
