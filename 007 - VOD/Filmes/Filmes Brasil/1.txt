@@ -83,11 +83,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]São bernardo (1972)[/B]</title>
+<link>https://archive.org/download/s-b-1972/S%20B%201972.ia.mp4</link>
+<thumbnail>https://i.ibb.co/tPQx2wJ/21017634-20130704164645358.webp</thumbnail>
+<fanart>https://i.ibb.co/jTWc3zh/s-1200-1200-675-675-crop-000000.jpg</fanart>
+<info>De origem pobre, Paulo Honório trabalha incansavelmente e consegue se tornar um rico fazendeiro. Sua esposa, Madalena, precisa enfrentá-lo depois que ela se cansa de seus modos tirânicos.</info></item>
 
 <item><title>[B]Flordelis Basta Uma Palavra Para Mudar (2009)[/B]</title>
 <link>https://archive.org/download/flordelis-basta-uma-palavra-para-mudar-o-filme/Flordelis%20-%20Basta%20Uma%20Palavra%20Para%20Mudar%20-%20O%20FILME%20%28FILME%20COMPLETO%29%20-%20YouTube.mp4</link>

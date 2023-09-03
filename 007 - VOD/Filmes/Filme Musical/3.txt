@@ -35,11 +35,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Le Bal ( 1983)[/B]</title>
+<link>https://archive.org/download/filme-le-bal-1983-o-baile/Filme%20-%20Le%20Bal%20%281983%29%20-%20O%20Baile.mp4</link>
+<thumbnail>https://i.ibb.co/MV46KVr/MV5-BZTE0-M2-Fh-Mj-Qt-Ym-M3-Yi00-YTZi-LTk3-Y2-Mt-Yjg1-YThm-ZDRh-Yz-Rl-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Iz-ND.jpg</thumbnail>
+<fanart>https://i.ibb.co/kXpKYbj/image-w1280.webp</fanart>
+<info>Um passeio pelo mundo da dança retratado através de um salão francês, onde pessoas das mais diferentes idades se reúnem para dançar ritmos variados. A história viaja no tempo, indo dos anos 1920 até 1983, com o surgimento da disc music.</info></item>
 
 <item><title>[B]Prova D' Orchestra (1978)[/B]</title>
 <link>https://archive.org/download/prova-d-orchestra-1978/Prova%20d%27Orchestra%20%281978%29.mp4</link>

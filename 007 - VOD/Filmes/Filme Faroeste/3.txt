@@ -53,6 +53,36 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]vera cruz (1954)[/B]</title>
+<link>https://archive.org/download/vera-cruz-vera-cruz/Vera%20Cruz%20%28Vera%20Cruz%29.mp4</link>
+<thumbnail>https://i.ibb.co/rMbpJmv/Vera-Cruz-626791233-large.jpg</thumbnail>
+<fanart>https://i.ibb.co/1GNMdWg/download-2.jpg</fanart>
+<info>Dois mercenários viajam ao México em busca de dinheiro e aventura durante a Guerra Civil Mexicana de 1866. Eles são contratados para escoltar uma carruagem que levava uma nobre. No meio do caminho, descobrem que a carruagem está cheia de ouro e resolvem mudar os planos.</info></item>
+
+<item><title>[B]Ulzana's Raid (1972)[/B]</title>
+<link>https://archive.org/download/ulzanas-raid-1972/Ulzana%27s%20Raid%20%281972%29.mp4</link>
+<thumbnail>https://i.ibb.co/gT0Tcmk/MV5-BNDk4-ZDIz-MGUt-Zm-U5-YS00-Zm-I3-LTll-ZGEt-MTE3-ZGM0-Ym-E0-Zj-A3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTUz-MDUz.jpg</thumbnail>
+<fanart>https://i.ibb.co/GdJj37g/MV5-BMjlh-Njg3-NTYt-OGIy-My00-OTQ3-LWEx-Nj-Mt-ZGRl-YTQ4-M2-Rh-ZTgz-Xk-Ey-Xk-Fqc-Gde-QXVy-OTc5-MDI5-N.jpg</fanart>
+<info>Uma notícia chega à cavalaria americana de que o líder apache Ulzana deixou sua reverva acompanhado de um grupo de índios. A um jovem oficial, Tenente DeBuin, é designada uma pequena companhia com a missão de encontrar Ulzana e trazê-lo de volta; acompanhando a tropa está McIntosh, um experiente batedor, e Ke-Ni-Tay, um guia apache. Ulzana massacra, estupra e saqueia através dos campos; e conforme DeBuin encontra os vestígios de sua passagem por meio de suas vítimas, ele é forçado a aprender com McIntosh e enfrentar sua própria ingenuidade e seus preconceitos intrísecos.</info></item>
+
+<item><title>[B]Dodge City (1939)[/B]</title>
+<link>https://archive.org/download/dodge-city-1939/Dodge%20City%20%281939%29.mp4</link>
+<thumbnail>https://i.ibb.co/KbTjQwb/MV5-BYm-Fk-MDA2-MWEt-Zm-Q4-NS00-Nm-Rj-LTlk-Mj-At-NWZh-Nz-Bl-Mz-E4-Nz-Uz-Xk-Ey-Xk-Fqc-Gde-QXVy-NTcw-N.jpg</thumbnail>
+<fanart>https://i.ibb.co/5RsYW5g/32185349337-5343c310b2.jpg</fanart>
+<info>Wade Hatton (Errol Flynn) leva um grupo de colonos para Dodge City. No caminho se apaixona por Abby (Olivia de Haviland), mas se afastam quando o irmão dela morre em um acidente. Ao chegar na cidade, percebendo que bandidos dominam o local decide ficar se tornar xerife.</info></item>
+
+<item><title>[B]Billy The Kid (1930)[/B]</title>
+<link>https://archive.org/download/billy-the-kid-1930/Billy%20the%20Kid%20%281930%29.ia.mp4</link>
+<thumbnail>https://i.ibb.co/VgC7YnQ/p8621-p-v8-aa.jpg</thumbnail>
+<fanart>https://i.ibb.co/q5rR8Qm/download-1.jpg</fanart>
+<info>Nesta versão sobre o lendário Billy the Kid, período pre-code, a trama se passa entre fronteiras. Após assassinar o barão William Donovan, Billy the Kid refugia-se no México. É caçado e capturado por seu amigo, o xerife Pat Garrett, que está no seu encalço. Ele escapa e segue seu caminho para o México quando Garrett, recaptura ele e deve decidir se vai trazê-lo de volta ou deixá-lo escapar.</info></item>
+
 <item><title>[B]Ride In The Whirlwind (1966)[/B]</title>
 <link>https://archive.org/download/ride-in-the-whirlwind-1966/Ride%20in%20the%20Whirlwind%20%281966%29.mp4</link>
 <thumbnail>https://i.ibb.co/cLPRV7L/MV5-BMz-Ez-Nm-Y5-YTMt-OGQy-My00-N2-Fi-LThl-ZDMt-Mzc2-NDIy-Zj-M0-ODZl-L2lt-YWdl-L2lt-YWdl-Xk-Ey-Xk-Fq.jpg</thumbnail>

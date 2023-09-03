@@ -35,11 +35,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Trouble In Paradise (1932)[/B]</title>
+<link>https://archive.org/download/trouble-in-paradise-1932/Trouble%20In%20Paradise%20%281932%29.mp4</link>
+<thumbnail>https://i.ibb.co/JWTYywC/MV5-BY2-E5-ODgy-Ym-Qt-Y2-Q0-ZS00-N2-My-LWJh-Yzkt-YTli-MWEy-OWM2-OGNi-Xk-Ey-Xk-Fqc-Gde-QXVy-MDI2-NDg0.jpg</thumbnail>
+<fanart>https://i.ibb.co/RTGVCcn/MV5-BMTQ4-Nj-I0-OTA1-M15-BMl5-Ban-Bn-Xk-Ft-ZTgw-Mzcw-MDI0-Mj-E-V1.jpg</fanart>
+<info>Gaston Monesque (Herbert Marshall) e Lily (Miriam Hopkins) são uma dupla de tranbiqueiros de alta classe que escolheram viver a vida roubando, e não veem grandes problemas nisso. Assim que eles se conheceram eles flertaram mostrando o que já haviam roubado, e desde então passaram a aplicar os golpes juntos. Tudo vai bem até que eles se deparam com uma herdeira com uma gorda conta bancária, e logo pensam num jeito de botar as mãos no dinheiro. Gaston resolve chegar até a rica menina seduzindo-a, só que ele próprio vai cair nas armadilhas que armou.</info></item>
 
 <item><title>[B]Subarashiki Nichiyobi (1947)[/B]</title>
 <link>https://archive.org/download/subarashiki-nichiyobi-1947/Subarashiki%20nichiyobi%20%281947%29.mp4</link>

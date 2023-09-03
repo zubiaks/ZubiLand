@@ -41,6 +41,42 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]My Heart Is That Eternal Rose (1989)[/B]</title>
+<link>https://archive.org/download/my-heart-is-that-eternal-rose-filme-de-acao-e-romance-legendado/My%20Heart%20Is%20That%20Eternal%20Rose%20-%20Filme%20de%20Acao%20e%20Romance%20Legendado.mp4</link>
+<thumbnail>https://i.ibb.co/jw314K4/MV5-BMz-Iz-Nz-Y3-NDgz-M15-BMl5-Ban-Bn-Xk-Ft-ZTYw-Nj-Aw-Nz-M5-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/YBPt4Y1/MV5-BMjlk-MTNj-Nj-Qt-YTVj-Ni00-Mm-E2-LWIx-NGQt-NWJi-Zm-Vm-Nj-Bl-NGJi-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Uy-NDk.jpg</fanart>
+<info>Lap (Joey Wang) é uma jovem que tem sua vida transformada quando seu pai e seu namorado Rick (Kenny Bee) assassinam um policial. Rick é obrigado a fugir do país e Lap promete esperá-lo, mas como seu pai é apanhado pela polícia,ela decide pedir ajuda ao poderoso chefe Shen (Michael Chan), que garante a liberdade do pai de Lap caso ela se torne sua amante. Anos mais tarde, Rick volta como um matador de aluguel e ambos se reencontram. Lap quer fugir com o amado, mas Shen jamais perdoará essa traição. A única pessoa que pode ajudar o casal é Cheung (Tony Leung Chiu Wai), o tímido empregado de Shen, encarregado de proteger Lap, e que nutre uma paixão secreta pela moça.</info></item>
+
 <item><title>[B]The 36th Chamber Of Shaolin (1978)[/B]</title>
 <link>https://archive.org/download/the-36th-chamber-of-shaolin-1978/The%2036th%20Chamber%20Of%20Shaolin%20%281978%29.mp4</link>
 <thumbnail>https://i.ibb.co/Y2j8rVH/MV5-BYj-Yy-NDc2-OTYt-N2-Q0-Mi00-M2-M3-LWE0-Y2-Ut-YWY0-ODBl-YWZk-NTFm-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc5-Nj-E.jpg</thumbnail>

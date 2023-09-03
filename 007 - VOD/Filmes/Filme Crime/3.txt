@@ -47,17 +47,17 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]High Sierra (1941)[/B]</title>
+<link>https://archive.org/download/high-sierra-1941/High%20Sierra%20%281941%29.mp4</link>
+<thumbnail>https://i.ibb.co/NVLt2bP/p1298-p-v8-ac.jpg</thumbnail>
+<fanart>https://i.ibb.co/KGPJm0f/download.jpg</fanart>
+<info>Earle Roy "Mad Dog" é salvo da prisão por um velho que quer sua ajuda em um assalto já programado. Quando o golpe dá errado e um homem é baleado, Earle é forçado a se esconder pelos picos da Sierra Nevada.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Fear In The Night (1947)[/B]</title>
+<link>https://archive.org/download/fear-in-the-night-1947/Fear%20in%20the%20Night%20%281947%29.mp4</link>
+<thumbnail>https://i.ibb.co/PQQNNt1/p41860-p-v10-aa.jpg</thumbnail>
+<fanart>https://i.ibb.co/f9fnjrs/20ca9b33fd6f99cb611497b0c72d5944bb44bf6752c4d1402fd4327503d58526-UY500-UX667-RI-TTW.jpg</fanart>
+<info>O caixa de banco Vince Grayson acorda de um pesadelo no qual ele e uma mulher desconhecida assassinaram um homem em uma estranha sala espelhada. Apenas um sonho ... mas Vince descobre que tem objetos físicos e hematomas de seu "sonho". Seu cunhado policial descarta sua história ... até que a família, em um piquenique, se protege de uma tempestade em uma mansão deserta que contém aquela sala espelhada. A desgraça está se aproximando de Vince?</info></item>
 
 <item><title>[B]Anatomy Of A Murder (1959)[/B]</title>
 <link>https://archive.org/download/anatomy-of-a-murder-1959/Anatomy%20Of%20A%20Murder%20%281959%29.mp4</link>
