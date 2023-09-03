@@ -41,6 +41,36 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]running with the devil (2021)[/B]</title>
+<link>https://archive.org/download/9dades-Filmes-S3/Na%20Rota%20do%20Tr%C3%A1fico%202021.mp4</link>
+<thumbnail>https://i.ibb.co/nMLWY4V/Running-with-the-Devil-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/tzV9pF0/download-4.jpg</fanart>
+<info>O CEO de um conglomerado internacional envia dois de seus executivos mais conceituados para investigar por que carregamentos de cocaína estão sendo sequestrados e cortados em algum lugar da cadeia de suprimentos.</info></item>
+
 <item><title>[B]justiça Brutal (2018)[/B]</title>
 <link>https://archive.org/download/justica-brutal-dublado-online-filmes-online-gratis-br/Justi%C3%A7a%20Brutal%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4</link>
 <thumbnail>https://i.ibb.co/5sRqSv1/4919169.jpg</thumbnail>

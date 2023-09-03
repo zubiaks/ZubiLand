@@ -47,6 +47,42 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]o chamado do mal (2018)[/B]</title>
+<link>https://archive.org/download/9dades-Filmes-S3/O%20Chamado%20do%20Mal%202021.mp4</link>
+<thumbnail>https://i.ibb.co/jJ7RYJX/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/wQ6YMyc/4050831.webp</fanart>
+<info>Um professor universitário e sua esposa, que estão prestes a ter um bebê, são os responsáveis por um ato com consequências horrendas: eles liberam, involuntariamente, uma entidade maligna com pretenções perigosas.</info></item>
+
+<item><title>[B]o 3 andar terror na rua malasana (2020)[/B]</title>
+<link>https://archive.org/download/9dades-Filmes-S3/O%203%C2%BA%20Andar-%20Terror%20na%20Rua%20Malasana%202021.mp4</link>
+<thumbnail>https://i.ibb.co/MhKFBZM/5829995.webp</thumbnail>
+<fanart>https://i.ibb.co/9HtqMdH/1489095992-8ffcdd411d00fc2749720ddecb9c2ea43df2387d411e8c37856c318b85a44051-d-640.webp</fanart>
+<info>O 3º andar - Terror na Rua Malasaña é inspirado em eventos reais ocorridos na década de 70. O filme retrata uma família que vai para a grande cidade de Malasaña viver um sonho e se depara com seus piores pesadelos, em um apartamento dominado por uma força sobrenatural.</info></item>
+
 <item><title>[B]Mark Of The Vampire (1935)[/B]</title>
 <link>https://archive.org/download/mark-of-the-vampire-1935/Mark%20Of%20The%20Vampire%20%281935%29.ia.mp4</link>
 <thumbnail>https://i.ibb.co/mc0NXLg/MV5-BMTY4-MTkx-OTk1-Nl5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Nj-Ay-ODgw-Mz-E-V1.jpg</thumbnail>

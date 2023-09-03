@@ -41,11 +41,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]o custo da coragem (2003)[/B]</title>
+<link>https://archive.org/download/9dades-Filmes-S3/O%20Custo%20da%20Coragem%202021.mp4</link>
+<thumbnail>https://i.ibb.co/8KwqpkJ/download-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/v4DrJ6s/20150926-5-filmes-com-profissionais-de-imprensa-mulheres-1.webp</fanart>
+<info>A repórter Veronica Guerin obtém reconhecimento na sua profissão, mas as consequências são devastadoras. Ela é ameaçada - bem como sua família -, depois de fazer uma reportagem sobre o crescente de tráfico de drogas, em Dublin, Irlanda.</info></item>
 
 <item><title>[B]Ladri Di Biciclette (1948)[/B]</title>
 <link>https://archive.org/download/ladri-di-biciclette-1948/Ladri%20di%20Biciclette%20%281948%29.mp4</link>
