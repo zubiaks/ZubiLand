@@ -41,11 +41,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]justiça Brutal (2018)[/B]</title>
+<link>https://archive.org/download/justica-brutal-dublado-online-filmes-online-gratis-br/Justi%C3%A7a%20Brutal%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4</link>
+<thumbnail>https://i.ibb.co/5sRqSv1/4919169.jpg</thumbnail>
+<fanart>https://i.ibb.co/X3MDwnF/img.webp</fanart>
+<info>Parceiros policiais desiludidos caem no submundo do crime depois de serem suspensos da força por agredir um suspeito.</info></item>
 
 <item><title>[B]High Sierra (1941)[/B]</title>
 <link>https://archive.org/download/high-sierra-1941/High%20Sierra%20%281941%29.mp4</link>

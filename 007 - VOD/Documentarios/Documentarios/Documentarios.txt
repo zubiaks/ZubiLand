@@ -125,11 +125,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A Maçã (1998)[/B]</title>
+<link>https://archive.org/download/a-maca-filme-legendado-pt-br-360-p/A%20Ma%C3%A7%C3%A3%20-%20Filme%20Legendado%20PT-BR_360P.mp4</link>
+<thumbnail>https://i.ibb.co/hyCWdvV/sib1.jpg</thumbnail>
+<fanart>https://i.ibb.co/dLLqGBK/sib.jpg</fanart>
+<info>Zahra e Masume são duas garotas de 11 anos que viviam trancadas em casa pelos pais até a intervenção de assistentes sociais, e relatam nesse documentário como viviam e o seu desejo de brincar fora dos portões de casa.</info></item>
 
 <item><title>[B]Homo Sapiens 1900 (1998)[/B]</title>
 <link>https://archive.org/download/homo-sapiens-1900-1998/Homo%20Sapiens%201900%20%281998%29.ia.mp4</link>

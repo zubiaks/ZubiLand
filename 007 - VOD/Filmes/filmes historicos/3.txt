@@ -53,11 +53,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Pompeia, O Último Dia (2003)[/B]</title>
+<link>https://archive.org/download/pompeia-o-ultimo-dia/Pompeia%2C%20O%20%C3%BAltimo%20dia.ia.mp4</link>
+<thumbnail>https://i.ibb.co/RvHr6JG/5a22e28c44d14f428918ffa419ee09dc.webp</thumbnail>
+<fanart>https://i.ibb.co/Vq5L91X/download-3.jpg</fanart>
+<info>"Pompeia", é mais um fascinante filme documental, que segue os últimos e terríveis momentos de uma cidade devastada pela maior catástrofe natural de todos os tempos - a erupção do vulcão Vesúvio, ocorrido há quase 2000 anos.</info></item>
 
 <item><title>[B]October (1928)[/B]</title>
 <link>https://archive.org/download/october-1928/October%20%281928%29.mp4</link>
