@@ -47,17 +47,17 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]os especialistas (2011)[/B]</title>
+<link>https://archive.org/download/9dades-Filmes-S3/Os%20Especialistas%202021.mp4</link>
+<thumbnail>https://i.ibb.co/XVbzmC7/download-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/ChWVs6t/download-2.jpg</fanart>
+<info>Danny Bryce, um dos mais mortíferos agentes especiais do mundo, retorna do seu exílio autoimposto depois de saber que seu mentor, Hunter, foi capturado. Danny recompõe sua antiga equipe para tentar uma missão de resgate e também se infiltrar no Serviço Aéreo Especial Britânico. A missão não será fácil, pois Danny e seu time precisam enfrentar Spike, seu inimigo de longa data, e uma equipe de assassinos.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]os segredos que guardamos (2019)[/B]</title>
+<link>https://archive.org/download/9dades-Filmes-S3/OS%20SEGREDOS%20QUE%20GUARDAMOS%202021.mp4</link>
+<thumbnail>https://i.ibb.co/frQ0Mxw/5076836.jpg</thumbnail>
+<fanart>https://i.ibb.co/N9PMp6h/25ba8-thesecretswekkep.jpg</fanart>
+<info>Os Segredos que Guardamos se passa nos Estados Unidos pós-Segunda Guerra Mundial. No filme, uma mulher, reconstruindo sua vida nos subúrbios com seu marido, sequestra seu vizinho e busca vingança pelos crimes de guerra hediondos que ela acredita que ele cometeu.</info></item>
 
 <item><title>[B]Reação Em Cadeia (1996)[/B]</title>
 <link>https://archive.org/download/reacao-em-cadeia-xvid-dual-audio-bdrip-1/Rea%C3%A7%C3%A3o%20Em%20Cadeia%20Xvid%20Dual%20%C3%81udio%20Bdrip-1.mp4$nome= 1</link>
