@@ -47,11 +47,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]alguém para eva (2003)[/B]</title>
+<link>https://archive.org/download/alguempareva/alguemparaeva2003.ia.mp4</link>
+<thumbnail>https://i.ibb.co/CJWd7Vw/21030253-20130822201633054.webp</thumbnail>
+<fanart>https://i.ibb.co/VtYk756/ALGUEM-EVA.jpg</fanart>
+<info>Três homens contratam um jovem sedutor para seduzir a cunhada deles a fim de que ela pare de interferir em suas vidas.</info></item>
 
 <item><title>[B]Modern Times (1936)[/B]</title>
 <link>https://archive.org/download/modern-times-1936/Modern%20Times%20%281936%29.mp4</link>

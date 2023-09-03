@@ -53,11 +53,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Wells Fargo (1937)[/B]</title>
+<link>https://archive.org/download/wells-fargo-1937/Wells%20Fargo%20%281937%29.mp4</link>
+<thumbnail>https://i.ibb.co/2PFWLD1/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/ng15mjD/MV5-BOWI3-Yz-Ax-MDEt-M2-Y4-Mi00-Y2-M1-LTlj-NDct-ZDc3-MTM1-MDM0-Mz-Rm-Xk-Ey-Xk-Fqc-Gde-QXVy-MDMx-Mj-Q.jpg</fanart>
+<info>A história sobre o desenvolvimento das comunicações entre os Estados Unidos, durante sua rápida expansão no século XIX. A história narra a vida de Ramsey McCay (Joel McCrea), empregado da recém criada associação entre Henry Wells e William Fargo, e de como graças a sua dedicação, a Wells-Fargo chega a converter-se em uma grande empresa de correios e transporte de mercadorias para o Oeste, presente nos maiores acontecimentos de época.</info></item>
 
 <item><title>[B]vera cruz (1954)[/B]</title>
 <link>https://archive.org/download/vera-cruz-vera-cruz/Vera%20Cruz%20%28Vera%20Cruz%29.mp4</link>

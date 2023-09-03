@@ -47,11 +47,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Mark Of The Vampire (1935)[/B]</title>
+<link>https://archive.org/download/mark-of-the-vampire-1935/Mark%20Of%20The%20Vampire%20%281935%29.ia.mp4</link>
+<thumbnail>https://i.ibb.co/mc0NXLg/MV5-BMTY4-MTkx-OTk1-Nl5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Nj-Ay-ODgw-Mz-E-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/pK8zyRB/download.jpg</fanart>
+<info>Mark Of The Vampire (1935) - Sinopse: Após o misterioso assassinato de Sir Karell, foi sustentada a tese de que um vampiro o matou, pois lhe faltava sangue e marcas haviam em seu pescoço. Com isso o Professor Zelen (Lionel Barrymore) vai até a mansão um ano após, para tentar desvendar o mistério. Logo, se descobre que um castelo próximo foi alugado, e que a assinatura do contrato é a mesma de Sir Karrell (já falecido). Após ataques à Irena, filha de Sir Karrell e única herdeira da fortuna, eles desvendam que o Conde Mora (Bela Lugosi) e sua filha estão no castelo, e Sir Karrell também é um vampiro assim como eles.</info></item>
 
 <item><title>[B]Mystics in Bali (1981)[/B]</title>
 <link>https://archive.org/download/mystics.in.-bali.-1981.-dvdrip.x-264.-eng-ac-3/Mystics.in.Bali.1981.DVDrip.x264.ENG-AC3.ia.mp4</link>

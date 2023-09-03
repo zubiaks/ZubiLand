@@ -17,11 +17,11 @@
 <fanart>https://i.ibb.co/2FJYyRB/1e8fe57b6b4803abd8067379ac831495.webp</fanart>
 <info>Rui Tabootie, um garoto de 10 anos de idade, descobre um mundo além do quadro negro quando desenha nele com o giz mágico, que o permite atravessar para o Mundo Giz, onde tudo o que desenha se torna real e pode tomar vida.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Aprendizado para a Morte (1943)[/B]</title>
+<link>https://archive.org/download/educationfordeathportuguese/Walt%20Disney%20-%20Anti%20Nazi%20Cartoon%20-%20Good%20Quality.mp4</link>
+<thumbnail>https://i.ibb.co/VC8rpdX/2da2c6ad-8fce-463e-8247-de705659c821.webp</thumbnail>
+<fanart>https://i.ibb.co/QkVYszM/download.jpg</fanart>
+<info>Education for Death é um curta-metragem de animação produzido pelos Estúdios Disney e originalmente lançado em 15 de janeiro de 1943 pela RKO Pictures nos cinemas estado-unidenses. Foi dirigido pelo ítalo-americano Clyde Geronimi e é baseado no livro Education for Death: The Making of the Nazi, de Gregor Ziemer.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>

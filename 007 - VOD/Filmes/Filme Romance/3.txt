@@ -35,6 +35,36 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Now Voyager (1942)[/B]</title>
+<link>https://archive.org/download/now-voyager-1942-hd-bette-davis-paul-henreid-claude-rains-1/Now%20Voyager%20%281942%29%20HD%2C%20%20Bette%20Davis%2C%20Paul%20Henreid%2C%20Claude%20Rains%20%281%29.mp4</link>
+<thumbnail>https://i.ibb.co/4tCs7qv/download-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/XX6smpR/download-2.jpg</fanart>
+<info>Charlotte é controlada pela mãe e está prestes a ter um ataque de nervos. Após algumas semanas em uma casa de repouso, ela faz uma viagem de navio e se envolve com um homem casado. Ao voltar para casa, ela se mostra uma mulher bem diferente.</info></item>
+
+<item><title>[B]The Diary Of A Chambermaid (1946)[/B]</title>
+<link>https://archive.org/download/the-diary-of-a-chambermaid-1946/The%20Diary%20Of%20A%20Chambermaid%20%281946%29.ia.mp4</link>
+<thumbnail>https://i.ibb.co/SRHX3Gh/MV5-BNjhl-OGJm-Mzct-ZTNl-ZS00-YTA2-LWFj-ZWUt-Mz-A3-YTYz-Yj-A5-Yj-Nh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTY5-Nzc4.jpg</thumbnail>
+<fanart>https://i.ibb.co/WxX18xq/71e8-VVbz-Vt-L-AC-UF894-1000-QL80.jpg</fanart>
+<info>The Diary Of A Chambermaid (1946) - Legendado - Classificação: 14 Anos - Sinopse: Celestine (Paulette Goddard) é uma camareira que consegue um emprego na casa dos Lanlaires. Ela quer usar sua beleza para seduzir um homem rico, mas o dono da casa não parece uma boa ideia, já que Madame Lanlaire (Judith Anderson) governa o lar com um punho de ferro. Então, ela consegue conquistar o vizinho, Mauger (Burgess Meredith). Mas, quando Georges (Hurd Hatfield), o filho dos Lanlaires, volta para casa, ela acaba se encantando de verdade pelo rapaz. </info></item>
+
 <item><title>[B]Trouble In Paradise (1932)[/B]</title>
 <link>https://archive.org/download/trouble-in-paradise-1932/Trouble%20In%20Paradise%20%281932%29.mp4</link>
 <thumbnail>https://i.ibb.co/JWTYywC/MV5-BY2-E5-ODgy-Ym-Qt-Y2-Q0-ZS00-N2-My-LWJh-Yzkt-YTli-MWEy-OWM2-OGNi-Xk-Ey-Xk-Fqc-Gde-QXVy-MDI2-NDg0.jpg</thumbnail>
