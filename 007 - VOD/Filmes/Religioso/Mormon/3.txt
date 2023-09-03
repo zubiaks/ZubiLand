@@ -41,8 +41,8 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]o livro de néfi (2021)[/B]</title>
+<link>https://archive.org/download/9dades-Filmes-S3/O%20Livro%20de%20N%C3%A9fi%202021.mp4</link>
+<thumbnail>https://i.ibb.co/Z8kQtkf/85055632-16947059-000-p-348.jpg</thumbnail>
+<fanart>https://i.ibb.co/q09zhgH/maxresdefault.jpg</fanart>
+<info>Veja o Livro de Mórmon ganhar vida como nunca antes nesta série de vídeos que retratam histórias e ensinamentos da pedra angular de nossa religião. Esses vídeos vão ajudá-lo a entender mais plenamente as verdades ensinadas no Livro de Mórmon e fortalecer seu testemunho da origem divina dessa escritura. Essa primeira coleção de vídeos abrange o início do Livro de Mórmon por meio da chegada de Leí e sua família à terra prometida. São auxílios de ensino perfeitos para o aprendizado pessoal, no lar</info></item>

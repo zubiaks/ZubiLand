@@ -35,6 +35,36 @@
 <fanart></fanart>
 <info></info></item>
 
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]o mapa das pequenas coisas perfeitas (2021)[/B]</title>
+<link>https://archive.org/download/9dades-Filmes-S3/O%20Mapa%20das%20Pequenas%20Coisas%20Perfeitas%202021.mp4</link>
+<thumbnail>https://i.ibb.co/yFVdqGT/2855710.jpg</thumbnail>
+<fanart>https://i.ibb.co/L1w8yv2/95fef49ce75a072c46b4d151c7cc573ab996d61e0944284c066ae39aa6600d36-RI-TTW.jpg</fanart>
+<info>Dois adolescente se apaixonam enquanto estão presos em um looping infinito.</info></item>
+
 <item><title>[B]Metropolis (1927)[/B]</title>
 <link>https://archive.org/download/metropolis-1927_202009/Metropolis%20%281927%29.mp4</link>
 <thumbnail>https://i.ibb.co/2Nvm07Y/lf4-1-scaled.jpg</thumbnail>

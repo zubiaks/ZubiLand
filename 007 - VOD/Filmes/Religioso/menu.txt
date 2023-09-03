@@ -6,11 +6,11 @@
 <fanart>https://i.ibb.co/cCGcvQv/download.jpg</fanart>
 <info>Cristianismo é uma religião monoteísta abraâmica baseada na vida e nos ensinamentos de Jesus de Nazaré. É a maior e mais difundida religião do mundo, com cerca de 2,4 bilhões* de seguidores, representando um terço da população global.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Mormon[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0ZDTXJy/Mormon-book.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Filmes/Religioso/Mormon/3.txt</externallink>
+<fanart>https://i.ibb.co/p3p95Ff/images.jpg</fanart>
+<info>Os Mórmons constituem uma comunidade religiosa que pertence ao espectro do cristianismo, no ramo restauracionista. Segundo a versão oficial da Igreja, o nome dado pelo Senhor, pelo qual os membros da comunidade devem ser conhecidos, entretanto, é Santos dos Últimos Dias (SUD). Segundo a doutrina, “Últimos Dias” refere-se à plenitude dos tempos ou à última dispensação antes do glorioso dia da segunda vinda de Jesus Cristo.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
