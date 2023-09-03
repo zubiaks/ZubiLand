@@ -47,11 +47,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]palavras nas paredes do banheiro (2020)[/B]</title>
+<link>https://archive.org/download/9dades-Filmes-S3/Palavras%20nas%20Paredes%20do%20Banheiro%202021.mp4</link>
+<thumbnail>https://i.ibb.co/n6wpfGD/1004582.webp</thumbnail>
+<fanart>https://i.ibb.co/zsNw99V/AAAABf-TC1-V2-Dq-Ip-TFz-K1f-Hlzw-OIOmk2-Kic-Pk8g-X46g-Afj61-J88aw-Utp-AZ5b-ZIUpm-WC7yi53-7-Av5-D5r-4.jpg</fanart>
+<info>Adam é um estudante que sofre de esquizofrenia paranoica, acompanhadas de alucinações. Por conta disso, ele resolve participar do teste de uma nova droga que promete esconder todos os seus sintomas de seus colegas de sala.</info></item>
 
 <item><title>[B]Now Voyager (1942)[/B]</title>
 <link>https://archive.org/download/now-voyager-1942-hd-bette-davis-paul-henreid-claude-rains-1/Now%20Voyager%20%281942%29%20HD%2C%20%20Bette%20Davis%2C%20Paul%20Henreid%2C%20Claude%20Rains%20%281%29.mp4</link>

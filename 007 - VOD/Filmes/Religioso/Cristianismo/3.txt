@@ -365,11 +365,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Quarto de Guerra (2015)[/B]</title>
+<link>https://archive.org/download/quarto-de-guerra-2015-5.1-ch-dublado-1080p-by-luan-harper/Quarto%20de%20Guerra%20%282015%29%205.1%20CH%20Dublado%201080p%20%28By-LuanHarper%29.mp4</link>
+<thumbnail>https://i.ibb.co/60tSy1B/185079-jpg-c-310-420-x-f-jpg-q-x-xxyxx.jpg</thumbnail>
+<fanart>https://i.ibb.co/f84s3cK/download-6.jpg</fanart>
+<info>Lançado no Brasil em dezembro de 2015, o filme “Quarto de Guerra” conquistou um grande público no Brasil e no mundo, sendo uma das produções cristãs produzidas fora de Hollywood com maior sucesso no cinema em toda a história. Não é para menos, seu enredo dramático e divertido cativou a atenção de cristãos de diversas denominações e até mesmo de pessoas que dizem não professar a fé cristã. No filme, Tony e Elizabeth vivem um duelo conjugal interminável, até que a senhora Clara, uma nova cliente de Elizabeth, a desafia a guerrear pela sua família. Por meio da oração, ela permite que Deus batalhe por seu lar. Enquanto ela inicia seu quarto de guerra, Tony vivencia lutas internas, confirmando o que diz Clara, que as vitórias não se conquistam ao acaso.</info></item>
 
 <item><title>[B]David e Golias Orson Welles (1960)[/B]</title>
 <link>https://archive.org/compress/david-e-golias-orson-welles/formats=H.264&file=/david-e-golias-orson-welles.zip</link>

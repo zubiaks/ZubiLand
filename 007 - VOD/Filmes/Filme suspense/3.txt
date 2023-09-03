@@ -35,17 +35,17 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]popular e perigosa (2018)[/B]</title>
+<link>https://archive.org/download/9dades-Filmes-S3/Popular%20e%20Perigosa%202021.mp4</link>
+<thumbnail>https://i.ibb.co/3MtPKfz/1856689.jpg</thumbnail>
+<fanart>https://i.ibb.co/m8xXZHd/2720447.webp</fanart>
+<info>O aparente suicídio de uma professora faz com que Julie seja contratada para substituí-la no fim do período letivo de uma escola. Sua filha Miya, também recém-chegada, faz amizade com a perigosa Amy, a aluna mais popular do colégio e que está disposta a arriscar vidas para ser a rainha do baile.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]ponto vermelho (2021)[/B]</title>
+<link>https://archive.org/download/9dades-Filmes-S3/Ponto%20Vermelho%202021.mp4</link>
+<thumbnail>https://i.ibb.co/KWK00gS/2956305.webp</thumbnail>
+<fanart>https://i.ibb.co/QjwVMv8/download-2.jpg</fanart>
+<info>Com o relacionamento em crise e um bebê a caminho, um casal decide passar alguns dias nas montanhas para reacender a paixão, mas acaba na mira de assassinos impiedosos.</info></item>
 
 <item><title>[B]os especialistas (2011)[/B]</title>
 <link>https://archive.org/download/9dades-Filmes-S3/Os%20Especialistas%202021.mp4</link>

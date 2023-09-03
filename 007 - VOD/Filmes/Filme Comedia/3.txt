@@ -29,17 +29,17 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]para todos os garotos: agora e para sempre (2021)[/B]</title>
+<link>https://archive.org/download/9dades-Filmes-S3/Para%20todos%20os%20garotos-%20Agora%20e%20para%20sempre%202021.mp4</link>
+<thumbnail>https://i.ibb.co/xsqdTxp/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/4sy5FVW/download-1.jpg</fanart>
+<info>É o último ano do ensino médio. Lara Jean volta de uma viagem à Coreia e faz planos para a faculdade, com Peter e sem ele.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]pai em dobro (2021)[/B]</title>
+<link>https://archive.org/download/9dades-Filmes-S3/Pai%20em%20Dobro%202021.mp4</link>
+<thumbnail>https://i.ibb.co/CtQBcBX/4316350-jpg-r-1280-720-f-jpg-q-x-xxyxx.jpg</thumbnail>
+<fanart>https://i.ibb.co/R7GnDk8/images.jpg</fanart>
+<info>Vicenza está completando 18 anos e foi criada em uma comunidade hippie em meio a natureza. A única coisa que não está em harmonia em sua vida é não saber quem é seu pai. Decidida, ela sai em busca de seu verdadeiro pai, mas acaba encontrando dois.</info></item>
 
 <item><title>[B]o homem certo (2021)[/B]</title>
 <link>https://archive.org/download/9dades-Filmes-S3/O%20Homem%20Certo%202021.mp4</link>

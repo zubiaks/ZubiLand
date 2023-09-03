@@ -59,17 +59,17 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]quando um estranho chama (2006)[/B]</title>
+<link>https://archive.org/download/9dades-Filmes-S3/Quando%20um%20estranho%20chama%202021.ia.mp4</link>
+<thumbnail>https://i.ibb.co/pPMhMJS/53-Lz-Sw15ol-Ak-NW48-Gkr-Pkx-Cb-JBx.jpg</thumbnail>
+<fanart>https://i.ibb.co/Gvq58sF/maxresdefault.jpg</fanart>
+<info>Jill Johnson chega a uma mansão para trabalhar como babá. Assim que as crianças dormem, ela se prepara para o que deveria ser uma noite normal. Entretanto, depois de atender o telefone e escutar palavras ameaçadoras de um sádico, Jill fica apavorada.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]paginas da morte (2019)[/B]</title>
+<link>https://archive.org/download/9dades-Filmes-S3/P%C3%A1ginas%20da%20Morte%202021.mp4</link>
+<thumbnail>https://i.ibb.co/pZ0b3r8/download-3.jpg</thumbnail>
+<fanart>https://i.ibb.co/5jcxKQj/download-4.jpg</fanart>
+<info>No meio da noite, uma jovem desperta e subitamente, sem esboçar qualquer sentimento, mata cada membro de sua família, inclusive o cachorro dela. O psiquiatra encarregado do caso descobre que a garota mantinha um diário e resolve investigar. Depois de encontrar o objeto e a ler seu conteúdo, o médico passa a entender a razão de sua primeira página conter um aviso: quem ler este diário será amaldiçoado.</info></item>
 
 <item><title>[B]o chamado do mal (2018)[/B]</title>
 <link>https://archive.org/download/9dades-Filmes-S3/O%20Chamado%20do%20Mal%202021.mp4</link>
