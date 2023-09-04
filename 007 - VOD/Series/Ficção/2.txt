@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]star trek[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/mqprL69/248b5040e1d8b87c61a3563e82d8446b.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Fic%C3%A7%C3%A3o/star%20trek/Season.txt</externallink>
+<fanart>https://i.ibb.co/kSdN6gy/images.jpg</fanart>
+<info>Star Trek é uma franquia de entretenimento do tipo space opera norte-americana criada por Gene Roddenberry. A franquia iniciou-se como uma série de televisão em 1966, originalmente chamada Star Trek mas posteriormente renomeada para Star Trek: The Original Series.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
