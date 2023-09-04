@@ -48,11 +48,11 @@
 <fanart>https://i.ibb.co/NCwtWWD/Tokusatsu.webp</fanart>
 <info>Tokusatsu é um termo em japonês para filmes ou séries live-action que fazem um uso forte de efeitos especiais. Apesar de ser um termo japonês, hoje em dia, também refere-se as séries que seguem a mesma linha de produção e conceito ao redor do mundo.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Street Fighter[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/pJYLCxC/Street-Fighter-Collection.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/01%20-%20Street%20Fighter/Cartoons%20Network.txt</externallink>
+<fanart>https://i.ibb.co/tDrmgSC/apps-10264-65811856773478282-3e90209f-2418-4c1a-8d07-b5e7909d8037.jpg</fanart>
+<info>Street Fighter, popularmente abreviado para SF, é uma série de jogos de luta desenvolvida pela fabricante japonesa de jogos eletrônicos Capcom. </info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

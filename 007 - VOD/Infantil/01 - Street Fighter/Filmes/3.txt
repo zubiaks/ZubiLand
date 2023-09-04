@@ -1,4 +1,43 @@
 
+<item><title>[B]Street Fighter II O Filme[/B]</title>
+<link>https://archive.org/download/street-fighter-ii-o-filme-dual-audio-1080p-emerson-lino-animes/Street%20Fighter%20II%20-%20O%20Filme%20Dual%20Audio%201080p_EmersonLinoAnimes.mp4$nome= 1</link>
+<link>https://archive.org/download/street-fighter-ii-o-filme-dual-audio-1080p-emerson-lino-animes/Street%20Fighter%20II%20-%20O%20Filme%20Dual%20Audio%201080p_EmersonLinoAnimes.mkv$nome= 2</link>
+<link>https://archive.org/download/1996-street-fighter-the-movie-dual-audio-ptbr-jpn/%5B1996%5DStreet%20Fighter%20-%20THE%20MOVIE%20%5BDual%20Audio%20PTBR%20%26%20JPN%5D.mp4$nome= 3</link>
+<link>https://archive.org/download/1996-street-fighter-the-movie-dual-audio-ptbr-jpn/%5B1996%5DStreet%20Fighter%20-%20THE%20MOVIE%20%5BDual%20Audio%20PTBR%20%26%20JPN%5D.mkv$nome= 4</link>
+<thumbnail>https://i.ibb.co/DL19L1b/d0-Wm-Vro-W23-YVFB4u-LFUqfqi-Hs-Yr.jpg</thumbnail>
+<fanart>https://i.ibb.co/C0q4jns/sfii-movie-1.jpg</fanart>
+<info>Bison, o líder cruel da organização criminosa Shadaloo, planeja fazer lavagem cerebral nos melhores lutadores do mundo para transformá-los em seus escravos e poder conquistar a Terra. História adaptada do vídeo game de mesmo nome.</info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>

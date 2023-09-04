@@ -1,3 +1,7 @@
+<link>$nome= 1</link>
+<link>$nome= 2</link>
+
+
 DC
 
 	Filmes Animados
@@ -185,10 +189,6 @@ https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Broly
 
 		Yu Gi Oh Filme. Piramide Da Luz. Dublado. Felipewinchester
 			https://archive.org/details/YuGiOhFilme.PiramideDaLuz.Dublado.Felipewinchester
-
-		Street Fighter II THE MOVIE [ Dual Audio PTBR & JPN]
-			https://archive.org/details/1996-street-fighter-the-movie-dual-audio-ptbr-jpn
-			https://archive.org/details/street-fighter-ii-o-filme-dual-audio-1080p-emerson-lino-animes
 
 		Kore wa Zombie Desuka?
 			https://archive.org/details/02_20201009_20201009_1646/%E3%81%93%E3%82%8C%E3%81%AF%E3%82%BB%E3%82%A4%E3%83%90%E3%83%BC%E3%81%8F%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B+%EF%BC%9F+01.avi

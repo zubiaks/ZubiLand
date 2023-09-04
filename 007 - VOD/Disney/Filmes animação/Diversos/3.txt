@@ -5,11 +5,12 @@
 <fanart>https://i.ibb.co/KFLMjzC/Romeu.jpg</fanart>
 <info>Acostumado com o luxo e a fortuna, Romeu tem uma surpresa quando descobre que seus donos foram viajar e o deixaram na mansão em que vive. Ele fica sob a guarda dos empregados, que não gostam nada da ideia de cuidar do animal, e o expulsam dali.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Raya E O Último Dragão (2021)[/B]</title>
+<link>https://archive.org/download/comando.-to-raya-e-o-ultimo-dragao-web-dl-1080p-dual-5.1_202105/COMANDO.TO%20-%20Raya%20e%20o%20%C3%9Altimo%20Drag%C3%A3o%20WEB-DL%201080p%20DUAL%205.1.mp4$nome= 1</link>
+<linkhttps://archive.org/download/comando.-to-raya-e-o-ultimo-dragao-web-dl-1080p-dual-5.1_202105/COMANDO.TO%20-%20Raya%20e%20o%20%C3%9Altimo%20Drag%C3%A3o%20WEB-DL%201080p%20DUAL%205.1.mkv>$nome= 2</link>
+<thumbnail>https://i.ibb.co/G9d9jgQ/Raya-e-o-ultimo-dragao.webp</thumbnail>
+<fanart>https://i.ibb.co/KV8GFb3/scale.jpg</fanart>
+<info>Há muito tempo, no mundo de fantasia de Kumandra, humanos e dragões viviam juntos em harmonia. Mas quando uma força maligna ameaçou a terra, os dragões se sacrificaram para salvar a humanidade. Agora, 500 anos depois, o mesmo mal voltou e cabe a uma guerreira solitária, Raya, rastrear o lendário último dragão para restaurar a terra despedaçada e seu povo dividido.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>

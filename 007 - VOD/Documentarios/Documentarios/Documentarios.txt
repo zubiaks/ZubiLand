@@ -119,11 +119,19 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]A Queda Da Argentina - Trilogia Completa[/B]</title>
+<link>https://archive.org/download/a-queda-da-argentina/a%20queda%20da%20argentina.mp4</link>
+<thumbnail>https://i.ibb.co/cT26YZh/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/zrsjnX1/brasil-paraelo-queda-da-argentina.webp</fanart>
+<info>Trilogia "A Queda Argentina"
+
+O país que já foi conhecido como a Europa da América Latina, hoje, é sinônimo de pobreza. O Brasil pode ser a próxima peça? Assista "A Queda Argentina"
+
+CAPÍTULO 1 - A RESSACA
+
+CAPÍTULO 2 - A FESTA
+
+CAPÍTULO 3 - A CONTA</info></item>
 
 <item><title>[B]A Maçã (1998)[/B]</title>
 <link>https://archive.org/download/a-maca-filme-legendado-pt-br-360-p/A%20Ma%C3%A7%C3%A3%20-%20Filme%20Legendado%20PT-BR_360P.mp4</link>

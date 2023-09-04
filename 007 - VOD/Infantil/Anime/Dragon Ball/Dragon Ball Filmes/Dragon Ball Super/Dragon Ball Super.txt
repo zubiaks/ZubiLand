@@ -12,7 +12,8 @@
 <info></info></item>
 
 <item><title>[B]Dragon Ball Super: Broly[/B]</title>
-<link>https://archive.org/download/ragaleravip_gmail_001/001.mp4</link>
+<link>https://archive.org/download/ragaleravip_gmail_001/001.mp4$nome= 1</link>
+<link>https://archive.org/download/dragon.-ball.-super.-broly.-1080p.-blu-ray.x-264.-dublado-www.-bludv.-tv_202105/Dragon.Ball.Super.Broly.1080p.BluRay.x264.DUBLADO-WWW.BLUDV.TV.ia.mp4$nome= 2</link>
 <thumbnail>https://i.ibb.co/cg1gRcF/9782344041123.jpg</thumbnail>
 <fanart>https://i.ibb.co/tJzc2HJ/image-187y.jpg</fanart>
 <info>Apesar da Terra estar em um período de calmaria, Goku se recusa a parar de treinar constantemente. O que ele não imaginava era que seu novo inimigo seria Broly, um poderoso super saiyajin sedento por vingança, que deseja destruir todos que encontrar pela frente.</info></item>
