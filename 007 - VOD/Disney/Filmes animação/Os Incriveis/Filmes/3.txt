@@ -1,15 +1,15 @@
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]OS INCRIVEIS (2004)[/B]</title>
+<link>https://archive.org/download/os-incriveis_202106/OS%20INCRIVEIS.mp4</link>
+<thumbnail>https://i.ibb.co/KbxrJGR/9806-tmdb.jpg</thumbnail>
+<fanart>https://i.ibb.co/WFKQ1TW/images.jpg</fanart>
+<info>Depois do governo banir o uso de superpoderes, o maior herói do planeta, o Sr. Incrível, vive de forma pacata com sua família. Apesar de estar feliz com a vida doméstica, o Sr. Incrível ainda sente falta dos tempos em que viveu como super-herói, e sua grande chance de entrar em ação novamente surge quando um velho inimigo volta a atacar. Só que agora ele precisa contar com a ajuda de toda a família para vencer o vilão.</info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Os Incríveis 2 (2018)[/B]</title>
+<link>https://archive.org/download/os-incriveis-2/Os%20Incr%C3%ADveis%202.mp4</link>
+<thumbnail>https://i.ibb.co/RvF5NrP/Dg-OW5tl-Ws-AEzwla.jpg</thumbnail>
+<fanart>https://i.ibb.co/SvxXjxt/download-1.jpg</fanart>
+<info>A Mulher Elástica entra em ação para salvar o dia, enquanto o Sr. Incrível enfrenta seu maior desafio até agora: cuidar dos problemas de seus três filhos.</info></item>
 
 <item><title>[B][/B]</title>
 <link></link>

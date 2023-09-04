@@ -47,11 +47,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<item><title>[B]Duelo De Gigantes (1976)[/B]</title>
+<link>https://archive.org/download/duelo-de-gigantes-1976/Duelo%20de%20Gigantes%20%281976%29.mp4</link>
+<thumbnail>https://i.ibb.co/pwLLfPp/5893449.jpg</thumbnail>
+<fanart>https://i.ibb.co/xfvtZLd/123-1.webp</fanart>
+<info>Rico rancheiro contrata um mercenário para caçar um ladrão de cavalos que está ameaçando o fruto do trabalho de sua vida, e sua família. Mas a perseguição, que era pra livrar a região da violência, resulta numa série de eventos brutais e selvagens.</info></item>
 
 <item><title>[B]Wells Fargo (1937)[/B]</title>
 <link>https://archive.org/download/wells-fargo-1937/Wells%20Fargo%20%281937%29.mp4</link>
