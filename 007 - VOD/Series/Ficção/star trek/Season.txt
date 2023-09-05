@@ -6,11 +6,11 @@
 <fanart>https://i.ibb.co/FYpYrrr/images-1.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Star Trek The Original Series[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/HpCB6d6/MV5-BNDRk-MTNi-Njgt-ZDIy-OC00-Nm-E1-LTlk-Zj-Et-MGZi-NTcy-ZDQ0-Njcx-Xk-Ey-Xk-Fqc-Gde-QXVy-NTE1-Nj-Y5.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Fic%C3%A7%C3%A3o/star%20trek/Star%20Trek%20The%20Original%20Series/Season.txt</externallink>
+<fanart>https://i.ibb.co/09HjKMd/Star-Trek-TOS-cast.webp</fanart>
+<info>No século XXIII, a humanidade já desenvolveu a tecnologia para viajar pelo espaço. Na série de ficção científica "Jornada nas Estrelas", os seres humanos se associam a espécies alienígenas de várias partes da galáxia e, juntos, formam a Federação Unida de Planetas com o objetivo de desbravar o Cosmos. Mundialmente famosa, a série é liderada pelo Capitão James T. Kirk e sua tripulação - Dr. Spock, Primeiro Oficial de Ciências; Dr. "Bones" McCoy, médico-chefe; Pavel Chekov, Oficial de Segurança; Nyota Uhura, Oficial de Comunicação; o piloto Hikaru Zulu e o engenheiro-chefe, Tenente-comandante "Scotty" Scott. A bordo da nave estelar USS Enterprise, a equipe parte numa missão exploratória com duração de cinco anos, pelos quatro cantos do Universo, em busca de novos mundos e civilizações.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
