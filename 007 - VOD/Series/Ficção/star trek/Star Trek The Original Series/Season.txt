@@ -4,43 +4,19 @@
 <thumbnail>https://i.ibb.co/34x9ygF/911-Uz-Lw-Rkn-L-AC-UF894-1000-QL80.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Fic%C3%A7%C3%A3o/star%20trek/Star%20Trek%20The%20Original%20Series/S1.txt</externallink>
 <fanart>https://i.ibb.co/HTRM6Jk/cc7cf9ac6b4b0319ca95ff734b77464583e34be19c2f0dfd8f2fd31004873369-RI-TTW.jpg</fanart>
-<info></info></channel>
+<info>A primeira temporada de Star Trek compreende 29 episódios, incluindo o episódio em duas partes "The Menagerie", que inclui muito das imagens do piloto original, "The Cage". Outros episódios notáveis incluem "Balance of Terror", que introduz os romulanos; "Space Seed", que introduz Khan Noonien Singh e serve como base para Star Trek II: The Wrath of Khan; "Errand of Mercy", onde os klingons fazem sua primeira aparição; e o aclamado pela crítica, episódio vencedor do Hugo Award, "The City on the Edge of Forever", que mostra Kirk, Spock e McCoy viajando para o passado através do Guardião da Eternidade.</info></channel>
 
 <channel><name>[B][COLOR white]Star Trek: The Original Series S2[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/cb7r9xQ/temporada-2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Fic%C3%A7%C3%A3o/star%20trek/Star%20Trek%20The%20Original%20Series/S2.txt</externallink>
 <fanart>https://i.ibb.co/Qfymnxd/932b52e661719a6a91ec2da108988cb841932ce67d8d67cf4be05963e5d2d0a0-RI-TTW.jpg</fanart>
-<info></info></channel>
+<info>A segunda temporada de 26 episódios do programa começou em setembro de 1967[2] com "Amok Time", que introduziu o ator Walter Koenig como o navegador russo Pavel Chekov, e deu aos espectadores o primeiro vislumbre do mundo natal de Spock, Vulcano. A temporada também inclui episódios notáveis como "Mirror, Mirror", que introduz o "Universo Espelho"; "Journey to Babel", contendo a introdução dos pais de Spock, Sarek e Amanda; e o cômico "The Trouble With Tribbles", que mais tarde seria revisitado em um episódio de Star Trek: The Animated Series e um de Star Trek: Deep Space Nine.</info></channel>
 
 <channel><name>[B][COLOR white]Star Trek: The Original Series S3[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/vsVNnzg/30-Uur-RXLy-Qay5-VOwsshjcu6-TGTo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Fic%C3%A7%C3%A3o/star%20trek/Star%20Trek%20The%20Original%20Series/S3.txt</externallink>
 <fanart>https://i.ibb.co/PNtprjs/71bdda000f7ab70da060391297bdb009058a2da51388cef187258fc10d9d1b28-RI-TTW.jpg</fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<info>A temporada final de 24 episódios de Star Trek começou em setembro de 1968 com "Spock's Brain".[2] A terceira temporada também inclui "The Tholian Web", onde Kirk fica preso entre dois universos; este episódio seria revisitado em 2005 no episódio em duas partes "In a Mirror, Darkly", da série prequela Star Trek: Enterprise. O último episódio da série, "Turnabout Intruder", foi exibido em 3 de junho de 1969,[2] porém Star Trek acabaria por voltar a televisão na forma de animação quando Star Trek: The Animated Series estreou em setembro de 1973.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
