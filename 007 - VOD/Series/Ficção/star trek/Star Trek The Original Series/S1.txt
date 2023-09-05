@@ -1,4 +1,22 @@
 
+<item><title>[B]06 - Mulheres de Mudd[/B]</title>
+<link>https://archive.org/download/02.-o-ardil-corbonite-groovy-downs/03.%20As%20mulheres%20de%20Mudd%27s%20-%20GroovyDowns.mp4</link>
+<thumbnail>https://i.ibb.co/Y86Lk8s/Harcourt-Fenton-Mudd-2266.jpg</thumbnail>
+<fanart></fanart>
+<info>No episódio, a Enterprise persegue uma embarcação e resgata seus ocupantes Harry Mudd, um vigarista interestelar, e as três mulheres misteriosamente bonitas que ele está transportando para se tornarem esposas de colonos.</info></item>
+
+<item><title>[B]10 - The Corbomite Maneuver[/B]</title>
+<link>https://archive.org/download/02.-o-ardil-corbonite-groovy-downs/02.%20O%20Ardil%20Corbonite%20-%20GroovyDowns.mp4</link>
+<thumbnail>https://i.ibb.co/YLQVKy1/Star-Trek-The-Corbomite-Maneuver.jpg</thumbnail>
+<fanart></fanart>
+<info>Na data estelar 1512.2, a USS Enterprise encontra um estranho cubo no espaço. Scotty estuda o objeto porém não consegue determinar como funciona. O Capitão Kirk ordena que a nave se afaste, porém o cubo se aproxima ainda mais e começa a emitir uma perigosa radiação. Kirk não tem outra opção senão destruir o cubo.</info></item>
+
+<item><title>[B](OFF)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B]Episode 01[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
@@ -29,12 +47,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 06[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Episode 07[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
@@ -48,12 +60,6 @@
 <info></info></item>
 
 <item><title>[B]Episode 09[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 10[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>

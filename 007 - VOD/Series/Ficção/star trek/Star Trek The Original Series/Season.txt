@@ -1,21 +1,21 @@
 <channels>
 
 <channel><name>[B][COLOR white]Star Trek: The Original Series S1[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/tcJnvCx/1283efa75e3629d3b90b7c297035b887.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Fic%C3%A7%C3%A3o/star%20trek/Filmes/3.txt</externallink>
-<fanart>https://i.ibb.co/FYpYrrr/images-1.jpg</fanart>
+<thumbnail>https://i.ibb.co/34x9ygF/911-Uz-Lw-Rkn-L-AC-UF894-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Fic%C3%A7%C3%A3o/star%20trek/Star%20Trek%20The%20Original%20Series/S1.txt</externallink>
+<fanart>https://i.ibb.co/HTRM6Jk/cc7cf9ac6b4b0319ca95ff734b77464583e34be19c2f0dfd8f2fd31004873369-RI-TTW.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Star Trek: The Original Series S2[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/cb7r9xQ/temporada-2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Fic%C3%A7%C3%A3o/star%20trek/Star%20Trek%20The%20Original%20Series/S2.txt</externallink>
+<fanart>https://i.ibb.co/Qfymnxd/932b52e661719a6a91ec2da108988cb841932ce67d8d67cf4be05963e5d2d0a0-RI-TTW.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white]Star Trek: The Original Series S3[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://i.ibb.co/vsVNnzg/30-Uur-RXLy-Qay5-VOwsshjcu6-TGTo.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Series/Fic%C3%A7%C3%A3o/star%20trek/Star%20Trek%20The%20Original%20Series/S3.txt</externallink>
+<fanart>https://i.ibb.co/PNtprjs/71bdda000f7ab70da060391297bdb009058a2da51388cef187258fc10d9d1b28-RI-TTW.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
