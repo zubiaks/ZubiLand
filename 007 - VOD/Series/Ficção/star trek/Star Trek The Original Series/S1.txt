@@ -99,326 +99,104 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 03[/B]</title>
+<item><title>[B]03 - Where No Man Has Gone Before[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/6tqMNN8/Where-No-Man-Has-Gone-Before.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>"Where No Man Has Gone Before" foi escrito por Samuel A. Peeples, dirigido por James Goldstone e filmado em julho de 1965. Foi primeiro episódios de Star Trek a ter William Shatner como Capitão James T. Kirk, James Doohan como Montgomery Scott e George Takei como Sulu. Neste episódio, a nave estelar USS Enterprise faz uma jornada para a fronteira da galáxia, onde dois tripulantes desenvolvem perigosos poderes psíquicos. O título do episódio foi adotado como a frase final da narração dos créditos iniciais que notoriamente caracteriza a franquia Star Trek.</info></item>
 
-<item><title>[B]Episode 11[/B]</title>
+<item><title>[B]11 - The Menagerie[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/cvXHFnz/Star-Trek-The-Menagerie.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>No enredo, Spock sequestra seu antigo capitão Christopher Pike, coloca a Enterprise em um curso para o planeta proibido de Talos IV, e se entrega para corte marcial para explicar suas ações.</info></item>
 
-<item><title>[B]Episode 12[/B]</title>
+<item><title>[B]12 - The Menagerie, Part II[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/0h1L6Yn/MV5-BZWUz-NTRi-Mz-Qt-YTQ5-MS00-OGIw-LWJj-Yzkt-Mj-Nk-Y2-Ew-MDFh-Yz-Fk-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Ux-NDg.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Spock continua a detalhar os eventos de "The Cage" no tribunal. Depois de testemunhar os poderes mentais de ilusão dos talosianos, Kirk percebe que Spock quer retornar Pike para o planeta para que o antigo capitão possa viver uma vida onde ele possui saúde plena.[34] </info></item>
 
-<item><title>[B]Episode 15[/B]</title>
+<item><title>[B]15 - Shore Leave[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/QmzxwtD/OIP-2.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O capitão Kirk ordena uma licença para a tripulação da Enterprise em um planeta aparentemente inabitado no sistema Omicron Delta. Os grupos de desembarque começam a ter estranhos avistamentos, como o Coelho Branco, Don Juan e um samurai. Enquanto isso, Spock descobre que o planeta está sugando energia dos motores da nave, colocando a Enterprise em perigo.</info></item>
 
-<item><title>[B]Episode 17[/B]</title>
+<item><title>[B]17 - The Squire of Gothos[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/g39qYfn/download.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A Enterprise descobre um planeta órfão à deriva no espaço, habitado por um excêntrico ser chamado Trelane, que aparentemente possui poderes ilimitados sobre matéria e forma para manipular a tripulação.</info></item>
 
-<item><title>[B]Episode 18[/B]</title>
+<item><title>[B]18 - Arena[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/N7RcThK/Star-Trek-Arena.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A Enterprise é atacada por alienígenas desconhecidos enquanto investiga a quase destruição da colônia de Cestus III. Enquanto persegue os alienígenas por espaço desconhecido, ambas as naves são capturadas pelos poderosos Metrons, que forçam Kirk e o capitão alienígena a entrar em um julgamento por combate: a nave do vencedor será libertada, enquanto a nave do perdedor será destruída.</info></item>
 
-<item><title>[B]Episode 19[/B]</title>
+<item><title>[B]19 - Tomorrow Is Yesterday[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/4Sc6vgh/Tomorrow-Is-Yesterday.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Depois de acidentalmente viajar no tempo para 1969, a Enterprise resgata o piloto da Força Aérea Capitão John Christopher. A tripulação luta para retornar para seu tempo, enquanto simultaneamente retorna Christopher para a Força Aérea, removendo seu conhecimento sobre o futuro, e todos os registros de seu contato com a Enterprise.</info></item>
 
-<item><title>[B]Episode 20[/B]</title>
+<item><title>[B]20 - Court Martial[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/g7X8NMn/Court-martial-officials-on-bridge.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O Capitão Kirk é colocado em corte marcial por negligência depois de um tripulante ser morto em uma tempestade iônica. Kirk afirma que suas ações foram adequadas e que elas não deveriam ter levado o tripulante à morte, porém as evidências são fortes contra ele.</info></item>
 
-<item><title>[B]Episode 21[/B]</title>
+<item><title>[B]21 - The Return of the Archons[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/y6JWLRV/Spock-and-Kirk-fire-phasers.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A Enterprise descobre uma população planetária controlada por um poderoso ser chamado Landru. Enquanto investiga, o Capitão Kirk e seu grupo de desembarque são capturados e descobrem que os tripulantes da Enterprise serão os próximos a serem "absorvidos" pelo controle de Landru.</info></item>
 
-<item><title>[B]Episode 22[/B]</title>
+<item><title>[B]22 - Space Seed[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/jW0L62p/Space-Seed-Khan.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A Enterprise descobre uma antiga nave, a SS Botany Bay, que escapou das Guerrras Eugênicas da Terra no final do século XX. Os passageiros geneticamente modificados, liderados pelo criminoso de guerra Khan Noonien Singh, tomam o controle da Enterprise.[34] (Este episódio serve como pano de fundo para o filme Star Trek II: The Wrath of Khan</info></item>
 
-<item><title>[B]Episode 23[/B]</title>
+<item><title>[B]23 -A Taste of Armageddon[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/2KpwsZ9/MV5-BYWFm-MGE3-Nj-Mt-Mj-Yx-Zi00-Zj-Fj-LWE1-NWIt-ODg2-ZDQ3-Mz-Bk-ODAz-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Iy-Mz.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Em Eminiar VII, a Enterprise encontra uma civilização em guerra com seu vizinho planetário. Incapazes de identificar quaisquer sinais de batalha a partir do espaço, o Capitão Kirk lidera um grupo de desembarque para a superfície onde eles descobrem que toda a guerra é lutada por computadores. Apesar da guerra ser simulada, cidadãos que são listados como vítimas virtuais ainda devem se reportar para cabines de execução para serem mortos. Depois da Enterprise ter sido "destruída" em um ataque, Kirk deve lutar para manter sua tripulação viva.</info></item>
 
-<item><title>[B]Episode 24[/B]</title>
+<item><title>[B]24 - This Side of Paradise[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/TWLDtcT/Star-Trek-This-Sideof-Paradise.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Apesar de expostos a uma radiação mortal, a colônia da Federação em Omicron Ceti III parece estar prosperando. Um grupo de desembarque da Enterprise vai investigar, descobrindo que a população da colônia possui uma saúde além da explicação. Leila Kalomi, uma antiga amiga de Spock, mostra ao grupo de desembarque estranhas flores que parecem impôr um estado de puro êxtase naqueles que são expostos aos seus esporos. Os efeitos dos esporos se espalham rápido fazendo a tripulação se amotinar contra Kirk.</info></item>
 
-<item><title>[B]Episode 25[/B]</title>
+<item><title>[B]25 - The Devil in the Dark[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/cbNg7SS/Star-Trek-The-Devilinthe-Dark.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Enviada para a colônia mineiradora de Janus VI, a Enterprise é incumbida de investigar rumores de uma estranha criatura subterrânea responsável pela destruição de equipamentos e pela morte de cinquenta mineiros.</info></item>
 
-<item><title>[B]Episode 26[/B]</title>
+<item><title>[B]26 - Errand of Mercy[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/7vhLdpG/MV5-BMTc1-ODY5-NTM4-N15-BMl5-Ban-Bn-Xk-Ft-ZTgw-MTYx-MTk0-MDE-V1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Negociações de paz entre a Federação e o Império Klingon falharam. A Enterprise é enviada para proteger Organia, um pacífico planeta localizado perto da fronteira klingon. Kirk e Spock são transportados para a superfície para avisar os organianos sobre os klingons, porém a frota klingon chega, forçando a Enterprise a partir abandonando Kirk e Spock na superfície.</info></item>
 
-<item><title>[B]Episode 27[/B]</title>
+<item><title>[B]27 - The Alternative Factor[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/JknrcQS/MV5-BNz-Q0-MTA4-MDAt-Yjcy-Yy00-Mjdk-LTll-M2-Yt-MTk1-M2-I2-Yz-Y2-N2-E2-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Q3-Mj.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Enquanto orbita um planeta aparentemente morto, a Enterprise parece experimentar um estranho momento de "não existência". O Capitão Kirk descobre um homem chamado Lazarus no planeta, que afirma que o efeito foi causado por seu "inimigo", uma insana versão dele mesmo vinda de um universo paralelo.</info></item>
 
-<item><title>[B]Episode 28[/B]</title>
+<item><title>[B]28 - The City on the Edge of Forever[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/crzQwhM/Star-Trek-The-Cityonthe-Edgeof-Forever.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Depois de receber uma overdose de um perigoso medicamento, o Dr. McCoy age erraticamente e desaparece pelo Guardião da Eternidade, um portal do tempo em um remoto planeta. Kirk e Spock o seguem depois de descobrirem que McCoy de alguma forma alterou o passado, apagando toda a história que eles conhecem.</info></item>
 
-<item><title>[B]Episode 29[/B]</title>
+<item><title>[B]29 - Operation: Annihilate![/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/kgLYkWy/operation-annihilate.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 30[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 31[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 32[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 33[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 34[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 35[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 36[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 37[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 38[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 39[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 40[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 41[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 42[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 43[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 44[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 45[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 46[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode [/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 47[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 48[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode [/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 49[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 50[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 51[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 52[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 53[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 54[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 55[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 56[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 57[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 58[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 59[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 60[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 61[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 62[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 63[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 64[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<info>A Enterprise chega em Deneva—a casa do irmão do Capitão Kirk, Sam—e descobre que todo o planeta foi infestado por grandes alienígenas parecidos com amebas que atacaram e mataram grande parte da população humana. Uma das criaturas ataca Spock, que se oferece para se submeter aos testes do Dr. McCoy.</info></item>

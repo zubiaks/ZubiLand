@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white]Filmes[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Inuyasha[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Dtm7sht/Inuyasha-TV-Series-281988489-large.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/11%20-%20inuyasha/Inuyasha/1.txt</externallink>
+<fanart>https://i.ibb.co/80fR7Td/inuyasha.jpg</fanart>
+<info>A história começa em Tóquio, no Japão, com uma garota de 15 anos chamada Kagome Higurashi. Ela vive com sua mãe, seu avô e seu irmão mais novo, Sota, nas terras de um santuário xintoísta. Quando ela vai procurar seu gato, Buyo, no poço perto de sua casa, um monstro a puxa para o Poço Come-Ossos (骨喰いの井戸 Honekui no Ido?) e a leva consigo. Assim, ela reaparece no período Sengoku do Japão. Aparentemente, um yōkai tinha atacado uma aldeia perto do poço, com objetivo de roubar a Joia de Quatro Almas (四魂の玉 Shikon no Tama?) e matar a sacerdotisa que a protegia. Por Kagome se parecer bastante com a mulher, acaba sendo atacada por um yōkai. Desesperada, ela acaba libertando o hanyou InuYasha, que estava lacrado por uma flecha sagrada em uma árvore. Embora facilmente salve Kagome, ele se revela um problema maior. InuYasha foi selado na árvore há 50 anos pela sacerdotisa Kikyou, que era a guardiã da Joia de Quatro Almas. Ela pediu que, quando morresse, a joia fosse queimada junto a ela, para que ninguém mais pudesse abusar do seu poder. No entanto, Kagome é a reencarnação de Kikyou e traz consigo a Joia de Quatro Almas. Dessa forma, a joia acaba sendo quebrada em vários fragmentos, que se dispersaram por todo o Japão. Cada fragmento é capaz de garantir um grande poder e, por isso, acaba sendo procurado por seres humanos e yōkai. Então, InuYasha e Kagome se propõem a juntar os fragmentos da joia e evitar desastres que ela possa causar.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
