@@ -96,11 +96,11 @@
 <fanart>https://i.ibb.co/M9ZbQ0j/download-1.jpg</fanart>
 <info>O mundo da psicologia está longe de ser estranho para o inusitado Dr. Ichirou Irabu, psiquiatra residente do Hospital Geral de Irabu. Ele e sua charmosa enfermeira Mayumi passam por vários pacientes, cada um sofrendo de uma doença mental que prejudica sua vida cotidiana.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Inuyasha[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/d2N16CW/Inuyasha.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Anime/Series%20Anime/11%20-%20inuyasha/1.txt</externallink>
+<fanart>https://i.ibb.co/jy4W3Vq/AAAABXr7oq-Lz7-PS63-VZa-MZx-TNZmg-Xa-Q7hl-Y0-Zt-PV59-Jb0-JUS4t-By-Uvo3s-Ih-F2h6yihi-HUGq-S9u-YHMd-Rf.jpg</fanart>
+<info>InuYasha, também conhecido como Inuyasha: Um Conto de Fadas Feudal, é uma série de mangá shōnen escrita e ilustrada por Rumiko Takahashi. Foi publicada na revista Weekly Shōnen Sunday entre 13 de novembro de 1996 e 18 de junho de 2008, totalizando 56 volumes tankōbon.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
