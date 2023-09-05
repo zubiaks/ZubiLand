@@ -14,7 +14,9 @@
 <info>No enredo, uma misteriosa criatura sugadora de sal aterroriza a Enterprise e mata seus tripulantes.</info></item>
 
 <item><title>[B]02 - Carlos X[/B]</title>
-<link>https://archive.org/download/07.-o-estranho-charlie-groovy-downs/08.%20O%20equilibrio%20do%20terror%20-%20GroovyDowns.avi</link>
+<link>https://archive.org/download/07.-o-estranho-charlie-groovy-downs_202107/07.%20O%20estranho%20Charlie%20-%20GroovyDowns.mp4$nome= 1</link>
+<link>https://archive.org/download/07.-o-estranho-charlie-groovy-downs_202107/07.%20O%20estranho%20Charlie%20-%20GroovyDowns.avi$nome= 2</link>
+<link>https://archive.org/download/07.-o-estranho-charlie-groovy-downs/08.%20O%20equilibrio%20do%20terror%20-%20GroovyDowns.avi$nome= 3</link>
 <thumbnail>https://i.ibb.co/gmyN3SQ/MV5-BMTQw-NDQz-Njk3-M15-BMl5-Ban-Bn-Xk-Ft-ZTgw-NDY3-MDk0-MDE-V1-SY500-CR0-0-666-500-AL.jpg</thumbnail>
 <fanart></fanart>
 <info>No episódio, a Enterprise pega um garoto instável de 17 anos que passou 14 anos sozinho em um planeta deserto e não tem treinamento e contenção para lidar com seus poderes mentais sobre-humanos com sabedoria.</info></item>
@@ -40,12 +42,56 @@
 <fanart></fanart>
 <info>No episódio, a Enterprise persegue uma embarcação e resgata seus ocupantes Harry Mudd, um vigarista interestelar, e as três mulheres misteriosamente bonitas que ele está transportando para se tornarem esposas de colonos.</info></item>
 
+<item><title>[B]07 - What Are Little Girls Made Of?[/B]</title>
+<link>https://archive.org/download/07.-o-estranho-charlie-groovy-downs_202107/09.%20E%20as%20meninas%20de%20que%20s%C3%A3o%20feitas%20-%20GroovyDowns.mp4$nome= 1</link>
+<link>https://archive.org/download/07.-o-estranho-charlie-groovy-downs_202107/09.%20E%20as%20meninas%20de%20que%20s%C3%A3o%20feitas%20-%20GroovyDowns.avi$nome= 2</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/09.%20E%20as%20meninas%20de%20que%20s%C3%A3o%20feitas%20-%20GroovyDowns.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/09.%20E%20as%20meninas%20de%20que%20s%C3%A3o%20feitas%20-%20GroovyDowns.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/MhwCk63/R.jpg</thumbnail>
+<fanart></fanart>
+<info>À procura do noivo da enfermeira Chapel, renomado exobiologista Roger Korby, a Enterprise visita o gelado planeta Exo III, onde Korby descubriu um antiga máquina que o permite duplicar qualquer pessoa viva em um andróide. Ele planeja usar a máquina para espalhar andróides controlados por ele em toda a Federação.[34] </info></item>
+
+<item><title>[B]08 - Miri[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs/11.%20Mire%20-%20GroovyDowns.mp4$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs/11.%20Mire%20-%20GroovyDowns.avi$nome= 2</link>
+<thumbnail>https://i.ibb.co/rFYcDKx/R.jpg</thumbnail>
+<fanart></fanart>
+<info>Depois de descobrir o que parece ser uma duplicata do planeta Terra, o Capitão Kirk e seu grupo de desembarque encontram uma população devastada por uma estranha doença, que só as crianças parecem ter sobrevivido.[34] </info></item>
+
+<item><title>[B]09 - Dagger of the Mind[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs/10.%20O%20punhal%20imagin%C3%A1rio%20-%20GroovyDowns.mp4$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs/10.%20O%20punhal%20imagin%C3%A1rio%20-%20GroovyDowns.avi$nome= 2</link>
+<thumbnail>https://i.ibb.co/Z22qr1S/OIP.jpg</thumbnail>
+<fanart></fanart>
+<info>Em uma missão de abastecimento para uma colônia de reabilitação para os criminosos insanos, a tripulação da Enterprise descobre que os internos assumiram o controle do hospício e sequestraram Kirk e seus companheiros.[34] </info></item>
+
 <item><title>[B]10 - The Corbomite Maneuver[/B]</title>
 <thumbnail>https://i.ibb.co/YLQVKy1/Star-Trek-The-Corbomite-Maneuver.jpg</thumbnail>
 <link>https://archive.org/download/02.-o-ardil-corbonite-groovy-downs/02.%20O%20Ardil%20Corbonite%20-%20GroovyDowns.mp4$nome= 1</link>
 <link>https://archive.org/download/02.-o-ardil-corbonite-groovy-downs/03.%20As%20mulheres%20de%20Mudd%27s%20-%20GroovyDowns.avi$nome= 2</link>
 <fanart></fanart>
 <info>Na data estelar 1512.2, a USS Enterprise encontra um estranho cubo no espaço. Scotty estuda o objeto porém não consegue determinar como funciona. O Capitão Kirk ordena que a nave se afaste, porém o cubo se aproxima ainda mais e começa a emitir uma perigosa radiação. Kirk não tem outra opção senão destruir o cubo.</info></item>
+
+<item><title>[B]13 - The Conscience of the King[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs/12.%20A%20conci%C3%AAncia%20do%20rei%20-%20GroovyDowns.mp4$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs/12.%20A%20conci%C3%AAncia%20do%20rei%20-%20GroovyDowns.avi$nome= 2</link>
+<thumbnail>https://i.ibb.co/V30812M/OIP-1.jpg</thumbnail>
+<fanart></fanart>
+<info>Enquanto visita um velho amigo, Kirk suspeita que um ator shakespeariano possa na verdade ser o assassino governador de Tarsus IV, onde Kirk cresceu. Kirk convida a companhia de teatro para se apresentar a bordo da Enterprise para poder investigar. Porém, logo tentativas de asassinato começam a ocorrer na nave.[34] </info></item>
+
+<item><title>[B]14 - Balance of Terror[/B]</title>
+<link>https://archive.org/download/07.-o-estranho-charlie-groovy-downs_202107/08.%20O%20equilibrio%20do%20terror%20-%20GroovyDowns.mp4$nome= 1</link>
+<link>https://archive.org/download/07.-o-estranho-charlie-groovy-downs_202107/08.%20O%20equilibrio%20do%20terror%20-%20GroovyDowns.avi$nome= 2</link>
+<thumbnail>https://i.ibb.co/09RSnhw/Star-Trek-Balanceof-Terror.jpg</thumbnail>
+<fanart></fanart>
+<info>Este episódio introduz os romulanos. Além disso, Mark Lenard, que aqui interpreta o Comandante Romulano, faz sua primeira aparição em Star Trek. Posteriormente Lenard iria interpretar Sarek, pai de Spock, em vários episódios e filmes, também aparecendo como o comandante klingon em Star Trek: The Motion Picture. Esses papéis fizeram de Lenard o primeiro ator a interpretar um personagem das três espécies alienígenas mais proeminentes em Star Trek.</info></item>
+
+<item><title>[B]16 - The Galileo Seven[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs/13.%20O%20primeiro%20comando%20-%20GroovyDowns.mp4$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs/13.%20O%20primeiro%20comando%20-%20GroovyDowns.avi$nome= 2</link>
+<thumbnail>https://i.ibb.co/GHn8d6q/R-1.jpg</thumbnail>
+<fanart></fanart>
+<info>Spock e um grupo científico são enviados para estudar o quasar Murasaki 312 a bordo da nave auxiliar Galileu. Durante a pesquisa, a Galileu é forçada a fazer um pouso de emergência no planeta Taurus II, onde a tripulação luta contra seus perigosos habitantes. Enquanto reparos são efeutados, Scotty determina que a nave não tem combústivel suficiente para chegar em órbita com todos os sete passageiros, forçando Spock a contemplar a possibilidade de deixar alguns tripulantes para trás.[34] </info></item>
 
 <item><title>[B](OFF)[/B]</title>
 <link></link>
@@ -54,24 +100,6 @@
 <info></info></item>
 
 <item><title>[B]Episode 03[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 07[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 08[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 09[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -89,25 +117,7 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 13[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 14[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Episode 15[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 16[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
