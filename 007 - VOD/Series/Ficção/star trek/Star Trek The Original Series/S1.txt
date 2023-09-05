@@ -1,13 +1,49 @@
 
+<item><title>[B]00 - The Cage[/B]</title>
+<link>https://archive.org/download/00.-a-jaula-legendado-groovy-downs/00.%20A%20Jaula%20-Legendado%20-%20GroovyDowns.mp4$nome= 1</link>
+<link>https://archive.org/download/00.-a-jaula-legendado-groovy-downs/00.%20A%20Jaula%20-Legendado%20-%20GroovyDowns.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/jZJLWc1/TheCage.jpg</thumbnail>
+<fanart></fanart>
+<info>"The Cage" é o episódio piloto original da série de ficção científica Star Trek e da franquia resultante. Foi completado no início de 1965, porém não foi ao ar em sua forma completa até outubro de 1988. O episódio foi escrito pelo criador da série Gene Roddenberry e dirigido por Robert Butler. Ele foi rejeitado pela NBC em fevereiro de 1965, porém a emissora acabou ordenando um segundo piloto: "Where No Man Has Gone Before". Muito das imagens originais de "The Cage" foram posteriormente incorporadas no episódio em duas partes da primeira temporada: "The Menagerie".</info></item>
+
+<item><title>[B]01 - The Man Trap[/B]</title>
+<link>https://archive.org/download/04.-o-inimigo-interior-groovy-downs/05.%20O%20sal%20da%20terra%20-%20GroovyDowns.mp4$nome= 1</link>
+<link>https://archive.org/download/04.-o-inimigo-interior-groovy-downs/05.%20O%20sal%20da%20terra%20-%20GroovyDowns.avi$nome= 2</link>
+<thumbnail>https://i.ibb.co/x7YhPk1/Star-Trek-The-Man-Trap.jpg</thumbnail>
+<fanart></fanart>
+<info>No enredo, uma misteriosa criatura sugadora de sal aterroriza a Enterprise e mata seus tripulantes.</info></item>
+
+<item><title>[B]02 - Carlos X[/B]</title>
+<link>https://archive.org/download/07.-o-estranho-charlie-groovy-downs/08.%20O%20equilibrio%20do%20terror%20-%20GroovyDowns.avi</link>
+<thumbnail>https://i.ibb.co/gmyN3SQ/MV5-BMTQw-NDQz-Njk3-M15-BMl5-Ban-Bn-Xk-Ft-ZTgw-NDY3-MDk0-MDE-V1-SY500-CR0-0-666-500-AL.jpg</thumbnail>
+<fanart></fanart>
+<info>No episódio, a Enterprise pega um garoto instável de 17 anos que passou 14 anos sozinho em um planeta deserto e não tem treinamento e contenção para lidar com seus poderes mentais sobre-humanos com sabedoria.</info></item>
+
+<item><title>[B]04 - The Naked Time[/B]</title>
+<link>https://archive.org/download/04.-o-inimigo-interior-groovy-downs/06.%20Tempo%20de%20nudez%20-%20GroovyDowns.mp4$nome= 1</link>
+<link>https://archive.org/download/04.-o-inimigo-interior-groovy-downs/06.%20Tempo%20de%20nudez%20-%20GroovyDowns.avi$nome= 2</link>
+<thumbnail>https://i.ibb.co/Y2PT7pr/The-Naked-Time.jpg</thumbnail>
+<fanart></fanart>
+<info>No enredo, uma estranha infecção se espalha pela tripulação da Enterprise, destruindo suas inibições emocionais.</info></item>
+
+<item><title>[B]05 - The Enemy Within[/B]</title>
+<link>https://archive.org/download/04.-o-inimigo-interior-groovy-downs/04.%20O%20inimigo%20interior%20-%20GroovyDowns.mp4$nome= 1</link>
+<link>https://archive.org/download/04.-o-inimigo-interior-groovy-downs/04.%20O%20inimigo%20interior%20-%20GroovyDowns.avi$nome= 2</link>
+<thumbnail>https://i.ibb.co/FJ0HxZw/Star-Trek-The-Enemy-Within.jpg</thumbnail>
+<fanart></fanart>
+<info>No enredo, um problema do transporte divide o Capitão Kirk em duas versões dele mesmo, uma boa e outra má, porém nenhuma consegue funcionar separadamente por muito tempo.</info></item>
+
 <item><title>[B]06 - Mulheres de Mudd[/B]</title>
-<link>https://archive.org/download/02.-o-ardil-corbonite-groovy-downs/03.%20As%20mulheres%20de%20Mudd%27s%20-%20GroovyDowns.mp4</link>
 <thumbnail>https://i.ibb.co/Y86Lk8s/Harcourt-Fenton-Mudd-2266.jpg</thumbnail>
+<link>https://archive.org/download/02.-o-ardil-corbonite-groovy-downs/03.%20As%20mulheres%20de%20Mudd%27s%20-%20GroovyDowns.mp4$nome= 1</link>
+<link>https://archive.org/download/02.-o-ardil-corbonite-groovy-downs/02.%20O%20Ardil%20Corbonite%20-%20GroovyDowns.avi$nome= 2</link>
 <fanart></fanart>
 <info>No episódio, a Enterprise persegue uma embarcação e resgata seus ocupantes Harry Mudd, um vigarista interestelar, e as três mulheres misteriosamente bonitas que ele está transportando para se tornarem esposas de colonos.</info></item>
 
 <item><title>[B]10 - The Corbomite Maneuver[/B]</title>
-<link>https://archive.org/download/02.-o-ardil-corbonite-groovy-downs/02.%20O%20Ardil%20Corbonite%20-%20GroovyDowns.mp4</link>
 <thumbnail>https://i.ibb.co/YLQVKy1/Star-Trek-The-Corbomite-Maneuver.jpg</thumbnail>
+<link>https://archive.org/download/02.-o-ardil-corbonite-groovy-downs/02.%20O%20Ardil%20Corbonite%20-%20GroovyDowns.mp4$nome= 1</link>
+<link>https://archive.org/download/02.-o-ardil-corbonite-groovy-downs/03.%20As%20mulheres%20de%20Mudd%27s%20-%20GroovyDowns.avi$nome= 2</link>
 <fanart></fanart>
 <info>Na data estelar 1512.2, a USS Enterprise encontra um estranho cubo no espaço. Scotty estuda o objeto porém não consegue determinar como funciona. O Capitão Kirk ordena que a nave se afaste, porém o cubo se aproxima ainda mais e começa a emitir uma perigosa radiação. Kirk não tem outra opção senão destruir o cubo.</info></item>
 
@@ -17,31 +53,7 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 01[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 02[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]Episode 03[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 04[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 05[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
