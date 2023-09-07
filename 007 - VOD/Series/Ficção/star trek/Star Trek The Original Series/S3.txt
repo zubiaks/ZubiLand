@@ -1,366 +1,145 @@
-<item><title>[B]01 - [/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
 
-<item><title>[B]02 - [/B]</title>
+<item><title>[B]01 - Spock's Brain[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/C6bM2LP/download.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A USS Enterprise é invadida por uma força alienígena que rouba o cerébro de Spock, fazendo com que Kirk e McCoy entrem em uma corrida desesperada para recuperá-lo.</info></item>
 
-<item><title>[B]03 - [/B]</title>
+<item><title>[B]02 - The Enterprise Incident[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/FwTWv7h/MV5-BNWY3-NGZh-NGUt-Yz-Mw-Mi00-ZGQ2-LTk2-ZTYt-Mm-Rh-Mz-Nl-Mj-Zm-OGM3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTU0-ODQz.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Aparentemente agindo de forma agitada e irracional, Kirk inexplicavelmente ordena que a Enterprise cruze a Zona Neutra até o espaço romulano, onde ela é capturada e Kirk é levado como prisioneiro para a nave inimiga.</info></item>
 
-<item><title>[B]04 - [/B]</title>
+<item><title>[B]03 - The Paradise Syndrome[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/jTSCjWJ/MV5-BOGNl-ZGU2-OGIt-Njk2-Ni00-ZWNi-LWI3-Njkt-Zj-Bh-Nj-Ez-Yj-Yx-Yjlm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTU0-ODQz.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Um misterioso dispositivo alienígena em um planeta com uma cultura predominantemente nativa americana apaga a memória do capitão Kirk, e ele começa a viver com eles como um membro da tribo.</info></item>
 
-<item><title>[B]05 - [/B]</title>
+<item><title>[B]04 - And the Children Shall Lead[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/z8Mfswd/MV5-BNDAw-ZGRi-Mz-Yt-MGM1-MS00-OGIy-LThj-NTUt-Yzg1-ZTdk-MDg1-Ym-I2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTU0-ODQz-N.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A tripulação da Enterprise resgata um grupo de crianças presas em um planeta, junto com seu perigoso amigo "imaginário".</info></item>
 
-<item><title>[B]06 - [/B]</title>
+<item><title>[B]05 - Is There in Truth No Beauty?[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/4Z53Rv7/isthere.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A Enterprise viaja com um embaixador alienígena que deve ficar dentro de uma mala especial preta porque sua aparência causa insanidade.</info></item>
 
-<item><title>[B]07 - [/B]</title>
+<item><title>[B]06 - Spectre of the Gun[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/0rsKzgr/Kirk-and-landing-party-in-Tombstone.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Depois de transgredirem as regras de um planeta alienígena, o Capitão Kirk, Spock, McCoy, Scotty e Chekov são forçados a reencenar o famoso tiroteio do Curral O.K., porém eles estão no lado perdedor da disputa.</info></item>
 
-<item><title>[B]08 - [/B]</title>
+<item><title>[B]07 - Day of the Dove[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/QYXqcxb/Kirk-and-Kang-fight.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Uma forma de vida alienígena não corpórea e baseada em energia, que se alimenta de emoções negativas (como medo, raiva, ódio), faz a tripulação da Enterprise entrar em um conflito brutal contra uma nave klingon.</info></item>
 
-<item><title>[B]09 - [/B]</title>
+<item><title>[B]08 - For the World Is Hollow and I Have Touched the Sky[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/yPpGn58/sideboobnomore.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Quando McCoy descobre que está morrendo de uma doença incurável, a tripulação da Enterprise corre para impedir que um asteróide colida com um planeta da Federação, apenas para descobrir que o asteróide é, na verdade, uma nave alienígena disfarçada. Eles descobrem uma civilização interira vivendo dentro da nave que acreditam estar na verdade em um planeta, cujo "Óraculo" proíbe qualquer tentativa para descobrir a verdade.</info></item>
 
-<item><title>[B]10 - [/B]</title>
+<item><title>[B]09 -The Tholian Web [/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/ZLk8kfJ/The-Tholian-Web-Star-Trek.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Ao tentar resgatar a nave estelar USS Defiant, o Capitão Kirk desaparece quando a nave morta é puxada para o interespaço. A Enterprise é então atacada pela espécie local, os tolianos. Os episódios "In a Mirror, Darkly", de Star Trek: Enterprise, servem como continuação deste episódio. </info></item>
 
-<item><title>[B]11 - [/B]</title>
+<item><title>[B]10 - Plato's Stepchildren[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/jzxRH2H/Plato-Stepchildren.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A tripulação da Enterprise encontra uma intemporal e maliciosa espécie de humanóides psíquicos que afirmam ter organizado sua sociedade com base nos ideais da Grécia Antiga.</info></item>
 
-<item><title>[B]12 - [/B]</title>
+<item><title>[B]11 - Wink of an Eye[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/fSQYyJg/MV5-BNTky-OGQy-ZDQt-ZGQz-NS00-Yz-Iz-LWE3-N2-Qt-MDIx-Mm-M5-ZWEz-MTI2-Xk-Ey-Xk-Fqc-Gde-QXVy-MDc4-ODAz.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Alienígenas invisíveis e "acelarados no tempo" assumem o comando da Enterprise para abduzir a tripulação para serem usados como "estoque genético".</info></item>
 
-<item><title>[B]13 - [/B]</title>
+<item><title>[B]12 - The Empath[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/HBn9Ppv/MV5-BOWEy-ODNh-Mm-Et-Yz-I2-ZS00-Nm-M2-LWJi-Y2-Et-OTE2-Nj-Bi-OTY4-NDA2-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Iy-Mz.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Enquanto visitam um planeta condenado, o grupo de desembarque se torna cobaia de experimentos torturosos para testar uma espécie empática.</info></item>
 
-<item><title>[B]14 - [/B]</title>
+<item><title>[B]13 - Elaan of Troyius[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/2dLg9vS/Elaanoftroyius.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O Capitão Kirk transporta um princesa mimada que deve levar paz para um sistema planetário em guerra.</info></item>
 
-<item><title>[B]15 - [/B]</title>
+<item><title>[B]14 - Whom Gods Destroy[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/CsvdGhr/MV5-BYWEw-M2-Vh-NWEt-Y2-Ey-NS00-Yz-My-LTgz-NTEt-NWU2-N2-Q4-Zm-Q1-OTM0-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Ux-ND.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O Capitão Kirk visita um hospício e confronta um insano capitão de nave estelar que acredita estar destinado a controlar o universo.</info></item>
 
-<item><title>[B]16 - [/B]</title>
+<item><title>[B]15 - Let That Be Your Last Battlefield[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/CmBzwgT/Let-That-Be-Your-Last-Battlefield.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A Enterprise encontra os dois últimos sobreviventes de um planeta devastado pela guerra, que ainda estão determinados a destruir um ao outro a bordo da nave.</info></item>
 
-<item><title>[B]17 - [/B]</title>
+<item><title>[B]16 - The Mark of Gideon[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/QnN82pH/MV5-BOWMx-OTA2-Y2-It-ZWVj-ZS00-OWNk-LWEz-Yj-Yt-M2-Qw-ZTRh-Ym-Fm-Mj-Qw-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Iy-Mz.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Uma espécie de alienígenas de um planeta superpovoado sequestra o Capitão Kirk para tentar resolver seus problemas.</info></item>
 
-<item><title>[B]18 - [/B]</title>
+<item><title>[B]17 - That Which Survives[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/N3VD8rT/Losira-and-Enterprise-Crew.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A tripulação da Enterprise visita um posto abandonado guardado por um misterioso computador.</info></item>
 
-<item><title>[B]19 - [/B]</title>
+<item><title>[B]18 - The Lights of Zetar[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/XtQn4MC/MV5-BNWNi-Zm-Jm-YTgt-NWRl-NS00-MGJj-LWE1-N2-It-YTkz-MDIy-ODA1-Mz-E2-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Iy-Mz-M.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Uma estranha forma de vida alienígena baseada em energia ameaça destruir a estação Memory Alpha e a Enterprise.</info></item>
 
-<item><title>[B]20 - [/B]</title>
+<item><title>[B]19 - Requiem for Methuselah[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/rcbB9RB/MV5-BNGFk-Mj-Rl-MDYt-ZWYx-Ny00-ZWUz-LWJl-Ym-Et-YTQw-Yj-Q5-Nzhm-Mz-M2-Xk-Ey-Xk-Fqc-Gde-QXVy-MDEw-Mz-Q.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A tripulação da Enterprise encontra um humano imortal que vive de forma reclusa em seu próprio planeta.</info></item>
 
-<item><title>[B]21 - [/B]</title>
+<item><title>[B]20 - The Way to Eden[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/cQ6db2T/MV5-BMj-Mw-Mz-I2-ODc2-MF5-BMl5-Ban-Bn-Xk-Ft-ZTgw-NDM1-MTA1-MDE-V1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A Enterprise é sequestrada por um médico criminoso e seus leais seguidores que tentam encontrar o paraíso.</info></item>
 
-<item><title>[B]22 - [/B]</title>
+<item><title>[B]21 - The Cloud Minders[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Strd7xk/MV5-BMz-E2-Mz-M0-MDg1-OF5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Nj-M1-MTE1-MDE-V1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Kirk corre contra o tempo para adquirir minerais para lutar contra uma praga que está infestando um planeta à beira de uma guerra civil.[34] </info></item>
 
-<item><title>[B]23 - [/B]</title>
+<item><title>[B]22 - The Savage Curtain[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/VNy8yM4/MV5-BMTBi-NWEz-Zm-Qt-NGRl-My00-MGIw-LWFk-OWQt-YTBk-ZDQ1-Y2-Zj-OTAx-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Iy-Mz-Mx.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Alienígenas forçam Kirk e Spock a batalhar vilões ilusórios em um teste de bem contra o mal.</info></item>
 
-<item><title>[B]24 - [/B]</title>
+<item><title>[B]23 - All Our Yesterdays[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/qsZ4yYg/MV5-BMDc3-NWFi-ZTkt-ZTYx-YS00-MDkx-LTlm-OWYt-Mzcy-MTJh-Nm-E0-NGEy-Xk-Ey-Xk-Fqc-Gde-QXVy-MDc4-ODAz-OA.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Kirk, Spock e McCoy ficam presos no passado de um mundo ameaçado por uma supernova.</info></item>
 
-<item><title>[B]25 - [/B]</title>
+<item><title>[B]24 - Turnabout Intruder[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/SdMXbM3/MV5-BODEz-YTQ2-NTgt-Zj-Uz-OS00-OTE5-LTg0-ZDgt-Ym-Jk-ODI3-Yjcx-YTUz-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Iy-Mz-Mx.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A consciência de Kirk fica presa no corpo de uma mulher que está determinada a matá-lo e assumir o comando da Enterprise enquanto habita o corpo do Capitão.</info></item>
 
-<item><title>[B]26 - [/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-
-<item><title>[B]Episode 32[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 33[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 34[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 35[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 36[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 37[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 38[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 39[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 40[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 41[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 42[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 43[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 44[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 45[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 46[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode [/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 47[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 48[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode [/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 49[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 50[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 51[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 52[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 53[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 54[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 55[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 56[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 57[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 58[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 59[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 60[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 61[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 62[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 63[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B]Episode 64[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
