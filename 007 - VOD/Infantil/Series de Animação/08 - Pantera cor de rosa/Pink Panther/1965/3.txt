@@ -1,48 +1,78 @@
 
-<item><title>[B][/B]</title>
+<item><title>[B](OFF)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]We Give Pink Stamps[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/0KG9gZm/We-Give-Pink-Stamps.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Late at night, the Pink Panther hides in the Gambles Department Store, and spends the night trying to hide from the night-shift janitor (Big Nose), while also using many of the products on display at the store.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Dial "P" for Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/xjtfQxq/Dial-29-for-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A masked burglar tries numerous times to crack a safe, but this safe happens to be the Pink Panther's residence.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Sink Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/PrrLNTr/Sink-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A big-game hunter from Texas (voiced by Paul Frees), while on safari in Africa, uses a "Noah's Ark" plot to catch animals in Africa to make fur clothing for his wife, Nora, but he realizes he has yet to catch a pink panther to complete his haul, and so, the hunter travels the land searching for the Pink Panther.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pickled Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/g9hbJfb/Pickled-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A homeless Pink Panther is befriended by a drunk partygoer (voiced by Mel Blanc), who offers him a place to spend the night, but tries to hide him from his short-tempered wife (also voiced by Blanc), who hates him bringing "drunken bums" into the house.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pinkfinger[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/KGZn63w/download-2.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>With the help of an offscreen voiceover (voiced by Paul Frees), the Pink Panther becomes a secret agent and attempts to track down various criminal espionage agents. But he runs into bad luck every time he attempts to spy on the agents, despite constant prodding from the narrator.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Shocking Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/SKcc4vS/Shocking-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther tries to have a quiet afternoon, but is interrupted by an off-screen voiceover (voiced by Larry Storch) persuading him to try various do-it-yourself tasks around the house. The Panther fails miserably at these tasks, growing more and more agitated with the voiceover's prodding all the while.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Ice[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/LNsQQrz/download-3.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>In South Africa, the Pink Panther attempts to recover diamonds stolen from him by Deveraux and Hoskins, two thieving English diamond hunters. The pair's attempts to get the Panther out of the picture backfire thanks to their adversary's wit.</info></item>
+
+<item><title>[B]The Pink Tail Fly[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/s2NZ7B6/The-Pink-Tail-Fly.webp</thumbnail>
+<fanart></fanart>
+<info>After watching late-night television, the Pink Panther has a late-night battle with a mosquito who constantly interrupts his sleep.</info></item>
+
+<item><title>[B]Pink Panzer[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/JnM5vDM/Pink-Panzer.webp</thumbnail>
+<fanart></fanart>
+<info>An offscreen voiceover (voiced by Paul Frees) − later revealed to be the Devil −, pits the Pink Panther against his neighbor, Harry (also voiced by Frees), over unreturned garden tools.</info></item>
+
+<item><title>[B]An Ounce of Pink[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/NmvfLw7/An-Ounce-of-Pink.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther encounters and purchases a talking weight machine (voiced by Larry Storch), who claims to be able to not just calculate weight, but also predict the future. However, the Panther quickly develops animosity towards the weight machine after its predictions keep causing him misfortune.</info></item>
+
+<item><title>[B]Reel Pink[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/cXBZVkp/Reel-Pink.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther goes fishing, but eventually gets twice sabotaged by one of his bait worms. Our hero then ends up in a fight against an aggressive crab that he accidentally reels in.</info></item>
+
+<item><title>[B]Bully for Pink[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/GH3bhzZ/Bully-for-Pink.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther becomes a toreador, but his cape has been devoured by moths. Desperate to enter the upcoming bullfight at the arena, he spots Marvelo, a magician, on his way to an upcoming performance. He swipes the magician's cloak, and uses it in place of a toreador's cape. Once he brings it out against the rather aggressive bull, it results in an illusion-filled bullfight, full of flowers, birdcages, and a short-tempered magic rabbit appearing out of nowhere.</info></item>
