@@ -1,48 +1,18 @@
 
-<item><title>[B][/B]</title>
+<item><title>[B](OFF)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]The Pink Phink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Tk6y2gP/Phink.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther sabotages the plans of a housepainter (Big Nose) who wants to paint a house blue, and counters this by painting the house pink.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]pink pajamas[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/ggYFbq6/download-1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<info>The Pink Panther sneaks into a house to stay the night, but ends up having to hide from the residence's drunk owner.</info></item>
