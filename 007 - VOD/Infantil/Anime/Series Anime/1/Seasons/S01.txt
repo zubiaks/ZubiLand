@@ -173,3 +173,150 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
+
+<item><title>[B]S01E26 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E27 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E28 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E29 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E30 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E31 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E32 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E33 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E34 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E35 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E36 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E37 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E38 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E39 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E40 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E41 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E42 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E43 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E44 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E45 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]S01E46 [/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>

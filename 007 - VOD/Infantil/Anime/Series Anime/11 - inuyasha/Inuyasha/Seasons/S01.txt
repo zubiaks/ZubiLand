@@ -1,175 +1,315 @@
 
-<item><title>[B]S01E01 [/B]</title>
+<item><title>[B]S01E09 Entra o Shippo... Além disso, os incríveis Thunder Brothers![/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/09%C2%BA%20Epis%C3%B3dio%20Entra%20em%20Cena%20Shippo%20-%20OsIrm%C3%A3os%20Rel%C3%A2mpago%20Hiten%20e%20Manten.avi$nome= MP4</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/09%C2%BA%20Epis%C3%B3dio%20Entra%20em%20Cena%20Shippo%20-%20OsIrm%C3%A3os%20Rel%C3%A2mpago%20Hiten%20e%20Manten.mp4$nome= MKV</link>
+<thumbnail>https://i.ibb.co/X50Md0p/Screen-Shot-2015-11-09-at-9-16-29-AM.png</thumbnail>
+<fanart></fanart>
+<info>Inuyasha e Kagome se deparam com Shippo, uma raposa órfã travessa yōkai, que busca pegar um pedaço da Joia Shikon para vingar a morte de seu pai, que recentemente foi morto por Hiten e Manten dos Irmãos Trovão. Kagome é raptado por Manten para as montanhas, depois de tentar defender Shippo. Inuyasha e Shippo viajam para as montanhas, vendo Kagome mantido refém.</info></item>
+
+<item><title>[B](OFF)[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]S01E02 [/B]</title>
+<item><title>[B]S01E01 A menina que venceu o tempo... e o Menino que Acabou de Ser Superado[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/yft7S7z/sz-Wg7s-LVMVCVBHgrm-Mr-Q9t-FHVbf.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Kagome Higurashi, vivendo no atual Japão de 1997, vai à procura de seu gato perdido em seu santuário familiar em seu décimo quinto aniversário, apenas para descobrir que um terrível demônio fêmea centopeia reviveu no santuário bem. O demônio, chamado Mistress Centipede, agarra Kagome e a arrasta pelo poço. Depois de cair no poço, ela se vê transportada de volta no tempo para uma vila no Japão Feudal. Lá, Kagome encontra a Sacerdotisa Kaede, que sente que Kagome é a reencarnação de Kikyo, a irmã morta de Kaede que era uma poderosa sacerdotisa. A vila logo é atacada por Mistress Centipede que seguiu Kagome através do poço e está procurando a lendária Shikon Jewel, uma joia de cristal de inacreditável poder místico.</info></item>
 
-<item><title>[B]S01E03 [/B]</title>
+<item><title>[B]S01E02 Buscadores da Joia Sagrada[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/L9cX7zz/download.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Depois de ser libertada da Árvore Sagrada das Eras por Kagome Higurashi, em seu décimo quinto aniversário, Inuyasha planeja roubar a Joia Shikon, usando seus poderes para se tornar um yōkai cão de pleno direito. Kaede lança as contas espirituais da subjugação em Inuyasha, dando a Kagome o poder de controlá-lo comicamente com uma única palavra falada. Inuyasha e Kagome mais tarde perseguem um demônio corvo que rouba e absorve a Joia Shikon. Kagome é capaz de atirar no corvo com um arco e flecha, o que consequentemente quebra a Joia Shikon em dezenas de fragmentos que caem por todas as terras do Japão feudal.</info></item>
 
-<item><title>[B]S01E04 [/B]</title>
+<item><title>[B]S01E03 Down the Rabbit Hole and Back Again[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/88ZvW5K/Ep3.png</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Com a Joia Shikon quebrada, cada fragmento tem a capacidade de desenvolver ainda mais e melhorar drasticamente as habilidades de um yōkai e conceder qualquer desejo. Inuyasha se irrita ao pensar em ter que coletar as peças dispersas da Joia Shikon, tornando seu próprio desejo de se tornar um cão-demônio completo uma impossibilidade. Kagome logo cai no Poço do Devorador de Ossos, depois de ser invadido por Yura do Cabelo, que rouba um fragmento da Joia Shikon de Kagome. Enquanto isso, Inuyasha deve enfrentar as marionetes humanas controladas por Yura, mas ele foge devido ao ferimento brutal do idoso Kaede.</info></item>
 
-<item><title>[B]S01E05 [/B]</title>
+<item><title>[B]S01E04 Yura of the Demon-Hair[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/zVHyGcS/Episode-3-2.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Inuyasha viaja pelo Poço do Devorador de Ossos para trazer Kagome de volta ao Japão Feudal para localizar o paradeiro de Yura. Enquanto isso, Kaede percebe que Kagome é realmente Kikyo reencarnado. Inuyasha logo é pega em uma teia de cabelos e caveiras, enquanto Yura o ataca infinitamente tentando reivindicar seu fragmento da Joia Shikon para si mesma. Kagome descobre que um crânio vermelho encontrado na torre de cabelo é a fonte da força de Yura. Ela destrói o crânio vermelho, revelando um pente vermelho usado para pentear o cabelo do falecido - o verdadeiro ser de Yura - que ela também acaba destruindo, matando Yura com sucesso.</info></item>
 
-<item><title>[B]S01E06 [/B]</title>
+<item><title>[B]S01E05 Aristocratic Assassin, Sesshomaru[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/B3PjB9J/MV5-BYTRm-Mj-M4-ZDQt-OTY0-YS00-OGIy-LWI0-OTQt-ZWQz-Mj-U5-ZTdk-Mzk3-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Ex-Mzk5.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O servo de pulgas yōkai de Inuyasha, Myoga, chega, no qual Kagome descobre a verdade sobre as mortes de Inu no Taisho e Izayoi, pai e mãe de Inuyasha, respectivamente. Revelando ser o meio-irmão de Inuyasha, Sesshomaru, junto com seu servo imp yōkai Jaken, o confronta, levando o Izayoi revivido cativo. Izayoi se liberta e leva Inuyasha e Kagome para um mundo espiritual, onde é reconhecido que o rosto de Izayoi não reflete na água.</info></item>
 
-<item><title>[B]S01E07 [/B]</title>
+<item><title>[B]S01E06 Tetsusaiga, a Espada Fantasma[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/b3KKcNH/01dd16139ee952ce9dba34ee0fada45ed95624d24857acf3b5e6601b64652f39-RI-TTW-SX720-FMjpg.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Kagome percebe que o mundo espiritual é uma ilusão para descobrir a localização do túmulo de Inu no Taisho. Pouco antes de Inuyasha ser completamente absorvido pelo Mu-onna, Kagome consegue libertá-lo, no entanto, Sesshomaru descobre que a tumba estava escondida em uma Pérola Negra no fundo do olho direito de Inuyasha. Sesshomaru ativa um portal do Pérola Negra, enquanto Inuyasha e Kagome seguem logo atrás dele. Dentro da tumba está Tetsusaiga, a lendária espada de Inu no Taisho, pela qual Inuyasha luta contra Sesshomaru por sua posse.</info></item>
 
-<item><title>[B]S01E08 [/B]</title>
+<item><title>[B]S01E07 Confronto! Inuyasha x Sesshomaru![/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/PN9gq9P/1447333397-e5998413c016a2110290d33000078ceb.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Kagome é capaz de remover Tetsusaiga de seu altar, no qual mais tarde dá a Inuyasha. Depois que Sesshomaru lembra Inuyasha que o segundo é um yōkai mestiço, o primeiro reverte para sua forma de yōkai de cão para testar o poder da espada, subindo até o topo da tumba. Inuyasha é capaz de perfurar severamente Sesshomaru com Tetsusaiga, derrotando-o. Inuyasha e Kagome retornam à aldeia, com o Pérola Negra retornando em segurança ao olho direito de Inuyasha.</info></item>
 
-<item><title>[B]S01E09 [/B]</title>
+<item><title>[B]S01E08 O Sapo que Seria o Príncipe[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/tpX6L06/Episodio-008.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Inuyasha e Kagome conhecem um jovem samurai chamado Amari Nobunaga. Ele os leva a um castelo onde um sapo vingativo yōkai possui o príncipe reinante. Ao cair da noite, os três se infiltram no castelo para resgatar a cativada princesa Tsuyu. O príncipe yōkai do sapo, que tem um fragmento da Joia Shikon dentro dele, os ataca e leva Tsuyu para uma sala cheia de almas de mulheres. Os outros logo chegam e conseguem libertar Tsuyu. Inuyasha e Kagome são capazes de sacar o sapo yōkai e reivindicar seu fragmento da Joia Shikon.</info></item>
 
-<item><title>[B]S01E10 [/B]</title>
+<item><title>[B]S01E10 Phantom Showdown: The Thunder Brothers vs. Tetsusaiga[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/BtHXbhj/download.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Segue-se uma batalha entre Inuyasha e Hiten. Enquanto isso, Shippo usa seus truques ilusórios para distrair Manten de Kagome. Inuyasha assassina Manten com Tetsusaiga. Hiten morde a testa de Manten para fundir-se com os cacos da Joia Shikon obtidos, aumentando duas vezes em força. Separado de Tetsusaiga, Inuyasha parece impotente para derrotar Hiten. No entanto, a espada é invocada pela bainha, permitindo que Inuyasha desferir o golpe final.</info></item>
 
-<item><title>[B]S01E11 [/B]</title>
+<item><title>[B]S01E11 Terror da Antiga Máscara de Noh[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/tcjm1nj/https-pictures-betaseries-com-banners-episodes-1234-98b1b7b6efc6c7ef60027d5b9428fdff.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Kagome volta ao presente para voltar à escola. O avô de Kagome é atacado por uma antiga máscara de Noh que quebrou os talismãs, na qual ele é internado em um hospital. A máscara de Noh não vai parar em nada para ganhar um corpo próprio. Kagome deve proteger os cacos da Joia Shikon da máscara Noh. Sota Higurashi, irmão mais novo de Kagome, traz Inuyasha do passado em uma tentativa de salvar Kagome.</info></item>
 
-<item><title>[B]S01E12 [/B]</title>
+<item><title>[B]S01E12 The Soul Piper and the Mischievous Little Soul[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/zFDFNDC/MV5-BMTEw-Nz-Qz-N2-Et-Yz-Nh-Yi00-Mz-Y2-LWIy-ZWIt-YWVl-NWNh-ZDk0-M2-Uw-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Ex-Mz.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Inuyasha vê um yōkai benevolente chamado Tatarimokke, conduzindo as almas de crianças mortas com sua melodia. É inofensivo quando seus olhos permanecem fechados, mas torna-se temível quando seus olhos são abertos. Enquanto isso, Kagome encontrou o espírito vingativo de Mayu, a irmã mais velha do amigo comatoso de Sota, Satoru. Mayu é uma provável candidata a ser levada para o submundo, a menos que ela se alivie do ódio por sua mãe e ciúmes de seu irmão mais novo.</info></item>
 
-<item><title>[B]S01E13 [/B]</title>
+<item><title>[B]S01E13 O Mistério da Lua Nova e o Inuyasha de cabelos pretos[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/MZYFBTR/1200x675.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Inuyasha, Kagome e Shippo salvam uma garota chamada Nazuna de ser atacada por cabeças de aranha. O sacerdote de um santuário próximo permite que os três fiquem, com a proteção de sutras. Depois de serem atacados por cabeças de aranha à noite, Kagome e Shippo logo descobrem que Inuyasha se torna totalmente humano na fase da lua nova. Sabe-se que o sacerdote está disfarçado de cabeça de aranha, já que Inuyasha é vulnerável contra ele. Ao nascer do sol, Inuyasha é capaz de destruir a cabeça da aranha.</info></item>
 
-<item><title>[B]S01E14 [/B]</title>
+<item><title>[B]S01E14 Kikyo's Stolen Ashes[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/0JHwwqX/MV5-BMDY2-YTlk-OGYt-Nz-Q3-My00-Nm-Rk-LWFm-MWQt-ZWFj-NDE4-ZDY2-NTg3-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Ex-Mzk5.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>À meia-noite, Inuyasha vislumbra um demônio feiticeiro ogresso chamado Urasue, que carrega o cheiro do solo do cemitério e o sangue de Kaede. Inuyasha, Kagome e Shippo vão para a aldeia pela manhã, onde logo descobrem que as cinzas de Kikyo foram roubadas. Os três prometem ajudar Kaede a recuperar as cinzas. Enquanto isso, Urasue despertou o corpo de Kikyo, mas fica desapontado ao deduzir que a alma já foi reencarnada.</info></item>
 
-<item><title>[B]S01E15 [/B]</title>
+<item><title>[B]S01E15 Return of the Tragic Priestess, Kikyo[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/P1GmScJ/MV5-BYWI0-Zjdl-YTkt-YWRj-Mi00-OTI0-LWIw-NDgt-Mj-Jh-ZDA4-Mm-Ey-OWVl-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Ex-Mzk5.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Urasue sequestra Kagome para trazer Kikyo de volta à vida. A alma transmitida sai de Kagome e entra em Kikyo quando Inuyasha involuntariamente chama o nome deste último. Uma Kikyo revivida está confusa, mas também enfurecida e agora tenta destruir Inuyasha por traí-la cinquenta anos atrás. Quando Inuyasha grita de dor, Kagome chama a alma de volta ao seu corpo, deixando Kikyo chafurdando em ódio. Inuyasha tenta salvar Kikyo de cair de um penhasco, mas sem sucesso. Em seguida, relembra a época da traição, há cinquenta anos.</info></item>
 
-<item><title>[B]S01E16 [/B]</title>
+<item><title>[B]S01E16 Mão Mística do Monge Amoroso, Miroku[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/S5wKpHc/43079.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Miroku é introduzido como um jovem monge lecherous, em busca dos fragmentos da Joia Shikon. Ele encontra Kagome e discretamente rouba seus cacos da Joia Shikon. Inuyasha logo o segue para um okiya na esperança de recuperá-los. Miroku libera o vazio do Túnel de Vento amaldiçoado em sua mão direita, no entanto Kagome o impede de fazê-lo. Miroku então revela a fonte de sua maldição, que foi infligida pelo yōkai Naraku, que está atrás da Joia Shikon há cinquenta anos.</info></item>
 
-<item><title>[B]S01E17 [/B]</title>
+<item><title>[B]S01E17 Tinta Amaldiçoada do Pintor do Inferno[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/2nFt2R4/Hell-painter.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Um artista errante é banido de um castelo, depois de ser negado suas habilidades únicas como um senhor da guerra. Miroku percebe demônios de tinta ao redor do castelo, nos quais são pinturas criadas pelo artista. É revelado que um fragmento da Joia Shikon é responsável por dar vida a essas pinturas. Miroku usa o Túnel de Vento para atrair os demônios de tinta para o vazio. O fragmento da Joia Shikon deve ser recuperado antes que o artista tente escapar. No entanto, os demônios da tinta realmente devoram a carne do artista, devido às suas ambições malévolas.</info></item>
 
-<item><title>[B]S01E18 [/B]</title>
+<item><title>[B]S01E18 Naraku e Sesshomaru unem forças[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/dMQbqKT/Naraku-and-sesshomaru-join-forces.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sesshomaru recebe de Naraku um braço humano com um fragmento da Joia Shikon embutido nele como um meio de empunhar Tetsusaiga. Sesshomaru se aproxima de Inuyasha, exigindo a posse da espada. Enquanto Jaken invoca almas demoníacas escondidas nas montanhas, Sesshomaru demonstra o poder de Tetsusaiga. Enquanto Miroku defende usando o Túnel de Vento, Sessomaru liberta as vespas demoníacas conhecidas como Saimyōshō, enquanto Miroku descobre que essas vespas são capazes de envenenar sua mão direita.</info></item>
 
-<item><title>[B]S01E19 [/B]</title>
+<item><title>[B]S01E19 Vá para casa no seu próprio tempo, Kagome![/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/TM29Vsh/AAAABbu00-RGa-BYCWIK0w-Qy9v2-IZmzap-Se-Mazkw-LBABwm-Yzukm164fl-DFao-Is-GLOBS16w-ON5l6hmui-Vf-Bi-Lp5o.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Kagome tenta atirar no braço humano de Sesshomaru com arco e flecha, mas se machuca no processo. Inuyasha diz a Shippo e Miroku para levar Kagome de volta ao Poço do Devorador de Ossos. Embora Inuyasha seja capaz de retomar a posse de Tetsusaiga, ele cai inconsciente. Sesshomaru descarta seu braço decepado, enquanto o fragmento da Joia Shikon é devolvido a Naraku. Inuyasha força Kagome de volta à sua própria era, pegando seus cacos de joias e bloqueando o Poço do Devorador de Ossos para garantir que ela não retorne.</info></item>
 
-<item><title>[B]S01E20 [/B]</title>
+<item><title>[B]S01E20 Vilão desprezível! O Mistério de Onigumo![/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/x5ctvSX/MV5-BODNi-N2-Yx-OTgt-OTdl-Mi00-NDMz-LWEz-ODct-YTZm-Mz-Vh-Nz-U5-Mzgy-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Ex-Mzk5.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Kaede revela a Inuyasha e Miroku uma caverna próxima, na qual ela e Kikyo uma vez cuidaram de um ladrão gravemente queimado chamado Onigumo. No entanto, este ladrão acabou cobiçando Kikyo e permitiu que seu corpo fosse consumido pelo yōkai de seu desejo por ela, assim criado que é conhecido como Naraku. Naraku logo libera um Rouyakan corrompido sobre os três, na medida em que Inuyasha está em um estado enfraquecido. Rouyakan retorna para um segundo encontro, com um fragmento de joia embutido em sua cabeça por Naraku, causando pânico para os três.</info></item>
 
-<item><title>[B]S01E21 [/B]</title>
+<item><title>[B]S01E21 Naraku's True Identity Unveiled[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/HFgv4sq/Royakan-giant.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Kagome decide ir a um encontro com seu colega de escola Hojo, mas cancela em cima da hora. Miroku e Kaede tentam proteger um Inuyasha ferido de Rouyakan. Enquanto isso, Shippo corre para o Poço do Devorador de Ossos com o fragmento de joia de Inuyasha que, por sua vez, ajuda Kagome a voltar à era feudal. Naraku revela que é responsável por colocar Kikyo e Inuyasha um contra o outro, a fim de ganhar a Joia Shikon.</info></item>
 
-<item><title>[B]S01E22 [/B]</title>
+<item><title>[B]S01E22 Um sorriso perverso; A Alma Errante de Kikyo[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/m8dhCxr/Ep22.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Kikyo, que sobreviveu ao mergulho do penhasco durante seu encontro com Inuyasha, atualmente vive pacificamente em um burgo. Um monge chamado Seikai imediatamente sente seu sobrenaturalismo, descobrindo mais tarde que ela deve roubar as almas dos moribundos para manter sua presença no mundo. Enquanto isso, Inuyasha, Kagome, Shippo e Miroku investigam um castelo vizinho sobre a ausência de almas femininas, o que inevitavelmente os leva a Kikyo.</info></item>
 
-<item><title>[B]S01E23 [/B]</title>
+<item><title>[B]S01E23 Kagome's Voice and Kikyo's Kiss[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/M7m5s5K/Kikyo-kisses-Inu.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Inuyasha decola para encontrar Kikyo, mas Kagome acaba encontrando a donzela do santuário primeiro, tentando explicar as verdadeiras circunstâncias que levaram à sua morte. Quando Inuyasha finalmente encontra Kikyo, ela o abraça em lágrimas. Kikyo, não se importando mais com a forma como ela morreu, ainda não consegue superar seu ódio por Inuyasha e decide arrastá-lo para o submundo para se juntar a ela na morte. Inuyasha é capaz de ouvir a voz de Kagome, o que lhe permite libertar-se das amarras de Kikyo. Kikyo mais tarde vai para Kaede a fim de confirmar as aspirações de Naraku.</info></item>
 
-<item><title>[B]S01E24 [/B]</title>
+<item><title>[B]S01E24 Enter Sango the Demon Slayer[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/HPJnDRr/Sango-debut.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Sango é um matador de demônios que coleta fragmentos da Joia Shikon como pagamento. Ela é a única sobrevivente de um ataque aracnídeo arquitetado por Naraku para destruir sua vila de matadores de demônios e adquirir seus fragmentos da Joia Shikon, pela qual seu irmão mais novo Kohaku estava sob a influência de Naraku. Sango furiosamente busca vingança depois de acreditar em Naraku que Inuyasha é o responsável pelo ataque.</info></item>
 
-<item><title>[B]S01E25 [/B]</title>
+<item><title>[B]S01E25 Naraku's Insidious Plot[/B]</title>
 <link>$nome= MP4</link>
 <link>$nome= MKV</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/3B6Z4dK/43088.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Mantida viva apenas por determinação, Sango relutantemente aceita um fragmento da Joia Shikon de Naraku, em quem ela não confia. Ela enfrenta Inuyasha em batalha, ignorando qual Naraku é o verdadeiro culpado. Miroku e Kirara, o gato yōkai de estimação de Sango, perseguem Naraku, mas a verdade logo é revelada quando Naraku está manipulando um fantoche demoníaco em seu lugar enquanto ele luta contra eles.</info></item>
+
+<item><title>[B]S01E26 Segredo da Joia de Quatro Almas Revelado[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/bmdh4DV/43089.jpg</thumbnail>
+<fanart></fanart>
+<info>Sango percebe que Inuyasha, Kagome, Shippo e Miroku ajudaram a enterrar os túmulos de seus companheiros de aldeia. Ela descobre o segredo para passar pela barreira até uma caverna perto de sua aldeia, onde a donzela do santuário Midoriko criou a Joia Shikon, capaz de purificar as almas do yōkai. Explica-se quando uma pessoa contém os quatro espíritos, sendo eles coragem, amizade, sabedoria e amor, no seu máximo, eles se unem para formar um equilíbrio realmente forte e poderoso dentro da alma que pode ser usado para o bem ou para o mal.</info></item>
+
+<item><title>[B]S01E27 O Lago do Deus da Água Má[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/D5jrs4n/43090.jpg</thumbnail>
+<fanart></fanart>
+<info>Inuyasha, Kagome, Miroku, Sango e Shippo se encontram em uma cidade onde o sacrifício dos primogênitos é misericordiosamente oferecido a um arrogante deus da água. Os quatro são contratados pelo filho do chefe da aldeia, Taromaru, para salvar seu amigo, Suekichi. Inuyasha, Kagome e Shippo trabalham juntos para destruir o falso deus da água, enquanto Miroku e Sango procuram e libertam a verdadeira deusa da água, então chegam e ajudam os outros.</info></item>
+
+<item><title>[B]S01E28 Miroku cai em uma armadilha perigosa[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/qxNJG38/260bb2b584ebfe7c557f93c9c9cc2db1.jpg</thumbnail>
+<fanart></fanart>
+<info>Enganado por um demônio louva-a-deus disfarçado de bela princesa, Miroku acaba danificando a borda de seu Túnel de Vento enquanto luta contra ela. Ele deve retornar ao seu mestre Mushin para ter sua mão direita curada. O problema surge quando seu mestre acaba possuído por um demônio verme e tenta matar Miroku enfraquecido. Depois que Miroku é encontrado pelos outros, é descoberto que um encantador de vermes demônios está controlando Mushin. Depois que todos os demônios foram expulsos, o encantador de vermes demoníacos é aniquilado e Mushin não está mais possuído.</info></item>
+
+<item><title>[B]S01E29 Sango's Suffering and Kohaku's Life[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/VHsq4Q4/617d4bfa6e225.jpg</thumbnail>
+<fanart></fanart>
+<info>Naraku ressuscita Kohaku com um fragmento da Joia Shikon, embora a memória deste último seja apagada, considerando o trauma insuportável, sendo ordenado a atacar Inuyasha. Sango segue Kohaku, passando por um escudo espiritual embutido em uma floresta, ao qual Naraku é encontrado. Usando Kohaku como alavanca, Naraku se oferece para deixar Kohaku viver para sempre se Sango lhe trouxer a lendária espada Tetsusaiga.</info></item>
+
+<item><title>[B]S01E30 Tetsusaiga é roubado! Confronto no Castelo de Naraku![/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/37J94Zj/https-pictures-betaseries-com-banners-episodes-25723-3cc889fc1c2d2d6f6da62a58feffa527.jpg</thumbnail>
+<fanart></fanart>
+<info>Enquanto Inuyasha e Kohaku entram em combate, Sango sucumbe ao roubo de Tetsusaiga e foge. Sango logo descobre que Naraku possui a forma de Kagewaki Hitomi, o senhor cujo pai os contratou na fatídica noite em que seus parentes foram mortos. Ela prova não ser páreo contra Kohaku, vendo que ela ainda se importa com ele. É até que Kagome Higurashi chega para resgatar Sango de Naraku.</info></item>
+
+<item><title>[B]S01E31 Jinenji, Kind Yet Sad[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/QvM1zCC/MV5-BMm-Y3-ZTM4-Y2-Et-Nz-Ex-My00-OWRm-LTgy-MWYt-Mzhj-Zj-Uw-ZWEx-Mjgw-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Ex-Mzk.jpg</thumbnail>
+<fanart></fanart>
+<info>Inuyasha e Kagome vão para uma cidade em busca de ervas medicinais para Sango e Kirara. Os dois acabam conhecendo o gentil cavalo gigante hanyō Jinenji, que está sendo acusado de matar moradores da cidade. Inuyasha parte para encontrar a fonte do verdadeiro yōkai enquanto Kagome tenta melhorar a autoestima de Jinenji. Tocado por sua bondade, Jinenji acaba protegendo Kagome do verdadeiro yōkai e ganha a aceitação dos habitantes da cidade.</info></item>
+
+<item><title>[B]S01E32 Kikyo and Inuyasha, Into the Miasma[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/pKVFw7r/MV5-BY2-Qx-ODZk-NDEt-N2-Rk-Yy00-OGMy-LThh-Yj-At-Mz-Q4-Zjdl-Yz-Ji-NTc3-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Ex-Mz.jpg</thumbnail>
+<fanart></fanart>
+<info>Naraku fica chocado ao saber que Kikyo ainda está vivo. Enquanto isso, Inuyasha, Kagome, Miroku, Sango e Shippo estão investigando aparições de yōkai nas montanhas, nas quais Kikyo de repente chega logo depois. Os yōkai são combatidos, apesar das almas dos yōkai derrotados se fundirem com Naraku. Tendo ganhado um novo corpo, Naraku sequestra Kikyo e desaparece.</info></item>
+
+<item><title>[B]S01E33 Kikyo, Capturado por Naraku[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/r45fyQB/MV5-BNDk4-ODhi-Yj-At-Zj-A4-Ny00-YWI3-LWEz-NTAt-OTk4-NThl-ZGM3-Yz-Ax-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Ex-Mzk5.jpg</thumbnail>
+<fanart></fanart>
+<info>Inuyasha, Kagome, Miroku, Sango e Shippo, enquanto procuram Kikyo, caem em uma armadilha mortal montada por Naraku para que todos sejam destruídos por ilusões de seus medos mais profundos. Kagome, imune ao feitiço por causa de seus fragmentos da Joia Shikon, encontra Kikyo nada menos que hostil e frio com ela, enquanto Kikyo tira seus cacos da Joia Shikon para dar a Naraku.</info></item>
+
+<item><title>[B]S01E34 Tetsusaiga e Tenseiga[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/Df24QYq/MV5-BMj-U3-OWIw-Nj-Yt-Mm-Qy-My00-OTMy-LWJl-NWQt-Mm-Yy-Nj-Fj-Ym-Y3-OGE2-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Ex-M.jpg</thumbnail>
+<fanart></fanart>
+<info>Sesshomaru, insatisfeito com sua espada Tenseiga, deseja que o velho ferreiro Totosai lhe forje outro. O Totosai indisposto faz com que Inuyasha o defenda, fazendo com que os irmãos lutem. Totosai revela a herança da espada de Sesshomaru antes de criar um desvio para permitir que Inuyasha e seus companheiros partissem. Logo após sair, Totosai é atacado por Sesshomaru. Mais uma vez, Inuyasha luta contra seu meio-irmão mais velho como proteção de Totosai, mas agora deve enfrentar a nova defesa de Sesshomaru da garra de um dragão.</info></item>
+
+<item><title>[B]S01E35 O Verdadeiro Dono da Grande Espada![/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/41y3GcR/2538124bacdd63ac0-w.jpg</thumbnail>
+<fanart></fanart>
+<info>Enquanto Inuyasha e Sesshomaru continuam a duelar pela posse dos Tetsusaiga, ambos os irmãos descobrem o poder e a força inesperados de suas respectivas heranças. Após a luta, um Sesshomaru ferido é ajudado pelo jovem órfão Rin. Koga, o líder da tribo yōkai lobo oriental, é visto atacando os aldeões, em busca dos fragmentos da Joia Shikon. Sesshomaru encontra Rin, que foi morta pelos lobos de Koga, e a revive usando o Tenseiga, percebendo sua verdadeira força e poder para curar e salvar vidas.</info></item>
+
+<item><title>[B]S01E36 Kagome sequestrado por Koga, o demônio lobo![/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/Xs2ppJ7/25381203b6761e7d0-w.jpg</thumbnail>
+<fanart></fanart>
+<info>Depois de massacrar grande parte dos lobos, Inuyasha e seus companheiros são recebidos por Koga, que tem uma antipatia instantânea por Inuyasha. Koga vê Inuyasha aperfeiçoando a Cicatriz de Vento do Tetsusaiga, um ataque ganho ao sentir a fissura entre duas forças demoníacas. Koga mais tarde decide sequestrar Kagome junto com Shippo, enquanto ataca os outros. Ele instrui Kagome a usar sua habilidade para ver os fragmentos da Joia Shikon a fim de destruir os demoníacos Pássaros do Paraíso atacando seu clã.</info></item>
+
+<item><title>[B]S01E37 O homem que se apaixonou por Kagome![/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/0y212TN/253814645be062d0d-w.jpg</thumbnail>
+<fanart></fanart>
+<info>Enquanto Inuyasha, Mikoku e Sango correm para salvar Kagome e Shippo, Kagome concorda em ajudar Koga com a condição de que ele não deixe os lobos machucarem Shippo. Kagome localiza um fragmento da Joia Shikon em um pássaro siamês do paraíso. Quando Inuyasha finalmente chega para ajudar, Koga audaciosamente declara seu amor por Kagome e incita o ciúme de Inuyasha. No entanto, Inuyasha deixa seu ciúme de lado e usa a Cicatriz do Vento para eliminar o pássaro siamês do paraíso.</info></item>
+
+<item><title>[B]S01E38 Two Hearts, One Mind[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/WvqDkHv/episode-image-400x225.webp</thumbnail>
+<fanart></fanart>
+<info>Depois de outra discussão acalorada com Inuyasha, Kagome decide voltar para casa e reabastecer seus suprimentos médicos. Ela logo descobre que seus amigos estão preocupados que ela possa perder Hojo para outra garota. Enquanto isso, Shippo tenta explicar por que Inuyasha e Kagome estão tendo uma briga um contra o outro para Kaede, que oferece alguns conselhos sólidos que Inuyasha decide tomar.</info></item>
+
+<item><title>[B]S01E39 Preso em um duelo até a morte![/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/jRhSNrX/2541272239283144b-w.jpg</thumbnail>
+<fanart></fanart>
+<info>Naraku, usando o Saimyōshō, tira um fragmento envenenado da Joia Shikon da testa de um urso yōkai. Durante um ataque a um dos castelos de Naraku, a tribo yōkai lobo de Koga é morta pela feiticeira do vento Kagura, que atrai Koga para o castelo com o fragmento envenenado da Joia Shikon. Quando Koga encontra Inuyasha entre os lobos caídos, eles começam um duelo até a morte. Miroku e Sango devem entrar no castelo para lutar contra outro fantoche demoníaco manipulado por Naraku.</info></item>
+
+<item><title>[B]S01E40 A Armadilha Mortal de Kagura, a Feiticeira do Vento![/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/7RRm9bq/253816494ce3dba68-w.jpg</thumbnail>
+<fanart></fanart>
+<info>Inuyasha se vê no final perdido de sua batalha contra Koga até que Kagura mostra seu rosto e derrota Koga com facilidade. É lamentável que a Cicatriz do Vento seja inútil contra Kagura, sendo que ela pode controlar os ventos, até que Kagome entra em cena para purificar o ar com suas flechas sagradas. Quando um Kagura derrotado escapa, Inuyasha percebe uma cicatriz familiar em forma de aranha em suas costas. Kagome mais tarde usa sua flecha sagrada para erradicar o fragmento envenenado da Joia Shikon do braço de Koga.</info></item>
+
+<item><title>[B]S01E41 Kagura's Dance and Kanna's Mirror[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/HXqP38N/download.jpg</thumbnail>
+<fanart></fanart>
+<info>Miroku se reúne inesperadamente com Koharu, uma jovem que se apaixonou por ele e fugiu de sua aldeia quando o filho de seu mestre veio até ela com avanços indesejados. Enquanto isso, Kagura e Kanna, sendo os destacamentos encarnados de Naraku, causam estragos na mesma aldeia, roubando as almas dos aldeões e controlando seus corpos. Kanna descobre que o espírito de Kagome domina o aprisionamento dentro de seu espelho, decidindo deixá-la enfraquecida.</info></item>
+
+<item><title>[B]S01E42 The Wind Scar Fails[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/9YXRb2W/download-1.jpg</thumbnail>
+<fanart></fanart>
+<info>Inuyasha continua a lutar contra Kagura, que está usando seu vento para reanimar os aldeões sem alma. No entanto, quando ele decide usar a Cicatriz do Vento contra ela, ele recebe uma surpresa desagradável e encontra Kanna usando seu espelho para refletir seu ataque. Naraku chega e diz a Inuyasha que a própria Kikyo voluntariamente lhe deu os cacos da Joia Shikon, que ela tomou de Kagome. Kagome então atira uma flecha sagrada no espelho de Kanna, fazendo com que todas as almas e espíritos presos no espelho retornem aos aldeões.</info></item>
+
+<item><title>[B]S01E43 Tetsusaiga Breaks[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/9tRwDbL/2538150cb49283bca-w.jpg</thumbnail>
+<fanart></fanart>
+<info>Inuyasha confronta Kikyo sobre suas motivações para dar a Naraku os fragmentos roubados da Joia Shikon, e ela explica que isso faz parte de seu plano para destruir Naraku. Enquanto isso, Naraku liberou Goshinki, um grande yōkai ogro com chifres com a habilidade de telepatia, revelado ser sua terceira encarnação. Goshinki consegue quebrar o Tetsusaiga, mas inesperadamente faz com que Inuyasha se transforme em um yōkai cão de raça completa.</info></item>
+
+<item><title>[B]S01E44 Kaijinbo's Evil Sword[/B]</title>
+<link>$nome= MP4</link>
+<link>$nome= MKV</link>
+<thumbnail>https://i.ibb.co/SryQTKg/2641216a2cc90e54c-w.jpg</thumbnail>
+<fanart></fanart>
+<info>Depois de encontrar o cadáver de Goshinki e detectar o cheiro de Inuyasha, Sesshomaru viaja para Kaijinbo, o ferreiro desonesto e ex-discípulo de Totosai, a fim de encomendar uma espada feita da cabeça de Goshinki. Ironicamente, na mesma noite em que Kaijinbo chega, possuído e empunhando o Tokijin como sua mais nova criação, Inuyasha se transformou em sua forma humana, tornando-o indefeso. Felizmente, Totosai então aparece e dá a Inuyasha sua espada, no entanto, sendo muito pesada para ele levantar.</info></item>
