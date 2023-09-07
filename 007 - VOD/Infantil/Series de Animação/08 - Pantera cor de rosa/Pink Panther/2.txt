@@ -12,10 +12,10 @@
 <fanart>https://i.ibb.co/wNdQZNG/hulu07a0eb270-cea9-4178-b57c-28a91dc2aee3.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]1966[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/6ybVqGG/Blake-Edwards-Pink-Panther-Pink-Plunk-Plink-S-612723746-large.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/08%20-%20Pantera%20cor%20de%20rosa/Pink%20Panther/1966/3.txt</externallink>
+<fanart>https://i.ibb.co/xf4NHKB/MV5-BMz-Iz-Zj-Fj-Nz-At-MTdh-Zi00-ZTg0-LWFl-MTgt-OWUw-Nj-Ji-Yj-Q1-ZWVl-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU4-MTQ.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
