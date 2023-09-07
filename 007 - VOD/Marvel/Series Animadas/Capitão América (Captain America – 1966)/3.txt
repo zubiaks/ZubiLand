@@ -1,48 +1,87 @@
 
-<item><title>[B][/B]</title>
+<item><title>[B]História 10 - O caminho para a destruição[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/10%20-%20O%20Caminho%20para%20Destrui%C3%A7%C3%A3o%20%28When%20the%20Commisar%20Comands%29s.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/10%20-%20O%20Caminho%20para%20Destrui%C3%A7%C3%A3o%20%28When%20the%20Commisar%20Comands%29s.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/d6G0xw7/MV5-BMDgx-Mm-E5-MGQt-Zj-Q2-OC00-OWI4-LWI0-NDct-NTNl-ZWI1-Yzg1-Mz-Uy-Xk-Ey-Xk-Fqc-Gde-QXVy-Njgz-NDU2.jpg</thumbnail>
+<fanart></fanart>
+<info>Captain America leads the Avengers into Sin-Cong to answer a distress call, only to find it's a trap set by the nation's superhuman leader, the Commissar.</info></item>
+
+<item><title>[B]História 12 - The Girl from Caps Past[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/11%20-%20Um%20Caso%20do%20Passado.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/11%20-%20Um%20Caso%20do%20Passado.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/WgdFDBK/x1080.jpg</thumbnail>
+<fanart></fanart>
+<info>Captain America encounters a girl from his past and quickly discovers she is an agent of SHIELD who is working with Batroc.</info></item>
+
+<item><title>[B](OFF)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]História 1 – A origem do Capitão América[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/jzRPqp8/sddefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>America is at war and the Army is accepting almost anybody. Except Steve Rogers, who's too small and scrawny even to be drafted. He really wants to serve so he volunteers for Project Rebirth and is transformed into Captain America. With his sidekick Bucky, he battles saboteurs, spies and other enemies. But he may have met his match in the Red Skull.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]História 2 - The Sentinel and the Spy[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/JmXrHHv/Captain-America.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Captain America is captured by his enemy, the Red Skull, who brainwashes him and hopes to use him as an assassin.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]História 3 - Midnight In Greymore Castle[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/bmVYV1v/Capta.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>While Steve Rogers is deployed on a military mission, Bucky gets kidnapped by an evil scientist.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]História 4 - Revenge of Captain America[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/L8Rf7qx/Captain-America-1966-Chapter-04.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Feeling depressed over Bucky's death, Captain America decides to get revenge against Zemo.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]História 5 - Return of Captain America[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/XCsMBtg/Captain-America-1966-Cartoon-5.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Mighty Avengers find Captain America floating in the ocean alive after having been assumed dead for 20 years.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]História 6 - Zemo and his Masters Of Evil[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/8XLBDzq/Captain-America-1966-Chapter-06.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Surprised to learn that Captain America is still alive, Zemo plots an all out attack.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]História 7 - A volta ao passado[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/gP0n5Tv/Captain-America-1966-Chapter-07.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A Jarvis clone infiltrates Avengers headquarters and wreaks havoc.</info></item>
+
+<item><title>[B]História 8 - O Espadachim[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/z8h7dZf/Captain-America-1966-Chapter-08.jpg</thumbnail>
+<fanart></fanart>
+<info>A mysterious sword wielding man breaks into Avengers headquarters and demands to be allowed to join.After the heroes defeat him, he concocts a plan to kidnap Captain America.</info></item>
+
+<item><title>[B]História 9 - Bitter Taste of Defeat[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/hynNnQC/Captain-America-1966-Chapter-09.jpg</thumbnail>
+<fanart></fanart>
+<info>The Enchantress casts a spell of evil causing the Avengers to argue with each other while she launches an attack.</info></item>
+
+<item><title>[B]História 11 - The Sleeper Shall Awake[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/28V6bvv/x480.jpg</thumbnail>
+<fanart></fanart>
+<info>20 years after his death, the Red Skull's sleepers awake.Leaving a path of destruction across the European countryside.</info></item>
+
+<item><title>[B]História 13 - The Red Skull Lives[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/ZVNmVLv/B9-NKjs-TP8rn-Se-GCs-H3-Evj-X-1200-80.jpg</thumbnail>
+<fanart></fanart>
+<info>Captain America is startled to learn his old enemy the Red Skull is still alive. The Skull seeks the all-powerful Cosmic Cube.</info></item>
+

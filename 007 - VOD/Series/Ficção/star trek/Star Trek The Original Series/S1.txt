@@ -54,6 +54,8 @@
 <item><title>[B]08 - Miri[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs/11.%20Mire%20-%20GroovyDowns.mp4$nome= 1</link>
 <link>https://archive.org/download/11.-mire-groovy-downs/11.%20Mire%20-%20GroovyDowns.avi$nome= 2</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/11.%20Mire%20-%20GroovyDowns.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/11.%20Mire%20-%20GroovyDowns.mp4$nome= 2</link>
 <thumbnail>https://i.ibb.co/rFYcDKx/R.jpg</thumbnail>
 <fanart></fanart>
 <info>Depois de descobrir o que parece ser uma duplicata do planeta Terra, o Capitão Kirk e seu grupo de desembarque encontram uma população devastada por uma estranha doença, que só as crianças parecem ter sobrevivido.[34] </info></item>
@@ -61,6 +63,8 @@
 <item><title>[B]09 - Dagger of the Mind[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs/10.%20O%20punhal%20imagin%C3%A1rio%20-%20GroovyDowns.mp4$nome= 1</link>
 <link>https://archive.org/download/11.-mire-groovy-downs/10.%20O%20punhal%20imagin%C3%A1rio%20-%20GroovyDowns.avi$nome= 2</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/10.%20O%20punhal%20imagin%C3%A1rio%20-%20GroovyDowns.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/10.%20O%20punhal%20imagin%C3%A1rio%20-%20GroovyDowns.mp4$nome= 2</link>
 <thumbnail>https://i.ibb.co/Z22qr1S/OIP.jpg</thumbnail>
 <fanart></fanart>
 <info>Em uma missão de abastecimento para uma colônia de reabilitação para os criminosos insanos, a tripulação da Enterprise descobre que os internos assumiram o controle do hospício e sequestraram Kirk e seus companheiros.[34] </info></item>

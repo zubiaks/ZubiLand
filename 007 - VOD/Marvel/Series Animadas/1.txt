@@ -31,11 +31,11 @@
 <fanart>https://i.ibb.co/L8hTFJt/X-Men-Vol-6-1-Wraparound-Textless.jpg</fanart>
 <info>X-Men é uma equipe de super-heróis de histórias em quadrinhos épicas publicadas nos Estados Unidos pela Marvel Comics. Criados por Stan Lee e Jack Kirby, estrearam em The X-Men #1, publicada em setembro de 1963, e era formado inicialmente pelo Professor X, fundador da equipe, Ciclope, Fera, Homem de Gelo, Anjo e Garota Marvel (Jean Grey).</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Capitão América (Captain America – 1966)[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/9gnRwc2/hfghf.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Marvel/Series%20Animadas/Capit%C3%A3o%20Am%C3%A9rica%20(Captain%20America%20%E2%80%93%201966)/3.txt</externallink>
+<fanart>https://i.ibb.co/5T2c3fY/download.jpg</fanart>
+<info>O desenho animado que trazia o herói Capitão América às telinhas estreou em 1966, ao lado de mais quatro personagens, cada um protagonizando o seu próprio desenho, Hulk, Namor, o Homem de Ferro e Thor. A animação era rudimentar e aproveitando praticamente os próprios desenhos feitos para as HQs. Os personagens mal se moviam, não andavam, mas sim deslizavam na tela; nos diálogos só as bocas mexiam; eles tinham apenas piscadas de olhos durante closes e ainda, muitas cenas eram reaproveitadas em vários episódios. Junto com efeitos sonoros de socos, por exemplo, surgiam onomatopeias grafadas na tela como: “Pow!” e “Soc”.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>

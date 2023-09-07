@@ -6,11 +6,11 @@
 <fanart>https://i.ibb.co/g6Yc9yK/hq720.jpg</fanart>
 <info>Jacques Clouseau é o policial francês fictício dos filmes da série A Pantera Cor-de-Rosa, interpretado por Peter Sellers e Steve Martin. Ele já ganhou condecorações de guerra, mas até trabalhar na "Equipe dos sonhos" era guarda de trânsito.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<channel><name>[B][COLOR white]Pink Panther[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/wNLLDFv/MV5-BOWU2-Zjc5-ZDct-Nm-E3-Zi00-N2-Nl-LWFj-OGQt-Nz-Ay-N2-Y0-YWUw-Mjk5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQ4-NTcx.jpg</thumbnail>
 <externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<fanart>https://i.ibb.co/WzCQhZb/maxresdefault.jpg</fanart>
+<info>The Pink Panther é uma franquia de mídia americana focada principalmente em uma série de filmes de comédia e mistério apresentando um inepto detetive da polícia francesa, o inspetor Jacques Clouseau. A franquia começou com o lançamento do clássico filme The Pink Panther em 1963.</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
