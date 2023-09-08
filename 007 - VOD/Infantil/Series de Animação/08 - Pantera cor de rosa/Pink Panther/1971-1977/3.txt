@@ -95,98 +95,92 @@
 <fanart></fanart>
 <info>Trying to find somewhere to sleep, the Pink Panther sneaks into the Ritz Plaza Hotel, but has to avoid the hotel detective (Big Nose).</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Plasma[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/KWvvxHy/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>While hiking in Transylvania, the Pink Panther accidentally encounters Count Dracula (Big Nose) in his haunted castle.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Elephant[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/rxLcZbL/Pink-Panther-Pink-Elephant-01.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>An elephant follows the Pink Panther home from the zoo, and so our hero tries to hide the pachyderm from the public so that he will not be accused of stealing it. As he takes it home to his apartment, the apartment complex manager (Big Nose) begins to grow suspicious.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Keep Our Forests' Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/4pBSqQ1/Blake-Edward-s-Pink-Panther-Keep-Our-Forests-Pink-904789745-large.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>As a park ranger, the Pink Panther keeps a forest park clean, despite the constant littering of one camper (Big Nose).</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Bobolink Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/qmp4Qdh/Pink-Panther-Bobolink-Pink-01.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther tries to teach a baby bird to fly.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]It's Pink, But Is It Mink?[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/rGG9MH0/mqdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Jane sends Tarzan (Big Nose) to catch the Pink Panther so she can make pink clothing from his fur.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Campaign[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/KykxVhp/Pink-Campaign.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther steals the house of a lumberjack (Big Nose) piece by piece in revenge for the lumberjack's cutting down his treehouse home.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]The Scarlet Pinkernel[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/nPbWGtQ/images.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Inspired by The Scarlet Pimpernel, the Pink Panther decides to rescue dogs captured by the local dog catcher (Big Nose), though he gets more than he bargained for when he encounters some of the more aggressive dogs.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Mystic Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/HCCz7NK/download.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther finds a magician's top hat, complete with a large rabbit who follows him around.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]The Pink of Arabee[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/dkkdrcT/The-Pink-of-Arabee.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>While the Pink Panther visits the Middle East, his tail becomes the object of affection for a magic rope belonging to a pungi player; the Pink Panther tries to flee from the rope, which continues to go after his tail.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]The Pink Pro[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/dkkdrcT/The-Pink-of-Arabee.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther teaches a reluctant Little Man various sports, such as archery, skiing, sky diving, water skiing and golf.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Piper[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/k0dvZQ1/download.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>In a parody of the Pied Piper, the Pink Panther works as the "Pink Piper", and attempts to lead a mouse out of the Little Man's house, only to grow attached to that mouse; when the Little Man, unsatisfied with the Pink Piper's services, tries to kill the mouse himself via methods such as mousetraps and a cat, the Pink Piper attempts to save the mouse's life.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pinky Doodle[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/6Fw8cWc/Pink-Panther-Pinky-Doodle-Title-Card.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>During the American Revolution, the Pink Panther is sent to notify townsfolk that the Redcoats are coming. He attempts to ride an uncooperative horse who is on the side of the Redcoats, who repeatedly thwarts his efforts.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Sherlock Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/M73FYX8/hqdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther becomes a detective to identify who stole his breakfast cake (which he actually ate in his sleep), but instead finds a crook (Big Nose) and chases him through a surreal house.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Rocky Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/dkZxhPg/Rocky-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Unable to afford a dog, the Pink Panther ends up adopting a pet rock, which surprisingly turns out to be more trouble than it is worth.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Therapeutic Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/mcQQc1G/hqdefault-1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<info>The Pink Panther tries to get a biting dog removed from his tail at the hospital.</info></item>
