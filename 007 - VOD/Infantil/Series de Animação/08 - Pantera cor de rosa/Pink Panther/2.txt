@@ -36,10 +36,10 @@
 <fanart>https://i.ibb.co/LZncvBx/pink-panther-ss1.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]1971-1977[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/BV0gnWG/9e2722defd575e3c74aaf95404839d96.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/08%20-%20Pantera%20cor%20de%20rosa/Pink%20Panther/1971-1977/3.txt</externallink>
+<fanart>https://i.ibb.co/gZnspFG/hqdefault.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
