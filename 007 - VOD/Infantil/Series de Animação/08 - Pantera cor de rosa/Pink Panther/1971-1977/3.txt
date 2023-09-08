@@ -1,4 +1,148 @@
 
+<item><title>[B](OFF)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]A Fly in the Pink[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Y0z9434/A-Fly-in-the-Pink.webp</thumbnail>
+<fanart></fanart>
+<info>A scientifically-enhanced fruit fly escapes from a laboratory and attacks the Pink Panther's apple orchard, and so the Panther attempts to get rid of it.</info></item>
+
+<item><title>[B]Pink Blue Plate[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/TLjL0kM/Pink-Blue-Plate.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther gets a job working at a busy café, owned by the Little Man, beside a building site, whose workers frequent the restaurant. However, the Pink Panther has trouble serving food to one particularly grumpy construction worker.</info></item>
+
+<item><title>[B]Pink Tuba-Dore[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/zhfkdtP/Pink-Tuba-Dore.webp</thumbnail>
+<fanart></fanart>
+<info>An alpine village is home to the Little Man, whose incessant tuba playing outrages the entire community. After being threatened with eviction, he and his dog head for the Alps to play in seclusion, unknowingly disturbing the Pink Panther's sleep. While the Pink Panther resorts to different methods to stop the noise, the man persists in playing and blames his dog for the failed attempts.</info></item>
+
+<item><title>[B]Pink Pranks[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/tXDzPfh/Pink-Pranks.webp</thumbnail>
+<fanart></fanart>
+<info>On a trip to Rome, Italy, the Pink Panther instead ends up in Nome, Alaska, where he meets a friendly seal, an unfriendly polar bear, and an Inuit hunter (Big Nose) who is trying to catch the seal for its fur.</info></item>
+
+<item><title>[B]The Pink Flea[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/dJPL6Sg/The-Pink-Flea.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther is pestered by a flea and repeatedly tries to get rid of it.</info></item>
+
+<item><title>[B]Psst Pink[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/RyhyDZQ/Psst-Pink.webp</thumbnail>
+<fanart></fanart>
+<info>While changing his car's tire, the Pink Panther loses his spare tire and chases after it throughout the town.</info></item>
+
+<item><title>[B]Gong with the Pink[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/nzyzS7j/Gong-With-Pink.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther takes a job as a waiter at Gong Ho, a Chinese restaurant that places orders by gong beats; however, his gong-banging causes mayhem for the Little Man, who owns a glass shop located above the restaurant.</info></item>
+
+<item><title>[B]Pink-In[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/rcb1WFx/Blake-Edwards-Pink-Panther-Pink-In-S-691819554-large.jpg</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther reads some old letters from his army friend Loud-Mouth Louie (voiced by Marvin Miller), which reminisce of various antics that the Panther has gotten into.</info></item>
+
+<item><title>[B]Pink 8 Ball[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/G9RVLyg/Pink-Panther-Pink-8-Ball-01.webp</thumbnail>
+<fanart></fanart>
+<info>As the Pink Panther is gift-wrapping a basketball, it bounces out of his apartment window, and so the Panther pursues the bouncing ball through the city, trying to retrieve it.</info></item>
+
+<item><title>[B]Pink Aye[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/KVtYdXx/PinkAye.webp</thumbnail>
+<fanart></fanart>
+<info>Disguised as a famous opera singer's fur pelt, the Pink Panther stows away on the S.S. Luxitania, only to be chased around by the ship's waiter (Big Nose).</info></item>
+
+<item><title>[B]Trail of the Lonesome Pink[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/1KdM3yk/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+<info>With the help of some snapping turtles, the Pink Panther plays tricks on fur trappers, Jacques and Jules (both bearing the appearance of Big Nose), after his tail gets snagged in one of their foothold traps.</info></item>
+
+<item><title>[B]Pink DaVinci[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/fHMkgcd/hqdefault-1.jpg</thumbnail>
+<fanart></fanart>
+<info>Leonardo da Vinci (Big Nose) plans to paint the Mona Lisa with a pouting mouth, but the Pink Panther insists on a smile, which he constantly draws on the painting when da Vinci isn't looking. As da Vinci repeatedly attempts to repaint the frown, the Panther strikes back by repainting the smile.</info></item>
+
+<item><title>[B]Pink Streaker[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/kQgp1yj/hqdefault-2.jpg</thumbnail>
+<fanart></fanart>
+<info>At a winter resort, the Little Man (Big Nose) repeatedly tries to teach himself how to ski, but his fellow resort patron, the Pink Panther, unintentionally thwarts him every time.</info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/5TsR6hg/Salmon-Pink-01.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther meets a friendly salmon at the beach and keeps him as a pet.</info></item>
+
+<item><title>[B]Forty Pink Winks[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/yP5yP8n/Forty-Pink-Winks.jpg</thumbnail>
+<fanart></fanart>
+<info>Trying to find somewhere to sleep, the Pink Panther sneaks into the Ritz Plaza Hotel, but has to avoid the hotel detective (Big Nose).</info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
 <item><title>[B][/B]</title>
 <link></link>
 <thumbnail></thumbnail>
