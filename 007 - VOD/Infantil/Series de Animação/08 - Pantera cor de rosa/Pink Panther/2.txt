@@ -18,10 +18,10 @@
 <fanart>https://i.ibb.co/xf4NHKB/MV5-BMz-Iz-Zj-Fj-Nz-At-MTdh-Zi00-ZTg0-LWFl-MTgt-OWUw-Nj-Ji-Yj-Q1-ZWVl-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU4-MTQ.jpg</fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]1967[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/8xNVPyG/MV5-BMTk3-NTQ4-Mj-Yy-Ml5-BMl5-Ban-Bn-Xk-Ft-ZTcw-Mz-My-Nz-Ez-MQ-V1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/08%20-%20Pantera%20cor%20de%20rosa/Pink%20Panther/1967/3.txt</externallink>
+<fanart>https://i.ibb.co/gTV5vGY/MV5-BNDlm-ZGUw-OWIt-MThl-OC00-MDc5-LWIw-Nz-Yt-OTk4-ZTQ5-Yz-Rj-YTE4-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU4-MTQ0-N.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>

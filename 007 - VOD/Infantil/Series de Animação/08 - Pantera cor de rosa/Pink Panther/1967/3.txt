@@ -1,48 +1,79 @@
 
-<item><title>[B][/B]</title>
+<item><title>[B]Prefabricated Pink[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/201%20-%20Rosa%20Prefabricado.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/201%20-%20Rosa%20Prefabricado.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/kMcQrBc/Prefabricated-Pink.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther decides to get a job at a construction site, but wreaks havoc across the site instead, causing harm to the foreman and numerous fellow construction workers (all of whom are Little Men) while attempting to undertake various tasks, involving wet cement, hot rivets, pulleys, hammers, paint cans, and wooden boards.</info></item>
+
+<item><title>[B](OFF)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pinknic[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/2P7bn5R/Pinknic.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther wakes up in a log cabin in January, completely snowed in, and has to avoid starving to death before spring arrives. To make matters worse, a mouse, also unwilling to starve, attempts to eat the Pink Panther for his own survival.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Panic[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/n8njRVv/Pink-Panic.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther stays in the haunted Dead Dog Hotel on a stormy night, where he attempts to escape a troublesome ghost and a sneaky skeleton running about the hotel.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Posies[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/d2q175J/Pink-Posies.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther replaces all the yellow posies in a garden with pink ones, angering a gardener (Big Nose) in the process. As the gardener attempts to ensure that the planted posies remain yellow, the Pink Panther attempts more and more devious and clever methods to replace them with pink flowers.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink of the Litter[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/hFswcJK/Pink-of-the-Litter.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther is caught littering in the polluted town of Litterburg, and as punishment, he is sentenced to clean up all of the litter in the entire town.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]In the Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/QvK3LWC/download.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Noticing he is gaining weight, the Pink Panther decides to join a local gym, but does not have much luck getting into shape. To make matters worse, his efforts to shape up tend to cause harm to his fellow gym patron, The Little Man.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Jet Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/0mB8Fsk/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther stumbles into a military airfield and spots an X-13 experimental fighter jet. To fulfill his fantasy of becoming a famous pilot, he decides to fly it, but his complete lack of experience as a pilot results in a hazardous and chaotic flight.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Paradise[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/RHzRQ02/download-1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther arrives on a desert island, only to discover a Robinson Crusoe-esque native hunter (Big Nose) and his dog. Afraid of being hunted, the Panther hides from both of them. The dog gets suspicious and tries unsuccessfully to prove the Panther's existence to his owner, who punishes him for each attempt, as he believes that his canine companion is only causing trouble.</info></item>
+
+<item><title>[B]Pinto Pink[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/xCNfd73/Pinto-Pink.webp</thumbnail>
+<fanart></fanart>
+<info>Facing a long and treacherous journey to Anaheim, California, the Pink Panther spots a horse and gets the idea to tame it and ride there, but the horse is not willing to cooperate, sabotaging our hero's constant efforts to saddle him, and finding humor in the Panther’s repeated failures.</info></item>
+
+<item><title>[B]Congratulations It's Pink[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/j4g7ynY/Congratulations-It-s-Pink.webp</thumbnail>
+<fanart></fanart>
+<info>At the park, the Pink Panther spots what he thinks is a picnic basket of goodies and takes it for himself, but it’s actually a family’s baby basket containing a baby (voiced by June Foray). When he spots the baby’s family leaving the park, and after failed attempts to leave that baby in the care of other residents in the park, he is left with no choice but to raise the toddler by himself until the parents return.</info></item>
+
+<item><title>[B]The Hand is Pinker than the Eye[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/KhwsdD2/The-Hand-Is-Pinker-Than-the-Eye.webp</thumbnail>
+<fanart></fanart>
+<info>On a snowy day, a cold Pink Panther sneaks into a house owned by Zammo the magician (Big Nose). He is both bewildered and bedeviled by the house's numerous magical illusions, and is constantly pestered by the magician's rabbit.</info></item>
+
+<item><title>[B]Pink Outs[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/nbdmxt0/Pink-Outs.webp</thumbnail>
+<fanart></fanart>
+<info>A series of 12 miniature cartoons that end when each one "pinks out".</info></item>
