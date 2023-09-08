@@ -1,48 +1,120 @@
 
-<item><title>[B][/B]</title>
+<item><title>[B](OFF)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Sky Blue Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/TYRQYBT/Pink-Panther-Sky-Blue-Pink-01.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther decides to try kite flying, but he bedevils a local homeowner (Big Nose) in the process.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pinkadilly Circus[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/PmR7kbt/Pinkadilly-Circus.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther comes to the aid of a henpecked husband (Big Nose) who pulls a nail out of his foot. The husband then uses the Panther against his disapproving wife.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Psychedelic Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/DLvL5S7/Psychedelic-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther visits a psychedelic bookshop owned by a hippie Little Man, where everything is surreal and strange.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Come On In! The Water's Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Zz67fHM/Come-On-In27s-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther visits Bicep Beach. Through his series of inflatable items that include fake muscles, weights, and a swimming pool, he impresses the ladies and steals the spotlight from a muscleman, who attempts to get revenge on him.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Put-Put, Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/JRHTfBv/Put-Put-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther turns his hand to building a motorcycle, but mayhem ensues whenever he goes for a drive.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]G.I. Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/rczMFVZ/G-I-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther, eager to serve his country, joins the United States Army, and angers his sergeant (Big Nose) with his usual antics.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Lucky Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/zQr7Kyp/Lucky-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Ever eager to help, the Pink Panther keeps returning a "lucky" horseshoe to its owner (Big Nose), a bank robber. However, the horseshoe keeps bringing incredible bad luck to the crook by continually attracting the police.</info></item>
+
+<item><title>[B]The Pink Quarterback[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/hC5jTWf/download.jpg</thumbnail>
+<fanart></fanart>
+<info>After the Pink Panther flips a quarter to decide whether he should spend it on a hot dog or a hamburger, it rolls away, and he goes after it.</info></item>
+
+<item><title>[B]Twinkle, Twinkle, Little Pink[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/wBmLCD6/Twinkle-Twinkle-Little-Pink.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther builds a house on a hill between an observatory and the moon, which annoys an astronomer (Big Nose) working at the observatory.</info></item>
+
+<item><title>[B]Pink Valiant[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/w6mZTYr/Pink-Valiant.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther has to rescue a princess kidnapped by the Black Knight (Big Nose), but he first must tame an uncooperative horse.</info></item>
+
+<item><title>[B]The Pink Pill[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Wvt7G3q/The-Pink-Pill.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther slips on a banana peel and ends up in a hospital, where his elderly roommate keeps sniggering at all his misfortunes.</info></item>
+
+<item><title>[B]Prehistoric Pink[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/5rqY7ng/Prehistoric-Pink.webp</thumbnail>
+<fanart></fanart>
+<info>In prehistoric times, the Pink Panther and a caveman (Big Nose) try to work out the best way to move stone blocks.</info></item>
+
+<item><title>[B]Pink in the Clink[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/gZ5DKhC/Pink-in-the-Clink.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther is forced by a burglar (Big Nose) to help him break into a manufacturing warehouse and crack a safe.</info></item>
+
+<item><title>[B]Little Beaux Pink[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/RHt2ts9/Little-Beaux-Pink.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther and a sheep come to live in Cattle County, Texas, and have to endure a sheep-abusing cattleman.</info></item>
+
+<item><title>[B]Tickled Pink[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/rHgKH0m/Tickled-Pink.webp</thumbnail>
+<fanart></fanart>
+<info>Longing to have a pair of roller skates, the Pink Panther is given a magic pair that he can't control by his fairy godmother.</info></item>
+
+<item><title>[B]Pink Sphinx[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/7CLPG2N/Pink-Sphinx.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther buys an uncooperative dog-brained camel, and goes searching for a hidden Egyptian tomb.</info></item>
+
+<item><title>[B]Pink Is a Many Splintered Thing[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/rm3QnBX/Pink-is-a-Many-Splintered-Thing-TPPS.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther decides to become a lumberjack, but has to deal with his short-tempered boss, an overzealous lumberjack, and a swarm of bees.</info></item>
+
+<item><title>[B]The Pink Package Plot[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/F5HGY1Q/Pink-Package-Plot-Title.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther is forced by a terrorist to deliver a packaged explosive to the Slobvanian Embassy (a parody of Slovenia), but must first find a way to get past the guard dog.</info></item>
+
+<item><title>[B]Pinkcome Tax[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/8bmtkwP/Pinkcome-Tax-Title.webp</thumbnail>
+<fanart></fanart>
+<info>In medieval times, the Pink Panther, as one of Robin Hood’s Merry Men, tries to rescue a peasant (Big Nose) thrown in prison for being too poor to pay his taxes.</info></item>
