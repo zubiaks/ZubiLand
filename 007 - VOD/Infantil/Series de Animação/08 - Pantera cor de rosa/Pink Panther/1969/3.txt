@@ -1,48 +1,48 @@
 
-<item><title>[B][/B]</title>
+<item><title>[B](OFF)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink-A-Rella[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/MVq1WZz/Pink-A-Rella.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther finds a witch's magic wand and uses it to help a girl in rags become glamorous to win a date with Pelvis Parsley (a parody of Elvis Presley).</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Pest Control[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/N22nSrp/download.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther has trouble with a persistent termite who devours every wooden item in his house.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Think Before You Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/sQC29Xs/Think-Before-You-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Pedestrian Pink Panther is having difficulty crossing a busy traffic intersection. This forces him to make various attempts so as to cross the intersection with suggestions from the President of the National Pedestrian Club (Big Nose), bringing in hilarious results.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Slink Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/j6hXXNW/Slink-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther sneaks into a house on a snowy night, only to find out it belongs to a trophy hunter (Big Nose), whose dog tries to attack and reveal the intruding panther, but he's instead punished by his owner at every attempt, as poor timing results in the dog attacking his owner instead.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]In the Pink of the Night[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Jxkb698/In-the-Pink-of-the-Night.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther buys a cuckoo clock so he can wake up early in the morning. However, since he's unwilling to wake up, the sentient cuckoo bird uses various methods to try to wake him up.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink on the Cob[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/4ZF85cM/Pink-on-the-Cob.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther battles two crows who are trying to steal all the corn from his farm.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Extinct Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/D9V39DF/Extinct-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Prehistoric Pink Panther fights over a bone with a caveman version of the Little Man, a big blue dinosaur, and a small green lizard, right until it is finally eaten by a crocodile.</info></item>
