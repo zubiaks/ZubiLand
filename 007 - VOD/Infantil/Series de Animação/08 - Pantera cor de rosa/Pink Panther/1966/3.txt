@@ -1,48 +1,66 @@
 
-<item><title>[B][/B]</title>
+<item><title>[B](OFF)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Punch[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/L5ZthG5/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther introduces his own beverage, "Pink Punch"; however, the asterisk above the “I” on his advertising placard suddenly turns green. The Panther attempts to get rid of the annoying green asterisk numerous times, but his plans are thwarted by a large green asterisk, assumed to be the smaller one's parent.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Pistons[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/9HDxhss/Pink-Pistons.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther buys a used car from a dealership, and redecorates it with pink lacquer spray paint. However, the car has a mind of its own; on the Panther's first drive about town, his car's competitive attitude lands the Panther in an unintentional race with Granny Flash, Senior Citizens Drag Champion, who drives a souped-up Model T.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Vitamin Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/yVFsWW8/Vitamin-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Based on the traditions of tonic-sellers in the Old West, the Pink Panther goes under the alias Dr. Phink and sells Vitamin Pink. But then, under orders from the town's sheriff, he has to capture a bank robber who springs into his crime-committing youth after he takes one too many pills.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]The Pink Blueprint[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/1GqzV20/Pinkblueprint.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>On a construction site, the Pink Panther, disgusted at the sight of a blueprint for a rather plain-looking house, swaps the blueprint designs to his own "pinkprint" for a residence designed to his preferred specifications, and duels with the on-site contractor (Big Nose) to ensure that the house is built the way he intends.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink, Plunk, Plink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Z29HNgb/Pink2-C-Plink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther learns to play the violin and interrupts an orchestra's performance of Beethoven's Fifth Symphony at the Hollywood Bowl with his own theme played on various instruments, much to the anger of the conductor (Big Nose).</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Smile Pretty, Say Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/6XVVprJ/Smile-Pretty-Say-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther sabotages the efforts of a photographer (Big Nose) in Pinkstone National Park (a parody of Yellowstone National Park) after the photographer angrily refuses to pay the one-dollar camera fee.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink-A-Boo[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/6rqDth5/Pink-A-Boo.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther battles with a hungry mouse raiding his refrigerator. He then reaches his boiling point when the mouse throws a late-night party with a crowd of other mice.</info></item>
+
+<item><title>[B]Genie with the Light Pink Fur[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/0VwCP0Z/Genie-with-the-Light-Pink-Fur.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther finds a talking magic lamp (voiced by Ralph James) and uses it to become a genie. However, he cannot get anyone to rub the lamp.</info></item>
+
+<item><title>[B]Super Pink[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/NyWGSMc/Super-Pink.webp</thumbnail>
+<fanart></fanart>
+<info>Inspired by his favorite Superguy comic book, the Pink Panther decides to be a superhero, and tries unsuccessfully several times to help an elderly woman in various ways.</info></item>
+
+<item><title>[B]Rock-A-Bye Pinky[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Jp5SJRy/Rock-A-Bye-Pinky.webp</thumbnail>
+<fanart></fanart>
+<info>The Little Man (Big Nose) stays in the woods with his dog and keeps the Pink Panther, asleep in the branches of a nearby tree, awake with his snoring. Sick and tired of the noise, the Panther attempts to get rid of the Little Man, but it only gets the dog into more trouble, as his owner believes that he is responsible for whatever happens to him.</info></item>
