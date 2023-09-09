@@ -13,6 +13,13 @@
 <fanart></fanart>
 <info>On a snowy day, a cold Pink Panther sneaks into a house owned by Zammo the magician (Big Nose). He is both bewildered and bedeviled by the house's numerous magical illusions, and is constantly pestered by the magician's rabbit.</info></item>
 
+<item><title>[B]Pink Outs[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/203%20-%20Grabados%20Rosas.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/203%20-%20Grabados%20Rosas.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/nbdmxt0/Pink-Outs.webp</thumbnail>
+<fanart></fanart>
+<info>A series of 12 miniature cartoons that end when each one "pinks out".</info></item>
+
 <item><title>[B](OFF)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
@@ -72,9 +79,3 @@
 <thumbnail>https://i.ibb.co/j4g7ynY/Congratulations-It-s-Pink.webp</thumbnail>
 <fanart></fanart>
 <info>At the park, the Pink Panther spots what he thinks is a picnic basket of goodies and takes it for himself, but it’s actually a family’s baby basket containing a baby (voiced by June Foray). When he spots the baby’s family leaving the park, and after failed attempts to leave that baby in the care of other residents in the park, he is left with no choice but to raise the toddler by himself until the parents return.</info></item>
-
-<item><title>[B]Pink Outs[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/nbdmxt0/Pink-Outs.webp</thumbnail>
-<fanart></fanart>
-<info>A series of 12 miniature cartoons that end when each one "pinks out".</info></item>
