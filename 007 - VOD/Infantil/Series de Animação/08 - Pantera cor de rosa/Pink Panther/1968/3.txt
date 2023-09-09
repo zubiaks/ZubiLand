@@ -1,4 +1,11 @@
 
+<item><title>[B]Pinkadilly Circus[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/205%20-%20Rosadilly%20Circus.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/205%20-%20Rosadilly%20Circus.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/PmR7kbt/Pinkadilly-Circus.webp</thumbnail>
+<fanart></fanart>
+<info>The Pink Panther comes to the aid of a henpecked husband (Big Nose) who pulls a nail out of his foot. The husband then uses the Panther against his disapproving wife.</info></item>
+
 <item><title>[B](OFF)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
@@ -10,12 +17,6 @@
 <thumbnail>https://i.ibb.co/TYRQYBT/Pink-Panther-Sky-Blue-Pink-01.webp</thumbnail>
 <fanart></fanart>
 <info>The Pink Panther decides to try kite flying, but he bedevils a local homeowner (Big Nose) in the process.</info></item>
-
-<item><title>[B]Pinkadilly Circus[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/PmR7kbt/Pinkadilly-Circus.webp</thumbnail>
-<fanart></fanart>
-<info>The Pink Panther comes to the aid of a henpecked husband (Big Nose) who pulls a nail out of his foot. The husband then uses the Panther against his disapproving wife.</info></item>
 
 <item><title>[B]Psychedelic Pink[/B]</title>
 <link></link>
