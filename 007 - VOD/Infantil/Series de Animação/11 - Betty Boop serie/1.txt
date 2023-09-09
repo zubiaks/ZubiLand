@@ -1,9 +1,9 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<channel><name>[B][COLOR white]Serie[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/fn4ySfm/51-Hsdp-B-v1-L-AC-UF1000-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/11%20-%20Betty%20Boop%20serie/Serie/eps.txt</externallink>
+<fanart>https://i.ibb.co/86qwFDh/historia-de-betty-boop.jpg</fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
