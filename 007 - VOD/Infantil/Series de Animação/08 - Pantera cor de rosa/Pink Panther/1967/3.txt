@@ -6,6 +6,13 @@
 <fanart></fanart>
 <info>The Pink Panther decides to get a job at a construction site, but wreaks havoc across the site instead, causing harm to the foreman and numerous fellow construction workers (all of whom are Little Men) while attempting to undertake various tasks, involving wet cement, hot rivets, pulleys, hammers, paint cans, and wooden boards.</info></item>
 
+<item><title>[B]The Hand is Pinker than the Eye[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/202%20-%20La%20Mano%20Es%20Mas%20Roja%20Que%20El%20Ojo.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/202%20-%20La%20Mano%20Es%20Mas%20Roja%20Que%20El%20Ojo.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/KhwsdD2/The-Hand-Is-Pinker-Than-the-Eye.webp</thumbnail>
+<fanart></fanart>
+<info>On a snowy day, a cold Pink Panther sneaks into a house owned by Zammo the magician (Big Nose). He is both bewildered and bedeviled by the house's numerous magical illusions, and is constantly pestered by the magician's rabbit.</info></item>
+
 <item><title>[B](OFF)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
@@ -65,12 +72,6 @@
 <thumbnail>https://i.ibb.co/j4g7ynY/Congratulations-It-s-Pink.webp</thumbnail>
 <fanart></fanart>
 <info>At the park, the Pink Panther spots what he thinks is a picnic basket of goodies and takes it for himself, but it’s actually a family’s baby basket containing a baby (voiced by June Foray). When he spots the baby’s family leaving the park, and after failed attempts to leave that baby in the care of other residents in the park, he is left with no choice but to raise the toddler by himself until the parents return.</info></item>
-
-<item><title>[B]The Hand is Pinker than the Eye[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/KhwsdD2/The-Hand-Is-Pinker-Than-the-Eye.webp</thumbnail>
-<fanart></fanart>
-<info>On a snowy day, a cold Pink Panther sneaks into a house owned by Zammo the magician (Big Nose). He is both bewildered and bedeviled by the house's numerous magical illusions, and is constantly pestered by the magician's rabbit.</info></item>
 
 <item><title>[B]Pink Outs[/B]</title>
 <link></link>
