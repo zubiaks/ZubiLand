@@ -5,716 +5,194 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Pictures[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/bv9hFCh/hqdefault-2.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther decides to become an amateur photographer and heads to the forest to take pictures of the wildlife; unfortunately for him, the animals are not cooperative.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Arcade[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/xh0GJxZ/sddefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther visits an amusement arcade after getting tons of quarters from a broken weight machine. However, the arcade machines cause mishaps to the panther whenever he plays them.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Lemonade[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/F6VKFNv/Pink-Panther-Pink-Lemonade-01.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Taking refuge from the local dog catcher, the Pink Panther stumbles into the Little Man's house, where he pretends to be the daughter's latest stuffed animal, as a means to hide from both the Little Man (Big Nose) and his aggressive dog.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Trumpet[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/zRs28nX/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Staying in a motel, the Pink Panther decides to practice his trumpet playing, which annoys the Little Man, who is staying next door in the motel.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Sprinkle Me Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/250XKht/Sprinkle-Me-Pink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Trying to have a picnic, the Pink Panther tries to escape a small cloud that keeps following and raining on him.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Dietetic Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/s5zspw8/Blake-Edwards-Pink-Panther-Dietetic-Pink-S-676506216-large.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>After the Pink Panther believes he weighs 220 pounds after stepping on a scale (as there was a heavy suitcase resting on the scale at the time), he decides to go on a strict diet, but he has trouble controlling his impulses at first.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink U.F.O.[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/xLr1KCV/hqdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther catches what he thinks is a butterfly for his collection, but it turns out to be a small UFO that causes trouble around the Panther's house.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Lightning[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/nsSM377/MV5-BODYy-NDQy-ZTkt-M2-Vi-Yi00-MTMy-LTk3-OTgt-Nz-Vi-ZTM2-OTFk-Nj-M2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTYw-NDQw.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>In a parody of Dr. Jekyll and Mr. Hyde, The Pink Panther buys Dr. Jekyll's old car, which he cannot control due to the doctor's Hyde formula in its gas tank.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Cat and the Pinkstalk[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Zz5kkqv/Cat-and-the-Pinkstalk-01.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>In a parody of Jack and the Beanstalk, The Pink Panther sells his cow for some beans and grows a large beanstalk; the Panther then climbs it and finds a castle in the clouds, where he faces the angry giant who dwells there.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Daddy[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/LkZ92X4/Pinkdad.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>While delivering babies, the stork gets lost in a thunderstorm and accidentally delivers a baby crocodile to the Pink Panther's home, leaving the unhappy Panther to care for it.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink S.W.A.T.[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/t8w3Hqk/Blake-Edwards-Pink-Panther-Pink-S-W-A-T-S-339232679-large.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther attempts to get rid of a fly in his home.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink and Shovel[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Bnkg0qM/download.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther finds a $5.00 bill, and buries it out of fear it may be stolen. However, he has trouble digging it up again, as it turns out that a hotel has been built on top of the spot where he buried it.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pinkologist[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/GJTzFrv/Pinkologist.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Little Man (Big Nose) visits a psychiatrist, having been driven to insanity by the Pink Panther. He recalls several times when the Panther had pestered him.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Yankee Doodle Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/6XSG1b3/Pink-Panther-Yankee-Doodle-Pink-Title-Card.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>During the American Revolution, the Pink Panther is sent to notify townsfolk that the Redcoats are coming. He attempts to ride an uncooperative horse who is on the side of the Redcoats, who repeatedly thwarts his efforts.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Press[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/TgkTPL8/hqdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>As a Daily Blabbermouth reporter, the Pink Panther tries to get past the security officer (Big Nose) and his guard dog at the mansion of the ironically-named Howard Huge, in order to secure an interview with him.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pet Pink Pebbles[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/KKcXF2L/Pet-Pink-Pebble-02.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Unable to afford a dog, the Pink Panther ends up adopting a pet rock, which surprisingly turns out to be more trouble than it is worth.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]The Pink of Bagdad[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/MNFntrg/The-Pink-of-Bagdad.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>While the Pink Panther visits the Middle East, his tail becomes the object of affection for a magic rope belonging to a pungi player; the Pink Panther tries to flee from the rope, which continues to go after his tail.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink in the Drink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/7rHdjZ3/The-Pink-Panther-in-Pink-in-the-Drink.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther is scammed by a South Sea cruise, which turns out to be a trap set up by a pirate (Big Nose) who forces the Panther to either do his bidding or walk the plank.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Bananas[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/K04xfv3/Pink-Panther-Pink-Bananas.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>In the jungle, the Pink Panther encounters a ferocious gorilla that suddenly dances whenever he hears music.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pinktails for Two[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Rz7qLZw/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther's tail grows to enormous proportions after it comes into contact with a "Speedy-Grow" plant fertilizer.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Z-Z-Z[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/wrPHs1S/Pink-Z-Z-Z.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A constantly-meowing alley cat keeps the Pink Panther awake at night.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Star Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/0hzfkLv/Star-Pink-Pink-Panther.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther operates a gas station for spaceships and ends up battling a space villain (Big Nose).</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Breakfast[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/7ttYrwm/maxresdefault-1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther struggles to make breakfast in the morning.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Quackers[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/60NJnFf/Pink-Panther-Pink-Quackers-01.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther adopts a wind-up duck as a house pet.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Toro Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/z2Kkgbc/Toro-Pink-02.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>When a toreador chickens out just before a bullfight at an arena, the Pink Panther is brought in as a replacement, only to get more than he bargained for when he faces a particularly dangerous bull.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]String Along in Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/N1JDNmw/mqdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther follows a seemingly endless piece of string.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink in the Woods[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/dfrZGLb/hqdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther once again takes a job as a lumberjack, but he clashes with his stern, short-tempered boss (Big Nose).</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Pull[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/BgqfR8Q/Pink-Panther-Pink-Pull-01.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>After the Pink Panther accidentally drops a quarter down a sewer grate, he tries to use a giant magnet to retrieve it, only to unintentionally get himself into more trouble due to the magnet's strong pull.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Spark Plug Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/fH0hRVm/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther needs a new spark plug to start his lawn mower, but when his replacement falls into a yard guarded by an aggressive bulldog, he must try to find a way to safely retrieve it.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Doctor Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Hx1S5mj/hqdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>As a hospital janitor, the Pink Panther takes up first aid, much to the chagrin of the actual doctor (Big Nose).</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Pink Suds[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/m0PjMDf/Pink-Suds-title.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>The Pink Panther goes to the launderette, where he unintentionally causes misfortune to his fellow customer, the Little Man.</info></item>
 
-<item><title>[B][/B]</title>
+<item><title>[B]Supermarket Pink[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/F8z38RG/maxresdefault-1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
+<info>Having run out of food, the Pink Panther goes to shop at Tony's Supermarket to buy food, where he unintentionally bedevils an employee (Big Nose) as he shops.</info></item>
