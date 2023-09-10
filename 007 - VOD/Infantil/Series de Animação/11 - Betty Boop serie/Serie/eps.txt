@@ -365,182 +365,182 @@
 <fanart></fanart>
 <info>Pudgy the Pup leva o conselho de Betty Boop ('Go Out and Make Friends With the World') a sério e faz amizade com vários animais selvagens.</info></item>
 
-<item><title>[B]61 - [/B]</title>
+<item><title>[B]61 - House Cleaning Blues[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/QbnGyWH/81od-ATPQVFL-AC-UF1000-1000-QL80.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty acorda de manhã após sua festa de aniversário. A casa está um caos, e Betty não está ansiosa para limpar. Ela canta a música-título enquanto luta com suas tarefas. Grampy aparece para levar Betty para passear, mas Betty não pode sair até que tudo esteja arrumado.</info></item>
 
-<item><title>[B]62 - [/B]</title>
+<item><title>[B]62 - Whoops! I'm a Cowboy[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/LzVt4MM/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O namorado fraco de Betty, Wiffle Piffle, a pede em casamento. Betty o recusa, dizendo/cantando que só está interessada em um cowboy "bronco-busting". Wiffle parte para um rancho de caras para aprender a se tornar um cowboy de verdade. Não dá tão certo.</info></item>
 
-<item><title>[B]63 - [/B]</title>
+<item><title>[B]63 - The Hot Air Salesman[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/djLcjzy/maxresdefault-1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Wiffle Piffle é um irritante vendedor porta a porta, vendendo uma variedade de gadgets inúteis. Enquanto ele caminha alegremente de casa em casa, ambos os braços estão continuamente se movendo como se estivessem batendo na brisa. Ao parar em casa após casa, ele é imediatamente afastado.</info></item>
 
-<item><title>[B]64 - [/B]</title>
+<item><title>[B]64 - Pudgy Takes a Bow-Wow[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/82cD7L7/mqdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Uma marquise anuncia "Betty Boop in Person" (e dá-lhe 4 e 7/8 estrelas) no teatro. Betty deixa Pudgy em seu camarim enquanto ela vai realizar seu show de palco. Seu show envolve cantar uma música, em seguida, personificando um homem chinês e um moedor de órgão italiano. Enquanto ela está cantando, um gatinho chega ao camarim e Pudgy sai e começa a persegui-lo. Eles sobem ao palco, e no fosso da orquestra, e se tornam parte do ato, animando Betty.</info></item>
 
-<item><title>[B]65 - [/B]</title>
+<item><title>[B]65 - Pudgy Picks a Fight![/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/cQwXv7K/hq720.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty Boop está tão encantada com sua nova pele de raposa. Pudgy o filhote, pensando que a raposa é um animal vivo, manuseia-o com ciúmes e, quando não se move em resposta, pensa que matou a criatura. Pudgy é então atormentado por ilusões de pesadelo acusando-o de culpa (incluindo ver a sombra de uma parte de uma lâmpada que ele acha que é um laço) e quando Betty retorna e diz a Pudgy que a raposa não está viva, ele furiosamente rasga a pele para ferreiros.</info></item>
 
-<item><title>[B]66 - [/B]</title>
+<item><title>[B]66 - The Impractical Joker[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/60qjn1m/maxresdefault-2.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty Boop está fazendo um bolo, quando Irving, o coringa prático, vem para uma visita. Betty se torna vítima de brincadeiras como apertar uma mão falsa e ser esguichada no rosto. Betty pede ajuda a Grampy, e ele rapidamente monta seu apartamento para neutralizar as brincadeiras de Irving e enviá-lo em seu caminho. Irving dá a última risada, quando Grampy acende a vela no bolo. Irving substituiu a vela por um rojão antes de partir. Essa última risada dura pouco, no entanto, quando a imagem de um navio de guerra que Irving está ao lado atira água nele continuamente.</info></item>
 
-<item><title>[B]67 - [/B]</title>
+<item><title>[B]67 - Ding Dong Doggie[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/0C8yNM9/sddefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Pudgy the Pup fica impressionado com um cão de fogo dálmata que ele vê pela janela. Contra as ordens de Betty Boop, Pudgy acompanha o cão de fogo a um incêndio em uma loja geral. Pudgy tenta ajudar, mas o fogo ganha vida própria (animada) e leva a melhor sobre Pudgy. No final, Pudgy fica feliz em correr de volta para casa para Betty Boop, que não está feliz que Pudgy saiu e a desobedeceu.</info></item>
 
-<item><title>[B]68 - [/B]</title>
+<item><title>[B]68 - The Candid Candidate[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/yfJ15kC/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty Boop faz campanha para Grampy para prefeito, e vence por um voto (apesar do fato de que o jornal da cidade diz que é um deslizamento de terra). No entanto, mais tarde, ele descobre que o trabalho não é tão glamouroso quanto ele pensava. No entanto, ele ajuda a resolver alguns dos problemas da cidade, como a construção de uma ponte livre sobre o rio, a criação de uma banca de cerveja de raiz automática pública, etc., e os habitantes da cidade o adoram.</info></item>
 
-<item><title>[B]69 - [/B]</title>
+<item><title>[B]69 - Service with a Smile (1937 film)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/X4Mc5RN/service-with-a-smile-1937-film-09749b93-67a2-4ade-84a8-a55396abeec-resize-750.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty Boop dirige o recém-inaugurado Hi-De-Ho-Tel, que tem 40 quartos e apenas dois banheiros. Os hóspedes têm muitas reclamações, que vão desde uma prateleira de gaveta pregada na parede além do resto da gaveta até fronhas cheias de sacos de cimento e camas defeituosas com cobertores muito curtos. Quando eles estressam Betty, ela liga para Grampy, que corrige as queixas dos convidados fazendo várias engenhocas complexas.</info></item>
 
-<item><title>[B]70 - [/B]</title>
+<item><title>[B]70 - The New Deal Show[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/2vMTnzg/https-pictures-betaseries-com-films-affiches-original-89173.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty Boop produz um show de animais de estimação em que os animais de estimação usam dispositivos incomuns para ajudá-los em seu comportamento normal. Algumas ideias copiadas de Invenções Loucas de Betty Boop (1933).</info></item>
 
-<item><title>[B]71 - [/B]</title>
+<item><title>[B]71 - The Foxy Hunter[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/s5fDkRZ/155272-the-foxy-hunter-0-230-0-345-crop.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Junior e Pudgy fogem dos cuidados de Betty Boop para ir caçar com uma pop-gun. As pequenas criaturas da floresta não aceitam isso com carinho e as espancam. Eles voltam para a casa de Betty Boop. Uma mãe pato os segue e Betty os segura enquanto o pato os bate.</info></item>
 
-<item><title>[B]72 - [/B]</title>
+<item><title>[B]72 - Zula Hula[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/HVfrH09/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty e Grampy estão em um voo ao redor do mundo quando são forçados a pousar em uma ilha aparentemente deserta. Betty está chateada com sua situação, mas Grampy rapidamente inventa uma série de gadgets que lhes permitem todo o conforto de casa. As coisas voltam a piorar quando um grupo de canibais aparece. Raciocínio rápido Grampy encanta os selvagens ao criar uma calíope a partir das partes do avião acidentado. Enquanto os nativos estão distraídos com a música, Grampy e Betty consertam seu avião e fazem uma fuga apressada.</info></item>
 
-<item><title>[B]73 - [/B]</title>
+<item><title>[B]73 - Riding the Rails[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/LgspRg0/maxresdefault-1.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>As emocionantes aventuras do cachorro de Betty Boop, Pudgy, que insiste em seguir sua amante quando ela vai para o centro da cidade no metrô. Ele entra no trem, e então seus problemas começam. Depois de quase interromper o serviço de trem, ele é arremessado para fora, e é forçado a andar os trilhos de volta para a estação, com trens batendo sobre ele de todas as direções. Quando ele finalmente chega em segurança de volta para casa, ele está curado de querer percorrer a cidade com Betty."</info></item>
 
-<item><title>[B]74 - [/B]</title>
+<item><title>[B]74 - Be Up to Date[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/KGr6yH3/maxresdefault-2.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty Boop's Traveling Department Store chega a Hillbillyville; o pessoal da montanha encontra usos antigos para os novos gadgets, como usar um ferro de waffle para passar o cabelo, ou tocar música, em que Betty se junta à diversão.</info></item>
 
-<item><title>[B]75 - [/B]</title>
+<item><title>[B]75 - Honest Love and True[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/4p2sL2x/Honest-Love-And-True-Betty-Boop-1.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O enredo – tanto quanto pode ser determinado a partir de materiais sobreviventes – apresenta Betty como uma cantora pobre trabalhando em um salão Klondike, com Freddie como seu defensor de Mountie.</info></item>
 
-<item><title>[B]76 - [/B]</title>
+<item><title>[B]76 - Out of the Inkwell (1938 film)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/QK2TnSN/Out-of-the-Inkwell-S-101124736-mmed.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Um zelador negro live-action, interpretado por Oscar Polk, mais conhecido por sua interpretação como o servo "Porco" no filme E o Vento Levou, de 1939, estuda hipnotismo a partir de um livro enquanto limpa a mesa de Max Fleischer no estúdio Fleischer. Ele consegue conjurar a caneta de Max para desenhar Betty Boop. Em uma sequência de animação misturada com live-action, ele usa seus novos poderes para controlar o Boop animado branco. Ela, por sua vez, é capaz de controlar um cachorro pequeno. Depois de acordar do feitiço, Betty consegue trabalhar mais alguns feitiços. Repleta de insinuações raciais, um de seus truques inclui tornar o homem negro branco por uma fração de segundo, após o que ele começa a limpar em overdrive. Antes disso, ele dormia na vassoura e varria a sujeira para debaixo do tapete. No final, Betty Boop salta para uma garrafa de tinta preta.</info></item>
 
-<item><title>[B]77 - [/B]</title>
+<item><title>[B]77 - The Swing School[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/rmzvCh6/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Na Escola de Música para Animais de Betty Boop, o cachorro Pudgy não vai tão bem, mas o amor pelo filhote triunfa.</info></item>
 
-<item><title>[B]78 - [/B]</title>
+<item><title>[B]78 - Pudgy and the Lost Kitten[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/kJX4jr0/MV5-BN2-Qy-Yzcz-NWYt-NGEx-NS00-YWIx-LWJl-MTgt-Njc1-Zj-Bm-Nm-E2-Zj-Vj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-NDIw.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Myron, o gatinho, e sua mãe, de um desenho animado anterior de Betty Boop chamado Happy You and Merry Me, fazem uma aparição de retorno.</info></item>
 
-<item><title>[B]79 - [/B]</title>
+<item><title>[B]79 - Buzzy Boop[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/0YsN6BP/Buzzy-Boop-Debut.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O jovem primo de Betty Boop, Buzzy, pega o trem para visitar Betty. Enquanto anda de trem, ela é "útil" para outros passageiros de uma forma travessa. Ela usa sua goma de mascar para grudar no topete de um homem dormindo e rega as flores no chapéu de uma senhora.</info></item>
 
-<item><title>[B]80 - [/B]</title>
+<item><title>[B]80 - Pudgy the Watchman[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/rH83c3C/MV5-BMj-E1-OGE4-MGEt-Yz-Vj-OC00-Mm-Jl-LTli-Y2-Et-Mz-Aw-Mz-Zi-Yzgz-YTYw-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-ND.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty Boop contrata um profissional felino "Mouse Eradicator" Sr. Al E. Katz para resolver seus problemas de roedores porque Pudgy não está fazendo seu trabalho. Mas depois dos sucessos iniciais, o Sr. Al E. Katz fica bêbado no trabalho. Betty fica aliviada por ter Pudgy jogando Katz pela janela.</info></item>
 
-<item><title>[B]81 - [/B]</title>
+<item><title>[B]81 - Buzzy Boop at the Concert[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/GVD0fWN/Buzzy-Boop-and-the-Concert.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Buzzy Boop at the Concert é um curta-metragem de animação da Fleischer Studios de 1938 estrelado por Betty Boop.</info></item>
 
-<item><title>[B]82 - [/B]</title>
+<item><title>[B]82 - Sally Swing[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/BghcGcT/MV5-BNzdm-YWVm-NDAt-MTM3-Zi00-Zj-Nj-LTgx-MDct-OGRi-OWZm-ZDhm-ODNm-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU4-MTQ0-Ng.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Na banca examinadora, Betty pergunta aos homens se eles fazem acrobacias ou artes cênicas. Infelizmente, depois que eles acabaram tentando uma música (Goodnight, Ladies), Betty então faz testes para se tornarem líderes de banda para o baile universitário desta noite. Ela finalmente descobre uma faxineira como líder da banda, conduzindo e cantando sua música. Betty pede a Sally para tocar o resto da música continuamente, irritando mal o diretor da faculdade (Sally o chama de "professor" no final do filme).</info></item>
 
-<item><title>[B]83 - [/B]</title>
+<item><title>[B]83 - On with the New[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/CHcBmzv/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty é uma cozinheira e lava-louças sobrecarregada em um restaurante local. Ela deixa o emprego para administrar uma creche automatizada. No entanto, ela acha o trabalho ainda mais difícil do que seu trabalho anterior quando os bebês sob seus cuidados começam a agir de forma rude, então ela retorna ao seu antigo emprego.</info></item>
 
-<item><title>[B]84 - [/B]</title>
+<item><title>[B]84 - Thrills and Chills[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/5kNhDGj/Thrills-and-Chill.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty Boop e Pudgy pegam o trem para uma estação de esqui e se veem arrastados por uma cachoeira. Eles são resgatados por um idiota amoroso.</info></item>
 
-<item><title>[B]85 - [/B]</title>
+<item><title>[B]85 - My Friend the Monkey[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/kmNw25S/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Um homem apressado passa pela casa de Betty Boop. Ela quer comprar seu macaquinho fofinho. Enquanto Betty está do lado de fora regateando o preço, o macaco está dentro causando muitos problemas para Pudgy the Pup.</info></item>
 
-<item><title>[B]86 - [/B]</title>
+<item><title>[B]86 - So Does an Automobile[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/C8GSzS8/MV5-BMGNi-Mm-I4-Nm-Et-MTgx-Yy00-Zm-I1-LTkz-ZDct-ZGM4-Yz-E3-NWMz-M2-Jk-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU4-MTQ.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty opera uma oficina de reparação de automóveis para automóveis doentes e feridos. Betty canta enquanto restaura táxis quebrados, limusines de alto preço e restaura um carro de polícia com pés doloridos e furados (pneus) de volta ao perfeito estado novamente.</info></item>
 
-<item><title>[B]87 - [/B]</title>
+<item><title>[B]87 - Musical Mountaineers[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/nQyfVS0/MV5-BMz-A2-Mm-Qz-Nj-Et-Nz-M2-Yi00-Zm-M5-LTk2-N2-Qt-Njhl-ZDcx-OTZm-MTNl-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU4-MT.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O automóvel de Betty Boop fica sem gasolina enquanto dirige pelo país caipira. Quando ela vai até um barraco próximo para pedir ajuda, o proprietário Zonk Peters e sua família desconfiam do estranho, confundindo-a com um Hatfield atacante, mas Betty os vence com sua dança. Logo, todo o clã Peters está fazendo música e dançando. Os novos amigos de Betty a ajudam em seu caminho, enchendo seu tanque de gasolina com um jarro de "gotejadores de milho".</info></item>
 
-<item><title>[B]88 - [/B]</title>
+<item><title>[B]88 - The Scared Crows[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/vd12P12/MV5-BNGRm-MTY2-Mm-Yt-NWNm-NS00-Zjc0-LWE2-MDgt-OGZh-NDk5-M2-Q3-ZDI4-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-NDIw-O.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty Boop tenta algum plantio de primavera, mas os corvos estragam tudo, então ela se faz um espantalho e empurra os pássaros, mas durante o processo um corvo foi ferido, pois atingiu uma árvore. Betty pega o corvo e o coloca em uma cesta. Ela pede a Pudgy para cuidar dele. Mas logo Pudgy ficou sonolento e foi dormir. Quando o corvo foi deixado desprotegido, ele ficou consciente e chamou o resto de seu rebanho para uma casa para uma "festa" assim que Pudgy foi acordado por um dos corvos (que jogou uma maçã comida). Estava tudo bagunçado. Os corvos tentam tirar sarro de Pudgy e de muitas maneiras de tirá-lo de lá. No final, pegaram um cobertor, enrolaram-no em volta do pudim e o jogaram para fora de casa pela porta. Pudgy avisa Betty sobre os corvos na casa. Os corvos então usavam ovos e bagas como munição. Enquanto fugia dos corvos, Betty tropeça no espantalho que fez mais cedo e teve uma ideia. Ela se vestiu como o espantalho e os assustou eventualmente.</info></item>
 
-<item><title>[B]89 - [/B]</title>
+<item><title>[B]89 - Rhythm on the Reservation[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/MRdpqMr/RhyResVa.webp</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty Boop's Swing Band visita uma reserva indígena americana. Os nativos emprestam todos os instrumentos musicais, mas sem saber seu real propósito, encontram usos estranhos para eles. Betty demonstra o uso correto do tambor de chaleira e ensina aos corajosos o verdadeiro significado de "ritmo".</info></item>
 
-<item><title>[B]90 - [/B]</title>
+<item><title>[B]90 - Yip Yip Yippy[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Jm5T86G/MV5-BMTI5-NDcx-Mj-Et-MGMx-Mi00-Mzli-LWEy-OWQt-MTJk-Yj-Fi-OGJj-Nzdk-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU4-MTQ0-N.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Um vaqueiro de farmácia lê um romance de centavos e se imagina como um cowboy do Velho Oeste lutando contra um farfalhar de gado.</info></item>
