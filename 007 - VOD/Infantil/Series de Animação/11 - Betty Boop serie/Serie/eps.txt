@@ -1,395 +1,545 @@
 
-<item><title>[B]Episode 01[/B]</title>
+<item><title>[B](OFF)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 02[/B]</title>
+<item><title>[B]01 - Stopping the Show[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/m4Q0dfz/R.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty Boop aparece no palco de um teatro de vaudeville. Seu ato consiste em imitações de cantores da vida real, incluindo Helen Kane, Fanny Brice e Maurice Chevalier. O público dos desenhos animados aplaude e aplaude entusiasticamente.</info></item>
 
-<item><title>[B]Episode 03[/B]</title>
+<item><title>[B]02 - Betty Boop's Bizzy Bee[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/r7sgWNT/MV5-BZTlm-Nm-Y0-NDAt-NDky-ZC00-MWE1-LTg5-MTct-Y2-Vk-Mj-Vh-Yz-A4-MDZi-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-NDIw.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty é a proprietária e operadora do Bizzy Bee, um popular vagão de almoço na cidade. Mesmo que os bolos de trigo sejam o único item de comida no cardápio, o lugar está sempre lotado, graças ao rosto fofo de Betty Boop. Uma mordaça gira em torno de um hipopótamo pedindo em vão que alguém "por favor, passe o açúcar"; No final, ele está coberto de açúcar.</info></item>
 
-<item><title>[B]Episode 04[/B]</title>
+<item><title>[B]03 - Betty Boop, M.D.[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/jWQsrkh/MV5-BNjgz-Mj-Fj-ZGEt-MGJl-ZS00-Nj-Q1-LTk5-MTMt-ZDA1-Y2-Rk-Mzll-Mz-Zm-Xk-Ey-Xk-Fqc-Gde-QXVy-NTcw-Nj-U.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Dra. Betty Boop é um curta-metragem de animação de 1932 da Fleischer Studios estrelado por Betty Boop, e estrelado por Koko, o Palhaço e Bimbo. [1] O curta animado é certamente uma das entradas mais surreais da filmografia de Betty Boop.</info></item>
 
-<item><title>[B]Episode 05[/B]</title>
+<item><title>[B]04 - Betty Boop's Bamboo Isle[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/3CsV7sv/MV5-BYm-Ji-Zj-Nj-OTgt-OGNm-OS00-Yj-I3-LWFk-OTAt-Mm-E2-Nm-Zk-NDVl-M2-U0-Xk-Ey-Xk-Fqc-Gde-QXVy-NTcw-Nj.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>A dança hula de Betty foi um ponto alto visual deste episódio e parece ser intimamente modelada na dançarina de hula que apareceu na sequência de ação ao vivo de abertura (embora a dançarina não fosse "topless" como Betty é). Este é um dos exemplos mais aparentes da técnica de rotoscópio que o Estúdio Fleisher usou para animação realista. A sequência de hula foi mais tarde reutilizada para a participação especial de Betty em Popeye the Sailor de 1933 e em Betty Boop's Rise to Fame de 1934.</info></item>
 
-<item><title>[B]Episode 06[/B]</title>
+<item><title>[B]05 - Betty Boop's Ups and Downs[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/WBX8K0d/MV5-BNGE3-MTRk-MGQt-OGMw-Ni00-MWIx-LWE1-Zj-Qt-MWQz-MTQx-Mjhk-YWE1-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-NDIw-OD.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O tema curto faz luz sobre a precipitação de execuções hipotecárias e leilões de propriedades na turbulência econômica da Grande Depressão, juntamente com alguns dos surrealismos distintivos do estilo Fleischer desta época.</info></item>
 
-<item><title>[B]Episode 07[/B]</title>
+<item><title>[B]06 - Betty Boop for President[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/T4rgV06/MV5-BNGIx-MTk5-Y2-Et-NGNi-Mi00-Nj-Iw-LTk0-ZDgt-Mm-Qz-Yz-Ay-Mz-Mz-ZDE3-Xk-Ey-Xk-Fqc-Gde-QXVy-NTcw-Nj.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty concorre ao cargo de presidente contra ninguém. Ambos os candidatos declaram sua plataforma por meio de música e dança.</info></item>
 
-<item><title>[B]Episode 08[/B]</title>
+<item><title>[B]07 - I'll Be Glad When You're Dead You Rascal You[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/wc6WWLx/MV5-BOTA5-Yjgy-Mzgt-Nz-Nj-NC00-ZWVh-LTk1-Mm-Qt-MWY1-Yzkz-MWY3-Mj-Iz-Xk-Ey-Xk-Fqc-Gde-QXVy-NTcw-Nj-Uw.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Depois de uma introdução live action com Louis Armstrong e sua orquestra, o curta abre na selva, com Betty sendo carregada em uma ninhada por Bimbo e Koko. Uma horda de selvagens africanos desce sobre o trio e foge com Betty. Koko e Bimbo tentam encontrar a Betty desaparecida, mas acabam na panela dos canibais. Eles sobem em uma árvore e escapam, mas são perseguidos pela enorme cabeça desencarnada de um selvagem (com a voz e o rosto de Louis Armstrong). Koko e Bimbo eventualmente encontram Betty amarrada a uma estaca, cercada por nativos dançantes. Koko e Bimbo ajudam Betty a escapar disparando colchas de porco-espinho contra os selvagens. O trio corre para fora, perseguido ferozmente por nativos arremessadores de lança. Os três finalmente alcançam a segurança depois de atravessar uma montanha, cujo pico em erupção lança os selvagens para o espaço.</info></item>
 
-<item><title>[B]Episode 09[/B]</title>
+<item><title>[B]08 - Betty Boop's Museum[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/DKsY7tg/MV5-BNjg5-OTE4-ZGQt-NGU0-MC00-Nj-Y0-LWFk-MWMt-Yjc4-Zjk0-Y2-Qz-NGUx-Xk-Ey-Xk-Fqc-Gde-QXVy-NTcw-Nj-Uw.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Koko está recrutando clientes para um passeio turístico de 50 centavos pelo museu. Betty é a única passageira de Koko. Betty fica presa dentro de casa por acidente. Os esqueletos das telas ganham vida e perseguem Betty, até que ela é finalmente resgatada por Bimbo.</info></item>
 
-<item><title>[B]Episode 10[/B]</title>
+<item><title>[B]09 - Betty Boop's Ker-Choo[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/wRvCPhC/120308-betty-boop-s-ker-choo-0-230-0-345-crop.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Bimbo e Koko estão entre os competidores de uma grande corrida automobilística, onde todos os animais falantes da terra de Fleischer estão presentes (os carros "humanizados" aguardam em baias como cavalos, e o painel de jurados é composto por três homens cegos idosos). A favorita na corrida é Betty Boop, mas ela está atrasada novamente, e seu carro com sotaque iídiche não faz ideia de onde ela está. Quando Betty finalmente aparece, ela explica em canção que seu atraso é devido a um "frio no meu 'nariz'".</info></item>
 
-<item><title>[B]Episode 11[/B]</title>
+<item><title>[B]10 - Betty Boop's Crazy Inventions[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Jqp2wFv/download.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>No show do inventor, Betty, Bimbo e Koko, o Palhaço, demonstram uma variedade de gadgets.</info></item>
 
-<item><title>[B]Episode 12[/B]</title>
+<item><title>[B]11 - Is My Palm Read[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/44s0D2p/MV5-BOGFi-ZTU2-NDEt-NDRh-OS00-Yzcy-LWI1-ZGQt-Y2-Y1-Yj-Bh-Njkz-Nj-M3-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-NDIw.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty visita Bimbo a cartomante para alguns conselhos, mas Bimbo só está interessado em ganhar tempo com Betty. A bola de cristal de Bimbo prevê que Betty naufragará em uma ilha deserta (durante a qual ela canta parte da música de Irving Berlin "All by Myself"), e atacada por espíritos malignos semelhantes a poltergeists, mas resgatada por Bimbo. Quando Bimbo se revela removendo sua barba falsa, uma Betty feliz o abraça. Infelizmente, um grupo de fantasmas da visão irrompeu nesta cena e perseguiu os dois até a ilha do deserto. Betty e Bimbo eventualmente escapam dos fantasmas, enganando-os para que saiam de um penhasco para o mar.</info></item>
 
-<item><title>[B]Episode 13[/B]</title>
+<item><title>[B]12 - Betty Boop's Penthouse[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/HG96291/MV5-BZGYw-OTZk-NTQt-OTk3-NC00-NDgy-LWI5-Nm-Mt-MTQx-M2-M0-OGNm-Yjcw-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-NDIw-O.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>No Laboratório Experimental de Bimbo, Bimbo e Koko inventam uma variedade de compostos e elixires, incluindo uma bebida tão quente que transforma um gato preto em uma cabeça de dragão, além de transformar o gato em um listrado branco e preto. Seus experimentos científicos são interrompidos quando, através de uma enorme gota do produto químico, eles veem uma Betty vestida de maiô tomando banho no telhado de sua cobertura.</info></item>
 
-<item><title>[B]Episode 14[/B]</title>
+<item><title>[B]13 - Snow-White (1933 film)[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/6vRtRHq/99439-snow-white-0-230-0-345-crop.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Um espelho mágico semelhante a Cab Calloway proclama Betty Boop como "a mais bela da terra", para a ira da rainha. A rainha ordena que seus guardas Bimbo e Koko decapitem Betty. Com lágrimas nos olhos, eles levam Betty para a floresta; Enquanto se preparam para executá-la, eles a poupam destruindo suas armas, mas caem em um poço antes que possam libertá-la. Betty escapa para um rio congelado, que a envolve em um caixão de gelo. Este bloco escorrega ladeira abaixo até a casa dos sete anões, que carregam a Betty congelada em uma caverna encantada, esbarrando em Koko e Bimbo. A rainha malvada, agora transformada em bruxa, transforma Koko em um fantasma enquanto ele canta o St. James Infirmary Blues. Com seus rivais eliminados, a Rainha novamente pergunta ao espelho mágico quem é o mais justo da terra, mas o espelho explode em uma baforada de fumaça mágica que devolve Betty e Koko aos seus estados normais e transforma a Rainha em um monstro horrível e misterioso semelhante a um dragão. O monstro semelhante a um dragão persegue os protagonistas até que Bimbo pega sua língua e a puxa, virando a criatura do avesso e fazendo com que ela fuja. Betty, Koko e Bimbo dançam em um círculo de vitória quando o filme termina.</info></item>
 
-<item><title>[B]Episode 15[/B]</title>
+<item><title>[B]14 - Betty Boop's Birthday Party[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/1MFnmJp/MV5-BNDlk-MTA2-Yj-Et-NGVl-YS00-ZTdh-LTky-Y2-It-ZGRk-Ym-Qy-OWI4-Mjg0-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-NDIw.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>É aniversário de Betty, mas ela está na cozinha lavando louça e desejando ter um homem. Os amigos de Betty, incluindo Bimbo e Koko, fazem uma festa para ela. No entanto, depois que dois homens se desentendem com um peixe, todo o grupo entra em uma briga, deixando toda a festa uma bagunça. No final, Betty rema com George Washington.</info></item>
 
-<item><title>[B]Episode 16[/B]</title>
+<item><title>[B]15 - Betty Boop's May Party[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/MR2JHsL/MV5-BMTcz-NWEx-ZTkt-Ym-U5-OS00-MDBj-LWEx-Ym-It-Zm-Uw-Nm-Yx-MGI4-Ym-Yx-Xk-Ey-Xk-Fqc-Gde-QXVy-NTcw-Nj.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Um elefante perfura uma seringueira, cuja seiva pulverizadora torna toda a cidade emborrachada. Betty e a gangue usam sua recém-descoberta limberness para dançar e cantar.</info></item>
 
-<item><title>[B]Episode 17[/B]</title>
+<item><title>[B]16 - Betty Boop's Big Boss[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/w7R5q79/MV5-BMDIy-Mj-Ni-NGYt-Nm-U5-ZS00-Yj-I1-LTk3-YTAt-OGEy-MDY3-ZTlh-Y2-E1-Xk-Ey-Xk-Fqc-Gde-QXVy-NTcw-Nj-U.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Um porco antropomórfico coloca um anúncio de emprego ("Girl Wanted--Top Floor--Female Preferred"), e depois sai com a escada passeando atrás dele. Betty passa e responde ao anúncio junto com um enorme grupo de colegas candidatos. Quando o gerente de entrevistas pergunta a Betty o que ela pode fazer, Betty responde em música que ela não pode digitar ou tomar ditado, mas que ela pode fornecer outros benefícios. O empresário manda os outros candidatos embora por um alçapão e contrata Betty.</info></item>
 
-<item><title>[B]Episode 18[/B]</title>
+<item><title>[B]17 - Mother Goose Land[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/F5Qf5cP/images.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty, enquanto lia um livro de histórias da Mãe Gansa, gostaria de poder visitar um lugar tão maravilhoso. O desejo de Betty é atendido quando Madre Gansa aparece, e lhe dá um passeio pela Terra da Mãe Gansa. Betty tem um tempo maravilhoso até que a aranha da Pequena Miss Muffet a persegue, com fins lecherous em mente. Todos os personagens estão apavorados com a aranha (durante o qual, os Três Ratos Cegos são revelados não ser cegos), mas os melros de "Sing a Song of Sixpence" vêm em socorro de Betty pegando a aranha em uma teia e carregando-a no ar, usando-a como um trampolim até que a aranha caia através da teia. Betty acorda na cama com todos os personagens de contos de fadas ao seu redor enquanto dança, e então eles pulam de volta para o livro, e quando Mother Goose tenta imitar o bordão "boop oop a doop" de Betty, seu chapéu, peruca e dentaduras caem.</info></item>
 
-<item><title>[B]Episode 19[/B]</title>
+<item><title>[B]18 - Popeye the Sailor with Betty Boop[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/CVGwyJk/popeye-the-sailor-582780000-mmed.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Popeye the Sailor (originalmente intitulado como Popeye the Sailor with Betty Boop) é um curta animado de 1933 produzido pela Fleischer Studios e distribuído pela Paramount Publix Corporation. Embora anunciado como um desenho animado de Betty Boop, foi produzido como um veículo para Popeye em sua primeira aparição animada.</info></item>
 
-<item><title>[B]Episode 20[/B]</title>
+<item><title>[B]19 - The Old Man of the Mountain[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/SQhYPkr/MV5-BZm-Fk-YTc4-Mj-Qt-Yj-I1-Ny00-Ym-M2-LTk4-Nz-Qt-NWI5-Nz-Yw-NGRh-Mz-Mz-Xk-Ey-Xk-Fqc-Gde-QXVy-NTcw-N.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O curta começa com uma introdução live-action de Calloway e sua orquestra, que executam um pequeno refrão de "Minnie the Moocher" (escrito por Cab Calloway, Clarence Gaskill e Irving Mills) antes de executar um vamp da canção-título, "The Old Man of the Mountain" (Billy Hill [aka George Brown] e Victor Young).</info></item>
 
-<item><title>[B]Episode 21[/B]</title>
+<item><title>[B]20 - I Heard[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/0GgCZdy/MV5-BODk1-ZGE3-NDIt-Mz-Ew-Ny00-YTYz-LTkx-YTEt-Y2-Y3-YTBk-YTFj-OGFj-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU4-MTQ0-N.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Os trabalhadores do Never Mine se lavam antes de almoçar na Betty Boop's Tavern, onde Betty canta e dança enquanto jantam. Após o almoço, todos os mineiros retornam ao trabalho (e reaplicam sua sujeira e sujeira antes de entrar na mina). Um Bimbo animado corre por aí, cantando "I Heard", e chama Betty para descer na mina. Ela leva o garçom para baixo, mas o cabo estala e mergulha no fundo. O acidente a deixa ilesa, mas vestida apenas com sua lingerie (Bimbo obrigatoriamente devolve seu vestido). Os dois descobrem um time de fantasmas jogando um jogo de beisebol, com uma bomba de desenho animado como a bola. Bimbo e Betty vão para a superfície no elevador, sem querer carregando a bomba com eles. Eles mandam de volta para baixo, e a explosão resultante enche todos os vagões de trem com carvão. Os fantasmas também são soprados no ar, e pousam em túmulos abertos por um Bimbo risonho.</info></item>
 
-<item><title>[B]Episode 22[/B]</title>
+<item><title>[B]21 - Morning, Noon and Night[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/Bgd90xx/MV5-BNm-Nk-Yj-I1-MTUt-Zj-Bh-Ny00-ODkw-LTkz-NDMt-MTRl-Mjhh-NDk4-YTgw-Xk-Ey-Xk-Fqc-Gde-QXVy-NTcw-Nj-Uw.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>O curta abre com um breve segmento live-action com David Rubinoff e sua orquestra. Um sol de ressaca (com gelo na cabeça) sobe lentamente sobre a fazenda de Betty Boop. A fazenda de Betty é um santuário para pássaros, mas o santuário logo é ameaçado pela chegada do Tom Kat's Social Club, um grupo de gatos famintos em busca de uma refeição fácil.</info></item>
 
-<item><title>[B]Episode 23[/B]</title>
+<item><title>[B]22 - Betty Boop's Hallowe'en Party[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/QD9zPFk/MV5-BMm-Rh-M2-I2-OGQt-ZTZi-Ny00-Yj-Ji-LTkw-ODct-Yj-Zl-YWEw-MTZh-NWI2-Xk-Ey-Xk-Fqc-Gde-QXVy-NTcw-Nj-U.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>É Halloween, e Jack Frost (em seu avião coberto de gelo) cobre os campos com geada. Um espantalho gelado arranca do ar um pedaço de papel soprado pelo vento; é um convite para a festa Hallowe'en de Betty ("p.s., Bring Your Lunch"). Betty está produzindo em massa jack o'lanterns com a ajuda de seus amigos animais. Os festeiros chegam e se juntam a Betty na música. Enquanto isso, um gorila destrói a festa e ameaça arruinar a noite. Betty se disfarça de gato preto, e seus amigos viram a mesa sobre a besta, e o assustam na festa.</info></item>
 
-<item><title>[B]Episode 24[/B]</title>
+<item><title>[B]23 - Parade of the Wooden Soldiers[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/NxzZDWy/images.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Um grande complexo fabril luta para produzir uma única embalagem, que é levada às pressas para uma loja de brinquedos. A caixa abre-se e sai uma boneca Betty Boop. Os outros brinquedos ganham vida, desfilam ao som da música do Desfile dos Soldados de Madeira e a coroam como rainha. Mas um grande brinquedo de pelúcia de King Kong começa a quebrar as coisas sequestrando Betty. Eventualmente, o grande macaco é derrotado, e os brinquedos (um pouco danificados) retomam seu desfile, e depois caem ainda em um balcão em uma loja que vende brinquedos danificados.</info></item>
 
-<item><title>[B]Episode 25[/B]</title>
+<item><title>[B]24 - She Wronged Him Right[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/w40CJ0n/MV5-BZTU1-MTQw-Nj-It-Nzg0-NC00-NDcx-LTg3-MTYt-NTc3-NWUx-NGU3-ZWZm-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-NDIw-OD.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty Boop aparece em uma peça teatral, completa com cenários teatrais óbvios. Betty não tem dinheiro para pagar a hipoteca, então a vilã covarde Heeza Rat ameaça se fechar a menos que Betty concorde em se casar com ele. O vilão ameaça Betty de várias maneiras, até mesmo quase afogando-a até que o bonito e musculoso Fred destemido vem em seu socorro.</info></item>
 
-<item><title>[B]Episode 26[/B]</title>
+<item><title>[B]25 - Red Hot Mamma[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/hKBycPV/images.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>É uma noite de inverno nevada e uma Betty tremendo está tentando dormir. Fechar todas as janelas não é suficiente, então ela acende uma fogueira na lareira e adormece no tapete da lareira. O calor das chamas logo transforma duas galinhas assadas em frangos assados, e faz Betty sonhar que sua lareira se tornou o portão do próprio inferno. Betty explora o submundo e canta "Hell's Bells" para Satanás e seus asseclas. Quando Satanás tenta colocar os movimentos em Betty, ela o fixa com um olhar (literalmente) gelado, congelando-o e todo o inferno. Quando ela cai através de um buraco e em uma superfície gelada abaixo, Betty acorda e encontra o fogo com as janelas abertas e sua cama congelada, e ela vai para a cama, desta vez sob uma pilha de colchas quentes.</info></item>
 
-<item><title>[B]Episode 27[/B]</title>
+<item><title>[B]26 - Ha! Ha! Ha![/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/HC8R3JB/MV5-BNz-Mw-NDI5-NGMt-Mz-Bj-MS00-MTI3-LTg2-Nzct-MThj-Zm-E3-NDUz-ZTE5-Xk-Ey-Xk-Fqc-Gde-QXVy-NTcw-Nj-Uw.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Max Fleischer desenha Betty, depois a deixa para a noite no estúdio às 5h. Koko escapa do poço de tinta e se ajuda em uma barra de doces deixada para trás por Max. Ele começa a comer um pouco disso. Mas, logo fica com dor de dente. Betty tenta realizar alguma odontologia amadora em Koko, tentando arrancar o dente ruim enquanto dança. Depois que isso falha, ela tenta acalmá-lo, mas usa muito gás de riso, fazendo Betty e Koko rirem histericamente. O gás do riso se espalha pela sala, fazendo um relógio de cuco e uma máquina de escrever rirem histericamente. O gás do riso então sai pela janela e se espalha pela cidade. Tanto as pessoas quanto os objetos inanimados começam a rir histericamente, incluindo uma caixa de correio, um parquímetro, uma ponte, carros e lápides. O curta termina quando Betty e Koko voltam ao tênis e ele começa a rir, antes de ofegar.</info></item>
 
-<item><title>[B]Episode 28[/B]</title>
+<item><title>[B]27 - Betty in Blunderland[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/dpFDChx/MV5-BZWU5-N2-Rk-Y2-Yt-NDlj-YS00-NTll-LTlm-OTIt-MTVh-Mj-Yy-Yjhi-MWFm-Xk-Ey-Xk-Fqc-Gde-QXVy-NTcw-Nj-Uw.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty adormece fazendo um quebra-cabeça de Alice e o coelho branco. Ela "acorda" bem a tempo de seguir o coelho através do espelho e se disfarça como Alice em um país das maravilhas moderno. Betty conhece a maioria dos habitantes tradicionais do País das Maravilhas e canta "How Do You Do" (ao som de "Everyone Says I Love You") para eles. Quando o Jabberwock rouba Betty, todos vêm em seu socorro. Betty acorda de volta em sua sala de estar, bem a tempo de evitar que o coelho branco escape novamente de seu quebra-cabeça.</info></item>
 
-<item><title>[B]Episode 29[/B]</title>
+<item><title>[B]28 - Betty Boop's Rise to Fame[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/4Jc0jsF/MV5-BMDI2-ZTA1-Mj-It-OWI2-OC00-Nj-E5-LTgw-Ym-Ut-Zj-A2-Mjc5-MDI5-MDhm-Xk-Ey-Xk-Fqc-Gde-QXVy-NTcw-Nj-U.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Em uma sequência live-action, um repórter entrevistando Max Fleischer pergunta a ele sobre Betty Boop. Max obrigatoriamente tira Betty "da tinta" e pede que ela execute alguns números. Números de música e dança de Stopping the Show, Betty Boop's Bamboo Isle e The Old Man of the Mountain são usados. [3]</info></item>
 
-<item><title>[B]Episode 30[/B]</title>
+<item><title>[B]29 - Betty Boop's Trial[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/wMYPL5H/MV5-BNDdh-OTgw-NDAt-Zj-U4-NS00-OWNm-LTg5-Mz-Mt-ZGNh-Nz-Ew-ZTUz-MDcz-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-NDIw.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Quando o belo policial Freddy persegue Betty, ela acidentalmente quebra o limite de velocidade. Freddy é forçado a prendê-la e levá-la ao tribunal de trânsito. Betty defende seu caso em canção, mas o juiz e o júri estão mais interessados em seu corpo do que no que ela tem a dizer. Depois que o júri a considera inocente, Betty começa a comemorar, assim como o júri e Freddy tendo sido beijado por Betty.</info></item>
 
-<item><title>[B]Episode 31[/B]</title>
+<item><title>[B]30 - Betty Boop's Life Guard[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/CKGZTKL/MV5-BOTk2-M2-Jj-Yzct-NDc2-MC00-YWFm-LWFi-NDgt-NTc5-NWM1-OGJm-NTA5-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-NDIw-OD.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty está passando o dia na praia, onde seu namorado Fearless Freddy trabalha como salva-vidas. Betty está curtindo o oceano enquanto flutua em seu cavalo de borracha inflável quando ele vaza. Freddy mergulha para salvar Betty, mas ela vai para baixo, onde ela começa a imaginar que ela é uma sereia. A princípio, Betty gosta de sua nova vida subaquática, nadando e cantando com os outros habitantes submarinos. A diversão termina quando um monstro marinho a persegue. Pouco antes de o monstro pegá-la, ela acorda, segura nos braços de Freddy.</info></item>
 
-<item><title>[B]Episode 32[/B]</title>
+<item><title>[B]31 - Poor Cinderella[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/jHK1vy3/MV5-BNGE0-Mz-Ix-OGQt-NTdj-ZC00-NTQ1-LWJl-OTQt-Nj-Zh-MWY0-Ym-Vh-MWQ1-Xk-Ey-Xk-Fqc-Gde-QXVy-ODAy-NTA0.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Cinderela (interpretada por Betty Boop) é uma jovem pobre forçada a ser a escrava virtual de suas duas meias-irmãs feias, que exigem que ela as prepare para o baile do príncipe enquanto ela é deixada em casa para lamentar sua solteirona, cantando que ninguém a ama e que seu único descanso são seus sonhos, mas ela mantém a esperança de ser uma princesa de verdade algum dia. Cinderela recebe a visita de sua fada madrinha, que lhe concede o desejo de assistir ao baile do príncipe, dando-lhe belas roupas, uma carruagem e os tradicionais chinelos de vidro, com o aviso de que ela deve sair até a meia-noite antes que o feitiço expire.</info></item>
 
-<item><title>[B]Episode 33[/B]</title>
+<item><title>[B]32 - There's Something About a Soldier[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/GWnpQ42/MV5-BNj-Y2-Mm-Y2-Zjgt-ZTM1-Ny00-Mm-Uz-LTk1-ZDUt-YTk4-Y2-Rl-OGMx-MDNj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-NDIw.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty está recrutando soldados para uma guerra contra mosquitos. Ela oferece um beijo para quem se inscrever, o que desperta o interesse de vários homens. Quando Fearless Fred se junta, ele é despido de sua cueca, revelando sua verdadeira gordura, que eventualmente é pressionada no peso muscular e parece um soldado de verdade. A guerra contra os mosquitos parodia o combate ao estilo da Primeira Guerra Mundial. Quando os moradores da cidade ganham, todos comemoram, e Betty e Fred se beijam.</info></item>
 
-<item><title>[B]Episode 34[/B]</title>
+<item><title>[B]33 - Betty Boop's Little Pal[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/gSQL65q/MV5-BOWMw-Yj-Jk-Mjct-YTNi-YS00-NTI5-LTgw-MWQt-ODY5-Nj-Zl-YTUz-NWY0-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU4-MTQ0-N.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty e seu filhote Pudgy estão em um piquenique, mas acham difícil aproveitar o dia em que Pudgy o arruína e é enviado para casa. Enquanto isso, um caçador de cães tem a intenção de capturar Pudgy, mas os outros cães na gaiola do apanhador conseguem escapar dele, e logo os dois se reencontram felizes.</info></item>
 
-<item><title>[B]Episode 35[/B]</title>
+<item><title>[B]34 - Betty Boop's Prize Show[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/MM8yHpK/MV5-BYj-Q3-ZDFj-ZGUt-Mj-Nk-Mi00-Y2-Ux-LWIx-MWQt-OTJj-MWY2-N2-Y0-Mj-Fl-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-NDI.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty e seu namorado, Freddy, estão aparecendo no palco do Slumberland Theatre. Betty é a marmã da escola em um melodrama de estilo antigo, e Freddy é o herói arrojado, que a resgata das garras de Philip, o Fiend.</info></item>
 
-<item><title>[B]Episode 36[/B]</title>
+<item><title>[B]35 - Keep in Style[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/nnBHQVY/MV5-BYz-M4-NGE3-ZTIt-YTAx-YS00-Zj-Ey-LTgz-MWUt-ZDli-Mj-A2-OTc1-M2-Y2-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-NDIw.jpg</thumbnail>
 <fanart></fanart>
-<info></info></item>
+<info>Betty realiza uma "Betty Boop Exposition", onde ela exibe as últimas invenções modernas. Suas criações incluíam um carro ultra-aerodinâmico, um roadster com vários assentos rumble (para aqueles com uma família grande), um carrinho de bebê de vários níveis para quíntuplos e um piano de cauda que pode se transformar em outras engenhocas úteis. Sua última invenção é seu vestido, que pode se transformar em uma flor, uma borboleta e um vestido de gola alta com um trem. O vestido é uma sensação, e logo todos estão usando a mais recente criação da Boop.</info></item>
+
+<item><title>[B]36 - When My Ship Comes In[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/BGNHJMh/MV5-BMWQx-M2-I3-N2-Et-Nj-Qz-My00-Yz-U5-LWJj-ODct-Mz-Y5-Ym-Vh-Nm-Rm-MWE1-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-N.jpg</thumbnail>
+<fanart></fanart>
+<info>Depois que Betty ganha US$ 1 milhão em uma corrida de cavalos/sorteio, ela sonha acordado em como usar melhor seus fundos. Ela gasta com serventes gratuitos para o povo da cidade, uma enorme montanha de sorvetes para as crianças da cidade, uma empresa de leite que entrega leite prendendo garrafas de leite a balões, soltando-as no ar e nas portas dos cidadãos da cidade, aparelhos complexos para os animais em sua fazenda de animais, uma linha de bonde com poltronas e uma casa de empregadas ao lado de uma casa de solteiros. Betty também gasta seu dinheiro para combater os efeitos da Grande Depressão, iniciando lojas de departamento, lojas de roupas e reabrindo fábricas. No momento em que ela gastou a maior parte de seu dinheiro de sorteios, o país inteiro superou a Depressão.</info></item>
+
+<item><title>[B]37 - Baby Be Good[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/7K2VzY7/MV5-BMTY0-Njc3-Nz-Ux-M15-BMl5-Ban-Bn-Xk-Ft-ZTcw-ODAx-MDky-MQ-V1-FMjpg-UX1000.jpg</thumbnail>
+<fanart></fanart>
+<info>Betty Boop está colocando seu sobrinho, Junior, na cama, mas ele não está pronto para dormir. Ele pula na cama e, em seguida, usa um tubo de pasta de dente para colocar listras no gato. Quando Betty o pega, ela conta a ele um conto de fadas sobre um menino. O garoto da história amarra uma lata em uma cauda de um filhote parecido com Pudgy the Puppy, assusta uma galinha e liberta prematuramente seu filhote, sacudiu maçãs de uma árvore e a cortou, joga tijolos em uma estufa, joga roupa limpa na lama e raspa o cabelo de um barbeiro. Quando ele provoca um leão em um circo próximo, tirando seu osso de sua gaiola, o leão escapa de sua gaiola e o menino tem que ser resgatado por uma fada mágica (Betty Boop com asas de fada, usando um vestido de noite preto coberto de estrelas). A fada resgata o menino, mas o faz prometer desfazer todas as suas travessuras. Isso é feito com bastante facilidade pelos animadores invertendo a sequência de cenas da primeira parte da história. Junior não tem certeza de que acredita na história, mas finalmente está pronto para dormir e desfaz suas travessuras com a mesma inversão de sequências, e se esconde sob as cobertas com medo, provavelmente por causa do leão.</info></item>
+
+<item><title>[B]38 - Taking the Blame[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/zJF485M/betty-taking.webp</thumbnail>
+<fanart></fanart>
+<info>Betty traz para casa um gato preto como companheiro de brincadeira para seu filhote de estimação, Pudgy. O gato, que rapidamente se revela malvado, ganancioso e manipulador, consegue culpar Pudgy por todo o seu mau comportamento, incluindo derrubar vasos de flores, comer chocolates, etc. Betty coloca Pudgy do lado de fora devido ao comportamento do gato, mas quando ela volta para a casa, ela descobre as verdadeiras cores do gato quando o encontra comendo todos os peixes em sua geladeira. Betty persegue o gato com uma vassoura, quebrando janelas, luzes de teto e fotos no processo antes que o gato se torne cruel e tente ameaçar Betty. Quando Pudgy consegue entrar novamente na casa, ele resgata Betty prendendo a cauda do gato em uma ratoeira, fazendo com que o gato corra para a casinha de cachorro de Pudgy em pânico. Quando Pudgy coloca grades de prisão na entrada da casinha, Betty coloca uma placa de "Vende-se" e dá amor a Pudgy.</info></item>
+
+<item><title>[B]39 - Stop That Noise[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Fzk7PFp/MV5-BOWM3-NTBh-ZTkt-NTRk-YS00-Mj-I5-LWE5-YWYt-N2-Jh-YWIz-M2-Mw-Zjcw-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-NDIw.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma Betty sem dormir não aguenta mais o barulho da cidade e vai para o campo em busca de um pouco de paz e sossego. Ela logo descobre que o país tem seus próprios problemas, como patos barulhentos e insetos irritáveis. No final, Betty retorna ao seu apartamento e adormece feliz em meio aos sons da cidade.</info></item>
+
+<item><title>[B]40 - Swat the Fly[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/n6GPq8X/Swatflyboop.webp</thumbnail>
+<fanart></fanart>
+<info>Enquanto Betty tenta fazer um bolo, uma mosca irritante voa para incomodar Betty e Pudgy the Pup. Betty, depois de tentativas fracassadas de espetar regularmente uma mosca, começa desesperadamente a jogar gobs de massa extra na pequena mosca, mas a mosca continua escapando. No final, Betty pega a mosca em um pedaço de massa, achatado no nariz de Pudgy, mas toda a casa está em frangalhos. Em seguida, a mosca consegue se libertar mais uma vez.</info></item>
+
+<item><title>[B]41 - No! No! A Thousand Times No!![/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/QQmFkYz/6hcvil-Aw58-Vby-JK4ceb-PVvm-RL5-I.jpg</thumbnail>
+<fanart></fanart>
+<info>Betty está se apresentando no palco com seu namorado, Freddy, em um melodrama à moda antiga, completo com vilão bigodudo. O vil demônio, depois de amarrar o herói, tenta Betty com diamantes e peles, mas ela responde cantando a música-título. O vilão sequestra Betty e escapa em seu balão, mas acaba sendo pego por Freddy e forçado a libertar Betty.</info></item>
+
+<item><title>[B]42 - A Little Soap and Water[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/vctYKr7/A-Little-Soap-and-Water-images-a20a8127-f224-4566-a101-ce41ba38959.webp</thumbnail>
+<fanart></fanart>
+<info>Pudgy o filhote perde o osso em cima do balde de carvão. Enquanto isso, Betty Boop está preparando a banheira de lavagem para um banho de cachorro. Quando Pudgy percebe o que Betty planejou, ele tenta fugir. Betty tem que persegui-lo pela casa, incluindo várias voltas sob o tapete da sala. Betty finalmente coloca Pudgy na banheira e o lava enquanto canta a música-título. Pudgy está todo bonito e limpo, até que ele encontra seu osso, e derruba o balde de carvão para obtê-lo.</info></item>
+
+<item><title>[B]43 - A Language All My Own[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/31TbBY3/l-Pcna-TBc-Qlvo74-ZCudb-M4f-Ws-Pe-Q.jpg</thumbnail>
+<fanart></fanart>
+<info>Betty voa para o Japão para fazer um show, e canta o número do título. Ela então veste um quimono e canta novamente em japonês.</info></item>
+
+<item><title>[B]44 - Betty Boop and Grampy[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/kch25W0/51-Op-9-GIu4-L-AC-UF894-1000-QL80.jpg</thumbnail>
+<fanart></fanart>
+<info>Betty recebe um convite para uma festa de seu parente idoso, Grampy. Enquanto ela passeia cantando "I'm On My Way to Grampy's", ela é acompanhada por dois homens em movimento, um bombeiro e um policial de trânsito – todos que irresponsavelmente largam tudo (incluindo um piano, uma casa em chamas e um engarrafamento) para ir à festa do Grampy.</info></item>
+
+<item><title>[B]45 - Judge for a Day[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/CMCbTJ7/judd-bz8r1qf.jpg</thumbnail>
+<fanart></fanart>
+<info>Betty é a estenógrafa do tribunal local. Na viagem de ônibus para o trabalho um dia, ela se cansa das ações desagradáveis de alguns de seus concidadãos (que ela chama de "pragas") e fantasia sobre o que faria se fosse juíza. Entre seus decretos: um fumante impensado aprende sobre o fumo passivo da maneira mais difícil, e um imitador de celebridades desagradável é recompensado por ter suas orelhas explodidas com imitações de Tarzan e a Sombra.</info></item>
+
+<item><title>[B]46 - Making Stars[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/5GXFjjX/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+<info>Betty é a MC de "Making Stars", uma revista de teatro que apresenta as "estrelas do amanhã": uma série de bebês performáticos. Os artistas incluem o Colorful 3 (um trio de bebês negros estereotipados cantando "Hi De Ho"), um atirador de bebês asiáticos e um bebê russo saltitante chamado "Little Miss Trotsky".</info></item>
+
+<item><title>[B]47 - Betty Boop with Henry, the Funniest Living American[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/tK20sqM/MV5-BNGIz-Yj-Fi-Yj-It-MDhh-ZS00-Yz-Fi-LWFm-OTgt-Zj-Rm-Yjkz-Zj-A3-OWFk-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU4-MTQ.jpg</thumbnail>
+<fanart></fanart>
+<info>Betty administra o pet shop local. Silent Henry quer comprar um filhote, mas só tem dois centavos. Betty, de coração mole, se oferece para deixar Henry trabalhar a diferença em sua loja. Ela logo se arrepende dessa decisão depois que Henry causa um tumulto ao tentar administrar os animais de estimação. No final, Henry recaptura alguns pássaros fugidos (deixando-os comer sementes de sua cabeça), e Betty o recompensa com o filhote que ele queria.</info></item>
+
+<item><title>[B]48 - Little Nobody[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/1qx4gGy/jm-XLhlj-Zwp0-Tq-F7-Tp3obf-DYc2tm.jpg</thumbnail>
+<fanart></fanart>
+<info>O filhote de Betty é apaixonado pelo cachorro fofo ao lado, mas é esmagado quando o dono do cachorro se refere a ele como um "pequeno ninguém". Betty anima seu animal de estimação cantando "Every Little Nobody is Somebody". Pudgy mais tarde prova isso quando ele resgata seu amor de cachorro de uma cachoeira.</info></item>
+
+<item><title>[B]49 - Betty Boop and the Little King[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/sgsZv7Y/betty-boop-and-the-little-king.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma apresentação especial de ópera é realizada para o Pequeno Rei e sua rainha, mas o monarca diminuto logo fica entediado com a música. Ele foge em busca de algum novo entretenimento, e vê uma placa para Betty Boop no teatro de vaudeville local. Depois de algumas dificuldades para conseguir um pretzel de um vendedor, a cortina surge no show de Betty no Velho Oeste. Betty realiza vários truques com seu cavalo, encantando a monarca. Ele se junta a Betty no palco para uma música e um número de dança, bem a tempo de ser pego pela rainha furiosa. Os monarcas partem na carruagem real, com Betty (escondida no para-lama) segurando a mão do Pequeno Rei.</info></item>
+
+<item><title>[B]50 - Not Now[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/gTgmm7c/x1080.jpg</thumbnail>
+<fanart></fanart>
+<info>Um gato barulhento está impedindo Betty Boop de dormir à noite. Quando Betty pede para o gato ficar quieto, ele responde "não ne-ow". Pudgy tenta afugentar o gato e, depois de muitos problemas, ele aparentemente consegue. até que todos os gatos da vizinhança aparecem do lado de fora da janela de Betty.</info></item>
+
+<item><title>[B]51 - Betty Boop and Little Jimmy[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/XL9c6C4/jimmy.jpg</thumbnail>
+<fanart></fanart>
+<info>Betty Boop e Little Jimmy estão se exercitando em um sótão equipado com equipamentos de exercícios antigos dos anos 1930. Betty canta a música "Keep Your Girlish Figure" e Little Jimmy responde com um verso "Se você é magro, não se preocupe com isso. Basta começar a rir e você vai engordar".</info></item>
+
+<item><title>[B]52 - We Did It[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/kq7NKnQ/s-l400.jpg</thumbnail>
+<fanart></fanart>
+<info>Betty deixa seu animal de estimação sozinho com três gatinhos adoráveis. Assim que Betty sai pela porta, os gatinhos começam a fazer travessuras, transformando a casa em frangalhos. Quando Betty retorna, ela assume que o dano foi causado por Pudgy, e pune o filhote inocente. Os gatinhos culpados saem do esconderijo e confessam cantando a música-título. Uma contrita Betty pede desculpas a Pudgy, e lhe dá uma grande tigela de sorvete em forma de montanha.</info></item>
+
+<item><title>[B]53 - A Song a Day[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/41jpTKh/images.jpg</thumbnail>
+<fanart></fanart>
+<info>At Betty Boop's Animal Hospital, various animals have appropriate ailments - a giraffe has a pain in the neck, a herring is pickled, etc. Morale becomes a problem until Professor Grampy comes to the rescue with a song and dance to cure the blues.</info></item>
+
+<item><title>[B]54 - More Pep[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/sPm3jmN/Pep.webp</thumbnail>
+<fanart></fanart>
+<info>"Tio Max" (Max Fleischer) tira Betty e Pudgy do tinteiro. Pudgy está cansado e não está disposto a cumprir o comando de Betty. Betty usa caneta e tinta para desenhar uma máquina que dá Pudgy mais pep. A máquina logo se descontrola quando ela coloca muitos ingredientes na máquina, acelerando não só Betty e Pudgy, mas toda a cidade também, incluindo o homem, o desfile, o trânsito (carros, caminhões, vans, caminhonetes, caminhões de mesa etc.) e na casa, o relógio de parede e a pintura pendurados na parede.</info></item>
+
+<item><title>[B]55 - You're Not Built That Way[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/YWSH7nK/144157-you-re-not-built-that-way-0-230-0-345-crop.jpg</thumbnail>
+<fanart></fanart>
+<info>Pudgy the Puppy, saindo para passear, encontra um buldogue malvado. Impressionado com o cão duro, Pudgy imita seu comportamento. Betty, vendo isso, canta a música-título para Pudgy na tentativa de parar isso. Pudgy a ignora e segue o buldogue, mas suas tentativas de ser duro só o colocam em apuros. Depois de uma tentativa de roubar uma refeição do açougueiro quase o espetar, Pudgy corre de volta para Betty, que o recebe em casa.</info></item>
+
+<item><title>[B]56 - Happy You and Merry Me[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/3mndwp1/Happymerryboop.webp</thumbnail>
+<fanart></fanart>
+<info>Um gatinho de rua chamado Myron vaga na casa de Betty Boop, fica doente com doces e é curado com erva de gato por Betty e Pudgy the Pup.</info></item>
+
+<item><title>[B]57 - Training Pigeons[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/wYgFSjF/Pigeonboop.webp</thumbnail>
+<fanart></fanart>
+<info>Betty e Pudgy estão no telhado de seu cortiço, tentando colocar seus pombos de estimação de volta em sua gaiola. Um pássaro teimoso se recusa a voltar ao abrigo, apesar dos apelos de Betty. Pudgy, imaginando-se um cão de caça, tenta capturar o pássaro, com pouco sucesso (em determinado momento, Pudgy vê o pombo em cima de um mastro de bandeira, e enquanto ele tenta subir no poste, a bandeira bate Pudgy). Quando o pombo dá o escorregão em Pudgy, o cãozinho acaba vagando pela floresta, onde adormece de exaustão. O pombo tem pena de Pudgy, e o leva de volta para a casa de Betty. Quando Pudgy acorda no telhado, ele rasga a imagem do cão de caça em frustração.</info></item>
+
+<item><title>[B]58 - Grampy's Indoor Outing[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/VqgCNhh/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+<info>Betty se oferece para levar o sobrinho Junior para ver o carnaval. Antes que eles possam sair de casa, começa a trovejar e chover, impossibilitando a participação no carnaval. O vizinho de Betty, Grampy, salva o dia usando suas invenções malucas para transformar o apartamento (e, eventualmente, até mesmo toda a casa com um enorme guarda-chuva cobrindo-o) em um circo.</info></item>
+
+<item><title>[B]59 - Be Human[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/yNCy605/be-human-bottom-from-left-betty-boop-grampy-1936-E5-MYF8.jpg</thumbnail>
+<fanart></fanart>
+<info>Betty Boop está indignada com a crueldade de seu vizinho fazendeiro com seus animais. Mas o inventivo Grampy sabe ensinar-lhe uma lição.</info></item>
+
+<item><title>[B]60 - Making Friends[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/JyZS8bx/MV5-BNj-Bl-NWQ2-YWMt-OWJl-OC00-NDEx-LTk3-ODUt-ZDFi-ZWNh-YTMw-OTQw-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-NDIw-OD.jpg</thumbnail>
+<fanart></fanart>
+<info>Pudgy the Pup leva o conselho de Betty Boop ('Go Out and Make Friends With the World') a sério e faz amizade com vários animais selvagens.</info></item>
 
-<item><title>[B]Episode 37[/B]</title>
+<item><title>[B]61 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 38[/B]</title>
+<item><title>[B]62 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 39[/B]</title>
+<item><title>[B]63 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 40[/B]</title>
+<item><title>[B]64 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 41[/B]</title>
+<item><title>[B]65 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 42[/B]</title>
+<item><title>[B]66 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 43[/B]</title>
+<item><title>[B]67 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 44[/B]</title>
+<item><title>[B]68 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 45[/B]</title>
+<item><title>[B]69 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 46[/B]</title>
+<item><title>[B]70 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode [/B]</title>
+<item><title>[B]71 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 47[/B]</title>
+<item><title>[B]72 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 48[/B]</title>
+<item><title>[B]73 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode [/B]</title>
+<item><title>[B]74 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 49[/B]</title>
+<item><title>[B]75 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 50[/B]</title>
+<item><title>[B]76 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 51[/B]</title>
+<item><title>[B]77 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 52[/B]</title>
+<item><title>[B]78 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 53[/B]</title>
+<item><title>[B]79 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 54[/B]</title>
+<item><title>[B]80 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 55[/B]</title>
+<item><title>[B]81 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 56[/B]</title>
+<item><title>[B]82 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 57[/B]</title>
+<item><title>[B]83 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 58[/B]</title>
+<item><title>[B]84 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 59[/B]</title>
+<item><title>[B]85 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 60[/B]</title>
+<item><title>[B]86 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 61[/B]</title>
+<item><title>[B]87 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 62[/B]</title>
+<item><title>[B]88 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 63[/B]</title>
+<item><title>[B]89 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Episode 64[/B]</title>
+<item><title>[B]90 - [/B]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
