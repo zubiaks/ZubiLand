@@ -6,13 +6,6 @@
 <fanart></fanart>
 <info>Betty Boop está fazendo um bolo, quando Irving, o coringa prático, vem para uma visita. Betty se torna vítima de brincadeiras como apertar uma mão falsa e ser esguichada no rosto. Betty pede ajuda a Grampy, e ele rapidamente monta seu apartamento para neutralizar as brincadeiras de Irving e enviá-lo em seu caminho. Irving dá a última risada, quando Grampy acende a vela no bolo. Irving substituiu a vela por um rojão antes de partir. Essa última risada dura pouco, no entanto, quando a imagem de um navio de guerra que Irving está ao lado atira água nele continuamente.</info></item>
 
-<item><title>[B]83 - On with the New[/B]</title>
-<link>https://archive.org/download/11.-mire-groovy-downs_202107/Betty%20Boop%20-%201938%20-%20On%20With%20the%20New.avi$nome= 1</link>
-<link>https://archive.org/download/11.-mire-groovy-downs_202107/Betty%20Boop%20-%201938%20-%20On%20With%20the%20New.mp4$nome= 2</link>
-<thumbnail>https://i.ibb.co/CHcBmzv/maxresdefault.jpg</thumbnail>
-<fanart></fanart>
-<info>Betty é uma cozinheira e lava-louças sobrecarregada em um restaurante local. Ela deixa o emprego para administrar uma creche automatizada. No entanto, ela acha o trabalho ainda mais difícil do que seu trabalho anterior quando os bebês sob seus cuidados começam a agir de forma rude, então ela retorna ao seu antigo emprego.</info></item>
-
 <item><title>[B]76 - Out of the Inkwell (1938 film)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Betty%20Boop%20-%201938%20-%20Out%20of%20the%20Ink%20Well.avi$nome= 1</link>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Betty%20Boop%20-%201938%20-%20Out%20of%20the%20Ink%20Well.mp4$nome= 2</link>
@@ -20,12 +13,12 @@
 <fanart></fanart>
 <info>Um zelador negro live-action, interpretado por Oscar Polk, mais conhecido por sua interpretação como o servo "Porco" no filme E o Vento Levou, de 1939, estuda hipnotismo a partir de um livro enquanto limpa a mesa de Max Fleischer no estúdio Fleischer. Ele consegue conjurar a caneta de Max para desenhar Betty Boop. Em uma sequência de animação misturada com live-action, ele usa seus novos poderes para controlar o Boop animado branco. Ela, por sua vez, é capaz de controlar um cachorro pequeno. Depois de acordar do feitiço, Betty consegue trabalhar mais alguns feitiços. Repleta de insinuações raciais, um de seus truques inclui tornar o homem negro branco por uma fração de segundo, após o que ele começa a limpar em overdrive. Antes disso, ele dormia na vassoura e varria a sujeira para debaixo do tapete. No final, Betty Boop salta para uma garrafa de tinta preta.</info></item>
 
-<item><title>[B]87 - Musical Mountaineers[/B]</title>
-<link>https://archive.org/download/11.-mire-groovy-downs_202107/Betty%20Boop%20-%201939%20-%20Musical%20Mountaineers.avi$nome= 1</link>
-<link>https://archive.org/download/11.-mire-groovy-downs_202107/Betty%20Boop%20-%201939%20-%20Musical%20Mountaineers.mp4$nome= 2</link>
-<thumbnail>https://i.ibb.co/nQyfVS0/MV5-BMz-A2-Mm-Qz-Nj-Et-Nz-M2-Yi00-Zm-M5-LTk2-N2-Qt-Njhl-ZDcx-OTZm-MTNl-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU4-MT.jpg</thumbnail>
+<item><title>[B]83 - On with the New[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Betty%20Boop%20-%201938%20-%20On%20With%20the%20New.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Betty%20Boop%20-%201938%20-%20On%20With%20the%20New.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/CHcBmzv/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
-<info>O automóvel de Betty Boop fica sem gasolina enquanto dirige pelo país caipira. Quando ela vai até um barraco próximo para pedir ajuda, o proprietário Zonk Peters e sua família desconfiam do estranho, confundindo-a com um Hatfield atacante, mas Betty os vence com sua dança. Logo, todo o clã Peters está fazendo música e dançando. Os novos amigos de Betty a ajudam em seu caminho, enchendo seu tanque de gasolina com um jarro de "gotejadores de milho".</info></item>
+<info>Betty é uma cozinheira e lava-louças sobrecarregada em um restaurante local. Ela deixa o emprego para administrar uma creche automatizada. No entanto, ela acha o trabalho ainda mais difícil do que seu trabalho anterior quando os bebês sob seus cuidados começam a agir de forma rude, então ela retorna ao seu antigo emprego.</info></item>
 
 
 <item><title>[B](OFF)[/B]</title>
@@ -531,6 +524,13 @@
 <thumbnail>https://i.ibb.co/C8GSzS8/MV5-BMGNi-Mm-I4-Nm-Et-MTgx-Yy00-Zm-I1-LTkz-ZDct-ZGM4-Yz-E3-NWMz-M2-Jk-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU4-MTQ.jpg</thumbnail>
 <fanart></fanart>
 <info>Betty opera uma oficina de reparação de automóveis para automóveis doentes e feridos. Betty canta enquanto restaura táxis quebrados, limusines de alto preço e restaura um carro de polícia com pés doloridos e furados (pneus) de volta ao perfeito estado novamente.</info></item>
+
+<item><title>[B]87 - Musical Mountaineers[/B]</title>
+<link>$nome= 1</link>
+<link>$nome= 2</link>
+<thumbnail>https://i.ibb.co/nQyfVS0/MV5-BMz-A2-Mm-Qz-Nj-Et-Nz-M2-Yi00-Zm-M5-LTk2-N2-Qt-Njhl-ZDcx-OTZm-MTNl-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU4-MT.jpg</thumbnail>
+<fanart></fanart>
+<info>O automóvel de Betty Boop fica sem gasolina enquanto dirige pelo país caipira. Quando ela vai até um barraco próximo para pedir ajuda, o proprietário Zonk Peters e sua família desconfiam do estranho, confundindo-a com um Hatfield atacante, mas Betty os vence com sua dança. Logo, todo o clã Peters está fazendo música e dançando. Os novos amigos de Betty a ajudam em seu caminho, enchendo seu tanque de gasolina com um jarro de "gotejadores de milho".</info></item>
 
 <item><title>[B]88 - The Scared Crows[/B]</title>
 <link></link>
