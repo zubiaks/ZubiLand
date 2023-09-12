@@ -120,11 +120,11 @@
 <fanart>https://i.ibb.co/mc54JnZ/betty1.webp</fanart>
 <info>Betty Boop é uma personagem de desenho animado criada por Max Fleischer e desenhada por Grim Natwick. Ela apareceu na série de curtas de animação Talkartoons, produzida pelo Fleischer Studios e distribuída pela Paramount Pictures.</info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
+<channel><name>[B][COLOR white]Popeye[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/ckt4fsf/81-BFq-Mhm3w-L-AC-UF894-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/12%20-%20Popeye/1.txt</externallink>
+<fanart>https://i.ibb.co/ygtqpyP/674814.jpg</fanart>
+<info>Popeye é um personagem clássico dos quadrinhos, criado por Elzie Crisler Segar em 17 de janeiro de 1929, na tira de jornal Thimble Theatre, em 1933, foi adaptado em uma série de curta-metragens de animação pela Fleischer Studios e posteriormente pelo Famous Studios para Paramount Pictures que durou até 1957</info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
