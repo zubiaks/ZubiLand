@@ -1,277 +1,31 @@
 
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
-<item><title>[B] (Espanhol)[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 
 Varios
 
+
+<item><title>[B]the hep cat (1942) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20gato%20gal%C3%A1n%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/LrVG1wC/the-hep-cat.jpg</thumbnail>
+<fanart>https://i.ibb.co/ZxBrpm3/Prototype-Sylvester4.webp</fanart>
+<info>The Hep Cat é um desenho animado da Warner Bros. Looney Tunes de 1942, dirigido por Bob Clampett, escrito por Warren Foster, animado principalmente por Robert McKimson e com uma trilha musical composta por Carl W. Stalling. O curta foi lançado em 3 de outubro de 1942</info></item>
+
+<item><title>[B]the bashful buzzard (1945) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20buitre%20listo%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/2FFnpgY/MV5-BMTdi-N2-E5-Yzct-ZGRi-Zi00-Yj-Q2-LWJh-Mz-Ut-NDhj-Yzk5-Zjg5-MGJk-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz-Ex.jpg</thumbnail>
+<fanart>https://i.ibb.co/FbWMf6N/download-1.jpg</fanart>
+<info>The Bashful Buzzard é um desenho animado de 7 minutos concluído em 1944 e lançado em 15 de setembro de 1945. É dirigido por Robert Clampett e é o segundo a apresentar o personagem Beaky Buzzard.</info></item>
+
+<item><title>[B]dog gone south (1950) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20perro%20norte%C3%B1o%20que%20fue%20al%20sur%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/TWpTJM6/images.jpg</thumbnail>
+<fanart>https://i.ibb.co/wNPsmfg/MV5-BNTRm-OTlm-MTgt-OWRl-Yy00-ZTJl-LWI1-OGUt-M2-Iz-MDg1-MDg5-OTc1-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjk3-NTUy-OT.jpg</fanart>
+<info>Ever in search of a master, no matter how unwilling, Charlie winds up on a plantation down South and tries to force himself on the owner, a Confederate Colonel. Unfortunately, the Colonel already has a pet bulldog, "Belvedere."</info></item>
+
+<item><title>[B]strife with father (1950) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20En%20casa%20con%20papa%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/FsWx0Xx/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ibb.co/hcQTfmd/MV5-BOWQw-Nj-Jk-Nm-It-Y2-Rl-YS00-OGUz-LTk5-M2-It-ZDgw-ODli-MDQ3-Nj-Rm-Xk-Ey-Xk-Fqc-Gde-QXVy-MDM0-Mz.jpg</fanart>
+<info>Strife with Father é um filme de animação da Warner Bros. Merrie Melodies dirigido por Robert McKimson e estrelado pelo dublador Mel Blanc. Foi produzido em 1948 e lançado em 1950. Este é o quarto e último desenho animado com Beaky Buzzard.</info></item>
 
 <item><title>[B]One Froggy Evening (1955)(Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Ay%2C%20que%20rana%20-%20GianmarcoJoseth.com.mp4</link>
@@ -279,9 +33,27 @@ Varios
 <fanart>https://i.ibb.co/Fww2776/maxresdefault.jpg</fanart>
 <info>One Froggy Evening é um curta-metragem musical de animação americano em Technicolor de 1955, escrito por Michael Maltese e dirigido por Chuck Jones, com direção musical de Milt Franklyn.</info></item>
 
+<item><title>[B]rocket bye baby (1956) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20bebe%20gal%C3%A1ctico%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/VMgC33T/MV5-BMDEw-MWY5-ZDIt-OGE0-OC00-ODVj-LWJj-Yz-At-Zj-Bi-Yz-U3-YTc1-Nz-A0-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz-E.jpg</thumbnail>
+<fanart>https://i.ibb.co/PTp7FwY/download.jpg</fanart>
+<info>Rocket-Bye Baby é um desenho animado da Warner Bros. de 1956 da série Merrie Melodies, dirigido por Chuck Jones. O curta foi lançado em 4 de agosto de 1956.</info></item>
+
 
 Tweety & Silvestre
 
+
+<item><title>[B]birdy and the beast (1944) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20ave%20y%20la%20bestia%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/LkxxdpJ/MV5-BOGUx-Mz-Zm-ZTYt-Yj-A5-Ny00-Zjcy-LTg4-OGUt-MTY2-ZDkw-YTNi-MDJl-Xk-Ey-Xk-Fqc-Gde-QXVy-MDM0-Mz-U2.jpg</thumbnail>
+<fanart>https://i.ibb.co/F4zng14/birdy-the-beast.webp</fanart>
+<info>Birdy and the Beast é um filme de 1944 da Warner Bros. Merrie Melodies dirigido por Bob Clampett. O curta foi lançado em 19 de agosto de 1944 e é estrelado por Tweety.</info></item>
+
+<item><title>[B]back alley oproar (1948) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20callej%C3%B3n%20trasero%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/vmZmP94/101321.jpg</thumbnail>
+<fanart>https://i.ibb.co/K23BRPQ/MV5-BOWNj-Nz-A3-MDEt-NGNm-NS00-ZWY5-LWE5-Yz-Mt-MGE5-NGU1-ODhl-M2-Nj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTU2-Nj-Yy.jpg</fanart>
+<info>Hortelino Trocaletras tenta acabar com a cantoria de Frajola, porque quer dormir.</info></item>
 
 <item><title>[B]Canary Row (1949)(Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Aseo%20de%20Canario%20-%20GianmarcoJoseth.com.mp4</link>
@@ -289,11 +61,23 @@ Tweety & Silvestre
 <fanart>https://i.ibb.co/6gMkRPZ/MV5-BMz-I3-ZDU0-Nm-Qt-OTNh-NS00-Yzlj-LWE5-YWQt-NDhm-ZDYz-YTQw-MDQ4-Xk-Ey-Xk-Fqc-Gde-QXVy-NDgy-ODgx-N.jpg</fanart>
 <info>Canary Row é um curta-metragem da Warner Bros. Merrie Melodies de 1949, dirigido por Friz Freleng e escrito por Tedd Pierce. O curta foi lançado em 7 de outubro de 1950 e é estrelado por Tweety e Sylvester. Este é o primeiro desenho animado de Sylvester e Tweety a apresentar a vovó em sua estreia.</info></item>
 
+<item><title>[B]home tweet home (1950) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Hogar%20sin%20canario%20no%20es%20hogar%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/MPYRPSy/MV5-BMTIx-ODM2-Nz-Q5-MV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-MDU4-Nj-Aw-MQ-V1.jpg</thumbnail>
+<fanart>https://i.ibb.co/tHqJtBt/0-13.jpg</fanart>
+<info>Home, Tweet Home é um curta animado de 1950 da Warner Bros. Merrie Melodies dirigido por Friz Freleng. O curta foi lançado em 14 de janeiro de 1950 e é estrelado por Tweety e Sylvester.</info></item>
+
 <item><title>[B]canned feud (1951) (Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Comida%20enlatada%20-%20GianmarcoJoseth.com.mp4</link>
 <thumbnail>https://i.ibb.co/tPstrdN/poster-500.jpg</thumbnail>
 <fanart>https://i.ibb.co/K0W5887/MV5-BNGMw-Ym-Uy-YTgt-N2-M5-YS00-M2-Uz-LWFk-Zj-At-NDI0-Zj-A1-NDYy-Yj-Qx-Xk-Ey-Xk-Fqc-Gde-QXVy-NDgy-OD.jpg</fanart>
 <info>Canned Feud é um curta de animação da Warner Bros. Looney Tunes de 1951 dirigido por Friz Freleng. O curta foi lançado em 3 de fevereiro de 1951 e é estrelado por Sylvester.</info></item>
+
+<item><title>[B]tree for two (1952) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20%C3%81rbol%20para%20dos%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/W2BQ1TF/LTCE-VOL-6-SUPPORTING-PLAYERS.webp</thumbnail>
+<fanart>https://i.ibb.co/Sf6zDvF/MV5-BOGNj-Ym-Zj-ZGUt-MDg0-OS00-Nm-Y5-LWJj-Mj-Et-Zj-Ji-Nm-Q5-ZDMz-Mjdk-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU4-MTQ.jpg</fanart>
+<info>Um buldogue chamado Spike e seu admirador, um cão mais pequeno chamado Chester, colocaram os olhos em desbaste para um gato. Eles encontram Silvestre e o perseguem até o ferro-velho. Uma pantera negra que escapou do zoológico também está escondida lá. Toda vez que Spike tenta entrar no ferro-velho, a pantera o ataca, que ele erroneamente pensa ser Sylvester. Chester não parece ter problemas em destruir Sylvester, o que faz Spike pensar que Chester é mais duro do que ele, apesar da diferença de tamanho.</info></item>
 
 <item><title>[B]Birds anonymous (1957) (Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Canarios%20an%C3%B3nimos%20-%20GianmarcoJoseth.com.mp4</link>
@@ -311,17 +95,77 @@ Duffy Duck
 <fanart>https://i.ibb.co/QHkfvjC/download.jpg</fanart>
 <info>You Ought to Be in Pictures é um curta-metragem de 1940 da Warner Bros. Looney Tunes dirigido por Friz Freleng. O desenho animado foi lançado em 18 de maio de 1940 e é estrelado por Porky Pig e Daffy Duck</info></item>
 
+<item><title>[B]the wise quacking duck (1943) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20Pato%20que%20se%20vio%20vivo%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/9pDXmH4/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/yBgRbGX/MV5-BMTRi-Ym-Jk-ODQt-Mjhk-Ni00-Nm-Iw-LWI0-OWUt-OTI5-OGEx-M2-E5-Mzgz-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Mx-Mz-M.jpg</fanart>
+<info>The Wise Quacking Duck é um desenho animado da Warner Bros. Looney Tunes de 1943 dirigido por Bob Clampett. O desenho animado foi lançado em 1º de maio de 1943 e é estrelado por Daffy Duck.</info></item>
+
+<item><title>[B]the stupid cupid (1944) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20Cupido%20loco%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/0fhgKwn/14209843-max.jpg</thumbnail>
+<fanart>https://i.ibb.co/yBSwFD7/stupid-cupid.webp</fanart>
+<info>The Stupid Cupid é um desenho animado da Warner Bros. Looney Tunes de 1944 dirigido por Frank Tashlin. O desenho animado foi lançado em 25 de novembro de 1944 e é estrelado por Daffy Duck e Elmer Fudd.</info></item>
+
+<item><title>[B]draftee daffy (1945) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20reclutamiento%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/W3b7vs7/MV5-BYWNm-ZTky-Mj-Yt-M2-E0-Ni00-ZDI0-LWI1-NDct-OGYz-Mz-Bj-NWVi-Nm-E5-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz-E.jpg</thumbnail>
+<fanart>https://i.ibb.co/1s0BDwr/MV5-BODky-ZTFj-YWUt-YTVh-OS00-Njk0-LWIx-N2-It-NGQz-Yz-Yz-MTAz-MDcy-L2lt-YWdl-L2lt-YWdl-Xk-Ey-Xk-Fqc.jpg</fanart>
+<info>Having read about the U.S. fighting forces pushing the Nazi troops back during World War II ("A thshmathing frontal attack on the enemy rear?"), Daffy is in a patriotic mood. However, his mood quickly changes to fear when he gets a call that "The Little Man from the Draft Board" wants to see him.</info></item>
+
+<item><title>[B]nasty quacks (1945) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20pato%20odioso%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/xXHf21S/166344-nasty-quacks-0-230-0-345-crop.jpg</thumbnail>
+<fanart>https://i.ibb.co/2hDNztm/MV5-BNTM5-OGMx-N2-It-NDMz-NC00-ZDdj-LTg5-MDAt-Yj-U4-Nz-Q3-Nm-Iz-MDBk-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Mx-Mz.jpg</fanart>
+<info>Nasty Quacks é um desenho animado da Warner Bros. Merrie Melodies de 1945, dirigido por Frank Tashlin. O desenho animado foi lançado em 1º de dezembro de 1945 e é estrelado por Daffy Duck. Este foi o último desenho animado do Patolino, e o penúltimo no geral, dirigido por Tashlin</info></item>
+
 <item><title>[B]baby bottleneck (1946) (Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Crisis%20de%20bebes%20-%20GianmarcoJoseth.com.mp4</link>
 <thumbnail>https://i.ibb.co/XX0BF7Y/c-QA6h-Toek-WXr-Hi-N5q-GU3v-Rahzgf.jpg</thumbnail>
 <fanart>https://i.ibb.co/GRc9SKR/MV5-BYTk0-Ym-E3-Zm-Qt-NTFh-YS00-ZWEw-LThl-Y2-Et-Zm-Fi-N2-Ri-M2-M0-NGE3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTU2-Nj.jpg</fanart>
 <info>Baby Bottleneck é um desenho animado da Warner Bros. Looney Tunes de 1946 dirigido por Bob Clampett e escrito por Warren Foster. O desenho animado foi lançado em 16 de março de 1946 e é estrelado por Daffy Duck e Porky Pig. Tweety faz uma aparição no filme. </info></item>
 
+<item><title>[B]the great piggy bank robbery (1946) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20gran%20robo%20de%20la%20alcanc%C3%ADa%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/N7SzGDd/MV5-BODk3-NTFk-Yz-Ut-ZTA0-YS00-Mz-U2-LThj-MDEt-NGY3-NTU4-ODFm-NTlj-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc5-Nj-Ez.jpg</thumbnail>
+<fanart>https://i.ibb.co/T4WKY97/MV5-BYTMz-OTEy-ZWYt-NTg4-MC00-MDBk-LWE4-M2-Mt-MGMz-Zjdi-YTNh-OTNl-Xk-Ey-Xk-Fqc-Gde-QXVy-NDgy-ODgx-Nj.jpg</fanart>
+<info>The Great Piggy Bank Robbery é um desenho animado da Warner Bros. Looney Tunes de 1946 dirigido por Bob Clampett. O desenho animado foi lançado em 20 de julho de 1946 e é estrelado por Daffy Duck. O curta é o penúltimo desenho animado de Clampett na Warner, produzido pouco antes de ele deixar o estúdio.</info></item>
+
+<item><title>[B]the scarlet pumpernickel (1950) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20enmascarado%20negro%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/DwTYXRf/MV5-BNz-A3-MTY3-ODkt-ZWYx-OC00-MTJl-LTg3-NTIt-Njc4-ZDRk-Nj-Bm-Yj-E2-Xk-Ey-Xk-Fqc-Gde-QXVy-Nzg5-OTk2.jpg</thumbnail>
+<fanart>https://i.ibb.co/MfmptJR/MV5-BNWEx-Mz-Ex-MDkt-Mjdm-NS00-ZDMz-LWI3-NGYt-Yz-Y4-NGQ2-ODA2-MWJl-Xk-Ey-Xk-Fqc-Gde-QXVy-NDgy-ODgx-N.jpg</fanart>
+<info>The Scarlet Pumpernickel é um curta-metragem de desenho animado da Warner Bros. Looney Tunes de 1950, dirigido por Chuck Jones e escrito por Michael Maltese. O desenho animado foi lançado em 4 de março de 1950 e apresenta Daffy Duck, junto com várias estrelas de Looney Tunes, incluindo a introdução de Melissa Duck.</info></item>
+
 <item><title>[B]Drip-Along Daffy (1951)(Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20A%20un%20lado%20Lucas%20-%20GianmarcoJoseth.com.mp4</link>
 <thumbnail>https://i.ibb.co/PmfHDJz/MV5-BOTQ3-ZTQy-Nj-It-ZWVi-OS00-Zjg3-LTgy-Mz-Mt-NDc1-Yj-Iz-YWYy-MWE1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTk3-NDAw.jpg</thumbnail>
 <fanart>https://i.ibb.co/rbv4176/image-w1280.jpg</fanart>
 <info>Este desenho animado foi produzido como uma paródia de faroestes que eram populares na época de seu lançamento, e apresenta Patolino como um "herói do tipo western", que, com seu confiável "Comedy Relief" (Porky Pig) espera limpar uma "cidade de um cavalo" cheia de violência. Em um aceno irônico ao The Lone Ranger, o cavalo de Patolino é chamado de "Tinfoil". O desenho inclui uma canção original (cantada por Porky) chamada "The Flower of Gower Gulch", uma paródia de canções de amor sentimentais estilo cowboy, Gower Gulch sendo um cruzamento em Hollywood conhecido como um ponto de encontro para aspirantes a atores nos primeiros westerns.</info></item>
+
+<item><title>[B]duck dodgers in the 24 1⁄2th century (1953) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Duck%20Dodgers%20in%20the%2024%C2%BDth%20Century%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/WzJmXRW/MV5-BZDk1-Nj-Qw-Y2-Qt-ODBi-Ni00-Nz-Yz-LWJj-MDIt-ZGVh-NTM3-Mjdl-Y2-Iz-Xk-Ey-Xk-Fqc-Gde-QXVy-NTAy-ODkw.jpg</thumbnail>
+<fanart>https://i.ibb.co/wdqxJh2/duck-dogers11.webp</fanart>
+<info>Duck Dodgers in the 24+1/2ᵗʰ Century é um desenho animado da Warner Bros. Merrie Melodies de 1953 dirigido por Chuck Jones. O desenho animado foi lançado em 25 de julho de 1953 e é estrelado por Patolino como o herói espacial Duck Dodgers, Porky Pig como seu assistente e Marvin, o Marciano, como seu oponente.</info></item>
+
+<item><title>[B]duck amuck (1953) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Esto%20esta%20de%20locos%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/ZctXPqx/MV5-BZm-Zh-NGEx-OTkt-NDgz-OC00-OWJj-LWE2-Nj-Mt-YTNm-Zm-Q3-MWM0-Mz-A3-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc2-NTQz.jpg</thumbnail>
+<fanart>https://i.ibb.co/Q66gFrz/MV5-BNm-Mx-ODE5-ZTIt-YWYw-My00-ZTVh-LWE5-Yz-Yt-Nm-Q0-Yj-Yx-ZGMw-Mm-M5-Xk-Ey-Xk-Fqc-Gde-QXVy-ODg5-MTk.jpg</fanart>
+<info>Duck Amuck é um curta-metragem de comédia surreal de animação americano dirigido por Chuck Jones e escrito por Michael Maltese. O curta foi lançado em 17 de janeiro de 1953, como parte da série Merrie Melodies, e é estrelado por Daffy Duck.</info></item>
+
+<item><title>[B]my little duckaroo (1954) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20heroico%20Pato%20vaquero%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/YPSjgpv/MV5-BNjgz-Mzlm-Yj-Ut-MDNj-Yy00-MTM4-LTk0-OWMt-MDM0-OWE0-Y2-Jk-Mz-Fm-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz-Ex.jpg</thumbnail>
+<fanart>https://i.ibb.co/1Q98jkr/17.jpg</fanart>
+<info>My Little Duckaroo é um curta de animação teatral da Warner Bros. Merrie Melodies de 1954 dirigido por Chuck Jones e escrito por Michael Maltese. O desenho animado foi lançado em 27 de novembro de 1954 e é estrelado por Daffy Duck e Porky Pig</info></item>
+
+<item><title>[B]the high and the flighty (1956) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20pato%20de%20las%20triqui%C3%B1uelas%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/wh77Sjz/MV5-BMDRk-ZTA0-Zj-Et-Nzc3-ZC00-ZTQ5-LThk-NTgt-M2-Zk-MGUx-ODE5-Nz-Y0-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz-Ex.jpg</thumbnail>
+<fanart>https://i.ibb.co/pQKcWH0/MV5-BYj-Q0-Nz-E2-Zm-Qt-Nj-Ri-MC00-MDAz-LTgw-MDMt-Nj-M3-Yj-Mz-Yz-Vi-Mz-I3-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4.jpg</fanart>
+<info>The High and the Flighty é um desenho animado da Warner Bros. Merrie Melodies de 1956, dirigido por Robert McKimson e escrito por Tedd Pierce. O curta foi lançado em 18 de fevereiro de 1956 e é estrelado por Daffy Duck, Foghorn Leghorn e Barnyard Dawg. O título é uma paródia do filme de 1954 da Warner Bros</info></item>
 
 <item><title>[B]deduce you say (1956) (Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Deducciones%20-%20GianmarcoJoseth.com.mp4</link>
@@ -334,6 +178,12 @@ Duffy Duck
 <thumbnail>https://i.ibb.co/518g1JW/MV5-BMGY0-Mz-Y2-Mzkt-NTRj-MC00-Y2-Fk-LWIx-OGMt-YWEx-MDFl-NDg2-Zj-I5-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz-Ex.jpg</thumbnail>
 <fanart>https://i.ibb.co/JFBhh91/MV5-BZTEw-M2-Rh-Ym-Et-N2-I4-YS00-Zm-I2-LTgx-OGYt-NDEw-Zj-A3-NTc2-NTA3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI4-ODc.jpg</fanart>
 <info>Ducking The Devil é um desenho animado de 1957 da Warner Bros. Merrie Melodies dirigido por Robert McKimson. O curta foi lançado em 17 de agosto de 1957 e é estrelado por Daffy Duck and the Tasmanian Devil</info></item>
+
+<item><title>[B]a-haunting we will go (1966) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20La%20bruja%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/SR9x92t/MV5-BYj-Ni-Zj-Rk-Nj-It-OWFj-MS00-ZDQ5-LTk4-Yjgt-Zj-Yz-ZTcz-MWU5-Nm-Nk-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz.jpg</thumbnail>
+<fanart>https://i.ibb.co/6mn18Ty/MV5-BMDRi-Mjc1-Y2-Ut-NTIy-OS00-ODY5-LThj-NDQt-Ym-Q3-ZGIy-OWI3-MWVl-Xk-Ey-Xk-Fqc-Gde-QXVy-NDgy-ODgx-N.jpg</fanart>
+<info>A-Haunting We Will Go é um desenho animado da Warner Bros. Looney Tunes de 1966 dirigido por Robert McKimson. O curta foi lançado em 16 de abril de 1966 e é estrelado por Daffy Duck, Speedy Gonzales e Witch Hazel</info></item>
 
 
 Bip Bip & Coyote
@@ -351,6 +201,12 @@ Bip Bip & Coyote
 <fanart>https://i.ibb.co/GRSxkTx/MV5-BZjlm-M2-M1-NGEt-Zj-Rj-Yi00-Mm-Iy-LTkw-Zjgt-Nj-Iw-MDM1-Y2-Vh-OWRl-Xk-Ey-Xk-Fqc-Gde-QXVy-NDgy-ODg.jpg</fanart>
 <info>Zipping Along é um desenho animado da Warner Bros. Merrie Melodies de 1953 dirigido por Chuck Jones. O curta foi lançado em 19 de setembro de 1953 e é estrelado por Wile E. Coyote and the Road Runner.</info></item>
 
+<item><title>[B]guided muscle (1955) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Inatrapable%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/1Kx435J/MV5-BMzk1-Zj-Q2-Yz-It-ZGUw-YS00-OTRk-LWE4-Nj-Yt-NTlk-NDIw-Yz-Ax-N2-Yx-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz.jpg</thumbnail>
+<fanart>https://i.ibb.co/R3W4mkx/MV5-BMz-Uw-Y2-Zj-Yj-Yt-Yj-Fl-Ni00-N2-Mx-LTlm-MTkt-Y2-Jm-NWZh-ODIw-N2-My-Xk-Ey-Xk-Fqc-Gde-QXVy-ODQy-M.jpg</fanart>
+<info>Guided Muscle é um desenho animado da Warner Bros. Looney Tunes de 1955 dirigido por Chuck Jones. O curta foi lançado em 10 de dezembro de 1955 e é estrelado por Wile E. Coyote and the Road Runner.</info></item>
+
 
 Bugs Bunny
 
@@ -367,11 +223,41 @@ Bugs Bunny
 <fanart>https://i.ibb.co/87S2XBv/image-w1280.webp</fanart>
 <info>Wabbit Twouble é um desenho animado de Merrie Melodies estrelado por Pernalonga, produzido por Leon Schlesinger Productions e lançado em 20 de dezembro de 1941 pela Warner Bros. Pictures</info></item>
 
+<item><title>[B]hiawatha's rabbit hunt (1941) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20La%20cacer%C3%ADa%20de%20conejos%20de%20Hiawatha%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/b1hPkPk/MV5-BYz-Y4-ZDAy-YTgt-Mz-Y4-NC00-NTY0-LWEz-Mjkt-NDdh-MDAw-Ym-Ni-Njk0-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz-Ex.jpg</thumbnail>
+<fanart>https://i.ibb.co/0KGLt5x/download.jpg</fanart>
+<info>Hiawatha's Rabbit Hunt é um desenho animado da Merrie Melodies de 1941, dirigido por Friz Freleng. Mel Blanc dublou todos os personagens. Este filme foi indicado ao Oscar de Melhor Curta-Metragem, mas perdeu para Lend a Paw, de Walt Disney. Este foi o primeiro desenho animado do Pernalonga dirigido por Friz Freleng</info></item>
+
+<item><title>[B]falling hare (1943) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Fuer%20abajo%20conejo%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/zXK6HYS/MV5-BNzdk-Yj-Ax-MWQt-YWY2-NC00-YTcz-LTlm-Nz-Mt-YTE0-OGQ0-Yz-Rm-MDkx-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA0-MTM5.jpg</thumbnail>
+<fanart>https://i.ibb.co/CQ2qNs7/download.jpg</fanart>
+<info>Falling Hare é um desenho animado da Warner Bros. Merrie Melodies de 1943 dirigido por Bob Clampett. O desenho animado apresenta Bugs Bunny. Neste filme, Pernalonga tenta impedir a destruição de um avião militar americano por um gremlin. O cenário é uma base das Forças Aéreas do Exército dos Estados Unidos.</info></item>
+
 <item><title>[B]buckaroo bugs (1944) (Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Bugs%20el%20bandido%20-%20GianmarcoJoseth.com.mp4</link>
 <thumbnail>https://i.ibb.co/NxHBfyn/hc-Tt-NDm2lj-LGSMv-Lm-Uuwddwyj-ES.jpg</thumbnail>
 <fanart>https://i.ibb.co/4NDz9v4/MV5-BNj-Nm-Yzkz-N2-It-ZGNh-Yi00-ODc0-LWI1-Nm-Et-NTY3-M2-Yy-Mjk1-MDAy-Xk-Ey-Xk-Fqc-Gde-QXVy-NTAy-ODkw.jpg</fanart>
 <info>Buckaroo Bugs é um filme de desenho animado americano Western Looney Tunes de 1944 dirigido por Bob Clampett. O desenho animado foi lançado em 26 de agosto de 1944 e apresenta Bugs Bunny em sua estreia oficial em Looney Tunes.</info></item>
+
+<item><title>[B]little red riding rabbit (1944) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20Caperucito%20orej%C3%B3n%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/gdsZzv4/1-172709861.jpg</thumbnail>
+<fanart>https://i.ibb.co/30QZTSX/88237.webp</fanart>
+<info>Little Red Riding Rabbit é um desenho animado da Warner Bros. Merrie Melodies de 1944, dirigido por Friz Freleng e estrelado por Pernalonga. É um envio da história de "Chapeuzinho Vermelho" e é a primeira vez em que Mel Blanc recebe um crédito de voz.</info></item>
+
+<item><title>[B]old grey hare (1944) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Enemigos%20para%20siempre%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/qNr59sz/MV5-BNDJh-Y2-Vi-Mj-Mt-Yj-Zl-My00-YTEx-LWIz-Nm-Et-MGJk-Mzc2-Mz-Ri-YWVm-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz.jpg</thumbnail>
+<fanart>https://i.ibb.co/JrYsyxp/b2309a542b0760034828a1a3a1ea531e.jpg</fanart>
+<info>The Old Grey Hare é um desenho animado de Merrie Melodies de 1944 dirigido por Bob Clampett. O curta foi lançado em 28 de outubro de 1944 e apresenta Bugs Bunny e Elmer Fudd</info></item>
+
+<item><title>[B]hair-raising hare (1946) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20monstro%20peludo%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/3mknWG0/MV5-BOWY2-Yj-Y3-Zm-It-OGM3-MS00-OTRk-LThj-ODMt-NDll-N2-M0-ZDM0-OTVj-Xk-Ey-Xk-Fqc-Gde-QXVy-Nzg5-OTk2.jpg</thumbnail>
+<fanart>https://i.ibb.co/pd6QJLs/MV5-BYj-Fk-Mm-U5-YWYt-Zm-Rj-MC00-Nzhm-LTk1-Nzkt-ZWUz-Yz-E4-MTY2-Nm-Qz-Xk-Ey-Xk-Fqc-Gde-QXVy-NTAy-ODk.jpg</fanart>
+<info>Hair-Raising Hare é um desenho animado da Warner Bros. Merrie Melodies, lançado em 25 de maio de 1946. Foi dirigido por Chuck Jones e escrito por Tedd Pierce. É estrelado por Pernalonga e apresenta a primeira aparição do personagem monstro laranja de Chuck Jones "Gossamer"</info></item>
 
 <item><title>[B]Baseball Bugs (1946) (Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20B%C3%A9isbol%20Bugs%20-%20GianmarcoJoseth.com.mp4</link>
@@ -379,17 +265,65 @@ Bugs Bunny
 <fanart>https://i.ibb.co/L8JksNm/baseball-bugs.webp</fanart>
 <info>Beisebol Bugs é um desenho animado teatral da Warner Bros. Looney Tunes de 1946 dirigido por Friz Freleng. O curta foi lançado em 2 de fevereiro de 1946 e é estrelado por Pernalonga. No curta, Pernalonga derrota sozinho o "Gas-House Gorillas", um time de beisebol de valentões gigantes que mastigam charutos.</info></item>
 
+<item><title>[B]Acrobatty Bunny (1946) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20conejo%20acr%C3%B3bata%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/Y0kGhXG/download-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/dBCnwRP/image-w1280.webp</fanart>
+<info>Acrobatty Bunny is a 1946 Warner Bros. Looney Tunes short directed by Robert McKimson. The short was released on June 29, 1946, and stars Bugs Bunny and Nero the Lion. This was the first cartoon McKimson directed that starred Bugs Bunny.</info></item>
+
+<item><title>[B]rabbit transit (1947) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20conejo%20veloz%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/F5mKz0Q/download.jpg</thumbnail>
+<fanart>https://i.ibb.co/rdCY2ys/MV5-BZj-Mx-NDg5-Yz-At-OGEz-OS00-Mm-Rk-LWFk-Nm-Mt-M2-Y4-NDY4-ZGFh-NWZl-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz.jpg</fanart>
+<info>Rabbit Transit é um desenho animado dos Looney Tunes de 1947, dirigido por Friz Freleng. O curta foi lançado em 10 de maio de 1947 e apresenta Bugs Bunny e Cecil Turtle. O título é uma brincadeira com "trânsito rápido"</info></item>
+
+<item><title>[B]easter yeggs (1947) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20conejo%20de%20Pascua%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/BT7tXpN/MV5-BYm-Fk-MDhi-Mz-Mt-ZTNi-Ny00-YTY2-LWJk-NGMt-ZDE5-Nzhm-Zj-Fj-MTE4-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz-Ex.jpg</thumbnail>
+<fanart>https://i.ibb.co/k6rKRnQ/MV5-BNTc5-Yz-Nm-OWMt-NTY3-OC00-NDlj-LTlj-Zm-Mt-Mzc5-M2-U2-MGZm-Nj-Jh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTU2-Nj-Y.jpg</fanart>
+<info>Easter Yeggs é um curta de animação teatral da Looney Tunes de 1947. O desenho animado foi lançado em 28 de junho de 1947 e apresenta Bugs Bunny e Elmer Fudd. O título é uma brincadeira com "ovos de Páscoa" e "yegg", uma gíria para um ladrão ou arrombador</info></item>
+
+<item><title>[B]gorilla my dreams (1948) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20gorila%20de%20mis%20sue%C3%B1os%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/MsNwdkH/MV5-BYTYw-OGYw-Yzct-NWI3-Ny00-OTU2-LThk-NDUt-OTlk-NDA0-MGI1-Yz-A0-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz-Ex-M.jpg</thumbnail>
+<fanart>https://i.ibb.co/TB3Jgv2/MV5-BZTQ3-MDVh-MWIt-NGM5-Ni00-Zj-Vk-LTlk-Yz-Et-Ym-Fh-Nj-E2-ZTFh-Zm-Nh-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz.jpg</fanart>
+<info>Gorilla My Dreams é um curta-metragem de animação teatral da Warner Bros. Looney Tunes, dirigido por Robert McKimson e escrito por Warren Foster. O curta foi lançado em 3 de janeiro de 1948 e é estrelado por Pernalonga</info></item>
+
 <item><title>[B]Buccaneer Bunny (1948) (Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Conejo%20pirata%20-%20GianmarcoJoseth.com.mp4</link>
 <thumbnail>https://i.ibb.co/rGFgbF4/MV5-BOTJj-ZTI0-ZDEt-ODU1-My00-ZTcz-LTg3-OWIt-Yz-U3-Yjgy-Nj-U1-Yz-Q0-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz-Ex.jpg</thumbnail>
 <fanart>https://i.ibb.co/PwPxztD/Buccaneer-Bunny-Bugs-Sam-Looney-Tunes.webp</fanart>
 <info>Buccaneer Bunny é um desenho animado dos Looney Tunes de 1948 dirigido por Friz Freleng. O curta foi lançado em 8 de maio de 1948 e apresenta Bugs Bunny e Yosemite Sam</info></item>
 
+<item><title>[B]haredevil hare (1948) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20conejo%20espacial%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/f1tgZDG/MV5-BNjc5-MTRi-M2-Mt-NGRj-OS00-ZTRh-LWFk-MDIt-Mj-M4-OTdk-ZGQz-Mz-Yy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA0-MTM5.jpg</thumbnail>
+<fanart>https://i.ibb.co/gPYf4TN/Looney-Tunes-Haredevil-Hare-screenshot.jpg</fanart>
+<info>Haredevil Hare é um desenho animado Looney Tunes de 1948 dirigido por Chuck Jones. É estrelado por Pernalonga e é a estreia de Marvin, o Marciano - embora ele não tenha um nome neste filme - junto com seu cachorro marciano, K-9.</info></item>
+
+<item><title>[B]long-haired hare (1949) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20canto%20del%20conejo%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/Sd34fMp/MV5-BZj-Yz-Y2-Zh-Y2-It-OWY0-My00-MWYw-LTlk-Yz-At-N2-Jh-MDRk-MWNj-OTQ5-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc2-NTQ.jpg</thumbnail>
+<fanart>https://i.ibb.co/0DbRYRj/721335862-a4158d49c05bfe027c5fa78eeb1a6258f7a6f2a6cb6ba36a54ab08991bb5a461-d.webp</fanart>
+<info>Long-Haired Hare é um curta-metragem de animação americano de 1949 dirigido por Chuck Jones e escrito por Michael Maltese. Foi produzido pela Warner Bros. Cartoons e distribuído pela Warner Bros. Pictures como parte da série Looney Tunes, e foi o 60º curta a apresentar Bugs Bunny.</info></item>
+
 <item><title>[B]high diving hare (1949) (Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Clavados%20de%20altura%20-%20GianmarcoJoseth.com.mp4</link>
 <thumbnail>https://i.ibb.co/NZZG85K/MV5-BZWRj-YWU3-MDEt-N2-Q0-My00-Mjlh-LTk2-NDEt-MTVh-Mz-Fm-NGM2-NDEy-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc2-NTQz-M.jpg</thumbnail>
 <fanart>https://i.ibb.co/McGDTG3/MV5-BYz-Jj-ODE4-YWEt-Zj-I4-Mi00-OWVm-LWEx-Nj-At-Nj-Ri-NTlj-M2-I1-Nzg0-L2lt-YWdl-L2lt-YWdl-Xk-Ey-Xk-F.jpg</fanart>
 <info>High Diving Hare is a 1948-produced Warner Brothers Looney Tunes theatrical cartoon short starring Bugs Bunny and Yosemite Sam.[1] Released to theaters on April 30, 1949,[2] the short is an expansion of a gag from Stage Door Cartoon, which was also directed by Friz Freleng, and co-stars Elmer Fudd. High Diving Hare can be seen in the third act of The Looney Looney Looney Bugs Bunny Movie, and a segment can be seen in the special Bugs Bunny's Wild World of Sports (the latter revealing that Sam has become a champion high diver due to his experiences in the short).</info></item>
+
+<item><title>[B]rabbit of seville (1950) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20conejo%20de%20Sevilla%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/ngV9LjQ/MV5-BZDU5-NTUw-OWMt-MWYy-ZC00-Nzhi-LTkx-Njkt-Y2-Jm-ZDc0-NGM0-MTgz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTY5-Nzc4-MD.jpg</thumbnail>
+<fanart>https://i.ibb.co/YbcDcDG/hqdefault.jpg</fanart>
+<info>A caçada de Hortelino a Pernalonga leva os dois ao palco do Hollywood Bowl. Após uma briga daquelas, eles acabam se casando no ato final.</info></item>
+
+<item><title>[B]hillbilly hare (1950) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20conejo%20monta%C3%B1%C3%A9s%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/xXH2GrD/images.jpg</thumbnail>
+<fanart>https://i.ibb.co/tH9GqVN/MV5-BNGUx-Zj-A0-Nj-At-Y2-Y3-Ni00-MTYw-LWFi-ZTAt-Mz-Vm-OTBi-ODMz-Mjll-Xk-Ey-Xk-Fqc-Gde-QXVy-OTQ4-Mz-U.jpg</fanart>
+<info>Hillbilly Hare é um desenho animado de 1950 da Warner Bros. Merrie Melodies dirigido por Robert McKimson. O curta foi lançado em 12 de agosto de 1950 e é estrelado por Pernalonga.</info></item>
 
 <item><title>[B]8 ball bunny (1950) (Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Bugs%20el%20dadivoso%20-%20GianmarcoJoseth.com.mp4</link>
@@ -403,11 +337,35 @@ Bugs Bunny
 <fanart>https://i.ibb.co/vPtKXGt/MV5-BMWE4-OTU2-MWIt-Zm-I3-Yy00-OTQx-LThj-Nj-It-OTNm-OWMz-MGZi-MWRk-Xk-Ey-Xk-Fqc-Gde-QXVy-NDgy-ODgx-N.jpg</fanart>
 <info>Bunny Hugged é um curta-metragem de 1951 da Warner Bros. Merrie Melodies, dirigido por Chuck Jones e escrito por Michael Maltese. O curta foi lançado em 10 de março de 1951 e é estrelado por Pernalonga.</info></item>
 
+<item><title>[B]hasty hare (1952) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20La%20%C3%A1gil%20liebre%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/HKLkqpq/MV5-BZm-Nk-MWMx-ZDAt-M2-Yy-OS00-ZDMy-LWI4-ZTkt-OGY0-Nj-Q0-Y2-Vj-Mzdm-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz-E.jpg</thumbnail>
+<fanart>https://i.ibb.co/b7V5Cmj/MV5-BMzdm-Mm-Vh-ODQt-Y2-Rj-My00-ZDJi-LWE3-Mj-At-ZWJh-Nzlm-Nj-Bj-Yz-Rh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTU2-Nj.jpg</fanart>
+<info>The Hasty Hare é um desenho animado da Warner Bros. Looney Tunes de 1952 dirigido por Chuck Jones. O curta foi lançado em 7 de junho de 1952 e apresenta Bugs Bunny e Marvin the Martian. O título é um trocadilho com o título do filme The Hasty Heart</info></item>
+
+<item><title>[B]devil may hare (1954) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20demonio%20y%20la%20liebre%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/h24ZKc1/MV5-BOTc4-NThm-YTAt-Yj-Jj-MS00-ZDkw-LWFk-Zj-At-ZTA0-YWM3-Nj-Vk-Yjk4-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz-Ex.jpg</thumbnail>
+<fanart>https://i.ibb.co/BtpLgcr/MV5-BMj-Jk-MTlj-Zjkt-MDk5-OS00-Nm-E3-LTlm-OWQt-N2-Ix-ZTI3-MDky-Y2-Yy-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Yy-ODY.jpg</fanart>
+<info>Pernalonga resolve fazer uma faxina de primavera.</info></item>
+
 <item><title>[B]bugs and thugs (1954) (Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Bugs%20y%20los%20rufianes%20-%20GianmarcoJoseth.com.mp4</link>
 <thumbnail>https://i.ibb.co/hXQ5XmV/1-Hrjb6-Fvg-Eywc-LKAODBWMFa-IOa-H.jpg</thumbnail>
 <fanart>https://i.ibb.co/5czJBSd/MV5-BNm-Vj-ODE1-M2-Yt-Yz-Ay-Ni00-Zjhh-LWJh-MDgt-ZDQ5-ZDRk-Yj-Q2-ZTM3-Xk-Ey-Xk-Fqc-Gde-QXVy-NDgy-ODgx.jpg</fanart>
 <info>Bugs and Thugs is a 1954 Warner Bros. Looney Tunes cartoon directed by Friz Freleng. The short was released on March 13, 1954, and stars Bugs Bunny, with Rocky and Mugsy. The film is a semi-remake of the 1946 cartoon Racketeer Rabbit. It is also the first Warner Bros short to feature Milt Franklyn as a musical director.</info></item>
+
+<item><title>[B]barbary-coast bunny (1956) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20conejo%20de%20la%20Costa%20B%C3%A1rbara%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/KqmNgJD/Barbary-Coast-Bunny.webp</thumbnail>
+<fanart>https://i.ibb.co/yWvw5zM/download.jpg</fanart>
+<info>Barbary-Coast Bunny é um curta de animação da Warner Bros. Looney Tunes de 1956 dirigido por Chuck Jones e escrito por Tedd Pierce. O curta foi lançado em 21 de julho de 1956 e é estrelado por Pernalonga</info></item>
+
+<item><title>[B]broomstick bunny (1956) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20D%C3%ADa%20de%20Brujas%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/JR1jDQp/qbr-Un-Gieea-F62-J8-Ik-AOOZNa-Wei1.jpg</thumbnail>
+<fanart>https://i.ibb.co/ckZspzr/maxresdefault.jpg</fanart>
+<info>Broom-Stick Bunny é um curta de 1956 da Warner Bros. Looney Tunes dirigido por Chuck Jones. O curta foi lançado em 25 de fevereiro de 1956 e é estrelado por Pernalonga. O curta é notável por ser o primeiro projeto de June Foray para a Warner Bros., o que a levou a dublar outros personagens de Looney Tunes, como Vovó.</info></item>
 
 <item><title>[B]bedevilled rabbit (1957) (Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Demonio%20endemoniado%20-%20GianmarcoJoseth.com.mp4</link>
@@ -415,15 +373,45 @@ Bugs Bunny
 <fanart>https://i.ibb.co/FqkfBnz/MV5-BMDQz-Yz-Yx-ZDct-NTY0-OS00-Zj-Y0-LTk0-MTIt-Yz-A1-MWMz-Yjlh-Njk4-Xk-Ey-Xk-Fqc-Gde-QXVy-NDgy-ODgx.jpg</fanart>
 <info>Bedeviled Rabbit é um curta de 1957 da Warner Bros. Merrie Melodies dirigido por Robert McKimson. O curta foi lançado em 13 de abril de 1957 e é estrelado por Pernalonga. Neste desenho, Bugs está perdido na Tasmânia e tem que lidar com o Diabo da Tasmânia.</info></item>
 
+<item><title>[B]ali baba bunny (1957) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20conejo%20Ali%20Baba%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/Qc974Lz/MV5-BNTdm-ZDg1-Mz-Et-OTRk-Mi00-NGIx-LTg5-ZDMt-M2-I2-Zj-U2-ODhk-NWI2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA0-MTM5.jpg</thumbnail>
+<fanart>https://i.ibb.co/PWcYYMx/download.jpg</fanart>
+<info>Ali Baba Bunny é um curta de 1957 da Warner Bros. Merrie Melodies dirigido por Chuck Jones. O curta foi lançado em 9 de fevereiro de 1957 e é estrelado por Pernalonga e Patolino. Em 1994, foi eleito o número 35 dos 50 Maiores Desenhos Animados de todos os tempos por membros do campo da animação</info></item>
+
+<item><title>[B]hare-way to the stars (1958) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Escalera%20a%20las%20estrellas%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/SKHrhnM/MV5-BY2-Y1-YTc5-Zj-It-Nj-Fi-NC00-Mz-Bm-LWFk-ZGQt-OTA2-MDJi-Nzcw-Zjg3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA0-MTM5.jpg</thumbnail>
+<fanart>https://i.ibb.co/8ctdRYj/MV5-BODFm-Nj-Fi-Ym-It-YTE4-MS00-YWIx-LTg1-Yzkt-Zj-Q0-Mz-Qy-OGNi-ZDJl-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU4-MTQ0.jpg</fanart>
+<info>Hare-Way to the Stars é um curta-metragem de comédia de ficção científica de animação americano de 1958 dirigido por Chuck Jones e escrito por Michael Maltese. O curta foi lançado pela Warner Bros. Pictures em 29 de março de 1958 como parte da série Looney Tunes, e é estrelado por Pernalonga e Marvin, o Marciano.</info></item>
+
 <item><title>[B]knighty knight bugs (1958) (Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Bugs%20y%20los%20caballeros%20-%20GianmarcoJoseth.com.mp4</link>
 <thumbnail>https://i.ibb.co/7JRKXWZ/MV5-BODRl-MTgy-NDUt-ZWMx-My00-ZWVi-LThj-YTEt-ZTA4-NTgx-ZDAz-N2-E5-Xk-Ey-Xk-Fqc-Gde-QXVy-NTcw-Nj-Uw-N.jpg</thumbnail>
 <fanart>https://i.ibb.co/8D9DQN9/MV5-BNjlm-ODFm-MDMt-Zm-Uy-Ni00-ZGEx-LWE2-YTUt-OTk0-NDc4-NWYz-M2-Vi-Xk-Ey-Xk-Fqc-Gde-QXVy-NDgy-ODgx-N.jpg</fanart>
 <info>Knighty Knight Bugs é um desenho animado da Warner Bros. Looney Tunes de 1958 dirigido por Friz Freleng. O curta foi lançado em 23 de agosto de 1958 e é estrelado por Bugs Bunny e Yosemite Sam.</info></item>
 
+<item><title>[B]dr. devil and mr. hare (1964) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20doctor%20Demonio%20y%20el%20Sr%20Liebre%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/fQPVJ0p/MV5-BYm-Fl-MThj-N2-It-MTM5-MC00-OWQz-LThh-NWIt-Nz-I5-Zj-Yx-Yjkz-Mm-Rj-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz.jpg</thumbnail>
+<fanart>https://i.ibb.co/LgkJKG7/MV5-BMz-Bk-M2-M1-YWQt-NTFj-OS00-Y2-Y5-LWI4-Zj-Qt-Yz-Jk-Ym-Vl-N2-Zi-ODQ4-Xk-Ey-Xk-Fqc-Gde-QXVy-NDgy-O.jpg</fanart>
+<info>Dr. Devil and Mr. Hare é um curta-metragem de desenho animado de 1964 da Warner Bros. O curta foi lançado em 28 de março de 1964 e é estrelado por Pernalonga e o Diabo da Tasmânia.</info></item>
+
 
 Foghorn Leghorn
 
+
+<item><title>[B]walky talky hawky (1946) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Kyke%20busca%20su%20primera%20gallina%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/Lvv9QKf/81920-walky-talky-hawky-0-230-0-345-crop.jpg</thumbnail>
+<fanart>https://i.ibb.co/3kYdM8Z/MV5-BODE5-Nz-Iy-MDUt-Nm-Rk-ZC00-ZTMx-LThi-Njkt-MGRk-N2-Fl-NWZl-Nz-Jj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTU2-Nj-Y.jpg</fanart>
+<info>Walky Talky Hawky é um curta teatral da Warner Bros. Merrie Melodies de 1946 dirigido por Robert McKimson. O desenho animado foi lançado em 31 de agosto de 1946 e apresenta Henery Hawk e Foghorn Leghorn. Esta é a primeira aparição de Foghorn Leghorn e Barnyard Dawg</info></item>
+
+<item><title>[B]Walky Talky Hawky  (1948) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Kike%20gavil%C3%A1n%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/jhJMsLC/The-Foghorn-Leghorn-S-849157099-large.jpg</thumbnail>
+<fanart>https://i.ibb.co/pJKKcZ5/80cd8d2952b3572f5478822a9a8afbe7-vintage-cartoons-classic-cartoons.jpg</fanart>
+<info>The Foghorn Leghorn é um desenho animado da Warner Bros. Merrie Melodies de 1948 dirigido por Robert McKimson. O desenho animado foi lançado em 9 de outubro de 1948 e apresenta Foghorn Leghorn, Henery Hawk e Barnyard Dawg</info></item>
 
 <item><title>[B]lovelorn leghorn (1951) (Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Buscando%20marido%20-%20GianmarcoJoseth.com.mp4</link>
@@ -441,11 +429,35 @@ Porky Pig
 <fanart>https://i.ibb.co/Sfsg6XT/2l4-El1-Ohs-Vj9z-NWUHcc-NSe-Wv-Fsv.jpg</fanart>
 <info>Swooner Crooner é um desenho animado da Warner Bros. Looney Tunes de 1944, dirigido por Frank Tashlin. O curta foi lançado em 6 de maio de 1944 e é estrelado por Porky Pig. O desenho animado foi indicado ao Oscar de Melhor Curta-Metragem de 1944, mas perdeu para o desenho animado Tom e Jerry, Mouse Trouble.</info></item>
 
+<item><title>[B]kitty kornered (1946) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Gatos%20acorralados%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/31dN304/MV5-BMjdh-ZGI3-NTUt-NDhk-Ny00-NDdi-LWFj-ZGQt-Mj-Yy-YTA0-Y2-Ux-Njhh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA0-MTM5-N.jpg</thumbnail>
+<fanart>https://i.ibb.co/PgdKq54/MV5-BMjgz-M2-M1-Ym-Qt-NTQz-Ni00-Y2-Vj-LThh-OWEt-YTAx-ZTNm-OTUw-Nm-Vl-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc2-Njkz.jpg</fanart>
+<info>Kitty Kornered é um desenho animado da Warner Bros. Looney Tunes de 1946, dirigido por Robert Clampett. O curta foi lançado em 8 de junho de 1946 e é estrelado por Porky Pig e Sylvester. Porky e Sylvester mais tarde formariam um trio de curtas dirigidos por Chuck Jones: Scaredy Cat, Claws for Alarm e Jumpin' Jupiter.</info></item>
+
+<item><title>[B]scaredy cat (1948) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Gato%20Miedoso%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/Z83Rqfg/MV5-BNWRk-OTZk-NTUt-Nz-U3-MS00-Nzc5-LWFi-OTct-MGI3-Nm-Fm-ZDlj-Nj-I2-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Ex-Njgy.jpg</thumbnail>
+<fanart>https://i.ibb.co/x3n8Z7F/MV5-BZjkz-NGVi-ZGEt-Y2-Zj-Mi00-ZGQ3-LWEy-ZTgt-NTVi-N2-Jm-Mm-I1-Y2-Fl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE2-Nz-A.jpg</fanart>
+<info>Scaredy Cat é um desenho animado da Warner Bros. Merrie Melodies de 1948, dirigido por Chuck Jones. O curta foi lançado em 18 de dezembro de 1948 e é estrelado por Porky Pig e Sylvester the Cat. O desenho animado é notável por marcar a primeira vez que o nome "Sylvester" é usado para o popular personagem felino.</info></item>
+
 <item><title>[B]Porky Chops (1949) (Espanhol)[/B]</title>
 <link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20Chuletas%20de%20Porky%20-%20GianmarcoJoseth.com.mp4</link>
 <thumbnail>https://i.ibb.co/dfrsVSJ/MV5-BYTcx-MDUw-Yjct-Nz-A3-OC00-Nj-M2-LThh-ODIt-NWY4-NGZj-Nz-Aw-Mzkw-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz-Ex.jpg</thumbnail>
 <fanart>https://i.ibb.co/TWKJQj7/MV5-BMWI4-Y2-Ji-Mz-It-Nj-Jl-OS00-NWMy-LWEx-ODEt-Mj-Jj-N2-Rk-NDk3-MTI0-Xk-Ey-Xk-Fqc-Gde-QXVy-NDgy-ODg.jpg</fanart>
 <info>Porky Chops é um desenho animado da Warner Bros. Looney Tunes de 1949 dirigido por Arthur Davis. O curta foi lançado em 12 de fevereiro de 1949 e é estrelado por Porky Pig. O nome do curta é um trocadilho com "costeletas de porco"</info></item>
+
+
+Speedy Gonzale
+
+
+<item><title>[B]the pied piper of guadalupe (1961) (Espanhol)[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Looney%20Tunes%20-%20El%20flautista%20de%20Guadalupe%20-%20GianmarcoJoseth.com.mp4</link>
+<thumbnail>https://i.ibb.co/pKQGXFD/MV5-BOWFk-MGFj-M2-Mt-NWNl-YS00-ODk1-LTgx-Yj-Et-NGRl-MDc4-Nj-A0-ZTBj-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA4-Nz-Ex.jpg</thumbnail>
+<fanart>https://i.ibb.co/gjXwsNN/maxresdefault.jpg</fanart>
+<info>O Flautista de Guadalupe é um desenho animado da Warner Bros. Looney Tunes de 1961 dirigido por Friz Freleng. O curta foi lançado em 19 de agosto de 1961 e é estrelado por Speedy Gonzales e Sylvester. Foi indicado ao 34º Oscar na categoria de Melhor Curta de Animação</info></item>
+
+
 
 <item><title>[B]Episode 06[/B]</title>
 <link></link>
