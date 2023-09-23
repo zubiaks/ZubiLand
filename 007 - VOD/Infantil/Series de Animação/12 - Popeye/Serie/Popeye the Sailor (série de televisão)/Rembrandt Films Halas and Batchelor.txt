@@ -1,0 +1,180 @@
+
+<item><title>[B](OFF)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]Rembrandt Films/Halas and Batchelor[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]01 - Interrupted Lullaby[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/hskqPKS/Lullaby.webp</thumbnail>
+<fanart></fanart>
+<info>Brutus sinks to a new low in both greed and criminal activity by trying to abduct little Swee'Pea from his family.</info></item>
+
+<item><title>[B]02 - Sea No Evil[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/16sRtDH/Fish-in-Popeye-s-Suit.webp</thumbnail>
+<fanart></fanart>
+<info>As Popeye and Olive relax on their new boat, the Miss Olive, someone swims underwater stealing items from right under their nose. Conveniently, Brutus' boating store has a seemingly endless supply of item replacements.</info></item>
+
+<item><title>[B]03 - From Way Out[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/fpjhPHs/Way-out.webp</thumbnail>
+<fanart></fanart>
+<info>A giant space magnet connected to the top of an astronomer's observatory pulls stuff from outer space to Earth. One day, it also pulls leather jacket-wearing space greasers from Mars.</info></item>
+
+<item><title>[B]04 - Seeing Double[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/M6KRXBn/Seeing-Double.webp</thumbnail>
+<fanart></fanart>
+<info>Olive wants to buy a mink stole, but it costs $2,000.00. Meanwhile, a mad scientist and his henchman make a mechanical man that looks like Popeye. Soon, they start to do their dirty work and cause havoc. with his mechanical monster, the mad scientist can do anything. The mechanical man commits a bank robbery, so of course the real Popeye is falsely jailed for committing it, although he insists he did not and intends to prove his innocence. Popeye breaks out, determined to battle the mad scientist and his henchmen. The criminals are quickly sent flying into the police van, then Popeye comes face to face with his double (which is the Mechanical Man) and fights. Popeye uses his spinach, smashes the android into little pieces, versions of itself and puts those in the trash. The police captain witnesses the battle and gives Popeye a $2,000 reward, with which the sailor buys Olive the mink stole that she yearned for at the cartoon's opening.</info></item>
+
+<item><title>[B]05 - Swee'Pea Soup[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/5nNGDMX/Swee-pea-for-King-Protest.webp</thumbnail>
+<fanart></fanart>
+<info>The people of the kingdom are protesting against King Blozo, who wants help from Popeye and Olive Oyl. Turns out the people love Swee'Pea and hate Blozo. The king calls Professor O.G. Wotasnozzle for help, after which Popeye notices that Swee'Pea is being kidnapped. He finds out that Wotasnozzle is attempting to make soup out of Swee'Pea. Popeye eats his spinach and rescues Swee'Pea. Blozo says that he quits.</info></item>
+
+<item><title>[B]06 - Hag Way Robbery[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/9Wsq69X/Hag-Way.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye is sailing to rescue Eugene the Jeep, who has been kidnapped by the Sea Hag. Wimpy reminds the sailor that he is starving, and Popeye tells his gluttonous friend that he had stored hamburgers for him, canned olives for Olive Oyl and canned baby food for Swee'Pea. The Sea Hag sees that Popeye has come to the rescue. She steals the cans of spinach and puts their labels on other canned foods. She then starts attacking Popeye's ship, leaving the hero in need of spinach. When Popeye opens a can, it is full of hamburgers, and Wimpy eats them. Popeye opens another can, which is full of olives, and Olive eats them. He opens another can, and it is full of baby food, which Swee'Pea eats. He keeps opening them and, when he opens the last one, it has an orchid. Eugene teleports in and eats the flower. Popeye tells him that the Sea Hag has his spinach, meanwhile, the Hag's submarine has run out of fuel, so she decides to burn the spinach to get it running again. Popeye then sniffs the roasting spinach, and leaves the Sea Hag on an island paradise so she can learn to be good.</info></item>
+
+<item><title>[B]07 - The Lost City of Bubble-Lon[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/BLmXn92/Bubblelon.webp</thumbnail>
+<fanart></fanart>
+<info>The Professor, Popeye and their assistant Brutus are searching for the lost city of "Bubble-Lon". Popeye is suspicious, he thinks Brutus is more interested in taking the city's treasure than documenting scientific discoveries.</info></item>
+
+<item><title>[B]08 - There's No Space Like Home[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/4KhRWr7/Space-homo.webp</thumbnail>
+<fanart></fanart>
+<info>When Popeye reads an article about a spaceship in the newspaper, he gets an idea of what to dress up as for Olive's fancy costume party. Brutus wears a sheik costume and goes to spy on Popeye at his house. When he finds out that Popeye is going as a spaceman, he files a false report that he spotted an alien at the street where Popeye lives. The police and scientists come and capture Popeye, and bring him to headquarters to examine him.</info></item>
+
+<item><title>[B]09 - Potent Lotion[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/nfpvYSk/Potent-Lotion-29.webp</thumbnail>
+<fanart></fanart>
+<info>Just as Popeye finishes shaving, he receives a package containing "Special!" brand after shave lotion. He tries it on and walks out to meet Olive Oyl, then is punched by Wimpy, Swee'Pea, and a dog. He sees Brutus leading a gang of criminals (one of them having delivered the lotion), robbing a bank. Popeye tries to get the police to stop them, but the officers beat him up before they do. He realizes something about the lotion: one whiff of it will have Popeye as a punching bag. He finds the crook that gave him the lotion, but is then beaten up by Brutus, who ties him up and goes to divvy up the loot. Popeye finds some spinach and eats it. He pours the lotion down on Brutus, so the others will beat him up. Popeye then subdues them and takes the money back to the bank. The mayor sniffs the lotion, but Popeye walks away as soon as the mayor smells something funny. Then the mayor comments that Popeye is such a modest citizen.</info></item>
+
+<item><title>[B]10 - Astro-Nut[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/CmH8gnM/Astro-Nut-29.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye volunteers to be the test subject for the space capsule and must remain inside for the next 60 days. as he begins the test, he listens to the voices of his friends over the tape recorder. However, as soon as Popeye hears Brutus boasting about keeping company for Olive while the sailor is away, he begins to sulk from the thought of Brutus being alone with his girlfriend.</info></item>
+
+<item><title>[B]11 - Goon with the Wind[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/p1dDTRt/Goon-wind.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Olive Oyl were on a boat. Olive was then taken by a tribe of Goons, who made her their queen. Popeye arrived at Goon Island, but was locked in a cage. Olive then gave Popeye a can of spinach before she was married to the Goon King. Popeye ate his spinach, defeated the Goons, and saved Olive.</info></item>
+
+<item><title>[B]12 - Insultin' the Sultan[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/jMwbSzx/Screenshot-20190522-135722.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Olive Oyl are having an argument. Olive has Popeye leave her home, then cries. Popeye goes to the airport and takes a flight to Algiers, having decided to join the Foreign Legion, claiming that he has never cried in his life. Meanwhile, the Sultan looks at many pictures of women and sees one of Olive, then orders his servant to kidnap her. While Popeye is doing his job, he sees Olive getting kidnapped. The Sultan plans to marry Olive. When the guards take Popeye to the palace, Olive tells the Sultan to free Popeye. The Sultan promises to free Popeye and Olive if the hero were to defeat his champion wrestler, however, the wrestler easily takes down Popeye. As the Sultan becomes hungry for spinach, Olive takes his bowl and Popeye eats the vegetable to then proceed to beat the wrestler, the guards and the Sultan himself to save his loved one. Olive promises to never argue with Popeye, and Popeye forgives her, but they end up quarreling yet again, starting the whole process all over again.</info></item>
+
+<item><title>[B]13 - Dog-Gone Dog-Catcher[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/4wbkjmw/Dog-Catcher.webp</thumbnail>
+<fanart></fanart>
+<info>Olive's new dog is taken by Brutus the dog catcher, so Popeye dresses up in a dog costume to save her. A chase takes place and Popeye escapes still dressed up as a dog, confusing Brutus, who thinks he has seen a talking dog.</info></item>
+
+<item><title>[B]14 - Voice from the Deep[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/q7vdmYV/Voice-from-the-Deep-or-See-Here-Sea-Hag-1961.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye is taking a shower, until he receives a distress call from Phony Island on the phone. He gets dressed and is then picked up by a pilot. He is given a parachute to use to land on Phony Island, but fails to realize he is wearing one until it is too late. After landing, he meets Chief Knucklebone who is alone on the island without his tribe. When Popeye asks what made the Chief's people leave, the latter answers that the volcano told them so. Popeye laughs hysterically at the idea of a talking volcano, until he hears a very loud, evil cackle. The sailor then goes to investigate the so-called "talking volcano".</info></item>
+
+<item><title>[B]15 - Matinee Idol Popeye[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/GTCB52t/Crocodile-Tries-to-Kill-Popeye.webp</thumbnail>
+<fanart></fanart>
+<info>Brutus is an egotistical film director making a historical epic about Marc Antony and Cleopatra, which are being portrayed by Popeye and Olive Oyl.</info></item>
+
+<item><title>[B]16 - Beaver or Not[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/rv7zcMH/Beaver-or-Not-29.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye is enjoying a nice vacation in the woods. However, when he jumps in the river, it is half empty. He sees a beaver dam, then tries to get rid of it by using his hands, a saw, and dynamite, but nothing works. He eats his spinach and demolishes the dam, but then the beavers turn the tables by eating spinach themselves and rolling Popeye's cabin to the river, creating a new dam. Popeye decides to join the beavers for a swim.</info></item>
+
+<item><title>[B]17 - The Billionaire[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/fDR56dm/Popeye-s-Friends-Learned-Their-Lessons.webp</thumbnail>
+<fanart></fanart>
+<info>In a luxurious mansion, a millionaire (revealed to be Popeye) makes a call to Olive Oyl, telling her that he will give her a million dollars. Olive swiftly appears to get her check, but Popeye tells her that she must spend some money on a good cause. Popeye then gives Wimpy and Swee'Pea a million dollars each, and Brutus also receives a million himself. Popeye then makes sure that his friends spend their money wisely. He sees that Olive now owns a beauty salon, and is giving herself her a makeover. He sees Wimpy has purchased a hamburger factory, yet is sad about the cows. Swee'Pea is making his own candy bars, but he takes a bite off each of them. Brutus has bought all the spinach farms, but has had them all plowed under. Brutus shoves some leftover money in Popeye's mouth, but the bills were printed with green spinach ink, which allows to Popeye to get back at Brutus. He then sees the made-over Olive and laughs at her, causing her new looks to shatter. Thus Olive, Brutus, Wimpy, and Swee'Pea learn their lesson about spending money wisely. Popeye reveals that he had saved his last million dollars for himself, but decided to give it all to the Sailors' Relief instead.</info></item>
+
+<item><title>[B]18 - Model Muddle[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/F3nvp1g/Model-Muddle.webp</thumbnail>
+<fanart></fanart>
+<info>After visiting the national art museum, Popeye decides to try his hand at modern sculpture.</info></item>
+
+<item><title>[B]19 - Which Is Witch[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/x8zthHG/Screenshot-20190403-083734.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Olive Oyl are on a boat, sailing to the Sea Hag's island. The Hag unveils a robot that looks like Olive, and calls on the Goons to kidnap Ms. Oyl. Afterwards, Popeye sees robot Olive and, thinking "she" is the real one, follows "her", falling into a trap. The Sea Hag plans to do some pirate work. Robot Olive then frees Popeye, and falls in love with him. Olive is shocked that Popeye could fall in love with a robot, and the sailor becomes confused with two Olives, but becomes aware that one is a robot. The Goons then attack, and Popeye engages them. When Popeye and Olive are left trapped in a cage, Robot Olive brings the sailor some spinach, allowing him to defeat the Goons. The hero then pushes the Sea Hag and the Goons back to the island. Popeye is upset about losing his pipe, which is now being smoked by Robot Olive.</info></item>
+
+<item><title>[B]20 - Disguise the Limit[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/xD6BQQg/Popeye-Disguise.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye the detective is called on to find a gorilla that has just escaped from the zoo. He and Olive devise a plan to re-capture the animal, which involves Popeye disguising himself as a female gorilla and luring it back into its enclosure.</info></item>
+
+<item><title>[B]21 - Spoil Sport[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/YXb6s78/Spoil-Sport.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye has got himself a scooter, but Olive snubs him for Brutus and his fast, shiny, new, fast sports car. The ride turns out to be far too fast and dangerous for Olive, and it is not long before she is in need of help from Popeye.</info></item>
+
+<item><title>[B]22 - Have Time, Will Travel[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/SPLqs6M/Have-Time281961.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Olive travel in a time machine and, stopping at the pre-historic era, meet a dinosaur that they name Oscar. Later they are captured by King Rock Head, who wants to make Olive his Queen Rock Head and execute Popeye.</info></item>
+
+<item><title>[B]23 - Intellectual Interlude[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/nm78TFw/Intellectual-Interlude.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye eats some "intellectual spinach" given to him by a professor at an adult education class.</info></item>
+
+<item><title>[B]24 - Partial Post[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/VTL2csV/Popeye-Partial-Post.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye accidentally posts Olive Oyl's birthday cards into a recently landed spaceship, believing it to be a mailbox.</info></item>
+
+<item><title>[B]25 - Weight for Me[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/XyPHk3X/Screenshot-20190128-124122.webp</thumbnail>
+<fanart></fanart>
+<info>After six months at sea, Popeye and Brutus see that Olive has become overweight after eating too much out of feeling lonely. Popeye wants to help her get thinner while Brutus says she is fine like that. The sailor's attempts to make her exercise are thwarted by his rival each time, ending with both Olive and Popeye trapped in the exercise machines the latter had bought. But eating spinach turns the tables and allows Popeye to trim down his beloved's pounds by using his forearms as a reducing machine. Brutus then decides to follow their example.</info></item>
+
+<item><title>[B]26 - Canine Caprice[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Yt5B9b7/Canine-Caprice.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye buys Olive Oyl a talking dog. The dog, named Roger, tells Popeye that Olive has been seeing another man.</info></item>
+
+<item><title>[B]27 - Roger[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/5hFH6CT/Roger.webp</thumbnail>
+<fanart></fanart>
+<info>Roger, the talking dog, discovers a plot to rob a jewelry store, but is unable to get the police to understand him.</info></item>
+
+<item><title>[B]28 - Tooth Be or Not Tooth Be[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/09mKdzv/Screenshot-20190522-133652.webp</thumbnail>
+<fanart></fanart>
+<info>Poopdeck Pappy is babysitting Swee'Pea for Popeye just as the baby's first tooth is about to come through, leading him to bite a rattle, the phonebook and even a table leg to pieces. After a brief visit to the dentist, the two are back home with Swee'Pea chomping on a tire while Pappy tells him a story of when he won the title of "Mr. Teeth".</info></item>

@@ -1,0 +1,613 @@
+
+<item><title>[B]101 - Barbecue for Two[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP002%20-%20Churrasco%20Para%20Dois%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP002%20-%20Churrasco%20Para%20Dois%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/XCdR8JR/Popeye-in-the-Pilot.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye is preparing a barbecue for two (himself and Olive). But Brutus and Wimpy invite themselves too, and Swee'Pea would have Popeye repeatedly push him on a swing. While Wimpy keeps asking for hamburgers, Brutus attempts to ingratiate himself with Olive, eventually succeeding by playing some music while violently stopping the sailor's interruptions. Only after Popeye is sent flying into the kitchen does he finds some frozen spinach and is able to turn the tables and enjoy a barbecue for two with Olive.</info></item>
+
+<item><title>[B](OFF)[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]01 - Battery Up[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/GC21TXw/Battery-Up.webp</thumbnail>
+<fanart></fanart>
+<info>It is a big baseball game between Popeye's team and Brutus' team. With Wimpy as the umpire, what could possibly go wrong? Olive is rooting for Popeye, at least at first.</info></item>
+
+<item><title>[B]02 - Deserted Desert[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/j5w7NmL/Deserted-Desert.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye journeys to the lost Deserted Desert in a quest to find The Lost Dutchman's Mine and its rumored contents, golden nuggets. Brutus is of course also in the desert, waiting to steal the goldmine's treasure.</info></item>
+
+<item><title>[B]03 - Skinned Divers[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/jJTKTfK/Skinned-Divers.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Brutus are diving for buried treasure. Brutus, however, has more than sunken treasure in his eyes; he spies the lovely mermaid Olive Oyl.</info></item>
+
+<item><title>[B]04 - Popeye's Service Station[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/1Q1jrHS/Service-Station.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye is now the manager of a service station, providing a good service with free extras. Brutus comes along only wanting the free extras, including free access to another customer: Olive Oyl.</info></item>
+
+<item><title>[B]05 - Coffee House[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/9tXZpsd/Screenshot-20190424-192240.webp</thumbnail>
+<fanart></fanart>
+<info>Olive Oyl is getting dressed. Popeye comes in and is shocked to see Olive in beatnik attire, speaking in an odd way. Brutus comes in and annoys Popeye with jhis beatnik talk. Popeye is very mad about Brutus and Olive's shared new fashion, and vows to break them up. At a coffee house, Brutus recites Olive a poem. Popeye then tries to have Olive go back to the way she was, but Brutus pushes him away. The sailor attempts to play music to impress Olive, yet nothing works. Finally, Popeye eats some "cultured spinach" and beats up Brutus in a sophisticated manner that impresses Olive.</info></item>
+
+<item><title>[B]06 - Popeye's Pep-Up Emporium[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/0qs0yqD/Popeye-and-Olive-at-the-Gym.webp</thumbnail>
+<fanart></fanart>
+<info>Come to Popeye's gym, everyone from Brutus to Wimpy welcome! As the commercial says, he builds the flat and reduces the fat.</info></item>
+
+<item><title>[B]07 - Bird Watcher Popeye[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/DRsbPg9/Bird-Watcher.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Olive Oyl are bird-watching. After a bird attacks Popeye, he tries to strike back, but Olive stops him and takes him to the zoo. At the zoo, Popeye looks at the ostrich, but the ostrich attacks him, causing Olive to think he scared the bird. Popeye watches a penguin punching another penguin, but Olive scolds him saying that he will never change. Popeye sees a parrot copying him, then the parrot attacks him. A very furious Popeye tries to hurt the parrot, but Olive thinks Popeye is teaching the parrot his song, so she forces him to go to the woods to see the birds. At the woods, Popeye sees a hummingbird. Brutus then kidnaps Olive, so Popeye eats spinach and saves Olive, who likes birds without feathers.</info></item>
+
+<item><title>[B]08 - Time Marches Backwards[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/s9nctY5/Time-Backwards.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye goes back to the caveman days in The Professor's time machine. When he gets there he finds Caveman Wimpy trying to catch a cow and Olive in need of saving from Caveman Brutus.</info></item>
+
+<item><title>[B]09 - Popeye's Pet Store[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/2WczxQt/Pet-Store.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye is the proprietor of a pet store whose motto is that all his customers are satisfied. Olive, Wimpy and Swee'Pea come in and acquire their pets, then leave satisfied. But Brutus, who does not like it, grabs all their pets. They then go back to Popeye, believing he was the one who took them, and he denies it. So the sailor dons a dog disguise and tries to find the real culprit.</info></item>
+
+<item><title>[B]10 - Ballet de Spinach[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/hR7Pjgy/Ballet-Spinach.webp</thumbnail>
+<fanart></fanart>
+<info>Brutus makes fun of Popeye for donning a ballet costume and taking to the stage with Olive.</info></item>
+
+<item><title>[B]11 - Sea Hagracy[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/LNB0v2M/Screenshot-20190409-082808-29.webp</thumbnail>
+<fanart></fanart>
+<info>A tax collector enters the Sea Hag's lair and collects all the treasure stolen by the witch. The Sea Hag decides to return to piracy, and make Popeye her partner. The Hag tries to convince Popeye to join her, but he tells her to go away. Wimpy then approaches Popeye saying that he "would pay him Tuesday for a hamburger today". Popeye kicks him out, however, the Sea Hag tempts the moocher to join her for a hamburger. Wimpy is armed with a mallet, but refuses to hurt Popeye. The sailor then notices the Sea Hag, and spanks her. The Hag decides to destroy Popeye with her own power, using her lightning to wreck his house. Popeye then eats his spinach and teaches the witch a lesson.</info></item>
+
+<item><title>[B]12 - Spinach Shortage[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/445Gmyt/Spinach-Shortage-29.webp</thumbnail>
+<fanart></fanart>
+<info>Brutus is a business tycoon who corners the market on spinach, causing a shortage that makes it impossible for Popeye to find any.</info></item>
+
+<item><title>[B]13 - Popeye and the Dragon[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/KGjZPvw/Popeye-Defeats-the-Dragon.webp</thumbnail>
+<fanart></fanart>
+<info>Medieval Popeye buys a suit of armor, hires a horse and goes off to save Princess Olive from a dragon.</info></item>
+
+<item><title>[B]14 - Popeye the Fireman[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/wyrgfTW/Fireman-Popeye.webp</thumbnail>
+<fanart></fanart>
+<info>Wimpy sees Olive calling for help from a smoke filled hotel room. After fireman Popeye is called out to save her, it turns out to be smoke from Mr. Brutus' cigar.</info></item>
+
+<item><title>[B]15 - Popeye's Pizza Palace[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/xh73dH8/Screenshot-20190409-082527.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye runs a pizza restaurant. Wimpy wants to pay him Tuesday for some hamburger pizzas, but Popeye says "No money, no pizzas! Cash on the line!" Wimpy would pay Brutus Tuesday if he gave him money for pizzas, but Popeye yells "No money, no pizzas!" Brutus tells Popeye to fix Wimpy some pizzas. Popeye makes a pizza making machine, and asks Brutus what kind of pizzas he wants. Brutus wants a tamale pizza, but Popeye says he never serves tamale pizzas. Brutus then rolls Popeye into some pizza dough, but Popeye eats some spinach pizza and turns Brutus into a pizza-bread man, then kicks him out. Popeye sees Wimpy eating pizza, and has him pay for it.</info></item>
+
+<item><title>[B]16 - Down the Hatch[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/T8LP9Bk/Down-Hatch.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye tells Swee'Pea all about the olden days when his ancestor Captain Popeye ruled the seas. The adventure he recites involves Captain Popeye saving Wimpy's ship from the evil pirate Brutus.</info></item>
+
+<item><title>[B]17 - Lighthouse Keeping[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/dDSTNpD/Lighthouse-keep.webp</thumbnail>
+<fanart></fanart>
+<info>Olive Oyl visits Popeye at his lighthouse. Brutus is an unwelcome tag-along, who proves worse than worthless when a shark causes trouble.</info></item>
+
+<item><title>[B]18 - Popeye and the Phantom[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/wYY2pb3/Popeye-Phantom.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye is haunted and taunted by a mischievous ghost, who steals his spinach.</info></item>
+
+<item><title>[B]19 - Popeye's Picnic[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/5v43KyJ/Picnic.webp</thumbnail>
+<fanart></fanart>
+<info>While out on a picnic, Olive comes face to face with a giant bull while Popeye's car gets a flat tire.</info></item>
+
+<item><title>[B]20 - Out of This World[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/qBxX4mh/Popeye-Olive-and-Swee-pea-on-the-Moon.webp</thumbnail>
+<fanart></fanart>
+<info>Professor Wotasnozzle puts Popeye in his time machine to watch him, Olive and Swee'Pea living in the year 2500. After feeding Swee' Pea crystal-based foodstuffs, Popeye decides to take Olive and Swee'Pea on a trip to the Moon. During their outer space tour, Swee'Pea starts collecting asteroids and attempts to get a meteor. After Olive begs Popeye to save the baby, the heroic sailor eats some of his spinach in crystal pill form, and rushes in to the rescue. Popeye manages to quickly catch Swee'Pea and swims back, much to Olive's relief, as the boy pouts and sulks about how he can never do anything without any adult getting in his way. Once they land on the Moon, they discover it is just like Earth.</info></item>
+
+<item><title>[B]21 - Madam Salami[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/z6BXgJM/Madam-Salami.webp</thumbnail>
+<fanart></fanart>
+<info>Big-bodied fortuneteller Madam Salami tells Olive that in order for Popeye to prove his love, he must be able to perform several impossible acts. The bearded "Madame Salami" is astounded when Popeye manages to perform the feats.</info></item>
+
+<item><title>[B]22 - Timber Toppers[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Y3mnBNy/Timber-Toppers.webp</thumbnail>
+<fanart></fanart>
+<info>Lumberjack Popeye works all day and sleeps all night. Brutus is also a lumberjack, he steals Popeye's trees and his 'best gal'. Popeye ends up tied to a tree heading for the chopper.</info></item>
+
+<item><title>[B]23 - Skyscraper Capers[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/W2d9FZ6/Popeye-skyscraper.webp</thumbnail>
+<fanart></fanart>
+<info>Brutus hires Popeye to build on his site. It soon comes to blows as both of them fight. Throughout the punches, Wimpy eats dinner, and Popeye comes out the winner.</info></item>
+
+<item><title>[B]24 - Private Eye Popeye (Popeye the Sailor)[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Tg4VZpX/Private-Eye-Popeye-29.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye, Olive and Eugene the Jeep are hired to search for someone smuggling diamonds by boat. Based on previous offenses, Popeye suspects Brutus and his pickle importing scheme.</info></item>
+
+<item><title>[B]25 - Little Olive Riding Hood[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/MMRC2z3/The-Sea-Hag-Tries-to-Steal-Flowers-From-Olive.webp</thumbnail>
+<fanart></fanart>
+<info>Olive is carrying hamburgers for sick Wimpy, but the hungry Sea Hag plans to eat them.</info></item>
+
+<item><title>[B]26 - Popeye's Hypnotic Glance[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/f9V8xMs/Hypnotic-Glance.webp</thumbnail>
+<fanart></fanart>
+<info>Brutus hypnotizes Olive into falling in love with him. Then he hypnotizes Alice the Goon into falling in love with Popeye.</info></item>
+
+<item><title>[B]27 - Popeye's Trojan Horse[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/YXGkXJd/Trojan.webp</thumbnail>
+<fanart></fanart>
+<info>A sawfish, a Trojan horse, two princes and a damsel in distress figure in Popeye's storybook tale to a skeptical Swee'Pea.</info></item>
+
+<item><title>[B]28 - Frozen Feuds[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/kS1QmvV/Sweet-Old-Alice-the-Goon.webp</thumbnail>
+<fanart></fanart>
+<info>Alaska's senator promises to rid the state of a wandering monster: Alice the Goon. He is in an Alaskan saloon where Olive sings, with Popeye, Wimpy and Oscar in attendance. The sailor is given the task to find the terrible Goon just as Alice looks from out the window, and becomes infatuated with him. After Olive spots her, Popeye goes out searching, and Alice only wants to be found. The sailor ends up running away from the lovelorn giantess, until she catches him in her arms. As it turns out, he can understand her language, and makes a deal with her. He tells her she can watch him on TV, while he brings back her hat, and gives it to Olive.</info></item>
+
+<item><title>[B]29 - Popeye's Corn-Certo[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/4SnKr8q/Con-Certo.webp</thumbnail>
+<fanart></fanart>
+<info>A classic cartoon music duel. Olive, the master of ceremonies, presents: Popeye - the modern music master, and the Bach of the Backwoods - Brutus.</info></item>
+
+<item><title>[B]30 - Westward Ho-Ho[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/GdzkCxd/Popeye-Westward.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye tells Swee'Pea the tale of Grandpappy Popeye, who accidentally joined the "Prairie Schooner", a wagon train, thinking it was a ship.</info></item>
+
+<item><title>[B]31 - Popeye's Cool Pool[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/9Txq9Tt/Cool-pool.webp</thumbnail>
+<fanart></fanart>
+<info>Because the heat is so unbearable (and from being nagged by Olive and Swee'Pea), Popeye decides to build his own swimming pool. His neighbor Brutus wants to use it, but Popeye would not let him. So Brutus schemes to get it.</info></item>
+
+<item><title>[B]32 - Jeep Jeep[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/GPNv6rZ/JeepJeep.webp</thumbnail>
+<fanart></fanart>
+<info>Swee'Pea makes a new friend, Eugene the magic future-predicting Jeep. Brutus realizes that the Jeep can answer questions about the future, and plots with the Sea Hag to Jeepnapp him.</info></item>
+
+<item><title>[B]33 - Popeye's Museum Piece[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/fM1w6dZ/Popeye-museum.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye is the custodian of a museum. He gets involved with an art thief named Brutus.</info></item>
+
+<item><title>[B]34 - Golf Brawl[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/2YT2J7w/Golf-Brawl.webp</thumbnail>
+<fanart></fanart>
+<info>It is Popeye versus Brutus once again, this time on the golf course.</info></item>
+
+<item><title>[B]35 - Wimpy's Lunch Wagon[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/wQB2b3Y/Wimpy281960.webp</thumbnail>
+<fanart></fanart>
+<info>Wimpy lets Popeye watch over his restaurant. Popeye then makes a sandwich and eats it. He reads a newspaper about a jukebox hoodlum. Brutus shows up with a jukebox, after which Olive tells Popeye to turn off the noise. When Popeye tries to stop it, Brutus traps him in a jukebox so he can dance with Olive. Popeye eats his spinach and beats up Brutus. Wimpy then returns to his restaurant so he can eat a hamburger.</info></item>
+
+<item><title>[B]36 - Weather Watchers[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/rbJbYWG/Popeye-weather.webp</thumbnail>
+<fanart></fanart>
+<info>Brutus is after Popeye's job as a weather forecaster. Through sly tricks, Brutus gets Popeye's weather predictions fouled up.</info></item>
+
+<item><title>[B]37 - Popeye and the Magic Hat[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/3zJNtCq/Popeye-magic-hat.webp</thumbnail>
+<fanart></fanart>
+<info>Brutus, the magician, involves Popeye in his act and makes him appear ridiculous to the audience. Olive goes on stage and gets involved in the magic show, of which Eugene the Jeep is also a part. A magic wand turns the characters into various animals until Popeye manages to get his hands on it. This leads to a big fight inside a magic hat between Brutus and Popeye.</info></item>
+
+<item><title>[B]38 - Popeye and the Giant[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/RDmTtnW/Screenshot-20190521-223609.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye is walking across the street, while Wimpy is practicing his hamburger-mooching talk. Brutus notices him and puts growth pills on a hamburger. Wimpy then eats it, and it causes him to grow very big. Brutus takes the towering moocher to the circus, but they refuse to hire him. Wimpy seeks help from the Sea Hag, who puts him in a baby carriage. Popeye sees his friend's large size and tries to shrink him down by feeding him spinach, but it only makes him grow bigger. He gives Wimpy a hamburger, which turns him back to normal. Wimpy thanks Popeye and promises to pay him Tuesday for today's hamburger.</info></item>
+
+<item><title>[B]39 - Hill Billy Dilly[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/t3w3vDT/Hillbilly-dilly.webp</thumbnail>
+<fanart></fanart>
+<info>Olive and Popeye drive for an outing in the mountains and come across the McGoofs and the Hitchfields feuding, and get involved. Popeye eventually bests both clans and stops the feud.</info></item>
+
+<item><title>[B]40 - Pest of the Pecos[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/gtZ63g0/Popeye-pest-pecos.webp</thumbnail>
+<fanart></fanart>
+<info>Brutus, "the most feared desperado of the Early West," robs a train and comes to a town called Gravestone Flats, where he tangles with Popeye, the sheriff.</info></item>
+
+<item><title>[B]41 - The Blubbering Whaler[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/MR5SZH6/Blubbering-whale.webp</thumbnail>
+<fanart></fanart>
+<info>"The Blubbering Whaler" is a 1960 episode of Popeye the Sailor.</info></item>
+
+<item><title>[B]42 - Popeye and the Spinach Stalk[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/yFppCKP/Popeye-Watches-the-Growing-Spinach-Stalk.webp</thumbnail>
+<fanart></fanart>
+<info>The episode, narrated like a story, has Olive baking pies and Popeye as her assistant, who goes out to sell them and encounters an old hag that pays him with a magic spinach can. Angered, Olive throws it out, upon which a huge spinach-can-stalk grows. Popeye climbs it all the way to the clouds, where the castle of a Brutus-like giant stands. Inside, the sailor sees that the giant has taken Olive, glued her to a large harp and instructed her to bake for him. The monster also has a "magic dog", which he asks about the sailor he can smell. Popeye ends up caught, but the giant wants to see what makes him so tough, so he feeds the hero some spinach upon learning the answer. This allows Popeye, Olive and the "dog" to escape, with Popeye causing the giant to fall from the spinach stalk. Olive then turns to making spinach pies.</info></item>
+
+<item><title>[B]43 - Shoot the Chutes[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/2yRZgpP/Shoot-Chutes.webp</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]44 - Tiger Burger[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/C6gyPqR/Wimpy-Gets-Attacked-by-a-Tiger.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Wimpy are in deepest, darkest India, where the natives are terrified of a man-eating tiger named Conga. Popeye intends to capture it, but Conga grabs Wimpy first.</info></item>
+
+<item><title>[B]45 - Bottom Gun[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/zsptSzd/Bottom-Gun.webp</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]46 - Olive Drab and the Seven Sweapeas[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/n67K4tL/Olive-drab.webp</thumbnail>
+<fanart></fanart>
+<info>The king sends his daughter, Olive Drab, on a quest to find Prince Popeye and the Seven Sweapeas.</info></item>
+
+<item><title>[B]47 - Blinkin Beacon[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/kmcX58L/Blinkin-Beacon.webp</thumbnail>
+<fanart></fanart>
+<info>The Sea Hag has kidnapped Swee'Pea and sent her vultures after Popeye.</info></item>
+
+<item><title>[B]48 - Azteck Wreck[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/7jZLqW8/Azteck-wreck.webp</thumbnail>
+<fanart></fanart>
+<info>Olive, Popeye and Eugene are at the Aztec ruins in Mexico. They discover that the Jeep can read the carvings, which gets them started on a quest for Aztec treasure. Brutus, their Mexican guide, seizes the Jeep to find the treasure for himself.</info></item>
+
+<item><title>[B]49 - The Green Dancin' Shoes[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/p3nr1LP/Green-shoes.webp</thumbnail>
+<fanart></fanart>
+<info>Magic shoes send Olive out of control.</info></item>
+
+<item><title>[B]50 - Spare Dat Tree[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/2SQzFby/Brutus-Cuts-Down-Trees.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye tells Swee' Pea about the two monarch trees he saved from Brutus.</info></item>
+
+<item><title>[B]51 - The Glad Gladiator[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/C1xqjbN/Popeye-Wrangles-Bluto.webp</thumbnail>
+<fanart></fanart>
+<info>In 800 B.C. Rome, Popeye is challenged by Brutus the Gladiator to a fight in the arena.</info></item>
+
+<item><title>[B]52 - The Golden Touch[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/rQd0Bpt/Golden-Touch.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye is a king who is noted for making his people happy by giving them everything, and he is therefore very poor. Popeye receives the golden touch by wishing on a star and summoning a Jeep, who warns him beforehand that it will not make him happy. When the king wants to be rid of the golden touch, the Jeep makes him stop the Sea Hag from chasing Jeeps first. He does it with the help of spinach, and lives happily ever after.</info></item>
+
+<item><title>[B]53 - Hamburger Fishing[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/YtRMxKm/Wimpy-Fishes-a-Cow.webp</thumbnail>
+<fanart></fanart>
+<info>Wimpy catches a cow, who is really an enchanted princess. She grants him three wishes for letting her go, but the Sea Hag demands he uses the wishes to make gold.</info></item>
+
+<item><title>[B]54 - Popeye the Popular Mechanic[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/WpZgQQV/Popeye-mechanic.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye buys a do-it-yourself kit and makes a mechanical servant. It continues to perform its mechanical duties all through the night, pouring tea on Popeye, mixing salad in his mouth and tossing other items. It lights a match, causing the sailor to awaken blowing flames. Finally, Popeye puts his mechanical servant in the workshop, then does his own housework without complaining.</info></item>
+
+<item><title>[B]55 - Popeye's Folly[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/XYK6CFf/Popeye-s-Folly.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye tells Swee'Pea the story of building the first steamboat, Popeye's Folly. Brutus, the captain of the Windjammer, challenges the Folly to a race.</info></item>
+
+<item><title>[B]56 - Popeye's Used Car[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/8cL8LrP/Used-car.webp</thumbnail>
+<fanart></fanart>
+<info>Olive gives up walks in the park with Popeye to ride in Brutus's flashy new car. In response, Popeye buys a used car from Wimpy and takes driving lessons from him, but winds up crashing through the wall of Olive's bedroom.</info></item>
+
+<item><title>[B]57 - Spinachonara[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/bjtGZKp/Spinachonara-29.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye reads Swee' Pea a Japanese fairy tale. Popeye, Wimpy, Olive and Brutus all appear as characters.</info></item>
+
+<item><title>[B]58 - Popeye and the Polite Dragon[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/cQrBmRp/Polite-dragon.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye tells Swee'Pea about the time his great-great-grandpappy found a dragon abandoned at his door.</info></item>
+
+<item><title>[B]59 - Popeye the Ugly Ducklin[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/wgstJpy/Popeye-and-the-Goons.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye shows Swee'Pea a picture of himself, Olive and Brutus when they were children, saying that he was called the 'Ugly Ducklin'. In the ensuing flashback, after being bullied by Brutus one day for being very, very ugly, Popeye set sail to a small island inhabited by Goons. They were friendly and fed him sea spinach. The spinach made him mighty and very close to being handsome.</info></item>
+
+<item><title>[B]60 - Popeye's Tea Party[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/N3P20vW/Indians-Shushing-People.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye is sent back in time to the time of the Boston Tea Party. The local residents are fed up with being overtaxed, so they plot to throw the tea overboard into the sea.</info></item>
+
+<item><title>[B]61 - The Troll Wot Got Gruff[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/k9G92dz/The-Troll-Wot-Got-Gruff-29.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye tells Swee' Pea his version of the story "Three Billy Goats Gruff". Brutus is the troll.</info></item>
+
+<item><title>[B]62 - Popeye the Lifeguard[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/thdvscc/Popeye-the-Lifeguard.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye's duties as a lifeguard have made him quite popular with the bathing beauties, so Olive agrees to become Brutus' beach buddy in order to make Popeye jealous.</info></item>
+
+<item><title>[B]63 - Popeye in the Woods[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/XbKydjS/Popeye-in-the-Woods-29.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Wimpy camp in the woods for some peace and quiet. When Wimpy wants to cook some hamburgers, he starts making fire.</info></item>
+
+<item><title>[B]64 - After the Ball Went Over[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Wz03Znw/Ping-Pong-Popeye.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Brutus play ping pong, and the prize is a kiss from Olive.</info></item>
+
+<item><title>[B]65 - Popeye and Buddy Brutus[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/FXTrg3Q/Buddy-brutus.webp</thumbnail>
+<fanart></fanart>
+<info>Brutus asks Popeye to be his skin diving buddy, and the sailor agrees. Popeye finds an ancient western sea cow town. After Popeye finds gold, Brutus gets half of it, then hits Popeye and takes his share too. Wimpy is fishing and catches Brutus on his line. The episode ends with Wimpy having his picture taken with Brutus hanging beside him like a huge fish.</info></item>
+
+<item><title>[B]66 - Popeye's Car Wash[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/tHZtPYS/Olive-Loves-Brutus-s-Car.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye opens a car wash. Brutus also has a car wash across the street. When Olive brings a long convertible to Popeye to be washed, Brutus mixes the controls and Olive's car comes out shrunken to midget size. Olive is burned up and Brutus takes her across the street to his "Brutus' Beauty Bath." Olive swoons over Brutus, and he chases her. Popeye comes to the rescue and gets the worst of it, then eats his spinach. Popeye knocks Brutus' car wash apart, and it settles back to Brutus' junkyard. Brutus lands in front of Popeye's Car Wash in the form of a statue spraying water from his mouth and ears. Popeye and Olive hop in the car and drive into his car wash, singing.</info></item>
+
+<item><title>[B]67 - Camel Aires[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/HTpM36M/Camel-Aires.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye travels to Egypt in the hopes of recovering a rare gem and bringing it to the USA.</info></item>
+
+<item><title>[B]68 - Plumbers Pipe Dream[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/w68vxs2/Olive-s-Leaky-Sink.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye's bungling attempts to fix Olive's faucet lead to an escalating series of disasters that culminate in flooding all of New York City.</info></item>
+
+<item><title>[B]69 - Popeye and the Herring Snatcher[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/qCvLFKv/Herring-Snatcher.webp</thumbnail>
+<fanart></fanart>
+<info>Wimpy, a night watchman in a herring cannery, gets a cold and asks Popeye to take over. The sailor hears strange noises and starts investigating. Many hijinx follow as Brutus turns up.</info></item>
+
+<item><title>[B]70 - Invisible Popeye[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/whQcX4D/Popeye-Turning-Invisible.webp</thumbnail>
+<fanart></fanart>
+<info>Olive accidentally switches on the Professor's time machine, which takes her to a bizarre planet. Popeye takes invisibility pills and goes to rescue her.</info></item>
+
+<item><title>[B]71 - The Square Egg[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Fb95mT8/Square-Egg.webp</thumbnail>
+<fanart></fanart>
+<info>Swee'Pea has a square egg; did he find it or did he lay it? Whichever way he got it (Probably from Popeye's chicken ranch), it is very rare and valuable.</info></item>
+
+<item><title>[B]72 - Old Salt Tale[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/yy66pX0/Alice-the-Goon-is-a-Slave.webp</thumbnail>
+<fanart></fanart>
+<info>While at the beach, Popeye tells Swee'Pea a tall tale that explains why the sea is salty.</info></item>
+
+<item><title>[B]73 - Jeep Tale[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/bNnptdR/Popeye-and-Mrs-Jeep.webp</thumbnail>
+<fanart></fanart>
+<info>Curious, Swee'Pea asks Popeye how Eugene the Jeep learned to do so many tricks. As Eugene is continually bouncing on his tail and disappearing/reappearing, Popeye says that Eugene had to learn it the hard way, and starts telling a story.</info></item>
+
+<item><title>[B]74 - The Super Duper Market[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/J3wpD6M/Super-Dupe-Market.webp</thumbnail>
+<fanart></fanart>
+<info>Olive, Popeye and Wimpy go food shopping for a party to a supermarket where Brutus is the manager.</info></item>
+
+<item><title>[B]75 - Golden-Type Fleece[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/z4N0qzc/Neptune-Gets-Popeye.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye tells Swee'Pea the story of Jason and the Golden Fleece. In this version, Popeye plays Jason, Wimpy is the King, the Sea Hag plays the Queen, and Brutus plays Jupiter, Neptune and the Centaur. After the King sends Popeye to retrieve the Golden Fleece, the sailor's singing annoys Zeus and Neptune, but he escapes their thunderous attacks. He also escapes the Goon-like mermaids and the Sea Hag. He lands on the Hag's island, follows a sign that says, "Golden Fleece This Way," and ends up in a sideshow tent containing golden fleas. He fights the Brutus Centaur, wins, and then it is back to the present. In a surprise ending, Popeye feels itchy, and then finds a golden flea which grins at him.</info></item>
+
+<item><title>[B]76 - Popeye the White Collar Man[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/kQ81LZt/White-collar.webp</thumbnail>
+<fanart></fanart>
+<info>Olive convinces Popeye to get a white collar job as an insurance agent.</info></item>
+
+<item><title>[B]77 - Sweapea Thru the Looking Glass[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/zb6NzKG/Swee-Pea-Through-The-Looking-Glass.webp</thumbnail>
+<fanart></fanart>
+<info>Olive Oyl asks Popeye how the mirror was broken. He tells her that Swee'Pea was wondering what was inside the mirror, so the baby, along with Eugene the Jeep, followed the cuckoo bird's advice and walked through it. He fell into a hole and found himself in a small house, where he ate some pills and grew very tall. Then he ate a different pill and returned to normal size. Swee'Pea drank milk that made him larger, then smaller. Outside, he found a garden where Queen Sea Hag and King Brutus were playing croquet, using Jeeps for balls and vultures for mallets. Swee'Pea and the Jeep encountered talking golf flags. Brutus and the Sea Hag tied up Eugene and used his nose as a golf ball. Swee'Pea refused to play at the Wunnerland golf course, so the Queen ordered him killed. He then escaped through the mirror. To prove that Swee'Pea could not possibly have gone through the mirror, Popeye crashes into it and it breaks.</info></item>
+
+<item><title>[B]78 - The Black Knight[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/LZ2Dc5Z/Black-knight.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye is once again transported back in time, to the days of King Arthur and the Knights of the Round Table. While there, he is challenged to a joust by Black Knight Brutus.</info></item>
+
+<item><title>[B]79 - Jingle Jangle Jungle[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/hdtnkzK/Tiger-Sits-on-Olive.webp</thumbnail>
+<fanart></fanart>
+<info>In the jungle, Popeye and Brutus compete to bring Olive a tiger skin.</info></item>
+
+<item><title>[B]80 - The Day Silky Went Blozo[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/2sKR8Q1/Silky-Blozo.webp</thumbnail>
+<fanart></fanart>
+<info>King Blozo is worried because his minister "Silky" (so-called because of his silky smooth way with words) has all subjects in the kingdom addled. Blozo calls upon his noble varlet, Popeye, to get rid of the menace. When he does, however, Silky sweet-talks the King into letting him be.</info></item>
+
+<item><title>[B]81 - Rip Van Popeye[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/bQHqfxh/Rip-Van-Popeye.webp</thumbnail>
+<fanart></fanart>
+<info>When a thunderstorm frightens Swee'Pea, Popeye reads him a book about the sailor's ancestor, Rip Van Popeye, and his adventure on the thunderclouds.</info></item>
+
+<item><title>[B]82 - Mississippi Sissy[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/wJ5ZVVS/Zorro-Catches-Popeye.webp</thumbnail>
+<fanart></fanart>
+<info>On a Mississippi riverboat, the villainous Jean Baptiste le Brute chases Olive, demanding a mysterious letter. Olive gives it to Popeye, so that the brutish le Brute will not get it.</info></item>
+
+<item><title>[B]83 - Double Cross Country Feet Race[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/JFH6pXp/Double-Feet-Race.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye competes in a cross-country auto race against an opponent who has a high-powered, streamlined streak of a car.</info></item>
+
+<item><title>[B]84 - Fashion Fotography[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/c2YhktJ/Fashionable-Olive.webp</thumbnail>
+<fanart></fanart>
+<info>Olive wants Popeye to take her picture for a fashion magazine.</info></item>
+
+<item><title>[B]85 - I Yam Wot I Yamnesia[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/YLRVmKD/Yam-wot.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye, Swee'Pea, Olive Oyl and Wimpy all switch voices. Then comes Brutus and the plot becomes even more twisted.</info></item>
+
+<item><title>[B]86 - Paper Pasting Pandemonium[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/278NdK5/Paper-Pandemonium.webp</thumbnail>
+<fanart></fanart>
+<info>Olive Oyl has had enough with her house, and wants it re-papered. When she calls Popeye to put new wallpaper on her house, the sailor tries to do it, but messes up. Brutus comes in and attempts to put up the wallpaper better than Popeye. Both men try to do the pasting but end up fighting each other, which allows Brutus to speed it up. Popeye eats his spinach and gets rid of Brutus, then puts up a lot of wallpaper. The mixed wallpaper is a success, and Olive becomes literally glued to Popeye.</info></item>
+
+<item><title>[B]87 - Coach Popeye[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/gRsF345/Coach-Popeye-29.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye is busy reading the newspaper, but his peace is disrupted by a baseball and several arrows. He sees Swee'Pea and Deezil Oyl trying to play sports. Popeye teaches them how to play sports, but Brutus believes he can be a better teacher. As Popeye and Brutus are practicing, Brutus does it better. However, Popeye eats his spinach and uses his sports skills to teach Brutus a lesson. But while Popeye and Brutus learn sports their own way, Swee'Pea and Deezil play on their own.</info></item>
+
+<item><title>[B]88 - Popeyed Columbus[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/cCpX9jz/Columbus.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye is transported back in time to the days of Christopher Columbus.</info></item>
+
+<item><title>[B]89 - Popeye Revere[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/cCpX9jz/Columbus.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye tells Swee'Pea about his great-great-great-grandpappy Poopdeck Revere.</info></item>
+
+<item><title>[B]90 - Popeye in Haweye[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/2YdZfPr/Haweye.webp</thumbnail>
+<fanart></fanart>
+<info>Olive is a tourist in Hawaii, while Popeye and Brutus are tour guides.</info></item>
+
+<item><title>[B]91 - Forever Ambergris[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/4792mQm/Forever-Ambergris-29.webp</thumbnail>
+<fanart></fanart>
+<info>While babysitting Swee'Pea, Popeye tells him the story of where Olive's perfume comes from.</info></item>
+
+<item><title>[B]92 - Popeye de Leon[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/mzsF0ZJ/Leon.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye decides to give Swee'Pea a history lesson and tell him about his grandfather Popeye de Leon.</info></item>
+
+<item><title>[B]93 - Popeyed Fisherman[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/jyrx9Xx/Popeyed.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye tells Swee' Pea about a hungry fisherman who catches a cow that looks live Olive.</info></item>
+
+<item><title>[B]94 - Popeye in the Grand Steeple Chase[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/S0gBwmK/Grand-Steeple-Chase.webp</thumbnail>
+<fanart></fanart>
+<info></info></item>
+
+<item><title>[B]95 - Uncivil War[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/wKrMgBS/Uncivil-war.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye teaches Swee' Pea about the ethics of being a good driver.</info></item>
+
+<item><title>[B]96 - Popeye the Piano Mover[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/Tg7VjW5/Piano-mover.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Brutus are piano movers, Olive Oyl is the owner of a piano that needs moving, and Wimpy is a traffic cop who gives chase when Popeye and the runaway instrument tear down the street.</info></item>
+
+<item><title>[B]97 - Popeye's Testimonial Dinner[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/BTGcWXG/Popeye-and-Olive-All-Fancy.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and his friends are attending a dinner being held in celebration of the sailor hero, where clips from some of his past exploits are shown. However, Brutus becomes very upset from repeatedly watching his own failures, so Popeye feeds the big man some spinach and allows himself to be beaten for once.</info></item>
+
+<item><title>[B]98 - Around the World in Eighty Ways[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/1Yc5NkJ/Aroun-Ways.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Brutus enter an Easy Come, Easy Go show's contest, where Wimpy tells them to run a race around the world in order to win a barrel of money. After they cross serveral countries, Popeye feeds Brutus some spinach, so Brutus could punch him across the rest of the world. Popeye then wins a barrel of money, but realizes the barrel is full of lead pazookers, which is worth two bucks, so Wimpy could pay him Tuesday.</info></item>
+
+<item><title>[B]99 - Popeye's Fixit Shop[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/DDCG9k1/Fixit-Shop.webp</thumbnail>
+<fanart></fanart>
+<info>Brutus becomes jealous when Popeye's business appears to be doing very well. When Olive needs something fixed, Brutus tries to discredit Popeye's ability to fix things.</info></item>
+
+<item><title>[B]100 - Bell Hop Popeye[/B]</title>
+<link></link>
+<thumbnail>https://i.ibb.co/PYLbWTm/BelHop.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Brutus work as bellhops and compete for Olive.</info></item>
