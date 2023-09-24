@@ -1,4 +1,116 @@
 
+<item><title>[B]02 - Hoppy Jalopy[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP006%20-%20A%20Grande%20Corrida%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP006%20-%20A%20Grande%20Corrida%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/YB5x6FB/Hoppy-Jalopy-Title-Card.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye in his junk-pile jalopy competes with Brutus in his slick race car to win a cross-country race. Brutus employs a series of dirty tricks to keep ahead, while keeping Olive Oyl trapped in his trunk.</info></item>
+
+<item><title>[B]03 - Dead-Eye Popeye[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP005%20-%20Popeye%20no%20Oeste%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP005%20-%20Popeye%20no%20Oeste%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/Qpp1SfH/Deadeye-Popeye.webp</thumbnail>
+<fanart></fanart>
+<info>Sheriff Popeye captures villain Suicide McBride and throws the scumbag into jail. McBride's gang of thugs starts a big shoot-out in an attempt to free their leader.</info></item>
+
+<item><title>[B]04 - Mueller's Mad Monster[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP007%20-%20O%20Monstro%20Louco%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP007%20-%20O%20Monstro%20Louco%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/TWYtc9f/Popeye-Fighting-a-Monster.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Olive take shelter from a thunderstorm in Mad Mueller's castle. But Mueller's monster, Irving, takes a shine to Olive.</info></item>
+
+<item><title>[B]05 - Caveman Capers[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP009%20-%20Homem%20das%20Cavernas%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP009%20-%20Homem%20das%20Cavernas%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/k6bgH5X/Caveman.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye tells Olive the story of how his great-great-great-great-great grandpappy Prehysterical Popeye discovered the magical powers of spinach and stopped Prehysterical Brutus.</info></item>
+
+<item><title>[B]06 - Bullfighter Bully[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP010%20-%20A%20Tourada%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP010%20-%20A%20Tourada%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/bRwk0yL/Bullfighter-Bully-Brutus.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Olive travel to Mexico, where the latter gets the urge to see a bullfight after seeing the "world's greatest bullfighter" (El Diablo) on a poster, much to Popeye's disgust as it goes against his code of "being kinds to defenksless aminals". Once inside, both are shocked to see that El Diablo's opponent is just a defenseless young bull. The now angered sailor enters the ring and confronts El Diablo, but not before giving the calf to Olive. As their fight begins, El Diablo takes out a dagger and uses it to de-pant Popeye and, with his opponent distracted by embarrassment, send him flying through a nearby wall. The newly-made hole turns out to lead into the bullpen, which causes a rampaging adult bull to break out and chase after El Diablo. The unchivalrous Diablo then uses Olive as his muleta, which makes the distressed Olive call out for Popeye. As Popeye runs in to save her, he is sent flying and onto a pole by a swift blow from the agressive bull. Popeye then quickly regains his footing by eating his trusty can of spinach and proceeds to "grab the bull by the horns", turning it into a platter of tasty steaks, which he then uses to knock El Diablo out via multi-layered meaty punch. With matters finally resolved, Popeye receives a kiss from the grateful calf.</info></item>
+
+<item><title>[B]07  Ace of Space[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP008%20-%20As%20do%20Espa%26%2300231%3Bo%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP008%20-%20As%20do%20Espa%26%2300231%3Bo%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/GddzvLR/Popeye-Ace-of-Space-Title-Card.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Olive are out for a drive. While listening to the radio, a breaking news bulletin announces that a flying saucer has been spotted. Meanwhile, in the UFO, the Martian robot is ordered to find a human to abduct for a sinister alien examination. After the robot spots Olive via a screen, he captures her, and Popeye sets out to rescue his girlfriend: he lassoes up to the flying saucer to try and get Olive back. Meeting the robot, Popeye demands the return of Olive Oyl, which at first makes the robot think Popeye was asking for motor oil, and he squirts some at him, but Popeye specifically tells the robot that he wants his girlfriend back. Refusing to leave and defying the robot, Popeye gets pulled into the flying saucer.</info></item>
+
+<item><title>[B]08 - College of Hard Knocks[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP012%20-%20Colega%20de%20Pancadaria%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP012%20-%20Colega%20de%20Pancadaria%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/0F2W6B5/College.webp</thumbnail>
+<fanart></fanart>
+<info>Olive Oyl takes Popeye to college, where Professor Brutus works. Once they meet Brutus, Olive tells Popeye that he is un-educated. Brutus decides to make the sailor educated, yet in reality he humiliates Popeye in various ways, then tells him that he has failed the course. Olive realizes Brutus' true colors, and the latter attempts to kiss Ms. Oyl. Popeye eats some spinach and beats up the Professor. Olive decides to marry Popeye, who is very shocked and needs his spinach.</info></item>
+
+<item><title>[B]09 - Abdominal Snowman[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP011%20-%20O%20Abomin%26%2300225%3Bvel%20Homem%20das%20Neves%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP011%20-%20O%20Abomin%26%2300225%3Bvel%20Homem%20das%20Neves%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/25FWBXM/Abdominal-Snowman.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Olive visit her uncle Sylvan Oyl, who is a big-game hunter and has a large collection of exotic beasts for display at the Explorer's Club. However, Popeye and Olive notice a giant display case that remains empty. Sylvan then explains that he intends to use that display for the rarest creature of all, the yeti, better known as the Abominable Snowman, but then explains that no ordinary man can catch it. Popeye is intrigued by the challenge and decides to help Sylvan catch the legendary beast, so the trio travel to Mt. Idiot in the Himalayas (such named because the mountain can never make correct echos). The trio soon spot the yeti in the distance and Popeye goes after it, only to fall into an icy underground cavern. He then finds himself surrounded by gigantic yetis which he tries to punch out, but his attacks are completely ineffective and cause a mass of icicles to fall on him.</info></item>
+
+<item><title>[B]10 - Ski-Jump Chump[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP013%20-%20Os%20Esquiadores%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP013%20-%20Os%20Esquiadores%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/23bwRbK/Popeye-and-Brutus-Go-Skiing.webp</thumbnail>
+<fanart></fanart>
+<info>In an ice cold winter, Popeye upsets a large hibernating bear while trying to impress Olive with his moves on the ski-jumps.</info></item>
+
+<item><title>[B]11 - Irate Pirate[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP015%20-%20O%20Pirata%20Pirado%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP015%20-%20O%20Pirata%20Pirado%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/vXJ7R98/Irate-pirate.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Olive are out testing Popeye's new boat on a relaxing boat ride. While out in the ocean, they meet Jolly Roger the pirate. Unfortunately, Roger takes a liking to Olive. The pirate kidnaps her and sends a school of sharks after Popeye.</info></item>
+
+<item><title>[B]12 - Foola-Foola Bird[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP014%20-%20Voa%20Voa%20Passarinho%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP014%20-%20Voa%20Voa%20Passarinho%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/hdHPMY2/Foola-Foola-Bird.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye and Olive are searching the jungle for the rare Foola-Foola bird. Following close behind is Brutus, also hunting the bird as there is a reward of one million dollars for finding it.</info></item>
+
+<item><title>[B]14 - Two-Faced Paleface[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP018%20-%20Cara%20P%26%2300225%3Blida%20de%20Duas%20Caras%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP018%20-%20Cara%20P%26%2300225%3Blida%20de%20Duas%20Caras%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/DkWZ9t4/In-Jun-Popeye-and-Brutus.webp</thumbnail>
+<fanart></fanart>
+<info>Brutus dresses as a native Indian and claims the land as an Indian Reservation after Popeye strikes it lucky searching for gold in the old west. Popeye tries to beat him at his own game by dressing as an Indian too, declaring all out war.</info></item>
+
+<item><title>[B]15 - Childhood Daze[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP019%20-%20Confus%26%2300227%3Bo%20Infantil%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP019%20-%20Confus%26%2300227%3Bo%20Infantil%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/BBkf4BF/Popeye-the-Child.webp</thumbnail>
+<fanart></fanart>
+<info>Brutus forces Popeye into Professor Wotasnozzle's aging machine, turning him into a two-year-old.</info></item>
+
+<item><title>[B]16 - Sheepish Sheep-Herder[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP017%20-%20Confus%26%2300227%3Bo%20do%20Velho%20Oeste%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP017%20-%20Confus%26%2300227%3Bo%20do%20Velho%20Oeste%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/5T0wJ7z/Sheepish.webp</thumbnail>
+<fanart></fanart>
+<info>Popeye volunteers to stand guard to protect Poopdeck Pappy's ranch. A rustler tries to get rid of Popeye, but is driven mad by the sailor's ability to reappear right after he has been lassoed, tied up and even thrown off a cliff.</info></item>
+
+<item><title>[B]17 - Track Meet Cheat[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP021%20-%20O%20Atleta%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP021%20-%20O%20Atleta%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/98JSVrv/Popeye-in-the-Sky.webp</thumbnail>
+<fanart></fanart>
+<info>Olive sees Brutus showing his athletic prowess at a track meet, Popeye gets jealous, runs on to the field and starts competing himself.</info></item>
+
+<item><title>[B]18 - Crystal Ball Brawl[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP020%20-%20A%20Bola%20De%20Cristal%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP020%20-%20A%20Bola%20De%20Cristal%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/zbDMsWP/Wimpy-Uses-a-Crystal-Ball.webp</thumbnail>
+<fanart></fanart>
+<info>Wimpy has acquired the Sea Hag's crystal ball, and he is using it to bet on sporting events. Brutus realizes this and steal the crystal ball. Popeye gets suspicious, so he sets a trap to get the ball back.</info></item>
+
 <item><title>[B](OFF)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
@@ -17,104 +129,8 @@
 <fanart></fanart>
 <info>Popeye and Olive watch Brutus the strongman performing at the carnival. The two men quickly become rivals for Olive. But she makes Popeye promise not to fight.</info></item>
 
-<item><title>[B]02 - Hoppy Jalopy[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/YB5x6FB/Hoppy-Jalopy-Title-Card.webp</thumbnail>
-<fanart></fanart>
-<info>Popeye in his junk-pile jalopy competes with Brutus in his slick race car to win a cross-country race. Brutus employs a series of dirty tricks to keep ahead, while keeping Olive Oyl trapped in his trunk.</info></item>
-
-<item><title>[B]03 - Dead-Eye Popeye[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/Qpp1SfH/Deadeye-Popeye.webp</thumbnail>
-<fanart></fanart>
-<info>Sheriff Popeye captures villain Suicide McBride and throws the scumbag into jail. McBride's gang of thugs starts a big shoot-out in an attempt to free their leader.</info></item>
-
-<item><title>[B]04 - Mueller's Mad Monster[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/TWYtc9f/Popeye-Fighting-a-Monster.webp</thumbnail>
-<fanart></fanart>
-<info>Popeye and Olive take shelter from a thunderstorm in Mad Mueller's castle. But Mueller's monster, Irving, takes a shine to Olive.</info></item>
-
-<item><title>[B]05 - Caveman Capers[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/k6bgH5X/Caveman.webp</thumbnail>
-<fanart></fanart>
-<info>Popeye tells Olive the story of how his great-great-great-great-great grandpappy Prehysterical Popeye discovered the magical powers of spinach and stopped Prehysterical Brutus.</info></item>
-
-<item><title>[B]06 - Bullfighter Bully[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/bRwk0yL/Bullfighter-Bully-Brutus.webp</thumbnail>
-<fanart></fanart>
-<info>Popeye and Olive travel to Mexico, where the latter gets the urge to see a bullfight after seeing the "world's greatest bullfighter" (El Diablo) on a poster, much to Popeye's disgust as it goes against his code of "being kinds to defenksless aminals". Once inside, both are shocked to see that El Diablo's opponent is just a defenseless young bull. The now angered sailor enters the ring and confronts El Diablo, but not before giving the calf to Olive. As their fight begins, El Diablo takes out a dagger and uses it to de-pant Popeye and, with his opponent distracted by embarrassment, send him flying through a nearby wall. The newly-made hole turns out to lead into the bullpen, which causes a rampaging adult bull to break out and chase after El Diablo. The unchivalrous Diablo then uses Olive as his muleta, which makes the distressed Olive call out for Popeye. As Popeye runs in to save her, he is sent flying and onto a pole by a swift blow from the agressive bull. Popeye then quickly regains his footing by eating his trusty can of spinach and proceeds to "grab the bull by the horns", turning it into a platter of tasty steaks, which he then uses to knock El Diablo out via multi-layered meaty punch. With matters finally resolved, Popeye receives a kiss from the grateful calf.</info></item>
-
-<item><title>[B]07  Ace of Space[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/GddzvLR/Popeye-Ace-of-Space-Title-Card.webp</thumbnail>
-<fanart></fanart>
-<info>Popeye and Olive are out for a drive. While listening to the radio, a breaking news bulletin announces that a flying saucer has been spotted. Meanwhile, in the UFO, the Martian robot is ordered to find a human to abduct for a sinister alien examination. After the robot spots Olive via a screen, he captures her, and Popeye sets out to rescue his girlfriend: he lassoes up to the flying saucer to try and get Olive back. Meeting the robot, Popeye demands the return of Olive Oyl, which at first makes the robot think Popeye was asking for motor oil, and he squirts some at him, but Popeye specifically tells the robot that he wants his girlfriend back. Refusing to leave and defying the robot, Popeye gets pulled into the flying saucer.</info></item>
-
-<item><title>[B]08 - College of Hard Knocks[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/0F2W6B5/College.webp</thumbnail>
-<fanart></fanart>
-<info>Olive Oyl takes Popeye to college, where Professor Brutus works. Once they meet Brutus, Olive tells Popeye that he is un-educated. Brutus decides to make the sailor educated, yet in reality he humiliates Popeye in various ways, then tells him that he has failed the course. Olive realizes Brutus' true colors, and the latter attempts to kiss Ms. Oyl. Popeye eats some spinach and beats up the Professor. Olive decides to marry Popeye, who is very shocked and needs his spinach.</info></item>
-
-<item><title>[B]09 - Abdominal Snowman[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/25FWBXM/Abdominal-Snowman.webp</thumbnail>
-<fanart></fanart>
-<info>Popeye and Olive visit her uncle Sylvan Oyl, who is a big-game hunter and has a large collection of exotic beasts for display at the Explorer's Club. However, Popeye and Olive notice a giant display case that remains empty. Sylvan then explains that he intends to use that display for the rarest creature of all, the yeti, better known as the Abominable Snowman, but then explains that no ordinary man can catch it. Popeye is intrigued by the challenge and decides to help Sylvan catch the legendary beast, so the trio travel to Mt. Idiot in the Himalayas (such named because the mountain can never make correct echos). The trio soon spot the yeti in the distance and Popeye goes after it, only to fall into an icy underground cavern. He then finds himself surrounded by gigantic yetis which he tries to punch out, but his attacks are completely ineffective and cause a mass of icicles to fall on him.</info></item>
-
-<item><title>[B]10 - Ski-Jump Chump[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/23bwRbK/Popeye-and-Brutus-Go-Skiing.webp</thumbnail>
-<fanart></fanart>
-<info>In an ice cold winter, Popeye upsets a large hibernating bear while trying to impress Olive with his moves on the ski-jumps.</info></item>
-
-<item><title>[B]11 - Irate Pirate[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/vXJ7R98/Irate-pirate.webp</thumbnail>
-<fanart></fanart>
-<info>Popeye and Olive are out testing Popeye's new boat on a relaxing boat ride. While out in the ocean, they meet Jolly Roger the pirate. Unfortunately, Roger takes a liking to Olive. The pirate kidnaps her and sends a school of sharks after Popeye.</info></item>
-
-<item><title>[B]12 - Foola-Foola Bird[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/hdHPMY2/Foola-Foola-Bird.webp</thumbnail>
-<fanart></fanart>
-<info>Popeye and Olive are searching the jungle for the rare Foola-Foola bird. Following close behind is Brutus, also hunting the bird as there is a reward of one million dollars for finding it.</info></item>
-
 <item><title>[B]13 - Uranium on the Cranium[/B]</title>
 <link></link>
 <thumbnail>https://i.ibb.co/5M49HZp/Uranium-Cranium.webp</thumbnail>
 <fanart></fanart>
 <info>Popeye and Olive set sail to a desert island with a map noting the location of uranium. Unbeknownst to them, Brutus is already there. He plans on dressing like a gorilla and scaring them away.</info></item>
-
-<item><title>[B]14 - Two-Faced Paleface[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/DkWZ9t4/In-Jun-Popeye-and-Brutus.webp</thumbnail>
-<fanart></fanart>
-<info>Brutus dresses as a native Indian and claims the land as an Indian Reservation after Popeye strikes it lucky searching for gold in the old west. Popeye tries to beat him at his own game by dressing as an Indian too, declaring all out war.</info></item>
-
-<item><title>[B]15 - Childhood Daze[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/BBkf4BF/Popeye-the-Child.webp</thumbnail>
-<fanart></fanart>
-<info>Brutus forces Popeye into Professor Wotasnozzle's aging machine, turning him into a two-year-old.</info></item>
-
-<item><title>[B]16 - Sheepish Sheep-Herder[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/5T0wJ7z/Sheepish.webp</thumbnail>
-<fanart></fanart>
-<info>Popeye volunteers to stand guard to protect Poopdeck Pappy's ranch. A rustler tries to get rid of Popeye, but is driven mad by the sailor's ability to reappear right after he has been lassoed, tied up and even thrown off a cliff.</info></item>
-
-<item><title>[B]17 - Track Meet Cheat[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/98JSVrv/Popeye-in-the-Sky.webp</thumbnail>
-<fanart></fanart>
-<info>Olive sees Brutus showing his athletic prowess at a track meet, Popeye gets jealous, runs on to the field and starts competing himself.</info></item>
-
-<item><title>[B]18 - Crystal Ball Brawl[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/zbDMsWP/Wimpy-Uses-a-Crystal-Ball.webp</thumbnail>
-<fanart></fanart>
-<info>Wimpy has acquired the Sea Hag's crystal ball, and he is using it to bet on sporting events. Brutus realizes this and steal the crystal ball. Popeye gets suspicious, so he sets a trap to get the ball back.</info></item>

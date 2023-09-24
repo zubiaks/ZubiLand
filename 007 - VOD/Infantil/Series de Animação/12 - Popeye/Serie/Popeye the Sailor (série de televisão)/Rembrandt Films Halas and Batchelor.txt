@@ -1,4 +1,18 @@
 
+<item><title>[B]01 - Interrupted Lullaby[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP022%20-%20Can%26%2300231%3B%26%2300227%3Bo%20de%20Ninar%20Interrompida%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP022%20-%20Can%26%2300231%3B%26%2300227%3Bo%20de%20Ninar%20Interrompida%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/hskqPKS/Lullaby.webp</thumbnail>
+<fanart></fanart>
+<info>Brutus sinks to a new low in both greed and criminal activity by trying to abduct little Swee'Pea from his family.</info></item>
+
+<item><title>[B]03 - From Way Out[/B]</title>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP023%20-%20Loucura%20do%20Espa%26%2300231%3Bo%20by%20TVFlashback.avi$nome= 1</link>
+<link>https://archive.org/download/11.-mire-groovy-downs_202107/Popeye%20-%20EP023%20-%20Loucura%20do%20Espa%26%2300231%3Bo%20by%20TVFlashback.mp4$nome= 2</link>
+<thumbnail>https://i.ibb.co/fpjhPHs/Way-out.webp</thumbnail>
+<fanart></fanart>
+<info>A giant space magnet connected to the top of an astronomer's observatory pulls stuff from outer space to Earth. One day, it also pulls leather jacket-wearing space greasers from Mars.</info></item>
+
 <item><title>[B](OFF)[/B]</title>
 <link></link>
 <thumbnail></thumbnail>
@@ -11,23 +25,11 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]01 - Interrupted Lullaby[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/hskqPKS/Lullaby.webp</thumbnail>
-<fanart></fanart>
-<info>Brutus sinks to a new low in both greed and criminal activity by trying to abduct little Swee'Pea from his family.</info></item>
-
 <item><title>[B]02 - Sea No Evil[/B]</title>
 <link></link>
 <thumbnail>https://i.ibb.co/16sRtDH/Fish-in-Popeye-s-Suit.webp</thumbnail>
 <fanart></fanart>
 <info>As Popeye and Olive relax on their new boat, the Miss Olive, someone swims underwater stealing items from right under their nose. Conveniently, Brutus' boating store has a seemingly endless supply of item replacements.</info></item>
-
-<item><title>[B]03 - From Way Out[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/fpjhPHs/Way-out.webp</thumbnail>
-<fanart></fanart>
-<info>A giant space magnet connected to the top of an astronomer's observatory pulls stuff from outer space to Earth. One day, it also pulls leather jacket-wearing space greasers from Mars.</info></item>
 
 <item><title>[B]04 - Seeing Double[/B]</title>
 <link></link>
