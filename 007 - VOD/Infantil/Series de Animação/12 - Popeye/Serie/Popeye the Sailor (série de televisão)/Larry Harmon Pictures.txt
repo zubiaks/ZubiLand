@@ -117,12 +117,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Larry Harmon Pictures[/B]</title>
-<link></link>
-<thumbnail>https://i.ibb.co/6N1KX4w/LH-Seal-622x539.jpg</thumbnail>
-<fanart></fanart>
-<info>Larry Harmon Pictures was the production company of Larry Harmon, who had acquired the rights to the characters Bozo the Clown.</info></item>
-
 <item><title>[B]01 - Muskels Shmuskels[/B]</title>
 <link></link>
 <thumbnail>https://i.ibb.co/rFVzNZ1/Brutus-Lifts-Popeye.webp</thumbnail>
