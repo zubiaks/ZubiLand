@@ -1,10 +1,10 @@
 <channels>
 
-<channel><name>[B][COLOR white]Popeye the Sailor (série de televisão)[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/4J0GrT6/MV5-BOWM5-MDUw-ZDkt-ZDlm-Mi00-M2-Zk-LWFj-N2-Yt-Zm-Rm-ZDFj-ZTc0-NWZi-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-I4-MTk3.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/12%20-%20Popeye/Serie/Popeye%20the%20Sailor%20(s%C3%A9rie%20de%20televis%C3%A3o)/eps.txt</externallink>
-<fanart>https://i.ibb.co/fpNHjd6/popeye-king-ft.webp</fanart>
-<info>A primeira série pela televisão foi produzida com uma animação limitada e têm uma qualidade muito baixa sendo considerado por muitos fãs de Popeye nos Estados Unidos como a pior fase do desenho.[9] A série foi coproduzida pela própria King Features Syndicate com os estúdios Jack Kinney Productions, Rembrandt Films, Halas and Batchelor, Larry Harmon Pictures, TV Spots, Paramount Cartoon Studios (anteriormente chamado de Famous Studios) e Southern Star Entertainment.</info></channel>
+<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
 <thumbnail></thumbnail>
