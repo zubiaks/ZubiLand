@@ -19,12 +19,6 @@
 <fanart></fanart>
 <info></info></item>
 
-<item><title>[B]Rembrandt Films/Halas and Batchelor[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info></item>
-
 <item><title>[B]02 - Sea No Evil[/B]</title>
 <link></link>
 <thumbnail>https://i.ibb.co/16sRtDH/Fish-in-Popeye-s-Suit.webp</thumbnail>

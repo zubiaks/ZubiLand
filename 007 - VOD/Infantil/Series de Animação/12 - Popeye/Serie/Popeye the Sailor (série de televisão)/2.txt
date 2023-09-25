@@ -1,58 +1,27 @@
 <channels>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<channel><name>[B][COLOR white]Jack Kinney Productions[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/4Y5qDL8/616-Iw-T90g2-L-AC-UF1000-1000-QL80.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/12%20-%20Popeye/Serie/Popeye%20the%20Sailor%20(s%C3%A9rie%20de%20televis%C3%A3o)/Jack%20Kinney%20Productions.txt</externallink>
+<fanart></fanart>
+<info>Larry Harmon Pictures was the production company of Larry Harmon, who had acquired the rights to the characters Bozo the Clown.</info></channel>
+
+<channel><name>[B][COLOR white]Larry Harmon Pictures[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/6N1KX4w/LH-Seal-622x539.jpg</thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info></info></channel>
 
 <channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
+<thumbnail>https://i.ibb.co/DRSWhtD/paramount-cartoon-logo468.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/12%20-%20Popeye/Serie/Popeye%20the%20Sailor%20(s%C3%A9rie%20de%20televis%C3%A3o)/Paramount%20Cartoon%20Studios.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
 
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
+<channel><name>[B][COLOR white]Rembrandt Films/Halas and Batchelor[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zubiaks/ZubiLand/main/007%20-%20VOD/Infantil/Series%20de%20Anima%C3%A7%C3%A3o/12%20-%20Popeye/Serie/Popeye%20the%20Sailor%20(s%C3%A9rie%20de%20televis%C3%A3o)/Rembrandt%20Films%20Halas%20and%20Batchelor.txt</externallink>
 <fanart></fanart>
 <info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
-<channel><name>[B][COLOR white][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info></channel>
-
 
 </channels>
